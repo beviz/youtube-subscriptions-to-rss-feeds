@@ -31,7 +31,7 @@ jobs:
           python feed.py
 
       - name: Upload generated feed.xml as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: feed-xml
           path: feed.xml
