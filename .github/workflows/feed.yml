@@ -3,7 +3,7 @@ name: Generate YouTube RSS Feed for my subscriptions
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/3 * * * *" # runs every 3 minutes
+    - cron: "*/30 * * * *" # runs every 3 minutes
   push:
     branches:
       - main
