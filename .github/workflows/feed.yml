@@ -3,7 +3,7 @@ name: Generate YouTube RSS Feed for my subscriptions
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *' # runs every hour
+    - cron: '*/3 * * * *' # runs every 3 minutes
 
 jobs:
   build-and-run:
@@ -35,3 +35,24 @@ jobs:
         with:
           name: feed-xml
           path: feed.xml
+
+      
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Copy feed.xml to .github/pages/feed.xml
+        run: |
+          mkdir -p .github/pages
+          cp feed.xml .github/pages/feed.xml
+
+      - name: Commit and push feed.xml to main
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .github/pages/feed.xml
+          git commit -m "Update feed.xml" || echo "No changes to commit"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
