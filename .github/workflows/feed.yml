@@ -3,19 +3,33 @@ name: Generate YouTube RSS Feed for my subscriptions
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/3 * * * *' # runs every 3 minutes
+    - cron: "*/3 * * * *" # runs every 3 minutes
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write # needed for pushing to gh-pages
+
+concurrency:
+  group: youtube-rss-feed
+  cancel-in-progress: false
 
 jobs:
   build-and-run:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Set up Python 3.9
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.9
+          python-version: "3.9"
+          cache: "pip"
 
       - name: Install dependencies
         run: |
@@ -29,30 +43,36 @@ jobs:
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
         run: |
           python feed.py
+          test -f outputs/feed.xml && echo "feed.xml generated" || (echo "feed.xml missing" && exit 1)
 
       - name: Upload generated feed.xml as artifact
         uses: actions/upload-artifact@v4
         with:
           name: feed-xml
           path: outputs/feed.xml
+          if-no-files-found: error
+          retention-days: 3
 
       - name: Checkout gh-pages branch
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: gh-pages
-          # fetch-depth: 0  # no shallow clone (optional, only if you need the entire history)
+          # fetch-depth: 0  # uncomment if you need history
 
-      - name: Move generated feed.xml from previous step (main branch) to gh-pages branch
-        run: |
-          git fetch origin main
-          git checkout origin/main -- outputs/feed.xml
+      - name: Download feed.xml artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: feed-xml
+          path: .
 
       - name: Commit and push feed.xml to gh-pages
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add outputs/feed.xml
-          git commit -m "Update feed.xml" || echo "No changes to commit"
-          git push origin gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git add feed.xml
+          if git diff --cached --quiet; then
+              echo "No changes to commit"
+          else
+              git commit -m "Update feed.xml"
+              git push origin gh-pages
+          fi
