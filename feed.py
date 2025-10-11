@@ -132,7 +132,7 @@ def main():
         feed_root.append(entry_elem)
 
     merged_feed_xml = ET.tostring(feed_root, encoding="utf-8", xml_declaration=True)
-    with open("feed.xml", "wb") as f:
+    with open("outputs/feed.xml", "wb") as f:
         f.write(merged_feed_xml)
 
 if __name__ == "__main__":

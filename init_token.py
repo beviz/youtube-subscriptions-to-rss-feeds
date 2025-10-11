@@ -9,15 +9,15 @@ SCOPES = ["https://www.googleapis.com/auth/youtube.readonly"]
 
 def get_youtube_service():
     creds = None
-    if os.path.exists("token.json"):
-        creds = Credentials.from_authorized_user_file("token.json", SCOPES)
+    if os.path.exists("outputs/token.json"):
+        creds = Credentials.from_authorized_user_file("outputs/token.json", SCOPES)
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
         else:
-            flow = InstalledAppFlow.from_client_secrets_file("credentials.json", SCOPES)
+            flow = InstalledAppFlow.from_client_secrets_file("configs/credentials.json", SCOPES)
             creds = flow.run_local_server(port=0)
-        with open("token.json", "w") as token:
+        with open("outputs/token.json", "w") as token:
             token.write(creds.to_json())
     return build("youtube", "v3", credentials=creds)
 
@@ -43,5 +43,5 @@ if __name__ == "__main__":
     subscriptions = list_subscriptions()
     print(f"Total subscriptions: {len(subscriptions)}")
     print(json.dumps(subscriptions[:1000], ensure_ascii=False, indent=2))
-    with open("channels.json", "w", encoding="utf-8") as f:
+    with open("outputs/channels.json", "w", encoding="utf-8") as f:
         json.dump(subscriptions, f, ensure_ascii=False, indent=2)

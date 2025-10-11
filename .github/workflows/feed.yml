@@ -34,25 +34,25 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: feed-xml
-          path: feed.xml
+          path: outputs/feed.xml
 
-      
-      - name: Checkout main branch
+      - name: Checkout gh-pages branch
         uses: actions/checkout@v3
         with:
-          ref: main
+          ref: gh-pages
+          # fetch-depth: 0  # no shallow clone (optional, only if you need the entire history)
 
-      - name: Copy feed.xml to .github/pages/feed.xml
+      - name: Move generated feed.xml from previous step (main branch) to gh-pages branch
         run: |
-          mkdir -p .github/pages
-          cp feed.xml .github/pages/feed.xml
+          git fetch origin main
+          git checkout origin/main -- outputs/feed.xml
 
-      - name: Commit and push feed.xml to main
+      - name: Commit and push feed.xml to gh-pages
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add .github/pages/feed.xml
+          git add outputs/feed.xml
           git commit -m "Update feed.xml" || echo "No changes to commit"
-          git push origin main
+          git push origin gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
