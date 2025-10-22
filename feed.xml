@@ -1,5 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2025-10-22T20:39:58Z</updated><ns0:entry>
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2025-10-22T21:13:14Z</updated><ns0:entry>
+  <ns0:id>yt:video:SMNcmz53b7k</ns0:id>
+  <ns1:videoId>SMNcmz53b7k</ns1:videoId>
+  <ns1:channelId>UCT9zcQNlyht7fRlcjmflRSA</ns1:channelId>
+  <ns0:title>[ImagineDragons]WAKE UP #LOOMtour #Bogota</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/SMNcmz53b7k" />
+  <ns0:author>
+   <ns0:name>ImagineDragons</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCT9zcQNlyht7fRlcjmflRSA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-10-22T21:00:35+00:00</ns0:published>
+  <ns0:updated>2025-10-22T21:00:56+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>WAKE UP #LOOMtour #Bogota</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/SMNcmz53b7k?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/SMNcmz53b7k/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Shop Imagine Dragons: http://smarturl.it/ImagineDragonsShop...
+Sign up for email updates: http://smarturl.it/ID_Email​​​​
+Listen to Imagine Dragons on Spotify: http://smarturl.it/ID_Discography​​​​
+
+Follow Imagine Dragons:
+Facebook: https://www.facebook.com/ImagineDragons​
+Twitter: https://twitter.com/Imaginedragons​​​​
+Instagram: https://www.instagram.com/imaginedrag...
+YouTube: https://youtube.com/imaginedragons​​​
+TikTok: https://tiktok.com/@imaginedragons​​
+
+#ImagineDragons</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="80" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1216" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
   <ns0:id>yt:video:ogKBUc6XSS8</ns0:id>
   <ns1:videoId>ogKBUc6XSS8</ns1:videoId>
   <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
@@ -41,8 +74,8 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12" />
+    <ns2:starRating count="2" average="5.00" min="1" max="5" />
+    <ns2:statistics views="28" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -97,8 +130,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
 
 #TED #TEDTalks #HowToBeABetterHuman</ns2:description>
    <ns2:community>
-    <ns2:starRating count="61" average="5.00" min="1" max="5" />
-    <ns2:statistics views="909" />
+    <ns2:starRating count="99" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1275" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -112,7 +145,7 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
    <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
   </ns0:author>
   <ns0:published>2025-10-22T19:43:01+00:00</ns0:published>
-  <ns0:updated>2025-10-22T19:43:02+00:00</ns0:updated>
+  <ns0:updated>2025-10-22T21:04:35+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Beyond the First Build: Khalil's Rapid Growth in AI | Amazon Web Services</ns2:title>
    <ns2:content url="https://www.youtube.com/v/IYt3vBptrXk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -149,7 +182,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AI #cloudskills #awscertification #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="8" />
+    <ns2:statistics views="12" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -192,7 +225,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AI #AWS #WatsonX #ArtificialIntelligence #NoCode #DigitalTransformation #TechNews #Innovation #IBMCloud#AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="4" />
+    <ns2:statistics views="14" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -235,7 +268,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AWS #AmazonWebServices #CloudComputing #CloudBudgeting #FinOps #CloudForecasting #ApptioCloudability #CloudCostManagement #AWSCostOptimization #IBMCloudability #FinancialPlanning #CloudFinance #BusinessIntelligence</ns2:description>
    <ns2:community>
     <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6" />
+    <ns2:statistics views="9" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -258,8 +291,8 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 
 get yo modos at bigmode store https://bigmode.com/shop</ns2:description>
    <ns2:community>
-    <ns2:starRating count="5553" average="5.00" min="1" max="5" />
-    <ns2:statistics views="68114" />
+    <ns2:starRating count="7040" average="5.00" min="1" max="5" />
+    <ns2:statistics views="81942" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -319,8 +352,8 @@ Welcome to MacRumors, your ultimate destination for in-depth and insightful Mac 
 
 Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:community>
-    <ns2:starRating count="118" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2098" />
+    <ns2:starRating count="148" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2653" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -334,7 +367,7 @@ Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UCdC0An4ZPNr_YiFiYoVbwaw</ns0:uri>
   </ns0:author>
   <ns0:published>2025-10-22T19:26:51+00:00</ns0:published>
-  <ns0:updated>2025-10-22T19:26:51+00:00</ns0:updated>
+  <ns0:updated>2025-10-22T21:10:59+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>How to Stop a Riot</ns2:title>
    <ns2:content url="https://www.youtube.com/v/-ykABIgJHew?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -384,8 +417,8 @@ Only send in videos that you personally filmed.
 
 https://thisisyourdailydose.com/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="12012" average="5.00" min="1" max="5" />
-    <ns2:statistics views="138257" />
+    <ns2:starRating count="17699" average="5.00" min="1" max="5" />
+    <ns2:statistics views="191502" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -399,7 +432,7 @@ https://thisisyourdailydose.com/</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UCejVlAl2kUwBgSHtQeBoKhQ</ns0:uri>
   </ns0:author>
   <ns0:published>2025-10-22T19:26:06+00:00</ns0:published>
-  <ns0:updated>2025-10-22T20:08:19+00:00</ns0:updated>
+  <ns0:updated>2025-10-22T21:13:00+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>🔴 NEW !DROPS ON TWITCH🔴 SEASON 19 LIVE 🔴</ns2:title>
    <ns2:content url="https://www.youtube.com/v/P1CWlgmd7s8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -426,7 +459,7 @@ https://thisisyourdailydose.com/</ns2:description>
 #Overwatch2 #gaming #mL7</ns2:description>
    <ns2:community>
     <ns2:starRating count="61" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2916" />
+    <ns2:statistics views="3108" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -598,7 +631,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AWS #AmazonWebServices #CloudComputing #IBMInstana #GenerativeAI #AmazonBedrock #AIMonitoring #CloudObservability #TokenTracking #AIPerformance #DistributedTracing #AIOps #CloudMonitoring</ns2:description>
    <ns2:community>
     <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5" />
+    <ns2:statistics views="8" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -641,7 +674,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AWS #AmazonWebServices #CloudComputing #IBMPlanningAnalytics #AI #WatsonxOrchestrate #AWSAIServices #BusinessIntelligence #AgenticAI #CloudAnalytics #IBMWatsonx #EnterpriseAI #FinancialPlanning</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="4" />
+    <ns2:statistics views="5" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -687,8 +720,8 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 
 #AWS #AmazonWebServices #AWSDB2 #IBMLicensing #AWSMarketplace #DatabaseLicensing #RDSforDB2 #PVULicensing #CloudDatabases #AWSDatabase #IBMDb2 #CloudComputing</ns2:description>
    <ns2:community>
-    <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="16" />
+    <ns2:starRating count="1" average="5.00" min="1" max="5" />
+    <ns2:statistics views="23" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -731,7 +764,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AWS #AmazonWebServices #CloudComputing #AWSRDS#DB2 #HADR #DatabaseReplication #DisasterRecovery #HighAvailability #AWSDatabase #CloudComputing #RDSforDB2 #DatabaseManagement</ns2:description>
    <ns2:community>
     <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="16" />
+    <ns2:statistics views="20" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -782,8 +815,8 @@ Use code YT25 for 25% off PRO access
 - Atlas vs Chrome vs Perplexity Comet
 - What happened to Ladybird?</ns2:description>
    <ns2:community>
-    <ns2:starRating count="7082" average="5.00" min="1" max="5" />
-    <ns2:statistics views="109908" />
+    <ns2:starRating count="8639" average="5.00" min="1" max="5" />
+    <ns2:statistics views="121623" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -816,7 +849,7 @@ Use code YT25 for 25% off PRO access
 #骑行环游世界#国家残疾运动员#骑行旅行</ns2:description>
    <ns2:community>
     <ns2:starRating count="3" average="5.00" min="1" max="5" />
-    <ns2:statistics views="20" />
+    <ns2:statistics views="23" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -848,8 +881,8 @@ TikTok: https://tiktok.com/@imaginedragons​​
 
 #ImagineDragons</ns2:description>
    <ns2:community>
-    <ns2:starRating count="783" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7664" />
+    <ns2:starRating count="902" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8651" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -882,8 +915,8 @@ My Favourite Posion dart by: https://instagram.com/rroblinn
 Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
 Special thanks to Shrooby from discord for the Miku Motion voiceline!</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2763" average="5.00" min="1" max="5" />
-    <ns2:statistics views="24358" />
+    <ns2:starRating count="3097" average="5.00" min="1" max="5" />
+    <ns2:statistics views="28532" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -933,8 +966,8 @@ For every purchase of Panda Pal Lux from Nov 5 - Dec 3, Riot will contribute 100
 League of Legends - Free Download &amp; Play
 https://signup.leagueoflegends.com/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3907" average="5.00" min="1" max="5" />
-    <ns2:statistics views="64973" />
+    <ns2:starRating count="4085" average="5.00" min="1" max="5" />
+    <ns2:statistics views="71147" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -994,8 +1027,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 #柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #dr berg
 睡眠不足、睡眠不足血糖、睡眠不足糖尿病、糖尿病前期、睡眠不足胰島素阻抗、胰島素阻抗、代謝失衡、睡眠與代謝、睡眠健康、睡眠養生、睡眠抗炎、睡眠自然療法、睡眠健康計畫、睡眠養生計畫、睡眠抗炎計畫、睡眠自然療法計畫、睡眠健康食譜、睡眠養生食譜、睡眠抗炎食譜、睡眠自然療法食譜、睡眠健康指南、睡眠養生指南、睡眠抗炎指南、睡眠自然療法指南、睡眠健康搭配、睡眠養生搭配、睡眠抗炎搭配、睡眠自然療法搭配、睡眠健康生活、睡眠養生生活、睡眠抗炎生活、睡眠自然療法生活、睡眠健康飲食文化、睡眠養生飲食文化、睡眠抗炎飲食文化、睡眠自然療法飲食文化、睡眠健康飲食、睡眠養生飲食、睡眠抗炎飲食、睡眠自然療法飲食、睡眠健康飲食計畫、睡眠養生飲食計畫、睡眠抗炎飲食計畫、睡眠自然療法飲食計畫、睡眠健康飲食指南、睡眠養生飲食指南、睡眠抗炎飲食指南、睡眠自然療法飲食指南、睡眠健康教育、睡眠養生教育、睡眠抗炎教育、睡眠自然療法教育、睡眠健康生活方式、睡眠養生生活方式、睡眠抗炎生活方式、睡眠自然療法生活方式、柏格醫生、Dr Berg、睡眠不足糖尿病前期、睡眠血糖控制、睡眠胰島素阻抗、睡眠代謝健康、睡眠低碳水飲食、睡眠生酮飲食、睡眠間歇性斷食、睡眠有機飲食、睡眠永續飲食、睡眠慢食運動、睡眠食品安全、睡眠營養標籤、睡眠添加物風險、睡眠人工甜味劑、睡眠基因改造食品、睡眠農藥殘留、睡眠有機認證、睡眠公平貿易、睡眠飲食心理、睡眠食物成癮、睡眠情緒進食、睡眠行為改變、睡眠21天戒糖、睡眠7天排毒、睡眠健康挑戰、睡眠慢煮料理、睡眠生食飲食、睡眠低溫烹調、睡眠餐前準備、睡眠餐後消化、睡眠健康烹飪、睡眠健康旅遊、睡眠養生旅遊、睡眠抗炎旅遊、睡眠自然療法旅遊、睡眠健康運動、睡眠養生運動、睡眠抗炎運動、睡眠自然療法運動、睡眠健康瑜伽、睡眠養生瑜伽、睡眠抗炎瑜伽、睡眠自然療法瑜伽、睡眠壓力管理、睡眠皮質醇、睡眠褪黑激素、睡眠鎂補充、睡眠維生素D、睡眠Omega-3、睡眠益生菌、睡眠羅伊氏菌、L. reuteri、睡眠腸道健康、睡眠腸腦軸、睡眠高硫食物、睡眠洋蔥、睡眠大蒜、睡眠十字花科、睡眠膠原蛋白、睡眠大骨湯、睡眠低鐵飲食、睡眠鐵過量、睡眠抗氧化食物、睡眠健康油脂、睡眠橄欖油、睡眠酪梨油、睡眠魚油、睡眠草飼動物脂肪、睡眠維生素B群、睡眠中醫食療、睡眠五行飲食、睡眠陰陽平衡、睡眠寒熱食物、睡眠溫補飲食、睡眠清熱飲食、睡眠季節飲食、睡眠地域飲食、睡眠地中海飲食、睡眠日式飲食、睡眠北歐飲食、睡眠植物基飲食、睡眠素食營養、睡眠純素飲食、睡眠運動營養、睡眠植物蛋白、睡眠動物蛋白、血糖、血糖控制、血糖穩定、血糖波動、血糖自然療法、血糖飲食、血糖補充劑、血糖運動、血糖瑜伽、血糖冥想、血糖壓力管理、血糖低碳水飲食、血糖生酮飲食、血糖間歇性斷食、血糖抗炎飲食、血糖維生素D、血糖鎂補充、血糖Omega-3、血糖益生菌、血糖羅伊氏菌、L. reuteri、血糖腸道健康、血糖腸腦軸、血糖高硫食物、血糖洋蔥、血糖大蒜、血糖十字花科、血糖膠原蛋白、血糖大骨湯、血糖低鐵飲食、血糖鐵過量、血糖抗氧化食物、血糖健康油脂、血糖橄欖油、血糖酪梨油、血糖魚油、血糖草飼動物脂肪、糖尿病、第2型糖尿病、糖尿病前期、糖尿病自然療法、糖尿病飲食、糖尿病補充劑、糖尿病運動、糖尿病瑜伽、糖尿病冥想、糖尿病壓力管理、糖尿病低碳水飲食、糖尿病生酮飲食、糖尿病間歇性斷食、糖尿病抗炎飲食、糖尿病維生素D、糖尿病鎂補充、糖尿病Omega-3、糖尿病益生菌、糖尿病羅伊氏菌、L. reuteri、糖尿病腸道健康、糖尿病腸腦軸、糖尿病高硫食物、糖尿病洋蔥、糖尿病大蒜、糖尿病十字花科、糖尿病膠原蛋白、糖尿病大骨湯、糖尿病低鐵飲食、糖尿病鐵過量、糖尿病抗氧化食物、糖尿病健康油脂、糖尿病橄欖油、糖尿病酪梨油、糖尿病魚油、糖尿病草飼動物脂肪、失眠、失眠原因、失眠治療、失眠自然療法、失眠飲食、失眠補充劑、失眠運動、失眠瑜伽、失眠冥想、失眠壓力管理、失眠低碳水飲食、失眠生酮飲食、失眠間歇性斷食、失眠抗炎飲食、失眠維生素D、失眠鎂補充、失眠Omega-3、失眠益生菌、失眠羅伊氏菌、L. reuteri、失眠腸道健康、失眠腸腦軸、失眠褪黑激素、失眠甘胺酸鎂、失眠南非醉茄、Ashwagandha、失眠高硫食物、失眠洋蔥、失眠大蒜、失眠十字花科、失眠抗氧化食物、失眠健康油脂、失眠橄欖油、失眠酪梨油、失眠魚油、睡眠、睡眠健康、睡眠養生、睡眠抗炎、睡眠自然療法、睡眠飲食、睡眠補充劑、睡眠運動、睡眠瑜伽、睡眠冥想、睡眠壓力管理、睡眠低碳水飲食、睡眠生酮飲食、睡眠間歇性斷食、睡眠抗炎飲食、睡眠維生素D、睡眠鎂補充、睡眠Omega-3、睡眠益生菌、睡眠羅伊氏菌、L. reuteri、睡眠腸道健康、睡眠腸腦軸、睡眠褪黑激素、睡眠甘胺酸鎂、睡眠南非醉茄、Ashwagandha、睡眠高硫食物、睡眠洋蔥、睡眠大蒜、睡眠十字花科、睡眠抗氧化食物、睡眠健康油脂、睡眠橄欖油、睡眠酪梨油、睡眠魚油、睡眠草飼動物脂肪、皮質醇、皮質醇控制、皮質醇自然療法、皮質醇飲食、皮質醇補充劑、皮質醇運動、皮質醇瑜伽、皮質醇冥想、皮質醇壓力管理、皮質醇低碳水飲食、皮質醇生酮飲食、皮質醇間歇性斷食、皮質醇抗炎飲食、皮質醇維生素D、皮質醇鎂補充、皮質醇Omega-3、皮質醇益生菌、皮質醇羅伊氏菌、L. reuteri、皮質醇腸道健康、皮質醇腸腦軸、皮質醇褪黑激素、皮質醇甘胺酸鎂、皮質醇南非醉茄、Ashwagandha、皮質醇高硫食物、皮質醇洋蔥、皮質醇大蒜、皮質醇十字花科、皮質醇抗氧化食物、皮質醇健康油脂、皮質醇橄欖油、皮質醇酪梨油、皮質醇魚油、壓力、壓力管理、壓力自然療法、壓力飲食、壓力補充劑、壓力運動、壓力瑜伽、壓力冥想、壓力低碳水飲食、壓力生酮飲食、壓力間歇性斷食、壓力抗炎飲食、壓力維生素D、壓力鎂補充、壓力Omega-3、壓力益生菌、壓力羅伊氏菌、L. reuteri、壓力腸道健康、壓力腸腦軸、壓力褪黑激素、壓力甘胺酸鎂、壓力南非醉茄、Ashwagandha、壓力高硫食物、壓力洋蔥、壓力大蒜、壓力十字花科、壓力抗氧化食物、壓力健康油脂、壓力橄欖油、壓力酪梨油、壓力魚油、壓力草飼動物脂肪</ns2:description>
    <ns2:community>
-    <ns2:starRating count="87" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2540" />
+    <ns2:starRating count="92" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2831" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1045,8 +1078,8 @@ For every purchase of Panda Pal Lux from Nov 5 - Dec 3, Riot will contribute 100
 League of Legends - Free Download &amp; Play
 https://signup.leagueoflegends.com/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="672" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10733" />
+    <ns2:starRating count="688" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11631" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1088,8 +1121,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
 
 #TED #TEDTalks #Animals</ns2:description>
    <ns2:community>
-    <ns2:starRating count="178" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4564" />
+    <ns2:starRating count="183" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4943" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1114,8 +1147,8 @@ B站频道：磊哥聊政经
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2475" average="5.00" min="1" max="5" />
-    <ns2:statistics views="24658" />
+    <ns2:starRating count="2597" average="5.00" min="1" max="5" />
+    <ns2:statistics views="26265" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1147,8 +1180,8 @@ When Steve Jobs introduced the original iPhone, he said, "we’ve designed somet
 
 Since then, only two models gave me that feeling. The iPhone X eight years ago, and this iPhone Air today. It is, without a doubt, the most wonderful phone for your hand. So why, then, aren't customers buying the iPhone Air nearly as often as the iPhone 17, iPhone 17 Pro, or iPhone 17 Pro Max models?</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2454" average="5.00" min="1" max="5" />
-    <ns2:statistics views="30953" />
+    <ns2:starRating count="2655" average="5.00" min="1" max="5" />
+    <ns2:statistics views="34867" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1169,8 +1202,8 @@ Since then, only two models gave me that feeling. The iPhone X eight years ago, 
    <ns2:thumbnail url="https://i4.ytimg.com/vi/oSfubCtcyHo/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="32971" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1034056" />
+    <ns2:starRating count="35763" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1151570" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1265,8 +1298,8 @@ Twitter: https://twitter.com/dennied_
 
  #Overwatch #ml7</ns2:description>
    <ns2:community>
-    <ns2:starRating count="349" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6250" />
+    <ns2:starRating count="387" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7032" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1349,8 +1382,8 @@ https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
 #曉涵哥來了 #外星人 #宇宙 #宇宙文明 #動物園假說 #未解之謎 #科普 #科學
 #ufo #uap #education #knowledge</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3785" average="5.00" min="1" max="5" />
-    <ns2:statistics views="74225" />
+    <ns2:starRating count="3879" average="5.00" min="1" max="5" />
+    <ns2:statistics views="76953" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1427,8 +1460,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3606" average="5.00" min="1" max="5" />
-    <ns2:statistics views="189673" />
+    <ns2:starRating count="3665" average="5.00" min="1" max="5" />
+    <ns2:statistics views="194646" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1653,8 +1686,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="373" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6723" />
+    <ns2:starRating count="382" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6866" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1680,8 +1713,8 @@ ALL SOCIALS - https://vldl.info
 WATCH US STREAM! - https://bit.ly/VLDLtwitch
 SERIES PLAYLISTS - https://bit.ly/VLDLplaylists</ns2:description>
    <ns2:community>
-    <ns2:starRating count="6900" average="5.00" min="1" max="5" />
-    <ns2:statistics views="69851" />
+    <ns2:starRating count="7216" average="5.00" min="1" max="5" />
+    <ns2:statistics views="74409" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1764,8 +1797,8 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
 製作更多有趣、有價值的視頻內容
 感謝收看！喜歡請訂閱點贊！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="496" average="5.00" min="1" max="5" />
-    <ns2:statistics views="28993" />
+    <ns2:starRating count="501" average="5.00" min="1" max="5" />
+    <ns2:statistics views="29522" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1791,8 +1824,8 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
 
 #猴哥 #小明劍魔 #React</ns2:description>
    <ns2:community>
-    <ns2:starRating count="93" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9865" />
+    <ns2:starRating count="95" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10298" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1836,8 +1869,8 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
    <ns2:thumbnail url="https://i4.ytimg.com/vi/CJGZ6tDaZxM/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="304" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7855" />
+    <ns2:starRating count="307" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7974" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1858,8 +1891,8 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
    <ns2:thumbnail url="https://i1.ytimg.com/vi/pLp_eJ8gmns/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="67" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3008" />
+    <ns2:starRating count="69" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3048" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1906,8 +1939,8 @@ If you'd like to support the channel / 如果你想支持我们的频道:
 
 *Contains affiliate links*</ns2:description>
    <ns2:community>
-    <ns2:starRating count="386" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9565" />
+    <ns2:starRating count="393" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9884" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1939,8 +1972,8 @@ Please Subscribe to FView Official Channel 🔔https://is.gd/BBfYxO
 FView将会在保持“真实、客观、独立、自由”前提下，打造“以产品体验为主，输出观点”的媒体平台，建立消费者、厂商、第三方评测机构的健康合作链，把科技资讯与评测报告及时、准确、立体地传达给广大消费者。
 FView will build a real, objective, independent, and free media platform which will bring you authentic product experience and original outputs. As a third-party evaluation group, according to cooperate with consumers and manufacturers, we will establish a healthy triangle relationship with them, which will guarantee that our evaluation reports which our consumers received will be timely, accurately and three-dimensionally.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="86" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6318" />
+    <ns2:starRating count="87" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6404" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1962,7 +1995,7 @@ FView will build a real, objective, independent, and free media platform which w
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="21" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4130" />
+    <ns2:statistics views="4158" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1989,7 +2022,7 @@ FView will build a real, objective, independent, and free media platform which w
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="67" />
+    <ns2:statistics views="68" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2010,8 +2043,8 @@ https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:thumbnail url="https://i3.ytimg.com/vi/bo7pI2tXuRg/hqdefault.jpg" width="480" height="360" />
    <ns2:description>老梁讲述职业革命家，只要土壤、气候、温度合适，他一定要重回聚光灯下</ns2:description>
    <ns2:community>
-    <ns2:starRating count="146" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11846" />
+    <ns2:starRating count="151" average="5.00" min="1" max="5" />
+    <ns2:statistics views="12035" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2037,7 +2070,7 @@ https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
 《罗永浩的十字路口》第八期，我们和叶国富一起聊聊他的线下零售世界。</ns2:description>
    <ns2:community>
     <ns2:starRating count="41" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2119" />
+    <ns2:statistics views="2148" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2080,8 +2113,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="424" average="5.00" min="1" max="5" />
-    <ns2:statistics views="16901" />
+    <ns2:starRating count="427" average="5.00" min="1" max="5" />
+    <ns2:statistics views="17193" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2137,8 +2170,58 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1173" average="5.00" min="1" max="5" />
-    <ns2:statistics views="42098" />
+    <ns2:starRating count="1188" average="5.00" min="1" max="5" />
+    <ns2:statistics views="42791" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:tbiRLHjr7wo</ns0:id>
+  <ns1:videoId>tbiRLHjr7wo</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]Amazon RDS for MySQL インスタンスの最大接続数を増やす方法を教えてください。</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=tbiRLHjr7wo" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-10-22T00:06:25+00:00</ns0:published>
+  <ns0:updated>2025-10-22T00:06:26+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Amazon RDS for MySQL インスタンスの最大接続数を増やす方法を教えてください。</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/tbiRLHjr7wo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/tbiRLHjr7wo/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>詳細について、動画の関連ナレッジセンター記事をご参照ください：https://repost.aws/ja/knowledge-center/rds-mysql-max-connections
+
+Kito さんは、Amazon RDS for MySQL インスタンスの最大接続数パラメータを、確認および設定する方法をご紹介します。
+早速始めましょう。
+
+The AWS Knowledge Center contains trusted, expert-reviewed answers 
+to frequently asked questions across AWS services — 
+including EC2, S3, IAM, Lambda, Bedrock, and more.
+
+Subscribe to AWS: https://go.aws/subscribe
+
+Sign up for AWS: https://go.aws/signup 
+AWS free tier: https://go.aws/free 
+Explore more: https://go.aws/more
+Contact AWS: https://go.aws/contact
+
+Next steps:
+Explore on AWS in Analyst Research:  https://go.aws/reports
+Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
+Join the AWS Partner Network: https://go.aws/partners 
+Learn more on how Amazon builds and operates software: https://go.aws/library 
+
+Do you have technical AWS questions? 
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+Why AWS?
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud. Millions of customers—including the fastest-growing startups, largest enterprises, and leading government agencies—use AWS to be more agile, lower costs, and innovate faster.
+
+#AWS #AmazonWebServices #CloudComputing</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="6" average="5.00" min="1" max="5" />
+    <ns2:statistics views="257" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2176,8 +2259,8 @@ App: https://apple.co/DeveloperApp
 
 #visionOS #VisionPro #Apple</ns2:description>
    <ns2:community>
-    <ns2:starRating count="621" average="5.00" min="1" max="5" />
-    <ns2:statistics views="16050" />
+    <ns2:starRating count="623" average="5.00" min="1" max="5" />
+    <ns2:statistics views="16208" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2209,8 +2292,8 @@ TikTok: https://tiktok.com/@imaginedragons​​
 
 #ImagineDragons</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2567" average="5.00" min="1" max="5" />
-    <ns2:statistics views="65069" />
+    <ns2:starRating count="2606" average="5.00" min="1" max="5" />
+    <ns2:statistics views="66331" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2294,8 +2377,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 #柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #dr berg #癌細胞
 癌症治療、癌症症狀、癌症階段、癌症預防、癌症飲食、癌症原因、癌症類型、乳癌治療、肺癌症狀、前列腺癌預防、結腸癌飲食、皮膚癌原因、肝癌階段、胰腺癌治療、卵巢癌症狀、腦癌預防、骨癌飲食、血液癌原因、甲狀腺癌階段、腎癌治療、膀胱癌症狀、子宮癌預防、鼻咽癌飲食、口腔癌原因、食道癌階段、胃癌治療、直腸癌症狀、膽囊癌預防、脾臟癌飲食、淋巴癌原因、白血病階段、多發性骨髓瘤治療、霍奇金氏淋巴瘤症狀、非霍奇金氏淋巴瘤預防、黑色素瘤飲食、基底細胞癌原因、鱗狀細胞癌階段、癌症篩檢、癌症遺傳、癌症轉移、癌症復發、癌症緩解、癌症支持團體、癌症心理、癌症營養、癌症運動、癌症替代療法、癌症針灸、癌症瑜伽、癌症冥想、癌症芳療、癌症中醫、癌症西醫、癌症整合醫學、癌症臨床試驗、癌症新藥、癌症免疫療法、癌症標靶治療、癌症化療、副作用管理、癌症放射治療、癌症手術、癌症緩和醫療、癌症終末期、癌症生存故事、癌症名人、癌症基金會、癌症研究、癌症基因療法、癌症病毒療法、癌症納米治療、癌症幹細胞、癌症預測、癌症診斷、癌症影像學、癌症活檢、癌症腫瘤標記、癌症CEA、癌症CA125、癌症PSA、癌症AFP、癌症BRCA基因、癌症HPV、癌症EB病毒、癌症吸菸、癌症飲酒、癌症肥胖、癌症壓力、癌症感染、癌症環境、癌症職業暴露、癌症輻射、癌症化學品、癌症農藥、癌症塑膠、癌症手機、癌症電磁波、癌症飲食建議、癌症抗氧化、癌症綠茶、癌症十字花科、癌症大蒜、癌症薑黃、癌症 omega3、癌症維生素D、癌症維生素C、癌症硒、癌症鋅、癌症葉酸、癌症B12、癌症鈣質、癌症鎂、癌症鉀、癌症有機食物、癌症低糖飲食、癌症生酮、癌症間歇禁食、癌症素食、癌症地中海飲食、癌症抗癌蔬果、癌症藍莓、癌症十字花菜、癌症綠葉菜、癌症堅果、癌症種子、癌症發酵食品、癌症優格、癌症泡菜、癌症味精、癌症加工肉、癌症紅肉、癌症燒烤、癌症油炸、癌症糖分、癌症精製碳水、癌症乳製品、癌症咖啡、癌症茶類、癌症酒精、癌症運動益處、癌症有氧、癌症阻力訓練、癌症瑜伽姿勢、癌症太極、癌症散步、癌症睡眠、癌症壓力管理、癌症冥想app、癌症支持app、癌症追蹤app、癌症日記、癌症情緒日記、癌症感恩日記、癌症正念、癌症認知療法、癌症團體療法、癌症家庭支持、癌症伴侶支持、癌症兒童癌症、癌症青少年癌症、癌症老人癌症、癌症女性癌症、癌症男性癌症、癌症種族差異、癌症亞洲癌症、癌症非洲癌症、癌症歐洲癌症、癌症美國癌症、癌症全球癌症、癌症WHO、癌症IARC、癌症NCI、癌症ACS、癌症癌症月、癌症粉紅絲帶、癌症藍絲帶、癌症金絲帶、癌症賽跑、癌症募款、癌症志工、癌症研究捐款、癌症預防疫苗、癌症HPV疫苗、癌症肝炎疫苗、癌症流感疫苗、癌症肺炎疫苗、癌症COVID疫苗、癌症免疫力、癌症腸道菌、癌症益生菌、癌症益生元、癌症糞菌移植、癌症微生物群、癌症腸腦軸、癌症壓力荷爾蒙、癌症皮質醇、癌症腎上腺、癌症甲狀腺、癌症荷爾蒙、癌症雌激素、癌症睪固酮、癌症胰島素、癌症IGF1、癌症生長因子、癌症血管生成、癌症轉移機制、癌症幹細胞理論、癌症腫瘤微環境、癌症免疫逃逸、癌症PD1、癌症PDL1、癌症CTLA4、癌症CAR T、癌症檢查點抑制劑、癌症雙特異性抗體、癌症ADC、癌症腫瘤溶解病毒、癌症光動力、癌症熱療法、癌症冷凍療法、癌症電磁療法、癌症高壓氧、癌症臭氧療法、癌症咖啡灌腸、癌症Gerson療法、癌症斷食、癌症水斷食、癌症果汁斷食、癌症骨髓移植、癌症幹細胞移植、癌症基因編輯、癌症CRISPR、癌症NGS、癌症液態活檢、癌症ctDNA、癌症循環腫瘤細胞、癌症MRD、癌症復發監測、癌症預後因子、癌症TNM分期、癌症AJCC、癌症FIGO、癌症UICC、癌症生存率、癌症5年存活、癌症10年存活、癌症緩解率、癌症復發率、癌症死亡率、癌症全球負擔、癌症經濟影響、癌症醫療成本、癌症保險、癌症補助、癌症社福、癌症安寧、癌症善終、癌症尊嚴死、癌症器官捐贈、癌症遺體捐贈、癌症哀悼、癌症喪親、癌症創傷、癌症PTSD、癌症正能量、癌症勵志書、癌症自傳、癌症紀錄片、癌症電影、癌症小說、癌症漫畫、癌症藝術、癌症攝影、癌症音樂、癌症詩歌、癌症博客、癌症論壇、癌症社群、癌症臉書群、癌症Instagram、癌症TikTok、癌症YouTube、癌症Podcast、癌症線上講座、癌症網路研討、癌症遠距醫療、癌症AI診斷、癌症機器學習、癌症大數據、癌症個人化醫學、癌症精準醫學、癌症藥物基因組、癌症副作用基因、癌症藥物耐受、癌症腫瘤異質性、癌症微腫瘤、癌症納米藥物、癌症智能藥物、癌症緩釋藥、癌症口服藥、癌症注射藥、癌症靜脈注射、癌症皮下注射、癌症靶向藥、癌症小分子、癌症生物製劑、癌症單株抗體、癌症Rituximab、癌症Trastuzumab、癌症Pembrolizumab、癌症Nivolumab、癌症Keytruda、癌症Opdivo、癌症Imbruvica、癌症Yervoy、癌症Avastin、癌症Herceptin、癌症Gleevec、癌症Tarceva、癌症Iressa、癌症Zytiga、癌症Xtandi、癌症Lynparza、癌症Rubraca、癌症Keytruda癌症、癌症Opdivo肺癌、癌症Herceptin乳癌、癌症Gleevec白血病、癌症Tarceva肺癌、癌症Iressa肺癌、癌症Zytiga前列腺癌、癌症Xtandi前列腺癌、癌症Lynparza卵巢癌、癌症Rubraca卵巢癌、癌症化療藥物、癌症順鉑、癌症卡鉑、癌症紫杉醇、癌症多柔比星、癌症環磷醯胺、癌症5FU、癌症伊立替康、癌症奧沙利鉑、癌症吉西他濱、癌症拓撲替康、癌症放射增敏劑、癌症化療方案、癌症FOLFOX、癌症FOLFIRI、癌症CHOP、癌症RCHOP、癌症ABVD、癌症BEACOPP、癌症放射治療、癌症IMRT、癌症SBRT、癌症IGRT、癌症VMAT、癌症質子治療、癌症重離子、</ns2:description>
    <ns2:community>
-    <ns2:starRating count="313" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6827" />
+    <ns2:starRating count="317" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6925" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2417,8 +2500,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="283" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7401" />
+    <ns2:starRating count="284" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7560" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2545,7 +2628,7 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 缺B12跡象、甲鈷胺B12、基因紅血球髓鞘、脊柱大腦保健、B12缺乏症狀、刺痛麻木灼熱、慢性疼痛、憂鬱症狀、肌肉消失、視力模糊、耳鳴問題、貧血成因、口腔潰瘍、咽喉痛、掉髮原因、過多B12症狀、合成B12氰鈷胺、天然B12甲鈷胺、B12毒性、氰鈷胺累積、痘痘Acne、心悸焦慮、臉頰發紅、頭痛失眠、靜坐不能Akathisia、自殺念頭、極度疲勞第一症狀、B12損害無感、高B12食物、動物性產品、B12植物無、缺B12原因、吃素全素、吸收不良、胃繞道手術、胃萎縮、胃炎感染、幽門螺旋桿菌、潰瘍腸道發炎、吃阿斯匹林、喝酒垃圾食品、抗生素制酸劑、胃藥PPIs、避孕藥懷孕、哺乳期吸菸、基因突變Polymorphism、Dr Berg柏格醫生、B12維生素重要、髓鞘神經保護、脊柱健康大腦功能、B12缺乏早期跡象、刺痛腳手麻木、灼熱感神經痛、慢性背痛關節痛、憂鬱情緒低落、肌肉萎縮無力、視力問題模糊、耳鳴嗡嗡聲、貧血疲勞蒼白、口腔潰瘍疼痛、咽喉炎症吞嚥難、掉髮脫髮嚴重、B12過量風險、合成維生素害、氰鈷胺體內積、B12中毒症狀、痘痘爆發皮膚、Acne治療心悸、焦慮攻擊臉紅、頭痛頻繁失眠、Akathisia不安、自殺意念危險、疲勞極度無力、B12無損害假象、高劑量B12食物、肉類肝臟蛋類、B12素食無來源、缺乏素食者風險、吸收障礙腸道、胃手術後遺症、萎縮性胃炎、H pylori感染、潰瘍胃潰瘍、腸炎克隆氏病、阿斯匹林胃損、酒精B12耗損、垃圾食品營養缺、抗生素菌群亂、PPI胃酸抑制、避孕藥干擾吸收、孕期B12需求高、哺乳消耗大、吸菸氧化損、B12基因變異、MTHFR突變Polymorphism、B12補充指南、甲鈷胺優於氰、Dr Berg B12講座、維生素B12缺乏診斷、神經症狀刺痛麻、慢性疼痛管理、憂鬱B12連結、肌肉流失預防、視力退化B12、耳鳴維生素治、貧血B12治療、潰瘍口腔護理、咽痛自然療法、脫髮B12補充、B12毒性氰鈷胺、痘痘維生素過量、心律不整心悸、焦慮B12副作用、潮紅臉頰、偏頭痛頭痛、睡眠障礙失眠、不安靜坐症、抑鬱自殺風險、疲勞B12第一兆、高蛋白動物食、B12肝臟來源、蛋類B12含量、素食B12替代、吸收率腸道健康、胃繞道B12監測、胃酸萎縮治療、胃炎飲食調整、螺旋桿菌根除、潰瘍癒合B12、發炎腸病營養、阿斯匹林替代品、酒精戒斷B12、加工食品避、腸道菌群抗生素、胃藥長期害、PPI停用B12、荷爾蒙避孕影響、孕婦B12檢查、哺乳B12補給、菸害B12氧化、基因檢測Polymorphism、B12甲基形式、Dr Berg維生素談、髓鞘修復B12、脊髓神經B12、大腦認知B12、神經痛刺痛麻木、灼熱腳底手心、背痛腰痛慢性、憂鬱症狀情緒、肌無力萎縮肌肉、眼花視力模糊、耳鳴高頻聲、巨紅血球貧血、舌炎口腔潰瘍、喉嚨痛吞嚥痛、頭皮掉髮嚴重、B12過補氰害、合成B12毒性、氰鈷胺腎負荷、皮膚痘痘爆、心跳加速心悸、恐慌焦慮發作、酒糟鼻臉紅、緊張頭痛、輾轉難眠失眠、躁動Akathisia、黑暗自殺念頭、倦怠極度疲勞、B12隱形損害、神經退化無感、貝類肝臟高B12、牛肉羊肉B12、雞蛋黃B12富、乳製品B12少、植物B12不存在、vegan B12缺乏、吸收機制胃酸、內因子B12運輸、胃切除吸收差、萎縮細胞胃損、慢性胃炎B12、幽門螺菌B12低、十二指腸潰瘍、克隆氏發炎腸、B12阿斯匹林阻、酒精吸收障礙、速食垃圾B12缺、廣譜抗生素害、H2阻斷劑胃藥、質子泵抑制PPI、口服避孕干擾、妊娠B12消耗、哺乳期B12流失、尼古丁B12破壞、MTHFR基因B12、甲基化B12路徑、Dr Berg B12補充、缺乏B12血液檢、刺痛周邊神經、麻木手指腳趾、灼熱神經炎症、纖維肌痛慢性痛、憂鬱B12低血清、肌營養不良肌肉失、視網膜問題模糊、內耳耳鳴平衡、鐮刀貧血B12、黏膜潰瘍口腔、扁桃腺咽喉痛、雄性禿掉髮、氰B12累積毒、痤瘡Acne爆發、心律失常心悸、廣泛性焦慮、血管擴張臉紅、叢集性頭痛、慢性失眠症、運動障礙Akathisia、強迫自殺意、慢性疲勞綜合、B12神經損無覺、肝臟動物高B12、腎臟B12來源、魚類B12含量、乳酪B12少許、藻類偽B12無效、純素食B12危機、腸道吸收障壁、胃繞道營養失、自身免疫胃萎縮、萎縮性胃炎診、H pylori B12相關、胃潰瘍出血B12、IBD發炎腸B12、NSAIDs阿斯匹林胃、慢性飲酒B12低、精製食品營養貧、抗生素腸道破壞、奧美拉唑PPI害、雷尼替丁H2阻、激素避孕B12、孕期營養B12、哺乳B12需求、菸草B12代謝、基因多型Polymorphism、B12活性形式甲基、Dr Berg健康談話、B12缺乏隱藏症、神經纖維刺痛、感覺異常麻木、熱痛灼熱感、關節慢性疼痛、季節性憂鬱、肌肉量減少、屈光不正視力、脈動耳鳴、鐵缺乏貧血B12、復發性口腔潰瘍、病毒性咽喉痛、壓力掉髮、合成B12腎毒、氰離子釋放B12、粉刺痘痘多、心慌心悸頻、攻擊性焦慮、潮熱臉頰紅、血管性頭痛、節律失調失眠、強迫運動Akathisia、抑鬱自殺衝動、過勞極度疲勞、B12脊髓損害、動物肝高B12濃、牛肝B12王、蛋清B12少、優格B12微量、發酵植物無B12、真菌偽B12吸收差、素食B12補充劑、十二指腸吸收區、胃袖狀手術B12、自身免疫萎縮、胃黏膜萎縮症、慢性H pylori、胃酸潰瘍B12、回腸發炎吸收、布洛芬阿斯匹林害、啤酒酒精B12、薯片垃圾食品、氟喹諾酮抗生素、雷貝拉唑PPI長期、甲氧氯普胺胃藥、複方避孕B12、孕吐B12低、產後哺乳B12、電子菸吸菸害、C677T基因突變、葉酸B12交互、Dr Berg B12影片、缺乏B12神經學、腳底刺痛麻木、手掌灼熱痛、腰椎慢性疼痛、產後憂鬱B12、肌纖維萎縮、老花視力模糊、噪音誘發耳鳴、惡性貧血B12、維生素缺乏潰瘍、鏈球菌咽喉痛、休止期掉髮、B12氰化物毒性、合成B12腎結石、膿皰性痘痘、心房顫動心悸、社交焦慮症、酒精性臉紅、偏頭痛發作、藥物誘發失眠、帕金森樣Akathisia、雙相自殺風險、燒盡疲勞症候、B12大腦損無知、蛤蜊貝類B12高、豬肝B12豐富、煮蛋B12保留、起司B12來源、螺旋藻B12類似無效、純素B12危機管理、胰酶吸收輔助、</ns2:description>
    <ns2:community>
     <ns2:starRating count="193" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3157" />
+    <ns2:statistics views="3168" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2634,8 +2717,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="162" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4153" />
+    <ns2:starRating count="165" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4232" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2667,8 +2750,8 @@ TikTok: https://tiktok.com/@imaginedragons​​
 
 #ImagineDragons</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1486" average="5.00" min="1" max="5" />
-    <ns2:statistics views="32256" />
+    <ns2:starRating count="1501" average="5.00" min="1" max="5" />
+    <ns2:statistics views="32963" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2712,7 +2795,7 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
     <ns2:starRating count="156" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6292" />
+    <ns2:statistics views="6396" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2779,7 +2862,74 @@ Welcome to MacRumors, your ultimate destination for in-depth and insightful Mac 
 Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:community>
     <ns2:starRating count="758" average="5.00" min="1" max="5" />
-    <ns2:statistics views="34957" />
+    <ns2:statistics views="35209" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:9c1rtxa7w80</ns0:id>
+  <ns1:videoId>9c1rtxa7w80</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]Experimentation Culture - Pole Position | Amazon Web Services</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/9c1rtxa7w80" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-10-21T19:56:22+00:00</ns0:published>
+  <ns0:updated>2025-10-21T20:13:22+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Experimentation Culture - Pole Position | Amazon Web Services</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/9c1rtxa7w80?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/9c1rtxa7w80/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Learn more about AWS in Australia: https://go.aws/47gAb6j</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="10" average="5.00" min="1" max="5" />
+    <ns2:statistics views="792" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:14nhspFPk4A</ns0:id>
+  <ns1:videoId>14nhspFPk4A</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]Experimentation Culture - Pole Position | Amazon Web Services</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=14nhspFPk4A" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-10-21T19:56:12+00:00</ns0:published>
+  <ns0:updated>2025-10-21T19:56:12+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Experimentation Culture - Pole Position | Amazon Web Services</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/14nhspFPk4A?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/14nhspFPk4A/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Experimentation Culture is a limited video series that focuses on how organizations have been able to unlock invention by adopting a culture of experimentation. Each short episodic journey works backwards from a specific company introducing who they are and what they do, explains a persistent business problem they had or new experience they wanted to conceive, and walks though how they worked with AWS prototyping team to validate their ideas and successfully bring it to their customers.
+
+Learn more about AWS in Australia: https://go.aws/47gAb6j
+
+Subscribe to AWS: https://go.aws/subscribe
+
+Create a free AWS account: https://go.aws/signup 
+Try AWS for free: https://go.aws/free 
+Connect with an expert: https://go.aws/contact
+Explore more: https://go.aws/more
+
+Next steps:
+Explore on AWS in Analyst Research:  https://go.aws/reports
+Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
+Join the AWS Partner Network: https://go.aws/partners 
+Learn more on how Amazon builds and operates software: https://go.aws/library 
+
+Do you have technical AWS questions? 
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+Why AWS?
+Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
+
+#AWS #AmazonWebServices #CloudComputing</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="3" average="5.00" min="1" max="5" />
+    <ns2:statistics views="192" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2802,8 +2952,8 @@ Subscribe now and join our community of Mac enthusiasts!</ns2:description>
 
 #shorts</ns2:description>
    <ns2:community>
-    <ns2:starRating count="8538" average="5.00" min="1" max="5" />
-    <ns2:statistics views="164418" />
+    <ns2:starRating count="8673" average="5.00" min="1" max="5" />
+    <ns2:statistics views="168937" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2827,7 +2977,7 @@ Subscribe now and join our community of Mac enthusiasts!</ns2:description>
 Sam Altman, Will Ellsworth, Adam Fry, Ben Goodger, Ryan O’Rouke, Justin Rushing, and Pranav Vishnu introduce ChatGPT Atlas — our new browser. Now available globally on macOS. Windows, iOS, and Android are coming soon.</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="775187" />
+    <ns2:statistics views="780530" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2854,8 +3004,8 @@ http://twitter.com/Dave2D
 http://www.instagram.com/Dave2D
 https://discord.gg/Dave2D</ns2:description>
    <ns2:community>
-    <ns2:starRating count="16993" average="5.00" min="1" max="5" />
-    <ns2:statistics views="470722" />
+    <ns2:starRating count="17133" average="5.00" min="1" max="5" />
+    <ns2:statistics views="475690" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2882,8 +3032,8 @@ Rolling out today to everyone on MacOS. Windows, iOS, and Android are coming soo
 
 Download today at chatgpt.com/atlas</ns2:description>
    <ns2:community>
-    <ns2:starRating count="9396" average="5.00" min="1" max="5" />
-    <ns2:statistics views="268203" />
+    <ns2:starRating count="9510" average="5.00" min="1" max="5" />
+    <ns2:statistics views="272199" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2930,7 +3080,7 @@ https://reurl.cc/9OMyRX</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
   </ns0:author>
   <ns0:published>2025-10-21T17:02:11+00:00</ns0:published>
-  <ns0:updated>2025-10-22T20:24:25+00:00</ns0:updated>
+  <ns0:updated>2025-10-22T20:46:39+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>What's Going on with Apple Vision Pro?</ns2:title>
    <ns2:content url="https://www.youtube.com/v/rU9aqBv0YdY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2952,8 +3102,8 @@ http://twitter.com/MKBHD
 http://instagram.com/MKBHD
 http://facebook.com/MKBHD</ns2:description>
    <ns2:community>
-    <ns2:starRating count="90661" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3165914" />
+    <ns2:starRating count="91300" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3196164" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2974,8 +3124,8 @@ http://facebook.com/MKBHD</ns2:description>
    <ns2:thumbnail url="https://i1.ytimg.com/vi/dVCbISK2IIs/hqdefault.jpg" width="480" height="360" />
    <ns2:description>With humor and hard science, obstetrician and gynecologist Jaime Seeman reveals why building muscle is one of the best ways to combat women’s top health risks. Learn the truth behind three weightlifting myths that prevent women from getting serious about strength training — and why your future self will thank you for picking up those dumbbells</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1108" average="5.00" min="1" max="5" />
-    <ns2:statistics views="36559" />
+    <ns2:starRating count="1113" average="5.00" min="1" max="5" />
+    <ns2:statistics views="37051" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3027,8 +3177,8 @@ Use code YT25 for 25% off PRO access
 - US-EAST-1
 - WTF is DNS?</ns2:description>
    <ns2:community>
-    <ns2:starRating count="32317" average="5.00" min="1" max="5" />
-    <ns2:statistics views="682189" />
+    <ns2:starRating count="32570" average="5.00" min="1" max="5" />
+    <ns2:statistics views="688414" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3091,7 +3241,7 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 冰沙、健康冰沙、養生冰沙、抗炎冰沙、自然療法冰沙、冰沙食譜、冰沙減重、冰沙排毒、冰沙低碳水、冰沙生酮、冰沙維生素D、冰沙鎂補充、冰沙Omega-3、冰沙益生菌、冰沙腸道健康、冰沙抗氧化、冰沙高蛋白、冰沙植物蛋白、冰沙動物蛋白、冰沙健康油脂、冰沙單不飽和脂肪、冰沙多元不飽和脂肪、冰沙奇亞籽、冰沙亞麻籽、冰沙南瓜籽、冰沙葵花籽、冰沙有機食材、冰沙無糖、冰沙無麩質、冰沙無乳製品、冰沙純素、冰沙素食、冰沙地中海飲食、冰沙日式飲食、冰沙北歐飲食、冰沙慢食運動、冰沙食品安全、冰沙營養標籤、冰沙添加物風險、冰沙人工甜味劑、冰沙基因改造食品、冰沙農藥殘留、冰沙有機認證、冰沙公平貿易、冰沙飲食心理、冰沙食物成癮、冰沙情緒進食、冰沙行為改變、冰沙21天戒糖、冰沙7天排毒、冰沙健康挑戰、冰沙慢煮料理、冰沙生食飲食、冰沙低溫烹調、冰沙餐前準備、冰沙健康烹飪、冰沙健康旅遊、冰沙養生旅遊、冰沙抗炎旅遊、冰沙自然療法旅遊、零食、健康零食、養生零食、抗炎零食、自然療法零食、零食食譜、零食減重、零食排毒、零食低碳水、零食生酮、零食維生素D、零食鎂補充、零食Omega-3、零食益生菌、零食腸道健康、零食抗氧化、零食高蛋白、零食植物蛋白、零食動物蛋白、零食健康油脂、零食單不飽和脂肪、零食多元不飽和脂肪、零食奇亞籽、零食亞麻籽、零食南瓜籽、零食葵花籽、零食有機食材、零食無糖、零食無麩質、零食無乳製品、零食純素、零食素食、零食地中海飲食、零食日式飲食、零食北歐飲食、零食慢食運動、零食食品安全、零食營養標籤、零食添加物風險、零食人工甜味劑、零食基因改造食品、零食農藥殘留、零食有機認證、零食公平貿易、零食飲食心理、零食食物成癮、零食情緒進食、零食行為改變、零食21天戒糖、零食7天排毒、零食健康挑戰、零食慢煮料理、零食生食飲食、零食低溫烹調、零食餐前準備、零食健康烹飪、零食健康旅遊、零食養生旅遊、零食抗炎旅遊、零食自然療法旅遊、蛋白棒、健康蛋白棒、養生蛋白棒、抗炎蛋白棒、自然療法蛋白棒、蛋白棒食譜、蛋白棒減重、蛋白棒排毒、蛋白棒低碳水、蛋白棒生酮、蛋白棒維生素D、蛋白棒鎂補充、蛋白棒Omega-3、蛋白棒益生菌、蛋白棒腸道健康、蛋白棒抗氧化、蛋白棒高蛋白、蛋白棒植物蛋白、蛋白棒動物蛋白、蛋白棒健康油脂、蛋白棒單不飽和脂肪、蛋白棒多元不飽和脂肪、蛋白棒奇亞籽、蛋白棒亞麻籽、蛋白棒南瓜籽、蛋白棒葵花籽、蛋白棒有機食材、蛋白棒無糖、蛋白棒無麩質、蛋白棒無乳製品、蛋白棒純素、蛋白棒素食、蛋白棒地中海飲食、蛋白棒日式飲食、蛋白棒北歐飲食、蛋白棒慢食運動、蛋白棒食品安全、蛋白棒營養標籤、蛋白棒添加物風險、蛋白棒人工甜味劑、蛋白棒基因改造食品、蛋白棒農藥殘留、蛋白棒有機認證、蛋白棒公平貿易、蛋白棒飲食心理、蛋白棒食物成癮、蛋白棒情緒進食、蛋白棒行為改變、蛋白棒21天戒糖、蛋白棒7天排毒、蛋白棒健康挑戰、蛋白棒慢煮料理、蛋白棒生食飲食、蛋白棒低溫烹調、蛋白棒餐前準備、蛋白棒健康烹飪、蛋白棒健康旅遊、蛋白棒養生旅遊、蛋白棒抗炎旅遊、蛋白棒自然療法旅遊、關節痛、關節痛原因、關節痛飲食、關節痛自然療法、關節痛補充劑、關節痛預防、關節痛發炎、發炎食物、隱藏發炎成分、冰沙發炎、蛋白棒發炎、生酮零食發炎、關節痛冰沙、關節痛零食、關節痛蛋白棒、關節痛生酮飲食、柏格醫生、Dr Berg、發炎飲食、發炎自然療法、發炎預防、發炎症狀、關節痛健康飲食、關節痛養生飲食、關節痛抗炎飲食、關節痛自然療法飲食、關節痛健康計畫、關節痛養生計畫、關節痛抗炎計畫、關節痛自然療法計畫、關節痛健康食譜、關節痛養生食譜、關節痛抗炎食譜、關節痛自然療法食譜、關節痛健康指南、關節痛養生指南、關節痛抗炎指南、關節痛自然療法指南、關節痛健康搭配、關節痛養生搭配、關節痛抗炎搭配、關節痛自然療法搭配、關節痛健康生活、關節痛養生生活、關節痛抗炎生活、關節痛自然療法生活、關節痛健康飲食文化、關節痛養生飲食文化、關節痛抗炎飲食文化、關節痛自然療法飲食文化、關節痛健康教育、關節痛養生教育、關節痛抗炎教育、關節痛自然療法教育、關節痛均衡飲食、關節痛適度飲食、關節痛低碳水飲食、關節痛生酮飲食、關節痛間歇性斷食、關節痛有機飲食、關節痛永續飲食、關節痛慢食運動、關節痛食品安全、關節痛營養標籤、關節痛添加物風險、關節痛人工甜味劑、關節糖化終產物、AGEs、關節痛基因改造食品、關節痛農藥殘留、關節痛有機認證、關節痛公平貿易、關節痛飲食心理、關節痛食物成癮、關節痛情緒進食、關節痛行為改變、關節痛21天戒糖、關節痛7天排毒、關節痛健康挑戰、關節痛慢煮料理、關節痛生食飲食、關節痛低溫烹調、關節痛餐前準備、關節痛餐後消化、關節痛健康烹飪、關節痛健康旅遊、關節痛養生旅遊、關節痛抗炎旅遊、關節痛自然療法旅遊、關節痛健康運動、關節痛養生運動、關節痛抗炎運動、關節痛自然療法運動、關節痛健康瑜伽、關節痛養生瑜伽、關節痛抗炎瑜伽、關節痛自然療法瑜伽、關節痛中醫、關節痛針灸、關節痛草本、關節痛精油、關節痛芳療、關節痛薑黃、關節痛印度乳香、Boswellia serrata、關節痛Omega-3、關節痛鎂補充、關節痛維生素D、關節痛益生菌、關節痛羅伊氏菌、L. reuteri、關節痛腸道健康、關節痛腸腦軸、關節痛高硫食物、關節痛洋蔥、關節痛大蒜、關節痛十字花科、關節痛膠原蛋白、關節痛大骨湯、關節痛低鐵飲食、關節痛鐵過量、關節痛抗氧化食物、關節痛健康油脂、關節痛橄欖油、關節痛酪梨油、關節痛魚油、關節痛草飼動物脂肪</ns2:description>
    <ns2:community>
     <ns2:starRating count="339" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12244" />
+    <ns2:statistics views="12302" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3114,8 +3264,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 
 To customize your channel on desktop, check out this video: https://youtu.be/-dHIjmQyjFQ</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3859" average="5.00" min="1" max="5" />
-    <ns2:statistics views="49943" />
+    <ns2:starRating count="3876" average="5.00" min="1" max="5" />
+    <ns2:statistics views="50338" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3158,7 +3308,7 @@ Developed by KLabGames
 16:36 活動-城門防衛戰（協力）</ns2:description>
    <ns2:community>
     <ns2:starRating count="108" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10346" />
+    <ns2:statistics views="10375" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3191,8 +3341,8 @@ My Favourite Posion dart by: https://instagram.com/rroblinn
 Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
 Special thanks to Shrooby from discord for the Miku Motion voiceline!</ns2:description>
    <ns2:community>
-    <ns2:starRating count="8928" average="5.00" min="1" max="5" />
-    <ns2:statistics views="109223" />
+    <ns2:starRating count="8969" average="5.00" min="1" max="5" />
+    <ns2:statistics views="109694" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3213,8 +3363,8 @@ Special thanks to Shrooby from discord for the Miku Motion voiceline!</ns2:descr
    <ns2:thumbnail url="https://i2.ytimg.com/vi/9DUso0Vcgqg/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="315" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13497" />
+    <ns2:starRating count="317" average="5.00" min="1" max="5" />
+    <ns2:statistics views="13611" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3256,8 +3406,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
 
 #TED #TEDTalks #ClimateChange</ns2:description>
    <ns2:community>
-    <ns2:starRating count="280" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11593" />
+    <ns2:starRating count="281" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11648" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3278,8 +3428,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
    <ns2:thumbnail url="https://i2.ytimg.com/vi/Q06WDkZBriQ/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="51510" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1228444" />
+    <ns2:starRating count="51987" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1243143" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3304,8 +3454,8 @@ B站频道：磊哥聊政经
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="5098" average="5.00" min="1" max="5" />
-    <ns2:statistics views="60885" />
+    <ns2:starRating count="5101" average="5.00" min="1" max="5" />
+    <ns2:statistics views="60967" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3354,8 +3504,8 @@ B站频道：磊哥聊政经
    <ns2:thumbnail url="https://i4.ytimg.com/vi/SWHt5TNkr3w/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="18986" average="5.00" min="1" max="5" />
-    <ns2:statistics views="243837" />
+    <ns2:starRating count="19054" average="5.00" min="1" max="5" />
+    <ns2:statistics views="245015" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3410,8 +3560,8 @@ My favorite prompts &amp; templates: https://www.jeffsu.org/links/?utm_source=yo
 
 #google</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2059" average="5.00" min="1" max="5" />
-    <ns2:statistics views="40403" />
+    <ns2:starRating count="2082" average="5.00" min="1" max="5" />
+    <ns2:statistics views="41090" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3468,7 +3618,7 @@ https://www.instagram.com/ianmikael/</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UC2tQpW0dPiyWPebwBSksJ_g</ns0:uri>
   </ns0:author>
   <ns0:published>2025-10-21T12:00:56+00:00</ns0:published>
-  <ns0:updated>2025-10-22T20:27:27+00:00</ns0:updated>
+  <ns0:updated>2025-10-22T21:12:56+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>10天內一定能找到馬航？10年謎團即將揭開？為什麼說MH370就是一場人為事故？深扒隱藏在馬航背後的“大國博弈”...[She's Xiaowu 小烏]</ns2:title>
    <ns2:content url="https://www.youtube.com/v/VpUnbNBs9D8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -3495,8 +3645,8 @@ Copyright © 腦洞烏托邦™️ All Rights Reserved.
 ☆
 # Xiaowu # 小烏 # ndwtb # 驚掉下巴</ns2:description>
    <ns2:community>
-    <ns2:starRating count="8177" average="5.00" min="1" max="5" />
-    <ns2:statistics views="516975" />
+    <ns2:starRating count="8195" average="5.00" min="1" max="5" />
+    <ns2:statistics views="518528" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3522,8 +3672,8 @@ ALL SOCIALS - https://vldl.info
 WATCH US STREAM! - https://bit.ly/VLDLtwitch
 SERIES PLAYLISTS - https://bit.ly/VLDLplaylists</ns2:description>
    <ns2:community>
-    <ns2:starRating count="877" average="5.00" min="1" max="5" />
-    <ns2:statistics views="29703" />
+    <ns2:starRating count="880" average="5.00" min="1" max="5" />
+    <ns2:statistics views="29814" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3549,8 +3699,8 @@ ALL SOCIALS - https://vldl.info
 WATCH US STREAM! - https://bit.ly/VLDLtwitch
 SERIES PLAYLISTS - https://bit.ly/VLDLplaylists</ns2:description>
    <ns2:community>
-    <ns2:starRating count="19729" average="5.00" min="1" max="5" />
-    <ns2:statistics views="353131" />
+    <ns2:starRating count="19838" average="5.00" min="1" max="5" />
+    <ns2:statistics views="354775" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3616,8 +3766,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="207" average="5.00" min="1" max="5" />
-    <ns2:statistics views="20100" />
+    <ns2:starRating count="209" average="5.00" min="1" max="5" />
+    <ns2:statistics views="20249" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3669,8 +3819,8 @@ https://youtu.be/XQkjT1rOKj4
 1-Hour Real-Life English Conversations in Stories | Make Your English Great
 https://youtu.be/vfSFz9iYjsA</ns2:description>
    <ns2:community>
-    <ns2:starRating count="77" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2375" />
+    <ns2:starRating count="78" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2402" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3896,7 +4046,7 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
     <ns2:starRating count="697" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11121" />
+    <ns2:statistics views="11160" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3910,7 +4060,7 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
    <ns0:uri>https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg</ns0:uri>
   </ns0:author>
   <ns0:published>2025-10-21T12:00:01+00:00</ns0:published>
-  <ns0:updated>2025-10-22T20:25:44+00:00</ns0:updated>
+  <ns0:updated>2025-10-22T21:09:26+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>九上将团灭，习近平军队反腐，为何越反越腐？｜何卫东｜苗华｜徐才厚｜郭伯雄｜东南帮｜闽江新军｜王局拍案 20251021</ns2:title>
    <ns2:content url="https://www.youtube.com/v/042xZgAbCiQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -3930,8 +4080,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="7084" average="5.00" min="1" max="5" />
-    <ns2:statistics views="846005" />
+    <ns2:starRating count="7095" average="5.00" min="1" max="5" />
+    <ns2:statistics views="849059" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3952,8 +4102,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:thumbnail url="https://i1.ytimg.com/vi/hwKg9_aN45I/hqdefault.jpg" width="480" height="360" />
    <ns2:description>三國後期的女武將實在是太少了，欸但是，這次的情況有點不一樣......</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2024" average="5.00" min="1" max="5" />
-    <ns2:statistics views="94893" />
+    <ns2:starRating count="2026" average="5.00" min="1" max="5" />
+    <ns2:statistics views="95166" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3980,7 +4130,7 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 #猴哥 #小明劍魔 #React</ns2:description>
    <ns2:community>
     <ns2:starRating count="99" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8293" />
+    <ns2:statistics views="8320" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4002,8 +4152,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:description>大力出奇跡！世界大力士參加格鬥比賽，一拳打飛職業格鬥選手！
 #格鬥 #mma #格斗 #拳擊</ns2:description>
    <ns2:community>
-    <ns2:starRating count="523" average="5.00" min="1" max="5" />
-    <ns2:statistics views="52342" />
+    <ns2:starRating count="525" average="5.00" min="1" max="5" />
+    <ns2:statistics views="52872" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4025,7 +4175,7 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="131" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6157" />
+    <ns2:statistics views="6217" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4047,7 +4197,7 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:description>1993年美国真实事件</ns2:description>
    <ns2:community>
     <ns2:starRating count="345" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14772" />
+    <ns2:statistics views="14807" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4073,8 +4223,8 @@ ALL SOCIALS - https://vldl.info
 WATCH US STREAM! - https://bit.ly/VLDLtwitch
 SERIES PLAYLISTS - https://bit.ly/VLDLplaylists</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1300" average="5.00" min="1" max="5" />
-    <ns2:statistics views="28434" />
+    <ns2:starRating count="1308" average="5.00" min="1" max="5" />
+    <ns2:statistics views="28632" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4122,7 +4272,7 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
 感謝收看！喜歡請訂閱點贊！</ns2:description>
    <ns2:community>
     <ns2:starRating count="861" average="5.00" min="1" max="5" />
-    <ns2:statistics views="73595" />
+    <ns2:statistics views="73743" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4143,8 +4293,8 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
    <ns2:thumbnail url="https://i4.ytimg.com/vi/72H29-vYk2I/hqdefault.jpg" width="480" height="360" />
    <ns2:description>这次我们来到了挪威，向当地的摄影创作者们发起了一个街拍挑战，他们需要在半小时内，用最新的街拍神器在奥斯陆街头拍摄尽可能多的好看的样片，来给大家品鉴！如果你喜欢这期节目，请多多支持我们，并把视频分享给你的朋友们一起看看~</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1596" average="5.00" min="1" max="5" />
-    <ns2:statistics views="54555" />
+    <ns2:starRating count="1598" average="5.00" min="1" max="5" />
+    <ns2:statistics views="54684" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4200,115 +4350,6 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
    <ns2:community>
     <ns2:starRating count="12" average="5.00" min="1" max="5" />
     <ns2:statistics views="168" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:3wruU0qUsWU</ns0:id>
-  <ns1:videoId>3wruU0qUsWU</ns1:videoId>
-  <ns1:channelId>UCAcum7VtjCjEUpWyt6tms0Q</ns1:channelId>
-  <ns0:title>[大狸子切切裡 Cherry OFFICIAL CHANNEL]還在雷蛇羅技？現在不到百元也有頂配！不同價位國產滑鼠推薦，總有一款適合你！#滑鼠 #遊戲 #外設</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/3wruU0qUsWU" />
-  <ns0:author>
-   <ns0:name>大狸子切切裡 Cherry OFFICIAL CHANNEL</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAcum7VtjCjEUpWyt6tms0Q</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-10-21T08:00:03+00:00</ns0:published>
-  <ns0:updated>2025-10-21T08:00:05+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>還在雷蛇羅技？現在不到百元也有頂配！不同價位國產滑鼠推薦，總有一款適合你！#滑鼠 #遊戲 #外設</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/3wruU0qUsWU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/3wruU0qUsWU/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>歡迎訂閱切狸~ 在這裡你會看到很多有趣的數碼資訊哦！ | Please don’t forget to subscribe 💋：https://bit.ly/3jQ3429
--------------------------------------------------- ----------------------------------
-
-F O L L O W M E
-Weibo: @大狸子切切里
-Bilibili: https://space.bilibili.com/471303350
-#滑鼠 #遊戲 #外設</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="166" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6022" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:SqE6Krjg838</ns0:id>
-  <ns1:videoId>SqE6Krjg838</ns1:videoId>
-  <ns1:channelId>UCBKDRq35-L8xev4O7ZqBeLg</ns1:channelId>
-  <ns0:title>[王志安]泽连斯基拒绝割地与特朗普谈判不欢而散，被迫在白宫外马路边开记者会【新闻特写】</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=SqE6Krjg838" />
-  <ns0:author>
-   <ns0:name>王志安 </ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-10-21T03:48:52+00:00</ns0:published>
-  <ns0:updated>2025-10-22T02:15:01+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>泽连斯基拒绝割地与特朗普谈判不欢而散，被迫在白宫外马路边开记者会【新闻特写】</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/SqE6Krjg838?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/SqE6Krjg838/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>1. YouTube 会员平台
-成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。
-点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join
- 
-2. Patreon 会员平台
-在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Patreon 支持使用中国大陆银行卡支付！点击链接立刻加入：
-Patreon 会员加入链接：https://www.patreon.com/join/8734589
-
-王局新书【王志安谈治国理政第二卷电子书】不怎么火热销售中
-【PATREON购买链接】https://www.patreon.com/c/wangzhian/shop
-【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
-【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1611" average="5.00" min="1" max="5" />
-    <ns2:statistics views="172627" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:f80cvFv6Apo</ns0:id>
-  <ns1:videoId>f80cvFv6Apo</ns1:videoId>
-  <ns1:channelId>UC9v3JGut2Z1PxrXEpGzgEAA</ns1:channelId>
-  <ns0:title>[TESTV]旧手机都去哪了？回收流程大爆料！【BB Time第492期】</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=f80cvFv6Apo" />
-  <ns0:author>
-   <ns0:name>TESTV</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC9v3JGut2Z1PxrXEpGzgEAA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-10-21T02:00:42+00:00</ns0:published>
-  <ns0:updated>2025-10-21T06:48:01+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>旧手机都去哪了？回收流程大爆料！【BB Time第492期】</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/f80cvFv6Apo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/f80cvFv6Apo/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>TESTV回收业务上线，体验如何？我们想了个办法，到底怎么样，一起来看看！
-=========================
- 加入会员：https://www.youtube.com/channel/UC9v3JGut2Z1PxrXEpGzgEAA/join
-TESTV不接受厂家业配，专注表达真实、独立的产品使用体验。
-如果我们的内容能够帮助到你，不妨加入频道会员，帮助我们做出更优质的节目！</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="526" average="5.00" min="1" max="5" />
-    <ns2:statistics views="22986" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:lMWU6zwoXG4</ns0:id>
-  <ns1:videoId>lMWU6zwoXG4</ns1:videoId>
-  <ns1:channelId>UCrXHVBS1cJg7MY9krqtCSAg</ns1:channelId>
-  <ns0:title>[电影最TOP唯一官方频道]窒息！史上最抓马大师赛，实至，名归！</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=lMWU6zwoXG4" />
-  <ns0:author>
-   <ns0:name>电影最TOP唯一官方频道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCrXHVBS1cJg7MY9krqtCSAg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-10-21T01:15:08+00:00</ns0:published>
-  <ns0:updated>2025-10-21T08:12:41+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>窒息！史上最抓马大师赛，实至，名归！</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/lMWU6zwoXG4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/lMWU6zwoXG4/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="64" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4245" />
    </ns2:community>
   </ns2:group>
  </ns0:entry></feed>
