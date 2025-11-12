@@ -1,5 +1,103 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2025-11-12T14:45:20Z</updated><ns0:entry>
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2025-11-12T15:19:49Z</updated><ns0:entry>
+  <ns0:id>yt:video:Z3S3riJJkFw</ns0:id>
+  <ns1:videoId>Z3S3riJJkFw</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]How Flawless AI simplified operations with Amazon EKS Hybrid Nodes | Amazon Web Services</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=Z3S3riJJkFw" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-11-12T14:57:29+00:00</ns0:published>
+  <ns0:updated>2025-11-12T14:57:29+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>How Flawless AI simplified operations with Amazon EKS Hybrid Nodes | Amazon Web Services</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/Z3S3riJJkFw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/Z3S3riJJkFw/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Learn how Flawless AI, an entertainment company specializing in visual dubbing and film localization, transformed their operations using Amazon EKS Hybrid Nodes. The company faced growing operational complexity while managing GPU resources across multiple systems, with AI researchers manually provisioning dedicated cloud instances and individual GPUs for long-running experiments.
+
+By implementing Amazon EKS Hybrid Nodes, Flawless unified their AWS and third-party GPU infrastructure under a single control plane. This transformation delivered significant outcomes, reducing AI model training times from weeks to days and achieving 5x faster rendering performance. The solution also streamlined resource management across hybrid environments, enabled automated workload deployment through advanced schedulers, improved system responsiveness, and provided access to fractional GPU capabilities.
+
+"Because of our growth, we needed to significantly scale our operations. Amazon EKS Hybrid Nodes presented us with a cost-efficient scaling solution," says James Morgan, Principal Platform Engineer at Flawless. 
+
+The modernized infrastructure has positioned Flawless for continued growth in the AI-powered entertainment industry. Their streamlined approach helps deliver innovative visual dubbing technology to major studios worldwide, ensuring that stories can reach global audiences while preserving the authenticity of original performances.
+
+Learn more about Amazon EKS Hybrid Nodes at http://go.aws/3WNjPxy
+
+Reducing operational complexity using Amazon EKS Hybrid Nodes with Flawless: https://go.aws/47RvksN
+
+Subscribe to AWS: https://go.aws/subscribe
+
+Create a free AWS account: https://go.aws/signup 
+Try AWS for free: https://go.aws/free 
+Connect with an expert: https://go.aws/contact
+Explore more: https://go.aws/more
+
+Next steps:
+Explore on AWS in Analyst Research:  https://go.aws/reports
+Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
+Join the AWS Partner Network: https://go.aws/partners 
+Learn more on how Amazon builds and operates software: https://go.aws/library 
+
+Do you have technical AWS questions? 
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+Why AWS?
+Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
+
+#AWS #AmazonWebServices #AI #CloudComputing #Entertainment</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="2" average="5.00" min="1" max="5" />
+    <ns2:statistics views="51" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:9o1HPx__P9w</ns0:id>
+  <ns1:videoId>9o1HPx__P9w</ns1:videoId>
+  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
+  <ns0:title>[TED]Two US Governors — a Democrat and a Republican — on Why There’s Hope for Democracy | On the Spot</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=9o1HPx__P9w" />
+  <ns0:author>
+   <ns0:name>TED</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-11-12T14:32:53+00:00</ns0:published>
+  <ns0:updated>2025-11-12T14:32:55+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Two US Governors — a Democrat and a Republican — on Why There’s Hope for Democracy | On the Spot</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/9o1HPx__P9w?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/9o1HPx__P9w/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Two current US governors — Democrat Matt Meyer of Delaware and Republican J. Kevin Stitt of Oklahoma — trade notes on how to rebuild trust without partisan theater. Hear their thoughts on leading when people live in different realities, how to swap outrage for outcomes and why we need to govern like neighbors, not enemies, as they join us for “On the Spot,” TED’s rapid-fire Q&amp;A format. (Recorded at TEDNext 2025 on November 10, 2025)
+
+TED is a non-partisan 501(c)(3) tax-exempt organization and does not participate or intervene in any political campaign and neither supports nor opposes any candidate for public office.
+
+Join us in person at a TED conference: https://tedtalks.social/events
+Become a TED Member to support our mission: https://ted.com/membership
+Subscribe to a TED newsletter: https://ted.com/newsletters
+
+Follow TED! 
+X: https://www.twitter.com/TEDTalks
+Instagram: https://www.instagram.com/ted
+Facebook: https://facebook.com/TED
+LinkedIn: https://www.linkedin.com/company/ted-conferences
+TikTok: https://www.tiktok.com/@tedtoks
+
+The TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.
+
+Watch more: https://go.ted.com/meyerandstitt
+
+https://youtu.be/9o1HPx__P9w
+
+TED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com
+
+#TED #TEDTalks #politics</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="81" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1337" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
   <ns0:id>yt:video:Yv4Tc5hy7yI</ns0:id>
   <ns1:videoId>Yv4Tc5hy7yI</ns1:videoId>
   <ns1:channelId>UCgFvT6pUq9HLOvKBYERzXSQ</ns1:channelId>
@@ -17,8 +115,8 @@
    <ns2:thumbnail url="https://i2.ytimg.com/vi/Yv4Tc5hy7yI/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="133" average="5.00" min="1" max="5" />
-    <ns2:statistics views="682" />
+    <ns2:starRating count="1927" average="5.00" min="1" max="5" />
+    <ns2:statistics views="34250" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -39,8 +137,8 @@
    <ns2:thumbnail url="https://i3.ytimg.com/vi/jay-lBwAJ_4/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="436" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3947" />
+    <ns2:starRating count="1327" average="5.00" min="1" max="5" />
+    <ns2:statistics views="12337" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -84,7 +182,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3" average="5.00" min="1" max="5" />
+    <ns2:starRating count="4" average="5.00" min="1" max="5" />
     <ns2:statistics views="294" />
    </ns2:community>
   </ns2:group>
@@ -129,8 +227,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3551" average="5.00" min="1" max="5" />
-    <ns2:statistics views="27576" />
+    <ns2:starRating count="5095" average="5.00" min="1" max="5" />
+    <ns2:statistics views="40931" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -378,8 +476,8 @@ https://www.youtube.com/watch?v=2FLYgFa2ZyI
 
 【奇趣】https://goo.gl/Tbpiuj</ns2:description>
    <ns2:community>
-    <ns2:starRating count="5575" average="5.00" min="1" max="5" />
-    <ns2:statistics views="77920" />
+    <ns2:starRating count="7984" average="5.00" min="1" max="5" />
+    <ns2:statistics views="115773" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -414,8 +512,8 @@ Copyright © 腦洞烏托邦™️ All Rights Reserved.
 ☆
 # Xiaowu # 小烏 # ndwtb # 驚掉下巴</ns2:description>
    <ns2:community>
-    <ns2:starRating count="147" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2991" />
+    <ns2:starRating count="178" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3818" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -445,8 +543,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
 
 #猴哥 #猴哥精華 #猴哥日常</ns2:description>
    <ns2:community>
-    <ns2:starRating count="323" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5228" />
+    <ns2:starRating count="419" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7353" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -467,8 +565,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
    <ns2:thumbnail url="https://i3.ytimg.com/vi/2dNWxUnM6p8/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="280" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4571" />
+    <ns2:starRating count="375" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5931" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -490,8 +588,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
    <ns2:description>巴哈姆特電玩瘋直播 PC 《伊藤潤二狂熱：無盡的囹圄》，由編輯 Nico 跟特約一鐵 主持。
 首款伊藤潤二授權的第一人稱恐怖冒險遊戲，我們是失憶又被困在神秘洋樓的大學生，為了逃離洋樓卻遇到了更多恐怖詭異的現象，找回記憶的過程中逐漸拼湊出讓人毛骨悚然的終局。</ns2:description>
    <ns2:community>
-    <ns2:starRating count="84" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2768" />
+    <ns2:starRating count="86" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2986" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -523,8 +621,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="967" average="5.00" min="1" max="5" />
-    <ns2:statistics views="47190" />
+    <ns2:starRating count="1094" average="5.00" min="1" max="5" />
+    <ns2:statistics views="57690" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -749,8 +847,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="199" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1454" />
+    <ns2:starRating count="231" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1984" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -776,8 +874,8 @@ ALL SOCIALS - https://vldl.info
 WATCH US STREAM! - https://bit.ly/VLDLtwitch
 SERIES PLAYLISTS - https://bit.ly/VLDLplaylists</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3830" average="5.00" min="1" max="5" />
-    <ns2:statistics views="37104" />
+    <ns2:starRating count="5550" average="5.00" min="1" max="5" />
+    <ns2:statistics views="55717" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -805,8 +903,8 @@ Facebook：https://www.facebook.com/FinalFantasyXIVTC
 
 #FF14 #FFXIV</ns2:description>
    <ns2:community>
-    <ns2:starRating count="947" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14159" />
+    <ns2:starRating count="1062" average="5.00" min="1" max="5" />
+    <ns2:statistics views="16941" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -846,8 +944,8 @@ Facebook：https://www.facebook.com/FinalFantasyXIVTC
 
 #Overwatch2 #gaming #mL7</ns2:description>
    <ns2:community>
-    <ns2:starRating count="33" average="5.00" min="1" max="5" />
-    <ns2:statistics views="840" />
+    <ns2:starRating count="44" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1001" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -890,8 +988,8 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
 製作更多有趣、有價值的視頻內容
 感謝收看！喜歡請訂閱點贊！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="267" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9648" />
+    <ns2:starRating count="301" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11726" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -935,8 +1033,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1418" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11173" />
+    <ns2:starRating count="1478" average="5.00" min="1" max="5" />
+    <ns2:statistics views="12805" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -957,8 +1055,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
    <ns2:thumbnail url="https://i4.ytimg.com/vi/_QguMoDgSgM/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="40" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1797" />
+    <ns2:starRating count="42" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2000" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -983,8 +1081,8 @@ B站频道：磊哥聊政经
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4900" average="5.00" min="1" max="5" />
-    <ns2:statistics views="48968" />
+    <ns2:starRating count="5095" average="5.00" min="1" max="5" />
+    <ns2:statistics views="53221" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1005,8 +1103,8 @@ B站频道：磊哥聊政经
    <ns2:thumbnail url="https://i4.ytimg.com/vi/WerVf9uTN90/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="86" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2961" />
+    <ns2:starRating count="84" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3160" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1047,7 +1145,7 @@ http://www.youtube.com/timedtext_cs_panel?tab=2&amp;c=UCpPswAyGzdRwWmiW5oTNnvA
 联系邮箱：BOSS@bigdongdong.com</ns2:description>
    <ns2:community>
     <ns2:starRating count="32" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1917" />
+    <ns2:statistics views="2106" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1095,8 +1193,8 @@ https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:thumbnail url="https://i4.ytimg.com/vi/GJ6JkTJBkOU/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="191" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5163" />
+    <ns2:starRating count="195" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5395" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1123,8 +1221,8 @@ Weibo: @大狸子切切里
 Bilibili: https://space.bilibili.com/471303350
 #iphone17 #蘋果 #ios #手機技巧</ns2:description>
    <ns2:community>
-    <ns2:starRating count="174" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6926" />
+    <ns2:starRating count="189" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7681" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1145,8 +1243,8 @@ Bilibili: https://space.bilibili.com/471303350
    <ns2:thumbnail url="https://i2.ytimg.com/vi/izwucC3q1b4/hqdefault.jpg" width="480" height="360" />
    <ns2:description>没想到我们这么快就1400万粉丝了，这次我们用超强的执行力，回答了许多从未想过的问题，希望可以满足你的好奇！如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2801" average="5.00" min="1" max="5" />
-    <ns2:statistics views="58317" />
+    <ns2:starRating count="2894" average="5.00" min="1" max="5" />
+    <ns2:statistics views="61860" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1240,8 +1338,8 @@ https://soundcloud.com/getsixofficial
 
 #overwatch2</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2583" average="5.00" min="1" max="5" />
-    <ns2:statistics views="65099" />
+    <ns2:starRating count="2639" average="5.00" min="1" max="5" />
+    <ns2:statistics views="67681" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1262,8 +1360,8 @@ https://soundcloud.com/getsixofficial
    <ns2:thumbnail url="https://i2.ytimg.com/vi/qMvrw-WWUzM/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Apple Watch SE 3. Here is the link to follow along on this 25 days 25 Tech Gifts 🎁 https://linktr.ee/uravgconsumer</ns2:description>
    <ns2:community>
-    <ns2:starRating count="372" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9186" />
+    <ns2:starRating count="375" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9480" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1306,8 +1404,8 @@ CDT播客：https://cdt.firstory.io
 
 The copyright of this video belongs to the original creator. China Digital Times has cached a copy of the original work only for archival purposes in order to counter state censorship by the People’s Republic of China.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="17" average="5.00" min="1" max="5" />
-    <ns2:statistics views="884" />
+    <ns2:starRating count="18" average="5.00" min="1" max="5" />
+    <ns2:statistics views="951" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1385,8 +1483,8 @@ TikTok: https://tiktok.com/@imaginedragons​​
 
 #ImagineDragons</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1406" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14045" />
+    <ns2:starRating count="1426" average="5.00" min="1" max="5" />
+    <ns2:statistics views="14298" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1480,8 +1578,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 
 刺激幹細胞、幹細胞修復、Dr. Berg、柏格醫生、自然療法、7種方法、長斷食、72小時斷食、斷食好處、運動刺激細胞、深度好眠、綠茶兒茶素、歐米伽3、維生素D3K2、冷療法、冷水浴、纖維化修復、肝纖維化、腦細胞修復、關節軟骨再生、自體免疫病、皮膚細胞再生、癌症修復、癌幹細胞、乾斷食抗癌、正常細胞基因、防脫水基因、癌細胞弱點、發炎破壞、壓力影響、睡眠不足、垃圾食物、酒精危害、吸菸損害、污染因素、慢性發炎、儲備細胞、身體細胞轉化、無需看診、無需手術、低成本療法、幹細胞激活、再生醫學、自然激活、斷食療程、間歇性斷食、HIIT運動、有氧運動、REM睡眠、綠茶抗氧化、兒茶素益處、魚油補充、亞麻籽油、橄欖油好處、高劑量維生素D、陽光暴露、維生素K2、骨密度提升、冷水澡、冰浴療法、炎症控制、壓力管理、冥想技巧、健康飲食、蔬果營養、全穀物、避免加工食品、戒酒建議、禁菸方法、空氣淨化、環境保護、細胞再生機制、幹細胞療法、成人幹細胞、間質幹細胞、骨髓幹細胞、神經幹細胞、肝臟再生、腎臟修復、心臟組織、肌肉恢復、關節炎緩解、類風濕關節炎、紅斑性狼瘡、皮膚老化、皺紋減少、傷口癒合、免疫調節、T細胞、B細胞、抗體產生、腫瘤抑制、癌細胞凋亡、化療輔助、手術替代、預防醫學、養生之道、每日習慣、週末斷食、健身計劃、睡眠衛生、茶飲推薦、 omega-3來源、D3補充劑、K2益處、冷熱交替療法、炎症飲食、地中海飲食、抗發炎食物、薑黃素、薑黃粉、藍莓抗氧、堅果好處、優格益生菌、腸道健康、微生物群、壓力荷爾蒙、皮質醇控制、瑜伽練習、正念冥想、森林浴、戶外活動、陽光療法、維生素D缺乏、骨質疏鬆、免疫力提升、抗老化、壽命延長、再生潛力、科學證據、臨床研究、Dr. Berg影片、YouTube健康、營養講座、酮飲食、酮體作用、血糖穩定、胰島素敏感、代謝健康、心血管保護、膽固醇管理、血壓控制、體重減輕、能量提升、腦霧改善、記憶力增強、情緒穩定、憂鬱緩解、焦慮減輕、荷爾蒙平衡、甲狀腺功能、腎上腺疲勞、解毒機制、肝臟解毒、腎臟過濾、淋巴循環、血液淨化、氧氣運輸、線粒體功能、能量產生、細胞能量、ATP合成、氧化壓力、自由基清除、抗氧化劑、維生素C、維生素E、硒礦物質、鋅補充、鎂放鬆、鈣吸收、膠原蛋白、彈性蛋白、組織工程、生物駁斥、自身免疫攻擊、關節滑液、軟骨細胞、骨細胞、成骨作用、破骨作用、骨密度掃描、DEXA檢查、炎症標記、CRP測試、ESR指標、血檢建議、醫師諮詢、個人化計劃、年齡適應、兒童應用、老人養生、孕婦注意、運動員恢復、傷害修復、運動傷害、ACL撕裂、半月板損傷、脊椎退化、椎間盤突出、頸椎問題、腰椎疼痛、關節置換替代、自然關節療法、針灸輔助、按摩益處、物理治療、復健計劃、日常伸展、核心訓練、平衡練習、協調性、靈活性、肌耐力、有氧耐力、無氧閾值、VO2 max、乳酸門檻、心率監測、穿戴裝置、Fitbit、Apple Watch、健康App、追蹤數據、進度記錄、目標設定、動機維持、社群支持、線上論壇、Reddit健康、Facebook群組、Instagram健身、TikTok短片、Podcast營養、書籍推薦、Dr. Berg著作、酮飲食書、斷食指南、細胞生物學、分子機制、基因表達、表觀遺傳、DNA甲基化、組蛋白修飾、轉錄因子、信號途徑、NF-kB路徑、MAPK信號、PI3K/Akt、mTOR抑制、自噬激活、溶酶體作用、蛋白質降解、細胞清理、年輕化、端粒酶、端粒長度、染色體穩定、癌症預防、腫瘤微環境、血管生成抑制、轉移阻斷、化學預防、自然化合物、植物化學物、多酚類、黃酮類、萜類化合物、精油療法、薰衣草精油、薄荷油、芳療放鬆、泡澡鹽、鎂浴、熱敷冷敷、交替療法、桑拿蒸氣、紅外線燈、熱療益處、循環改善、血管擴張、血流加速、氧合增加、營養輸送、廢物排出、毒素累積、解毒茶、蒲公英茶、奶薊、肝臟支持、膽囊健康、膽汁流動、消化酶、胃酸平衡、腸道滲漏修復、糞便移植、益生菌株、乳酸桿菌、雙歧桿菌、發酵食品、泡菜、優格、自製優格、穀物替代、杏仁奶、椰奶、低碳飲食、零食推薦、堅果棒、蔬菜棒、海藻益處、螺旋藻、查爾斯藻、綠藻粉、超級食物、奇亞籽、亞麻籽、南瓜籽、葵花籽、 omega來源、DHA、EPA、ALA轉化、魚類選擇、鮭魚、鯖魚、沙丁魚、罐頭魚、素食來源、藻油、亞麻油、核桃、綠葉菜、菠菜、羽衣甘藍、芥藍菜、維生素K來源、骨頭湯、膠原補充、關節支持、MSM硫、葡萄糖胺、軟骨素、獅鬃菇、神經保護、獅鬃菇粉、靈芝菇、免疫調節、真菌療法、亞洲醫學、中醫觀點、針灸穴位、足底按摩、手部穴位、氣功練習、太極拳、呼吸法、四方呼吸、腹式呼吸、鼻息控制、氧氣飽和、肺活量、氣喘緩解、過敏控制、花粉症、塵蟎、寵物過敏、免疫過度、Th1 Th2平衡、細胞因子風暴、COVID後遺症、長新冠恢復、疫苗反應、mRNA技術、自然免疫、病毒抵抗、細菌感染、抗生素替代、天然抗生素、大蒜、薑、蜂蜜、馬努卡蜜、傷口護理、燒燙傷、燙傷療法、蜂膠、樹脂酸、口腔健康、牙齦修復、牙周病、漱口水、自製漱口、椰子油漱口、油漱療法、解毒口、汞中毒、重金屬排毒、螯合劑、DMSA、EDTA、天然螯合、香菜、巴西堅果、硒解毒、輻射防護、電磁輻射、藍光防護、螢幕時間、睡眠面罩、黑窗簾、褪黑激素、天然褪黑激素、櫻桃汁、褪黑素補充、晝夜節律、時差調整、輪班工作者、夜班健康、藍光眼鏡、數位排毒、斷網日、戶外時間、自然光、維生素D合成、皮膚癌預防、防曬選擇、礦物防曬、化學防曬、UVA UVB、老化光、皺紋防護、玻尿酸、膠原注射、自然替代、玫瑰果油、維生素C精華、視黃醇、A醇、皮膚屏障、角質層、濕潤劑、神經酰胺、角鯊烯、荷荷巴油、茶樹油、抗菌、抗真菌、足癬、頭皮屑、茶樹洗髮、椰子油護髮、頭皮按摩、血液循環、毛囊健康、脫髮預防、雄性禿、女性脫髮、鐵缺乏、生物素、鋅補充、甲狀腺檢查、TSH T4、荷爾蒙面板、女性健康、更年期、熱潮紅、陰道乾澀、大豆異黃酮、亞麻籽、黑豆、月經調理、PMS緩解、子宮內膜、卵巢囊腫、多囊卵巢、PCOS飲食、低GI食物、胰島素抵抗、血糖監測、連續血糖、CGM裝置、糖尿病預防、2型糖尿病、酮尿試紙、酮體測量、斷食血糖、葡萄糖耐受、胰島素敏感、肌肉葡萄糖、肝糖原、脂肪肝、非酒精性脂肪肝、NAFLD飲食、地中海模式、Mediterranean diet、橄欖油滴數、紅酒適量、白藜蘆醇、葡萄皮、藍莓、覆盆子、抗氧化水果、漿果類、草莓、覆盆子、黑莓、桑葚、阿薩伊、超果、綠粉補充、蔬菜粉、水果粉、酵素飲、綠汁、榨汁機、慢速榨汁、纖維保留、腸道蠕動、便秘緩解、腹瀉控制、腸易激、IBS飲食、低FODMAP、發酵碳水、寡糖、果糖、乳糖不耐、優格選擇、無乳製品、杏仁優格、椰子優格、植物奶、燕麥奶、大豆奶、營養均衡、熱量計算、宏量營養、蛋白質來源、瘦肉、雞胸、魚肉、豆腐、蛋類、蛋黃、膽鹼、腦健康、卵磷脂、DHA腦補、阿爾茨海默預防、癡呆風險、認知衰退、腦訓練、Lumosity、Duolingo、語言學習、音樂療法、鋼琴練習、唱歌益處、肺活量、氧氣交換、氣管擴張、支氣管、哮喘吸入器、自然替代、薑茶、蜂蜜薑、薄荷茶、呼吸練習、普拉提、瑜伽體位、倒立式、肩倒立、血壓倒流、靜脈回流、心臟負荷、休息日、恢復日、泡沫滾筒、按摩槍、肌筋膜釋放、拉伸帶、阻力訓練、啞鈴、壺鈴、體重訓練、深蹲、硬拉、臥推、核心穩定、平板支撐、俄羅斯轉體、側橋、平衡球、瑞士球、瑜伽球、脊椎伸展、貓牛式、兒童式、蟲子式、橋式、蝴蝶式、鴿子式、髖關節、骨盆傾斜、骨盆底肌、凱格爾練習、尿失禁、產後恢復、盆底療法、婦科健康、子宮脫垂、直腸脫垂、便秘訓練、排便習慣、馬桶姿勢、蹲式馬桶、益生菌漱口、口腔微生物、牙菌斑、牙結石、刮舌、舌苔清潔、鹽水漱口、氫氧化鈉、鹼性飲食、酸鹼平衡、pH值、尿pH測試、鹼性食物、檸檬水、蘋果醋、發酵飲料、金檸檬水、</ns2:description>
    <ns2:community>
-    <ns2:starRating count="411" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6793" />
+    <ns2:starRating count="423" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6980" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1558,8 +1656,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 
 營養缺乏症狀、維生素缺乏警訊、柏格醫師營養講座、B族維生素不足、鐵質缺乏徵兆、過度打哈欠原因、紅肉補鐵來源、空氣飢渴症狀、B1維生素暈眩、高碳水飲食風險、高糖飲食危害、抽筋休止現象、血鈣不足警訊、鈣質鎖住問題、蘋果醋補鈣、維生素D吸收、綠色大便成因、膽汁分泌異常、黃色大便警示、蒼白大便問題、益生菌缺乏、葉綠素吸收不良、下背痛營養缺乏、臀部疼痛原因、骨骼骨頭不適、維生素D補充劑、1萬國際單位維生素D、怕冷怕熱症狀、離子平衡失調、B1維生素寒冷感、舌苔發白成因、益生菌益處、停止吃糖重要、低密度脂蛋白高、LDL膽固醇升高、高密度脂蛋白低、HDL膽固醇不足、維生素B3菸鹼酸、菸鹼酸補充法、腹脹胃痛消化不良、胃酸分泌不足、甜菜鹼鹽酸鹽治療、手術後耗盡症狀、鈉質流失警訊、鹽分補充必要、闌尾炎脈搏高、鉀質缺乏徵兆、維生素D3作用、營養素日常警訊、身體發送信號、鐵缺乏貧血、維生素B1腳氣病、B族維生素神經問題、鈣質骨質疏鬆、維生素D陽光來源、膽汁肝臟健康、益生菌腸道菌群、糖分對腸道影響、B3維生素皮膚健康、菸鹼酸紅疹副作用、胃酸胃潰瘍預防、甜菜鹼消化酶、鈉鉀平衡電解質、手術恢復營養、維生素D3免疫力、哈欠頻繁疲勞、飢渴口乾脫水、抽筋肌肉痙攣、綠便膽道阻塞、黃便脂肪吸收差、蒼便貧血相關、下背椎間盤問題、骨盆炎症營養、寒熱交替自律神經、舌苔白濕氣重、LDL心血管風險、HDL保護心臟、腹脹腸氣食物、胃痛酸反流、消化不良酶缺乏、鈉汗水流失、脈搏心律不整、鉀香蕉來源、D3魚油補充、營養缺乏自檢、維生素食物來源、B1全穀類、B3堅果瘦肉、鈣乳製品綠蔬、鐵菠菜紅肉、膽汁苦瓜幫助、益生菌優格、胃酸檸檬水、甜菜根補充、電解質運動飲、維生素D蛋黃、貧血女性常見、腳氣糖尿病併發、骨痛老人警訊、怕冷甲狀腺問題、舌苔診斷中醫、膽固醇飲食控制、腹痛排便習慣、脈搏監測健康、鉀低血壓風險、營養師建議、柏格醫師影片、SEO營養健康、維生素缺乏測試、日常飲食調整、補充劑副作用、鐵片吸收維C、綠便兒童常見、骨密度檢查、寒熱循環更年期、B3劑量安全、胃酸pH值、鈉高血壓關聯、D3冬季不足、哈欠氧氣不足、飢渴腎臟信號、抽筋鎂質相關、黃便寄生蟲疑、臀痛坐骨神經、舌白口腔衛生、LDL藥物交互、HDL運動提升、腹脹乳糖不耐、消化酶膠囊、手術維生素C、脈高咖啡因、鉀補充香蕉、D3陽光曝曬、營養缺乏兒童、維生素B群複合、鐵缺乏素食者、綠便葉菜過多、骨痛維K協同、怕熱荷爾蒙失調、益生菌株選擇、菸鹼酸緩釋型、胃痛壓力相關、甜菜鹼天然源、電解質粉沖泡、維生素D毒性上限、貧血頭暈症狀、腳氣腳底灼熱、骨骼鈣磷比、寒冷循環不良、舌苔刮舌工具、膽固醇基因因素、腹脹氣體食物、脈搏APP追蹤、鉀低肌肉無力、D3素食來源、營養警訊圖解、柏格醫師書籍、維生素缺乏菜單、鐵補充禁忌、B1酒精消耗、鈣質維A輔助、膽汁膽囊結石、益生菌發酵食、胃酸測試紙、B3能量代謝、鈉烹調鹽選擇、手術蛋白質修復、脈搏心臟負荷、鉀蔬果均衡、D3骨健康、哈欠睡眠品質、飢渴血糖波動、抽筋夜間常見、黃便肝功能、蒼便腸炎疑、下背核心肌群、骨頭鈣化過程、寒熱環境適應、舌白真菌感染、LDL飽和脂肪、HDL omega3、腹痛IBS症候群、消化不良壓力、鈉低頭痛、D3免疫細胞、營養缺乏孕婦、維生素B12神經、鐵缺乏月經、綠便鐵劑副作用、骨痛關節炎、怕冷鐵缺乏、益生菌旅行腹瀉、B3偏頭痛緩解、胃酸GERD治療、甜菜鹼肝臟解毒、電解質馬拉松、維生素D兒童劑量、貧血運動耐力、腳氣維生素E、骨骼X光檢查、寒熱中藥調理、舌苔顏色變化、膽固醇素食飲食、腹脹纖維過多、脈搏咖啡脫水、鉀心律平穩、D3癌症預防、營養缺乏老人、維生素缺乏血液檢查、鐵補充黑木耳、B1壓力消耗、鈣質運動吸收、膽汁綠茶幫助、益生菌寵物食品、胃酸優格緩解、B3皮膚光澤、鈉加工食品、手術鋅修復、脈高焦慮相關、鉀堅果來源、D3心情調節、哈欠維生素B12、飢渴電解質失衡、抽筋熱天氣、黃便抗生素後、蒼便出血疑、下背瑜伽緩解、骨頭膠原蛋白、寒熱經期症狀、舌白刷牙習慣、LDL堅果降低、HDL綠茶提升、腹痛食物過敏、消化不良年齡、鈉運動補給、D3維生素K2、營養警訊APP、柏格醫師Podcast、維生素缺乏季節、鐵缺乏兒童多動</ns2:description>
    <ns2:community>
-    <ns2:starRating count="227" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4323" />
+    <ns2:starRating count="233" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4450" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1573,7 +1671,7 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
    <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
   </ns0:author>
   <ns0:published>2025-11-11T22:00:34+00:00</ns0:published>
-  <ns0:updated>2025-11-11T22:01:20+00:00</ns0:updated>
+  <ns0:updated>2025-11-12T14:49:02+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Trend Micro accelerates cybersecurity adoptions with AWS and NVIDIA | Amazon Web Services</ns2:title>
    <ns2:content url="https://www.youtube.com/v/tpo9Jl7ndrs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -1582,9 +1680,7 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
                                                                                                                       
 Trend Micro's security platform runs natively on AWS infrastructure, leveraging NVIDIA's AI frameworks and GPU acceleration to enhance threat detection and response capabilities.  Fernando Cardoso, Trend Micro’s VP of Product Management, AI &amp; Cloud Security, shares how they built an AI Anomaly Detection utilizing NVIDIA Morpheus (https://www.nvidia.com/en-us/ai-data-science/products/morpheus) fingerprint running on AWS.                  
                                                                               
-Watch now to see how Trend Micro, AWS, and NVIDIA help organizations identify threats accelerate adoptions for customers.
-
-Learn more about AWS and NVIDIA: https://go.aws/4qRW8li
+Watch now to see how Trend Micro, AWS, and NVIDIA help organizations identify threats and accelerate adoptions for customers. Learn more about AWS and NVIDIA: https://go.aws/4qRW8li
 
 Subscribe to AWS: https://go.aws/subscribe
 
@@ -1608,7 +1704,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
     <ns2:starRating count="3" average="5.00" min="1" max="5" />
-    <ns2:statistics views="125" />
+    <ns2:statistics views="138" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1622,17 +1718,16 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
    <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
   </ns0:author>
   <ns0:published>2025-11-11T22:00:30+00:00</ns0:published>
-  <ns0:updated>2025-11-11T22:00:30+00:00</ns0:updated>
+  <ns0:updated>2025-11-12T14:51:24+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Rackspace dramatically reduces processing time with AWS and NVIDIA | Amazon Web Services</ns2:title>
    <ns2:content url="https://www.youtube.com/v/rBifCJSEE5o?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i3.ytimg.com/vi/rBifCJSEE5o/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Hear from Greg Peter, Senior Data &amp; AI Solutions Architect, how Rackspace (www.rackspace.com/) significantly expanded its offerings in 2024, launching over 65 new solutions for customers through its strategic partnership with AWS (www.aws.com) and NVIDIA (www.nvidia.com), which included deploying advanced tools like the RFX evaluator to dramatically reduce processes from days to minutes by leveraging Amazon Bedrock (https://go.aws/4qVLJF9) on NVIDIA GPU infrastructure (www.nvidia.com/en-us/data-center/products/).            
-                                                                
-As a managed services provider, Rackspace offers customers on-demand access to powerful GPU resources for AI, machine learning, data analytics, and generative AI.
+   <ns2:description>Hear from Greg Peter, Senior Data &amp; AI Solutions Architect, how Rackspace (www.rackspace.com/) significantly expanded its offerings in 2024, launching over 65 new solutions for customers through its strategic partnership with AWS (www.aws.com) and NVIDIA (www.nvidia.com), which included deploying advanced tools like the RFX evaluator to dramatically reduce processes from days to minutes by leveraging Amazon Bedrock (https://go.aws/4qVLJF9) on NVIDIA GPU infrastructure (www.nvidia.com/en-us/data-center/products/). 
 
-The partnership with AWS and NVIDIA enables Rackspace clients to access scalable, accelerated AI capabilities and supports complex workloads that demand high-performance infrastructure, both for training and inference.                                                              
-Rackspace offers a variety of services and solutions in AWSMarketplace: https://go.aws/47LVvB6
+As a managed services provider, Rackspace offers customers on-demand access to powerful GPU resources for AI, machine learning, data analytics, and generative AI. The partnership with AWS and NVIDIA enables Rackspace clients to access scalable, accelerated AI capabilities and supports complex workloads that demand high-performance infrastructure, both for training and inference. 
+
+Rackspace offers a variety of services and solutions in AWS Marketplace: https://go.aws/47LVvB6          
 
 Learn more about AWS and NVIDIA: https://go.aws/4qRW8li
 
@@ -1658,7 +1753,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
     <ns2:starRating count="2" average="5.00" min="1" max="5" />
-    <ns2:statistics views="108" />
+    <ns2:statistics views="109" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1767,8 +1862,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 
 優格真相, 腸道健康, 益生菌, 克菲爾, 酸菜, 發酵食物, 腸道菌叢, 活菌存活, 後殺菌處理, 腸道環境, 酸鹼值, 含氧量, 代謝物, 殖入阻抗, 腸漏, 發炎, 卡拉膠, 聚山梨醇酯80, 人工甜味劑, 嘉塞膦除草劑, L. Reuteri優格, 自製優格, 益生元, 壞菌抑制, 好菌激活, 超市優格成分, 腸道屏障, 微生物扎根, 酸菜醬汁, Kefir益處, 優格好處, 腸道菌叢平衡, 促進消化, 腸躁症改善, 乳酸菌發酵, 嗜熱鏈球菌, 保加利亞乳桿菌, 希臘優格, 活性益生菌, 糖分控制, 甜味劑危害, 韓式泡菜, 辛奇發酵, 康普茶飲料, 味噌湯益處, 發酵茅屋起司, 益生菌食物來源, 核桃營養, 一般優格差異, 乳清過濾, 益生元食物, 大蒜益處, 洋蔥健康, 韭菜養菌, 香蕉纖維, 燕麥早餐, 蒲公英葉茶, 多酚類食物, 石榴抗氧化, 藍莓腸道, 優格誤解, 腸道微生物, 好菌重建, 發酵時間差異, 市售優格陷阱, 果膠添加, 凝膠劑問題, 瓜爾豆膠, 化製澱粉, 腸粘膜損傷, 生物工程食品, 微量抗生素, 成分表閱讀, 益生菌扎根, 克菲爾多菌種, 酵母益處, 酸菜非殺菌, 腸道酸度調節, 氧氣環境, 食物供應鏈, 代謝物分泌, 壞菌生長抑制, 正常菌叢恢復, 微生物生存條件, 發酵食物須知, 優格雙重殺菌, 細菌屍體殘留, 包裝標示活菌, 自製優格教學, 糖脫水活菌, 膠質阻礙營養, 人工添加物, 腸道發炎原因, 腸漏症狀, 除草劑殘留, 超市購物指南, 腸道屏障強化, 外來菌入侵, 環境改變方法, 益生菌持續攝取, 克菲爾優於優格, 酸菜醬汁飲用, L. Reuteri菌株, 優格製作器具, 優格罐子選擇, 腸道健康指南, 免費下載資源, Dr. Berg建議, 抗癌營養素, 單一微生物修復, 發酵食品黑幕, 優格蛋白質來源, 鈣質吸收, 肌肉維持, 飽足感提升, 早餐優格搭配, 飯後食用時機, 胃酸濃度影響, 空腹風險, 益生菌活性保護, 希臘優格定義, 水分保留, 口感稀稠, 消化系統增強, 免疫力提升, 腸道問題預防, 營養師推薦, 食物益生菌含量, 泡菜辛奇替代, 康普茶發酵, 味噌腸道益處, 起司發酵類型, 優格糖分隱藏, 甜味劑改變菌叢, 核桃優格組合, 超級食物搭配, 優格與堅果, 蛋白鈣質補充, 骨骼健康強化, 能量來源穩定, 燕麥優格碗, 香蕉優格 smoothie, 洋蔥發酵菜, 大蒜益生元, 韭菜腸道纖維, 蒲公英排毒, 石榴多酚, 藍莓抗炎, 腸道失衡肌膚, 益生菌飲食法, 發酵食物清單, 優格自製步驟, 克菲爾家製, 酸菜醃製法, 腸道菌叢多樣性, 微生物生態平衡, 消化不良緩解, 便秘改善食物, 腹瀉預防菌, 腸道炎症減輕, 過敏反應降低, 免疫調節機制, 益生菌膠囊比較, 優格發酵菌種, 乳桿菌類型, 雙歧桿菌作用, 鏈球菌益處, 酵母菌共生, 發酵飲料類, 優格替代品, 植物基優格, 杏仁優格, 優格減重法, 低卡優格選擇, 無糖優格推薦, 兒童優格營養, 孕婦腸道照護, 老人益生菌補充, 運動後優格恢復, 壓力腸道影響, 睡眠與菌叢, 抗生素後修復, 飲食習慣改變, 纖維攝取重要, 益生元與益生菌, 共生效果放大, 腸腦軸聯繫, 心情腸道相關, 焦慮菌叢失調, 抑鬱飲食療法, 發酵食物歷史, 傳統克菲爾, 東歐酸菜文化, 亞洲味噌傳統, 西方優格流行, 現代發酵趨勢, 有機優格選擇, 無添加優格, 成分透明品牌, 優格保存方法, 冷藏活菌維持, 過期優格風險, 優格過敏注意, 乳糖不耐症, 優質乳製品, 優格與蜂蜜, 水果優格配方, 優格馬卡龍, 烘焙優格應用, 優格面膜美容, 皮膚腸道連結, 痘痘發炎源頭, 優格排毒日記, 七天腸道挑戰, 益生菌追蹤App, 腸道健康書籍, Dr. Berg影片, 優格真相影片, 發酵廚房指南, 家用發酵器, 優格培養基, 奶粉替代發酵, 素食克菲爾, 椰子優格基底, 優格冰淇淋自製, 夏日涼食發酵, 冬季熱飲克菲爾, 節慶酸菜菜餚, 韓式料理益生, 日本味噌湯方, 歐美優格文化, 全球腸道趨勢, 2025腸道熱門, 益生菌市場報告, SEO優格內容, 關鍵詞優化術, 腸道部落格標籤, 健康影片Hashtag, 優格推廣文案, 益生菌社群討論, 發酵食物論壇, 腸道專家訪談, 營養師Podcast, 優格研究論文, 臨床試驗益處, 腸道微生物組學, 後生素概念, 代謝物健康效, 菌叢移植療法, 優格未來發展, 基因工程菌株, 個性化益生菌, 腸道檢測套件, 家用菌叢分析, 優格與減糖飲食, 低GI優格, 血糖控制食物, 糖尿病腸道管理, 心血管益生菌, 膽固醇降低機制, 優格抗老化, 膠原蛋白來源, 皮膚彈性維持, 頭髮腸道連結, 脫髮菌叢因素, 優格寵物版, 動物腸道健康, 寵物發酵食譜, 人類與寵共同菌, 環境微生物暴露, 戶外活動腸道, 旅行飲食調整, 飛機優格攜帶, 國際優格差異, 希臘傳統優格, 土耳其優格湯, 印度優格咖哩, 優格全球菜系, 融合料理發酵, 優格沙拉醬, 優質油脂搭配, 橄欖油優格碗, 堅果優格能量棒, 自製能量補給, 運動員腸道策略, 馬拉松前益生菌, 恢復期優格飲, 優格與維生素D, 鈣吸收增強, 骨密度測試, 優格兒童成長, 發育期菌叢建立, 母乳與優格過渡, 嬰兒腸道敏感, 過敏預防食物, 優格免疫接種, 疫苗後腸道支持, 疫情腸道韌性, 病毒抵抗機制, 益生菌抗病毒, 流感季節優格, 冬季腸道保暖, 熱飲發酵替代, 優格茶混合, 薑黃優格抗炎, 薑優格暖胃, 檸檬優格排毒, 優格蔬果汁, 綠色優格smoothie, 超級食物粉添加, 螺旋藻優格, 奇亞籽優格布丁, 發酵穀物優格, 燕麥發酵粥, 優格麵包酵母, 烘焙健康升級, 優格蛋糕低糖, 節食優格日記,</ns2:description>
    <ns2:community>
-    <ns2:starRating count="432" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12129" />
+    <ns2:starRating count="439" average="5.00" min="1" max="5" />
+    <ns2:statistics views="12509" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1800,8 +1895,8 @@ TikTok: https://tiktok.com/@imaginedragons​​
 
 #ImagineDragons</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1521" average="5.00" min="1" max="5" />
-    <ns2:statistics views="29920" />
+    <ns2:starRating count="1566" average="5.00" min="1" max="5" />
+    <ns2:statistics views="33748" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2004,8 +2099,8 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
    <ns2:thumbnail url="https://i4.ytimg.com/vi/wnC5TBgi_RY/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="1576" average="5.00" min="1" max="5" />
-    <ns2:statistics views="34733" />
+    <ns2:starRating count="1614" average="5.00" min="1" max="5" />
+    <ns2:statistics views="35891" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2026,8 +2121,8 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
    <ns2:thumbnail url="https://i1.ytimg.com/vi/lwroi7scR0E/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="1863" average="5.00" min="1" max="5" />
-    <ns2:statistics views="100786" />
+    <ns2:starRating count="1957" average="5.00" min="1" max="5" />
+    <ns2:statistics views="105280" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2072,8 +2167,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1522" average="5.00" min="1" max="5" />
-    <ns2:statistics views="23064" />
+    <ns2:starRating count="1529" average="5.00" min="1" max="5" />
+    <ns2:statistics views="23748" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2096,8 +2191,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #shorts</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3248" average="5.00" min="1" max="5" />
-    <ns2:statistics views="93493" />
+    <ns2:starRating count="3309" average="5.00" min="1" max="5" />
+    <ns2:statistics views="97816" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2140,8 +2235,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="259" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11415" />
+    <ns2:starRating count="262" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11713" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2242,7 +2337,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 请注意，本视频完全符合YouTube社区准则，没有任何违规行为。</ns2:description>
    <ns2:community>
     <ns2:starRating count="86" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2136" />
+    <ns2:statistics views="2180" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2284,8 +2379,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
 
 #TED #TEDTalks #ClimateChange</ns2:description>
    <ns2:community>
-    <ns2:starRating count="374" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11404" />
+    <ns2:starRating count="375" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11663" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2328,8 +2423,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="95" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5002" />
+    <ns2:starRating count="98" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5115" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2371,8 +2466,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
 #心河摆渡
 请注意，本视频完全符合YouTube社区准则，没有任何违规行为。</ns2:description>
    <ns2:community>
-    <ns2:starRating count="28" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1487" />
+    <ns2:starRating count="29" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1515" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2406,8 +2501,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
 
 #overwatch #froggerow</ns2:description>
    <ns2:community>
-    <ns2:starRating count="7324" average="5.00" min="1" max="5" />
-    <ns2:statistics views="79442" />
+    <ns2:starRating count="7374" average="5.00" min="1" max="5" />
+    <ns2:statistics views="80212" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2451,8 +2546,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="10801" average="5.00" min="1" max="5" />
-    <ns2:statistics views="158262" />
+    <ns2:starRating count="10804" average="5.00" min="1" max="5" />
+    <ns2:statistics views="159232" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2498,8 +2593,8 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 
 #AmazonAurora #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
-    <ns2:starRating count="22" average="5.00" min="1" max="5" />
-    <ns2:statistics views="629" />
+    <ns2:starRating count="20" average="5.00" min="1" max="5" />
+    <ns2:statistics views="648" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2542,8 +2637,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="159" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5839" />
+    <ns2:starRating count="160" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6036" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2588,7 +2683,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
     <ns2:starRating count="10" average="5.00" min="1" max="5" />
-    <ns2:statistics views="316" />
+    <ns2:statistics views="318" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2609,8 +2704,8 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
    <ns2:thumbnail url="https://i2.ytimg.com/vi/ikwtW-E9WLs/hqdefault.jpg" width="480" height="360" />
    <ns2:description>How do you ensure your marriage lasts a long time? Julie and John Gottman are the world's leading relationship scientists — and they've also been married for more than 50 years. They join Chris Duffy, host of the podcast “How to Be a Better Human,” to give advice on love, relationships and the secret to "fighting right."</ns2:description>
    <ns2:community>
-    <ns2:starRating count="969" average="5.00" min="1" max="5" />
-    <ns2:statistics views="34062" />
+    <ns2:starRating count="972" average="5.00" min="1" max="5" />
+    <ns2:statistics views="35135" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2644,8 +2739,8 @@ Bilibili: https://space.bilibili.com/471303350
 
 #數碼 #開箱 #vlog #旅遊</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1008" average="5.00" min="1" max="5" />
-    <ns2:statistics views="19155" />
+    <ns2:starRating count="1033" average="5.00" min="1" max="5" />
+    <ns2:statistics views="19689" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2703,8 +2798,8 @@ B站频道：磊哥聊政经
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4097" average="5.00" min="1" max="5" />
-    <ns2:statistics views="47335" />
+    <ns2:starRating count="4109" average="5.00" min="1" max="5" />
+    <ns2:statistics views="47585" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2773,8 +2868,8 @@ B站频道：磊哥聊政经
 老景观影：没有恶搞，只有一本正经的还原。
 #电影推荐  #老景观影 #movie</ns2:description>
    <ns2:community>
-    <ns2:starRating count="28" average="5.00" min="1" max="5" />
-    <ns2:statistics views="993" />
+    <ns2:starRating count="27" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1020" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2837,7 +2932,7 @@ https://youtu.be/XQkjT1rOKj4
 #LearnEnglish #EnglishImmersion #EnglishConversation #ListeningPractice</ns2:description>
    <ns2:community>
     <ns2:starRating count="83" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2120" />
+    <ns2:statistics views="2159" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2893,8 +2988,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="178" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7036" />
+    <ns2:starRating count="179" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7136" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2949,8 +3044,8 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
 製作更多有趣、有價值的視頻內容
 感謝收看！喜歡請訂閱點贊！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1237" average="5.00" min="1" max="5" />
-    <ns2:statistics views="109777" />
+    <ns2:starRating count="1256" average="5.00" min="1" max="5" />
+    <ns2:statistics views="111918" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2976,8 +3071,8 @@ ALL SOCIALS - https://vldl.info
 WATCH US STREAM! - https://bit.ly/VLDLtwitch
 SERIES PLAYLISTS - https://bit.ly/VLDLplaylists</ns2:description>
    <ns2:community>
-    <ns2:starRating count="6170" average="5.00" min="1" max="5" />
-    <ns2:statistics views="112224" />
+    <ns2:starRating count="6217" average="5.00" min="1" max="5" />
+    <ns2:statistics views="113060" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3011,8 +3106,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3679" average="5.00" min="1" max="5" />
-    <ns2:statistics views="433219" />
+    <ns2:starRating count="3695" average="5.00" min="1" max="5" />
+    <ns2:statistics views="437661" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3237,8 +3332,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="358" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6158" />
+    <ns2:starRating count="360" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6216" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3268,8 +3363,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
 
 #猴哥 #猴哥精華 #猴哥日常</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1590" average="5.00" min="1" max="5" />
-    <ns2:statistics views="61896" />
+    <ns2:starRating count="1597" average="5.00" min="1" max="5" />
+    <ns2:statistics views="62286" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3300,7 +3395,7 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
 #猴哥 #猴哥精華 #猴哥日常</ns2:description>
    <ns2:community>
     <ns2:starRating count="506" average="5.00" min="1" max="5" />
-    <ns2:statistics views="25127" />
+    <ns2:statistics views="25301" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3321,8 +3416,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
    <ns2:thumbnail url="https://i2.ytimg.com/vi/iAzd9gn0fOM/hqdefault.jpg" width="480" height="360" />
    <ns2:description>(CC&amp;4k)谷歌搜索 AI Mode，你值得拥有~~~</ns2:description>
    <ns2:community>
-    <ns2:starRating count="69" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2839" />
+    <ns2:starRating count="71" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2971" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3344,7 +3439,7 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="242" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9322" />
+    <ns2:statistics views="9395" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3366,7 +3461,7 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="17" average="5.00" min="1" max="5" />
-    <ns2:statistics views="834" />
+    <ns2:statistics views="865" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3387,8 +3482,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
    <ns2:thumbnail url="https://i3.ytimg.com/vi/ZsTr9jzoMjQ/hqdefault.jpg" width="480" height="360" />
    <ns2:description>老了讲风水在现实生活中的应用，香港人更偏信风水学，在香港中环的一场风水大战</ns2:description>
    <ns2:community>
-    <ns2:starRating count="385" average="5.00" min="1" max="5" />
-    <ns2:statistics views="39857" />
+    <ns2:starRating count="389" average="5.00" min="1" max="5" />
+    <ns2:statistics views="40190" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3415,8 +3510,8 @@ douyin@贪玩歌姬小宁子：https://v.douyin.com/iywQKW9X
 weibo@小宁子：https://weibo.com/2216529910
 Taobao淘宝店铺「贪玩PLAYFULL」：https://kv2gnj94i49gly5xga53uxr91t1w4rq.taobao.com</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1956" average="5.00" min="1" max="5" />
-    <ns2:statistics views="47120" />
+    <ns2:starRating count="1984" average="5.00" min="1" max="5" />
+    <ns2:statistics views="47718" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3448,8 +3543,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="377" average="5.00" min="1" max="5" />
-    <ns2:statistics views="63601" />
+    <ns2:starRating count="376" average="5.00" min="1" max="5" />
+    <ns2:statistics views="64303" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3479,8 +3574,8 @@ This is Lu Chen as you’ve never seen him before — a master revealing not jus
 魔术大师刘谦把魔术分为两种，一种是观众看了会说“哇，好厉害，你怎么做到的？”还有一种是观众会觉得，“天呐！这不可能！刚刚发生了什么？！” 他说，后一种，会给在场的人留下回味终生的绝妙体验。
 刘谦是彻底的唯物主义魔术师，可他一直致力于给观众的心里留下魔法的踪迹。在这个超长的访谈中，他通过一连串让人拍案叫绝的故事和令人头皮发麻的演绎，完成了对魔术的正本清源和深度揭秘，阐述了他对这个行业的深刻理解和终极追求。也给我们心中所谓魔术的价值和意义，赋予了一层前所未有的认知。</ns2:description>
    <ns2:community>
-    <ns2:starRating count="170" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7354" />
+    <ns2:starRating count="171" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7429" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3505,8 +3600,8 @@ This is Lu Chen as you’ve never seen him before — a master revealing not jus
 TESTV不接受厂家业配，专注表达真实、独立的产品使用体验。
 如果我们的内容能够帮助到你，不妨加入频道会员，帮助我们做出更优质的节目！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="492" average="5.00" min="1" max="5" />
-    <ns2:statistics views="22405" />
+    <ns2:starRating count="496" average="5.00" min="1" max="5" />
+    <ns2:statistics views="22642" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3592,7 +3687,7 @@ TESTV不接受厂家业配，专注表达真实、独立的产品使用体验。
 艾瑞克 柏格（Eric Berg）醫生於1988年從帕爾默脊骨神經外科學院（Palmer College of Chiropractic）獲得脊骨醫學醫生學位。 就自己而言，僅指他的學歷，柏格醫生是弗吉尼亞州、加州和路易斯安那州的持牌脊椎醫生，但他在任何州都不再從事脊椎治療，也沒有醫治患者。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治愈、治療、診斷、處方或建議。 本視頻不會在柏格醫生和您之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。</ns2:description>
    <ns2:community>
     <ns2:starRating count="303" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5325" />
+    <ns2:statistics views="5343" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3703,8 +3798,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 
 Dr. Berg, 工業澱粉, 玉米澱粉, 麥芽糊精, 化製食品澱粉, 第2型糖尿病, 脂肪肝, 胰島素阻抗, 內臟脂肪, 腸道好菌, 病原體, 嚴重發炎, 小顆粒壞膽固醇, LDL飆升, 零糖宣稱, 血液轉糖, 價格低廉, 台幣6元, 450克包裝, 無健康益處, 填充劑, 每年吃30公斤, 113公斤平均, 無麩質食品, 嬰兒配方奶粉, 烘焙食品, 運動員攝取, 澱粉鏈結構, 糖分子連結, 化學製程, 保護罩剝除, 精製分解, 連結變弱, 體內迅速轉化, 磷酸三偏鈉, sodium trimetaphosphate, 醋酸乙烯酯, vinyl acetate, 次氯酸鈉, sodium hypochlorite, 漂白劑, 辛烯基丁二酸酐, octenyl succinic anhydride, GRAS物質, 公認安全, 自我監管, 阿茲海默症, 大腦斑塊, 肝纖維化, 併發症直接原因, 垃圾食品, 三大成分, 糖分過多, 澱粉沙拉油, 混合加熱, 致命複合物, 有毒物質, 隱形糖, 遠多糖分, 食物定義, 維持生命, 促進生長, 修復組織, 澱粉非食物, 全球最危險碳水, 糖沒得比, 潛在壞處, 動脈鑽入, 小顆粒LDL, 發炎反應, 腸道破壞, 好菌減少, 病原體滋養, 糖尿病風險, 肝臟負擔, 胰島素問題, 脂肪堆積, 內臟危害, 化學添加, 四種化學物, 磷酸鹽類, 乙烯酯類, 氯酸鈉類, 丁二酸酐類, 安全爭議, 監管鬆散, 工業生產, 廉價來源, 食品填充, 嬰兒食品, 無麩質替代, 烘焙配料, 運動補給, 澱粉來源, 玉米加工, 小麥衍生物, 馬鈴薯澱粉, 米澱粉變體, 糊精加工, 酶解過程, 酸水解, 熱處理, 化學改性, 澱粉磷酸酯, 交聯澱粉, 酯化澱粉, 氧化澱粉, 健康隱患, 血糖峰值, 胰島素峰, 慢性疾病, 代謝綜合徵, 心血管風險, 動脈粥樣硬化, 膽固醇氧化, 氧化壓力, 炎症介質, 細胞因子, TNF-alpha, IL-6, 腸漏症, 微生物失衡, 益生菌缺失, 壞菌增生, 毒素釋放, 肝臟解毒負荷, 脂肪酸氧化, 非酒精性脂肪肝, NAFLD, 纖維化進展, 肝硬化風險, 神經退行性, 澱粉腦霧, 認知障礙, 阿茲海默斑塊, 澀澱粉作用, 抗性澱粉, 工業非抗性, 快速消化, GI指數高, 血糖指數, 糖尿病前期, 空腹血糖, HbA1c升高, 胰腺負荷, β細胞損傷, 抗性增加, 肥胖流行, 腹部脂肪, 腰圍擴大, 激素失調, 瘦素抵抗, 饑餓激素, 熱量過剩, 低營養密度, 空熱量食品, 加工食品陷阱, 隱藏成分, 標籤誤導, 零糖謊言, 低卡假象, 運動員陷阱, 能量膠, 運動飲料, 穀物棒, 蛋白粉添加, 烘焙粉, 蛋糕麵粉, 餅乾填充, 麵包改良, 無麩質麵, 米粉替代, 玉米片, 薯片澱粉, 速食薯條, 加工穀物, 早餐穀片, 嬰兒粥, 配方奶澱粉, 兒童零食, 成人垃圾食, 西方飲食, 工業化食物, 農業副產品, 玉米產業, 轉基因玉米, 補助金作物, 廉價穀物, 食品工業, 利潤驅動, 健康犧牲, 營養師警告, 醫生建議, Dr. Berg影片, 酮飲食, 低碳水, 生酮療法, 間歇性斷食, 腸道修復, 益生菌補充, 抗發炎飲食,  omega-3來源, 綠葉菜, 堅果替代, 澱粉避免, 根莖類慎用, 馬鈴薯風險, 甜薯變體, 全穀物神話, 精製穀害, 血糖監測, 連續血糖儀, CGM數據, 餐後峰值, 澱粉反應, 個體差異, 基因影響, APOE4基因, 阿茲海默易感, 肝酶升高, ALT/AST, 影像檢查, 超音波脂肪, MRI內臟, 膽固醇粒子, 小密度LDL, 氧化LDL, 動脈壁損, 斑塊形成, 心臟事件, 中風風險, 腦血管意外, 腎臟負荷, 蛋白尿早期, 慢性腎病, 澱粉腎結石, 尿酸升高, 痛風關聯, 關節發炎, 類風濕風險, 自體免疫, 腸道軸線, 腦腸軸, 微生物組, 菌群移植, FMT療法, 飲食干預, 地中海飲食, 藍區長壽, 植物基但低澱, 動物蛋白, 脂肪來源, 酥油替代, 椰子油, 橄欖油, 沙拉油毒, 植物油氧化, 加熱變異, 丙烯醯胺, 麥芽胺, 毒素產生, 癌症風險, 結腸癌, 胰腺癌, 乳癌關聯, 內分泌干擾, 化學殘留, BPA類似, 塑化劑遷移, 包裝污染, 食品鏈汙染, 環境荷爾蒙, 生育力下降, 精子品質, 卵巢功能, 激素模擬, 兒童發育, ADHD關聯, 自閉症譜, 行為問題, 學習障礙, 腦發育澱粉, 嬰兒腦霧, 母乳優勢, 配方奶害, 過敏增加, IgE反應, 氣喘風險, 濕疹皮膚, 免疫失調, 疫苗反應, 營養缺乏, 維生素B群, B1、B6缺失, 神經損傷, 周邊神經病, 糖尿病足, 潰瘍形成, 截肢危機, 經濟負擔, 醫療成本, 保險壓力, 公共衛生, 政策改革, 食品標籤法, 警告標示, 稅收澱粉, 補助轉移, 有機農業, 再生農法, 土壤健康, 營養密集食物, 祖先飲食, 狩獵採集, 低碳時代, 現代陷阱, 廣告洗腦, 社群影響, 健身迷思, 碳水加載, 馬拉松害, 耐力運動, 恢復期糖, 肌肉損失, 糖原假象, 真實能量, 脂肪適應, 酮體燃料, 腦霧消失, 精神清晰, 體重穩定, 飢餓控制, 荷爾蒙平衡, 甲狀腺功能, T3轉化, 皮質醇降低, 壓力緩解, 睡眠改善, 深度睡眠, REM階段, 夢境豐富, 早晨活力, 日間警覺, 生產力提升, 工作效率, 學習記憶, 海馬迴, BDNF因子, 神經新生, 抗老化, 端粒長度, 氧化損傷減, 自由基清除, 抗氧化劑, 多酚來源, 漿果類, 綠茶兒茶, 薑黃薑辣素, 發炎抑制, COX-2阻斷, NSAID替代, 阿斯匹靈自然, 柳樹皮, 天然療法, 功能醫學, 根因治療, 症狀掩蓋,</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1014" average="5.00" min="1" max="5" />
-    <ns2:statistics views="30734" />
+    <ns2:starRating count="1020" average="5.00" min="1" max="5" />
+    <ns2:statistics views="31125" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3823,8 +3918,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 
 性心理諮詢線上平台、AI藝術家工具免費、約會App安全設定、指數基金新手指南、兒童眼睛保健產品評測、越南峴港浪漫地點、性伴侶健康教育課程、虛擬實境AI醫療、兩性平等討論書籍、股票被動投資策略2025、飛蚊症成像科技、韓國美女綜藝熱門集、性病預防教育學校、AI翻譯軟體行業應用、單身派對點子書籍、電子書行銷社群策略、視力矯正鏡片品牌比較、泰國美女傳統服飾、性玩具清潔方法、機器人倫理討論書籍、婚姻幸福秘訣夫妻、Podcast製作工具專業、角膜保護眼藥水品牌、俄羅斯美女歷史紀錄片、性教育動畫兒童教育、生成AI未來趨勢報告、兩性親密遊戲App、股息收入來源穩定、兒童近視成因遺傳、模特兒寫真攝影設備、性健康論壇專家、生成模型訓練數據來源、婚姻危機解決步驟、線上問答平台社群、乾眼症治療激光、中國美女詩詞比賽、性教育家長資源下載、深度學習框架性能、情侶性生活改善技巧、被動收入稅務申報指南、視力恢復訓練設備、印尼美女舞蹈教學、ETF投資策略多元化、視網膜脫落預防手術、泰國清邁寺廟冥想、性愛玩具品牌創新、機器學習教材視頻、婚姻家事分工工具、Podcast分潤成功故事、角膜炎症狀日記記錄、韓國時尚美女ICON、性愛潤滑劑天然配方、ChatGPT提示工程實戰、戀愛階段分析工具、線上課程銷售心理、老花眼徵兆年齡範圍、模特兒攝影技巧光線、性教育學校家長會、AI影像生成藝術、單身生活樂趣活動、電子書版權保護法、黃斑水腫治療注射、越南美女文化節慶、日本女星寫真展、性健康產品評測、AI音樂生成器整合、約會禮儀文化指南、被動收入書籍實例、視網膜健康生活習慣、歐洲美女藝術展覽、性幻想療法有效案例、生成AI倫理教育、兩性吸引力法則課程、Airbnb出租收益計算、近視控制鏡片兒童、中國網紅美女品牌、性癮自助團體、深度神經網路應用醫療、情侶旅行預算App、被動收入來源被動、視力模糊原因年齡、俄羅斯芭蕾團歷史、性病治療抗藥性、AI遊戲AI智能、失戀歌曲推薦播放清單、NFT藝術市場趨勢、眼睛按摩器家用、印尼峇里海灘安全、性伴侶溝通書籍、虛擬助理AI個性化、兩性權力平衡案例、股票分紅日曆年度、兒童視力訓練遊戲設計、泰國人妖文化紀錄片、性愛姿勢圖解App、機器學習入門競賽、婚姻離婚影響經濟、部落格聯盟收入稅務、黃斑部退化預防維生素、日本AV文化社會影響、性健康檢查年度、AI藝術創作比賽、婚姻離婚程序律師、Podcast聽眾增長廣告、糖尿病視力影響篩檢、越南河內美食地圖、性高潮訓練科學、深度學習課程線上平台、兩性衝突管理專家、Airbnb風險案例分析、近視度數加深生活、中國古典美女畫家、性心理學研究應用、生成式AI工具開發、失戀療癒方法心理、被動收入多元化投資、眼睛乾澀緩解環境、辣妹穿搭季節趨勢、性別認同支持法律、日本Cosplay美女角色、生成式模型進階應用、婚姻忠誠度調查問卷、線上會員收入行銷、飛蚊症忽略眼科建議、模特兒身高優勢研究、性教育影片真實故事、兩性親密關係階段、股利再投資長期效果、兒童近視預防戶外活動、泰國曼谷美女購物、性玩具使用安全指南、AI程式設計語言比較、單身生活哲學書推薦、電子書出版收益稅、黃斑水腫成因遺傳、俄羅斯美女小說經典、性愛前戲指南女性、ChatGPT創意應用案例、戀愛心理測試科學、YouTube流量秘訣算法、老花眼預防屏幕時間、越南峴港海灘日落、性伴侶健康追蹤App、虛擬實境遊戲健康、兩性平等運動領袖、股票ETF比較費用、兒童眼睛保健學校計劃、歐美超模時尚週、性幻想角色設計工具、生成AI未來預測報告、情侶爭執技巧溝通、被動收入App開發指南、視力恢復飲食證據、印尼美女廚藝秘訣、性愛姿勢變化健康、機器學習應用案例研究、婚姻幸福指數全球、Podcast製作入門課程、角膜保護方法手術後、韓國美女綜藝文化、性病疫苗研究最新、AI翻譯軟體學習、單身派對遊戲創新、電子書行銷漏斗、視力矯正方法比較2025、泰國清邁美女瑜伽、性玩具評測消費者、機器人倫理議題未來、情侶禮物推薦個性化、被動收入來源清單更新、眼睛疲勞按摩專業、辣妹紋身故事勵志、性心理測試職業、生成對抗網路教程視頻、兩性溝通書實用、ETF投資入門社群、視網膜檢查家用工具、歐洲度假美女預算、性高潮生理機制圖、AI語音合成聲線選擇、失戀後成長播客、租金收入管理軟體、模特兒攝影工作室氛圍、性教育講座專家分享、生成AI倫理原則書、兩性吸引力科學書、Airbnb出租經驗部落格、近視控制方法研究、中國古風美女插畫、性高潮技巧進階、AI聊天室匿名保護、婚姻家事分工公平書、Podcast分潤平台比較、角膜炎預防環境因素、俄羅斯歷史美女傳奇、性愛潤滑劑過敏測試、ChatGPT提示詞大全中文、戀愛階段指南實戰、線上課程銷售轉換率、老花眼眼藥水副作用、辣妹髮型趨勢亞洲、性別多樣性教育學校、日本AV女優健康管理、生成AI倫理辯論案例、兩性友誼界線心理、ETF長期收益稅務、視網膜脫落預防生活、泰國人妖表演藝術、性玩具品牌市場份額、機器學習教材中文版、婚姻離婚影響社會、部落格被動收入自動化、黃斑部退化飲食療法證據、越南美女傳統婚禮、性健康產品天然成分、AI音樂生成器專業版、約會禮儀年輕人、被動收入書籍2025版、</ns2:description>
    <ns2:community>
-    <ns2:starRating count="197" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5150" />
+    <ns2:starRating count="200" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5214" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3847,8 +3942,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 
 #shorts</ns2:description>
    <ns2:community>
-    <ns2:starRating count="10441" average="5.00" min="1" max="5" />
-    <ns2:statistics views="317266" />
+    <ns2:starRating count="10532" average="5.00" min="1" max="5" />
+    <ns2:statistics views="320265" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3874,8 +3969,8 @@ ALL SOCIALS - https://vldl.info
 WATCH US STREAM! - https://bit.ly/VLDLtwitch
 SERIES PLAYLISTS - https://bit.ly/VLDLplaylists</ns2:description>
    <ns2:community>
-    <ns2:starRating count="9014" average="5.00" min="1" max="5" />
-    <ns2:statistics views="206587" />
+    <ns2:starRating count="9055" average="5.00" min="1" max="5" />
+    <ns2:statistics views="208256" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3907,8 +4002,8 @@ TikTok: https://tiktok.com/@imaginedragons​​
 
 #ImagineDragons</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2115" average="5.00" min="1" max="5" />
-    <ns2:statistics views="83571" />
+    <ns2:starRating count="2123" average="5.00" min="1" max="5" />
+    <ns2:statistics views="83833" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3935,8 +4030,8 @@ Take time to ask a veteran about their story, listen, and learn.
 
 #HonorThroughAction</ns2:description>
    <ns2:community>
-    <ns2:starRating count="7531" average="5.00" min="1" max="5" />
-    <ns2:statistics views="73370" />
+    <ns2:starRating count="7566" average="5.00" min="1" max="5" />
+    <ns2:statistics views="73641" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4002,7 +4097,7 @@ Welcome to MacRumors, your ultimate destination for in-depth and insightful Mac 
 Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:community>
     <ns2:starRating count="323" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12904" />
+    <ns2:statistics views="12995" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4051,7 +4146,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AWS #NVIDIA #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
     <ns2:starRating count="6" average="5.00" min="1" max="5" />
-    <ns2:statistics views="389" />
+    <ns2:statistics views="419" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4124,7 +4219,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
    <ns2:description>Love it. Tag it. Earn more.</ns2:description>
    <ns2:community>
     <ns2:starRating count="41" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1172" />
+    <ns2:statistics views="1177" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4145,8 +4240,8 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
    <ns2:thumbnail url="https://i1.ytimg.com/vi/t8_RS0n4qV4/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="1882" average="5.00" min="1" max="5" />
-    <ns2:statistics views="45891" />
+    <ns2:starRating count="1888" average="5.00" min="1" max="5" />
+    <ns2:statistics views="46243" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4197,7 +4292,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
     <ns2:starRating count="5" average="5.00" min="1" max="5" />
-    <ns2:statistics views="141" />
+    <ns2:statistics views="140" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4242,7 +4337,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
     <ns2:starRating count="8" average="5.00" min="1" max="5" />
-    <ns2:statistics views="129" />
+    <ns2:statistics views="128" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4264,7 +4359,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="321" average="5.00" min="1" max="5" />
-    <ns2:statistics views="15061" />
+    <ns2:statistics views="15160" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4298,53 +4393,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
 
 #overwatch #froggerow</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4630" average="5.00" min="1" max="5" />
-    <ns2:statistics views="55093" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:foLIIqYduG4</ns0:id>
-  <ns1:videoId>foLIIqYduG4</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]How Cloudhouse helps customers modernize legacy apps without refactoring them | Amazon Web Services</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=foLIIqYduG4" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-11-10T16:22:09+00:00</ns0:published>
-  <ns0:updated>2025-11-10T16:27:25+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How Cloudhouse helps customers modernize legacy apps without refactoring them | Amazon Web Services</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/foLIIqYduG4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/foLIIqYduG4/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Discover how our partner Cloudhouse helps customers overcome challenges with legacy applications. In this video, the Cloudhouse team explains how their Application Compatibility Packaging solution enables the migration of Windows Server 2008 and 2008 R2 applications and workloads—both on-premises and in the cloud—without the need to refactor, recode, or upgrade.
-
-Learn more: http://go.aws/4p5RBu0
-
-Subscribe to AWS: https://go.aws/subscribe
-
-Create a free AWS account: https://go.aws/signup 
-Try AWS for free: https://go.aws/free 
-Connect with an expert: https://go.aws/contact
-Explore more: https://go.aws/more
-
-Next steps:
-Explore on AWS in Analyst Research:  https://go.aws/reports
-Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
-Join the AWS Partner Network: https://go.aws/partners 
-Learn more on how Amazon builds and operates software: https://go.aws/library 
-
-Do you have technical AWS questions? 
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-Why AWS?
-Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
-
-#AWS #AmazonWebServices #CloudComputing</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="12" average="5.00" min="1" max="5" />
-    <ns2:statistics views="265" />
+    <ns2:starRating count="4647" average="5.00" min="1" max="5" />
+    <ns2:statistics views="55328" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4365,8 +4415,8 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
    <ns2:thumbnail url="https://i1.ytimg.com/vi/TWXy3ELKVKE/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="1022" average="5.00" min="1" max="5" />
-    <ns2:statistics views="31488" />
+    <ns2:starRating count="1024" average="5.00" min="1" max="5" />
+    <ns2:statistics views="31574" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4419,8 +4469,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
 
 #TED #TEDTalks #HowToBeABetterHuman</ns2:description>
    <ns2:community>
-    <ns2:starRating count="752" average="5.00" min="1" max="5" />
-    <ns2:statistics views="19224" />
+    <ns2:starRating count="760" average="5.00" min="1" max="5" />
+    <ns2:statistics views="19406" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4447,8 +4497,8 @@ https://www.leagueoflegends.com/en-us/news/game-updates/zaahen-abilities-rundown
 League of Legends - Free Download &amp; Play
 https://signup.leagueoflegends.com/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3446" average="5.00" min="1" max="5" />
-    <ns2:statistics views="200258" />
+    <ns2:starRating count="3462" average="5.00" min="1" max="5" />
+    <ns2:statistics views="200973" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4490,8 +4540,8 @@ https://signup.leagueoflegends.com/</ns2:description>
 #心河摆渡
 请注意，本视频完全符合YouTube社区准则，没有任何违规行为。</ns2:description>
    <ns2:community>
-    <ns2:starRating count="20" average="5.00" min="1" max="5" />
-    <ns2:statistics views="421" />
+    <ns2:starRating count="21" average="5.00" min="1" max="5" />
+    <ns2:statistics views="432" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4522,48 +4572,8 @@ MORE RIOT GAMES MUSIC:
 PLAY LEAGUE OF LEGENDS:
 http://riot.com/signup</ns2:description>
    <ns2:community>
-    <ns2:starRating count="6390" average="5.00" min="1" max="5" />
-    <ns2:statistics views="121466" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:S3F9CpeiSNE</ns0:id>
-  <ns1:videoId>S3F9CpeiSNE</ns1:videoId>
-  <ns1:channelId>UC2t5bjwHdUX4vM2g8TRDq5g</ns1:channelId>
-  <ns0:title>[League of Legends]Zaahen Champion Spotlight | Gameplay - League of Legends</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=S3F9CpeiSNE" />
-  <ns0:author>
-   <ns0:name>League of Legends</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC2t5bjwHdUX4vM2g8TRDq5g</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-11-10T16:00:43+00:00</ns0:published>
-  <ns0:updated>2025-11-10T16:00:43+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Zaahen Champion Spotlight | Gameplay - League of Legends</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/S3F9CpeiSNE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/S3F9CpeiSNE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>The moment for mercy is past. Break your enemies until only you remain with Zaahen, the Unsundered.  Coming November 19 at 11 AM PDT.
-
-00:00 Intro
-00:37 Passive Pt 1 - Cultivation of War
-00:52 Q - Darkin Glaive
-01:13 W - Dreaded Return
-01:33 E - Aureate Rush
-01:50 R - Grim Deliverance
-02:05 - Passive Pt 2 - Cultivation of War
-02:24 Gameplay Tips
-02:45 Similar Champions
-02:55 Outro
-
-
-Zaahen Ability Rundown Page: https://www.leagueoflegends.com/en-us/news/game-updates/zaahen-abilities-rundown
-
-
-League of Legends - Free Download &amp; Play
-https://signup.leagueoflegends.com/</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="13567" average="5.00" min="1" max="5" />
-    <ns2:statistics views="412790" />
+    <ns2:starRating count="6465" average="5.00" min="1" max="5" />
+    <ns2:statistics views="122657" />
    </ns2:community>
   </ns2:group>
  </ns0:entry></feed>
