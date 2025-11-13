@@ -1,5 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2025-11-13T20:19:46Z</updated><ns0:entry>
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2025-11-13T20:42:09Z</updated><ns0:entry>
+  <ns0:id>yt:video:lqa8FO6WWLc</ns0:id>
+  <ns1:videoId>lqa8FO6WWLc</ns1:videoId>
+  <ns1:channelId>UCsvn_Po0SmunchJYOWpOxMg</ns1:channelId>
+  <ns0:title>[videogamedunkey]Arc Raiders</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=lqa8FO6WWLc" />
+  <ns0:author>
+   <ns0:name>videogamedunkey</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-11-13T20:30:10+00:00</ns0:published>
+  <ns0:updated>2025-11-13T20:30:10+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Arc Raiders</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/lqa8FO6WWLc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/lqa8FO6WWLc/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>i'm just looking for the pharaohs tomb
+
+go bigmode https://bigmode.com/shop</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1167" average="5.00" min="1" max="5" />
+    <ns2:statistics views="12891" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
   <ns0:id>yt:video:T6_SWfJxYhA</ns0:id>
   <ns1:videoId>T6_SWfJxYhA</ns1:videoId>
   <ns1:channelId>UCchBatdUMZoMfJ3rIzgV84g</ns1:channelId>
@@ -24,8 +48,8 @@ ALL SOCIALS - https://vldl.info
 WATCH US STREAM! - https://bit.ly/VLDLtwitch
 SERIES PLAYLISTS - https://bit.ly/VLDLplaylists</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1092" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5422" />
+    <ns2:starRating count="2086" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10155" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -48,24 +72,24 @@ SERIES PLAYLISTS - https://bit.ly/VLDLplaylists</ns2:description>
 
 #shorts</ns2:description>
    <ns2:community>
-    <ns2:starRating count="52" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1786" />
+    <ns2:starRating count="254" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9344" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
   <ns0:id>yt:video:l1cnOHzkJb8</ns0:id>
   <ns1:videoId>l1cnOHzkJb8</ns1:videoId>
   <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]Amazon ECS managed instances explained | Amazon Web Services</ns0:title>
+  <ns0:title>[Amazon Web Services]Amazon ECS Managed Instances explained | Amazon Web Services</ns0:title>
   <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=l1cnOHzkJb8" />
   <ns0:author>
    <ns0:name>Amazon Web Services</ns0:name>
    <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
   </ns0:author>
   <ns0:published>2025-11-13T19:31:53+00:00</ns0:published>
-  <ns0:updated>2025-11-13T19:31:54+00:00</ns0:updated>
+  <ns0:updated>2025-11-13T20:28:03+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Amazon ECS managed instances explained | Amazon Web Services</ns2:title>
+   <ns2:title>Amazon ECS Managed Instances explained | Amazon Web Services</ns2:title>
    <ns2:content url="https://www.youtube.com/v/l1cnOHzkJb8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i1.ytimg.com/vi/l1cnOHzkJb8/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Amazon ECS Managed Instances is a fully managed compute option that eliminates infrastructure management overhead while providing access to a broad suite of EC2 capabilities, including the flexibility to select instance types. By offloading infrastructure operations to AWS, ECS Managed Instances allows you quickly launch and scale your workloads while enhancing performance and reducing your total cost of ownership. Learn more about Amazon ECS Managed Instances here: https://go.aws/3LBuKYJ
@@ -92,7 +116,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
     <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="31" />
+    <ns2:statistics views="40" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -137,7 +161,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
     <ns2:starRating count="2" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9" />
+    <ns2:statistics views="11" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -280,8 +304,8 @@ Support us on Patreon: https://www.patreon.com/Commonrealm
 Subscribe to Commonwealth Realm:
 http://bit.ly/Commonrealm</ns2:description>
    <ns2:community>
-    <ns2:starRating count="89" average="5.00" min="1" max="5" />
-    <ns2:statistics views="581" />
+    <ns2:starRating count="107" average="5.00" min="1" max="5" />
+    <ns2:statistics views="679" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -302,8 +326,8 @@ http://bit.ly/Commonrealm</ns2:description>
    <ns2:thumbnail url="https://i3.ytimg.com/vi/zGLeKPBdjMo/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="189" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3169" />
+    <ns2:starRating count="243" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3934" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -330,8 +354,8 @@ Find out more on how our AWS Certified Partner Keeper.io can help by contacting 
 
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4" average="5.00" min="1" max="5" />
-    <ns2:statistics views="368" />
+    <ns2:starRating count="7" average="5.00" min="1" max="5" />
+    <ns2:statistics views="407" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -378,7 +402,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="176" />
+    <ns2:statistics views="190" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -405,8 +429,8 @@ Find out more on how our AWS Certified Partner b.Telligent can help by contactin
 
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="286" />
+    <ns2:starRating count="3" average="5.00" min="1" max="5" />
+    <ns2:statistics views="334" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -451,7 +475,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
     <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7" />
+    <ns2:statistics views="11" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -496,7 +520,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="6" />
+    <ns2:statistics views="7" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -698,7 +722,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
    <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
   </ns0:author>
   <ns0:published>2025-11-13T16:00:30+00:00</ns0:published>
-  <ns0:updated>2025-11-13T16:00:32+00:00</ns0:updated>
+  <ns0:updated>2025-11-13T20:25:32+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>The New Era of AI-Powered Protein Design | César Ramírez-Sarmiento | TED</ns2:title>
    <ns2:content url="https://www.youtube.com/v/KIAsBq64hnQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -726,8 +750,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
 
 #TED #TEDTalks #AI</ns2:description>
    <ns2:community>
-    <ns2:starRating count="117" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3045" />
+    <ns2:starRating count="122" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3262" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -761,8 +785,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
 
 #overwatch #froggerow</ns2:description>
    <ns2:community>
-    <ns2:starRating count="932" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7037" />
+    <ns2:starRating count="1000" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7505" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -787,8 +811,8 @@ B站频道：磊哥聊政经
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2888" average="5.00" min="1" max="5" />
-    <ns2:statistics views="21024" />
+    <ns2:starRating count="3022" average="5.00" min="1" max="5" />
+    <ns2:statistics views="22405" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1015,8 +1039,8 @@ LINKEDIN                  ►  https://bit.ly/3hWOLVT
 
 MLOps Explained | What is MLOps | MLOps Tutorial | What is Machine Learning Operations | What is AI Operations</ns2:description>
    <ns2:community>
-    <ns2:starRating count="249" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3102" />
+    <ns2:starRating count="264" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3395" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1037,8 +1061,8 @@ MLOps Explained | What is MLOps | MLOps Tutorial | What is Machine Learning Oper
    <ns2:thumbnail url="https://i3.ytimg.com/vi/jrzK4xL_W4Q/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="55327" average="5.00" min="1" max="5" />
-    <ns2:statistics views="837766" />
+    <ns2:starRating count="60098" average="5.00" min="1" max="5" />
+    <ns2:statistics views="920163" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1073,8 +1097,8 @@ My music:
 Spotify: https://open.spotify.com/album/5m7SFVMTfNvv7dyqfa00G3
 iTunes: http://itunes.apple.com/album/id1122291881?ls=1&amp;app=itunes</ns2:description>
    <ns2:community>
-    <ns2:starRating count="16776" average="5.00" min="1" max="5" />
-    <ns2:statistics views="95628" />
+    <ns2:starRating count="17660" average="5.00" min="1" max="5" />
+    <ns2:statistics views="101509" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1088,7 +1112,7 @@ iTunes: http://itunes.apple.com/album/id1122291881?ls=1&amp;app=itunes</ns2:desc
    <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
   </ns0:author>
   <ns0:published>2025-11-13T14:30:53+00:00</ns0:published>
-  <ns0:updated>2025-11-13T16:25:17+00:00</ns0:updated>
+  <ns0:updated>2025-11-13T20:15:52+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>OnePlus 15 Review: This is Not Normal!</ns2:title>
    <ns2:content url="https://www.youtube.com/v/2MdQWo9fHZs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -1106,8 +1130,8 @@ http://twitter.com/MKBHD
 http://instagram.com/MKBHD
 http://facebook.com/MKBHD</ns2:description>
    <ns2:community>
-    <ns2:starRating count="56447" average="5.00" min="1" max="5" />
-    <ns2:statistics views="833314" />
+    <ns2:starRating count="59582" average="5.00" min="1" max="5" />
+    <ns2:statistics views="908053" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1157,8 +1181,8 @@ Twitter: https://twitter.com/dennied_
 
 #Overwatch2 #Overwatch #ml7</ns2:description>
    <ns2:community>
-    <ns2:starRating count="273" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5728" />
+    <ns2:starRating count="281" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5954" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1183,8 +1207,8 @@ B站频道：磊哥聊政经
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2871" average="5.00" min="1" max="5" />
-    <ns2:statistics views="26672" />
+    <ns2:starRating count="2916" average="5.00" min="1" max="5" />
+    <ns2:statistics views="27110" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1206,7 +1230,7 @@ B站频道：磊哥聊政经
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="11" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1006" />
+    <ns2:statistics views="1032" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1228,7 +1252,7 @@ B站频道：磊哥聊政经
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="8" average="5.00" min="1" max="5" />
-    <ns2:statistics views="931" />
+    <ns2:statistics views="948" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1250,7 +1274,7 @@ B站频道：磊哥聊政经
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="65" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5400" />
+    <ns2:statistics views="5494" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1312,8 +1336,8 @@ B站频道：磊哥聊政经
 
 #Overwatch2 #gaming #mL7</ns2:description>
    <ns2:community>
-    <ns2:starRating count="68" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2671" />
+    <ns2:starRating count="69" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2765" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1334,8 +1358,8 @@ B站频道：磊哥聊政经
    <ns2:thumbnail url="https://i3.ytimg.com/vi/nTURBQm-Kbs/hqdefault.jpg" width="480" height="360" />
    <ns2:description>传统运动相机发展到今天，已经受到了很多新形态相机的挑战，大疆很明白必须整一些独特的活，才能留住用户。这次我们想和你一起看看，大疆的Action 6，够Pro吗？如果你喜欢这期节目，请多多支持我们，并把视频分享给你的朋友们一起看看！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1454" average="5.00" min="1" max="5" />
-    <ns2:statistics views="46233" />
+    <ns2:starRating count="1457" average="5.00" min="1" max="5" />
+    <ns2:statistics views="46912" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1361,8 +1385,8 @@ ALL SOCIALS - https://vldl.info
 WATCH US STREAM! - https://bit.ly/VLDLtwitch
 SERIES PLAYLISTS - https://bit.ly/VLDLplaylists</ns2:description>
    <ns2:community>
-    <ns2:starRating count="7721" average="5.00" min="1" max="5" />
-    <ns2:statistics views="107683" />
+    <ns2:starRating count="8264" average="5.00" min="1" max="5" />
+    <ns2:statistics views="112187" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1587,8 +1611,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="67" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1795" />
+    <ns2:starRating count="68" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1825" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1620,8 +1644,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2150" average="5.00" min="1" max="5" />
-    <ns2:statistics views="130206" />
+    <ns2:starRating count="2185" average="5.00" min="1" max="5" />
+    <ns2:statistics views="132343" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1642,8 +1666,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:thumbnail url="https://i2.ytimg.com/vi/m2NoiwfpJys/hqdefault.jpg" width="480" height="360" />
    <ns2:description>分裂、分裂、無限分裂......她沒有超能力，卻是伊藤潤二筆下最詭異的怪物！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1412" average="5.00" min="1" max="5" />
-    <ns2:statistics views="50747" />
+    <ns2:starRating count="1418" average="5.00" min="1" max="5" />
+    <ns2:statistics views="51330" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1664,8 +1688,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:thumbnail url="https://i1.ytimg.com/vi/LfbOQ1gh_vk/hqdefault.jpg" width="480" height="360" />
    <ns2:description>老梁针对国内的线下培训，从青年人、中年人到老年人，看准了你的钱袋子，培训是如何做到精准收割</ns2:description>
    <ns2:community>
-    <ns2:starRating count="303" average="5.00" min="1" max="5" />
-    <ns2:statistics views="19217" />
+    <ns2:starRating count="304" average="5.00" min="1" max="5" />
+    <ns2:statistics views="19399" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1728,7 +1752,7 @@ If you'd like to support the channel / 如果你想支持我们的频道:
 *Contains affiliate links*</ns2:description>
    <ns2:community>
     <ns2:starRating count="35" average="5.00" min="1" max="5" />
-    <ns2:statistics views="632" />
+    <ns2:statistics views="647" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1756,8 +1780,8 @@ It’s called the #HemingwayBridge, and Naomi’s here to walk you through it �
 
 #productivity #focus #tips</ns2:description>
    <ns2:community>
-    <ns2:starRating count="19" average="5.00" min="1" max="5" />
-    <ns2:statistics views="313" />
+    <ns2:starRating count="20" average="5.00" min="1" max="5" />
+    <ns2:statistics views="319" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1801,8 +1825,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3074" average="5.00" min="1" max="5" />
-    <ns2:statistics views="39622" />
+    <ns2:starRating count="3081" average="5.00" min="1" max="5" />
+    <ns2:statistics views="39861" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1856,8 +1880,8 @@ https://youtu.be/aDGyz9dHrcs
 -----------------------------------------------------------------------------------------------------
 #知識分享 #科學揭秘 #科學 #科普 #冷知識 #台灣熱門 #香港討論 #新加坡熱話 #化学 #生活 #数学 #理论 #物理 #逻辑 #毕导THU</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2280" average="5.00" min="1" max="5" />
-    <ns2:statistics views="37127" />
+    <ns2:starRating count="2308" average="5.00" min="1" max="5" />
+    <ns2:statistics views="37496" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1911,8 +1935,8 @@ https://youtu.be/aDGyz9dHrcs
    <ns2:thumbnail url="https://i2.ytimg.com/vi/u_dhJ808GIM/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="216" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7542" />
+    <ns2:starRating count="217" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7614" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1933,8 +1957,8 @@ https://youtu.be/aDGyz9dHrcs
    <ns2:thumbnail url="https://i2.ytimg.com/vi/yqFPe2U77yM/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="20" average="5.00" min="1" max="5" />
-    <ns2:statistics views="888" />
+    <ns2:starRating count="21" average="5.00" min="1" max="5" />
+    <ns2:statistics views="892" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2159,8 +2183,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="275" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6885" />
+    <ns2:starRating count="277" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6935" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2223,8 +2247,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
 
 #猴哥 #猴哥精華 #猴哥日常</ns2:description>
    <ns2:community>
-    <ns2:starRating count="789" average="5.00" min="1" max="5" />
-    <ns2:statistics views="21554" />
+    <ns2:starRating count="794" average="5.00" min="1" max="5" />
+    <ns2:statistics views="21799" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2247,8 +2271,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
 https://www.youtube.com/channel/UC81MVNxLVWQz0erAeIpL5yQ/join
 https://supr.link/ykjzM</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1012" average="5.00" min="1" max="5" />
-    <ns2:statistics views="27992" />
+    <ns2:starRating count="1013" average="5.00" min="1" max="5" />
+    <ns2:statistics views="28088" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2276,7 +2300,7 @@ Bilibili: https://space.bilibili.com/471303350
 #windows11 #win10 #微軟 #電腦知識</ns2:description>
    <ns2:community>
     <ns2:starRating count="145" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6697" />
+    <ns2:statistics views="6720" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2299,7 +2323,7 @@ Bilibili: https://space.bilibili.com/471303350
 © 2025 NCSOFT Corporation. © 2025 Sony Interactive Entertainment Europe. Horizon Steel Frontiers is a trademark or registered trademark of Sony Interactive Entertainment LLC in the United States and other countries.</ns2:description>
    <ns2:community>
     <ns2:starRating count="343" average="5.00" min="1" max="5" />
-    <ns2:statistics views="25068" />
+    <ns2:statistics views="25281" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2320,8 +2344,8 @@ Bilibili: https://space.bilibili.com/471303350
    <ns2:thumbnail url="https://i1.ytimg.com/vi/pboAyRH9g4o/hqdefault.jpg" width="480" height="360" />
    <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
    <ns2:community>
-    <ns2:starRating count="155" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5810" />
+    <ns2:starRating count="158" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5834" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2342,8 +2366,8 @@ Bilibili: https://space.bilibili.com/471303350
    <ns2:thumbnail url="https://i2.ytimg.com/vi/IfB-KSRfoAg/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="552" average="5.00" min="1" max="5" />
-    <ns2:statistics views="19384" />
+    <ns2:starRating count="556" average="5.00" min="1" max="5" />
+    <ns2:statistics views="19624" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2369,8 +2393,8 @@ ALL SOCIALS - https://vldl.info
 WATCH US STREAM! - https://bit.ly/VLDLtwitch
 SERIES PLAYLISTS - https://bit.ly/VLDLplaylists</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1799" average="5.00" min="1" max="5" />
-    <ns2:statistics views="27417" />
+    <ns2:starRating count="1825" average="5.00" min="1" max="5" />
+    <ns2:statistics views="27731" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2531,7 +2555,7 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 #柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #dr berg</ns2:description>
    <ns2:community>
     <ns2:starRating count="312" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6271" />
+    <ns2:statistics views="6294" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2593,8 +2617,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
    <ns2:thumbnail url="https://i4.ytimg.com/vi/S_3tekfQ9pE/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Wacom Intuos Small Black. Here is the link to follow along on this 25 days 25 Tech Gifts 🎁 https://linktr.ee/uravgconsumer</ns2:description>
    <ns2:community>
-    <ns2:starRating count="194" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9022" />
+    <ns2:starRating count="196" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9146" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2629,8 +2653,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
 
 #overwatch #froggerow</ns2:description>
    <ns2:community>
-    <ns2:starRating count="8092" average="5.00" min="1" max="5" />
-    <ns2:statistics views="101749" />
+    <ns2:starRating count="8141" average="5.00" min="1" max="5" />
+    <ns2:statistics views="102560" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2644,7 +2668,7 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
    <ns0:uri>https://www.youtube.com/channel/UCdC0An4ZPNr_YiFiYoVbwaw</ns0:uri>
   </ns0:author>
   <ns0:published>2025-11-12T20:09:24+00:00</ns0:published>
-  <ns0:updated>2025-11-13T19:40:11+00:00</ns0:updated>
+  <ns0:updated>2025-11-13T20:14:47+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Worst Slide Design Ever</ns2:title>
    <ns2:content url="https://www.youtube.com/v/LjCwHrUwNFs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2699,24 +2723,24 @@ Only send in videos that you personally filmed.
 
 https://thisisyourdailydose.com/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="54908" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1125092" />
+    <ns2:starRating count="55363" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1135987" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
   <ns0:id>yt:video:OUmvsMA02zI</ns0:id>
   <ns1:videoId>OUmvsMA02zI</ns1:videoId>
   <ns1:channelId>UCaFGDBmGK_jw66u3av2Ysjw</ns1:channelId>
-  <ns0:title>[MacRumors]Low-Cost 2026 MacBook — Everything We Know So Far</ns0:title>
+  <ns0:title>[MacRumors]Apple’s $599 MacBook Is Coming…</ns0:title>
   <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=OUmvsMA02zI" />
   <ns0:author>
    <ns0:name>MacRumors</ns0:name>
    <ns0:uri>https://www.youtube.com/channel/UCaFGDBmGK_jw66u3av2Ysjw</ns0:uri>
   </ns0:author>
   <ns0:published>2025-11-12T19:48:36+00:00</ns0:published>
-  <ns0:updated>2025-11-13T07:47:14+00:00</ns0:updated>
+  <ns0:updated>2025-11-13T20:19:05+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Low-Cost 2026 MacBook — Everything We Know So Far</ns2:title>
+   <ns2:title>Apple’s $599 MacBook Is Coming…</ns2:title>
    <ns2:content url="https://www.youtube.com/v/OUmvsMA02zI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i4.ytimg.com/vi/OUmvsMA02zI/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Apple is reportedly working on a brand-new, low-cost MacBook aimed at launching in early 2026 — and it could be the company’s most affordable laptop in years. The goal is simple: bring macOS and Apple’s ecosystem to a much lower price point.
@@ -2755,8 +2779,8 @@ Welcome to MacRumors, your ultimate destination for in-depth and insightful Mac 
 
 Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:community>
-    <ns2:starRating count="584" average="5.00" min="1" max="5" />
-    <ns2:statistics views="18160" />
+    <ns2:starRating count="590" average="5.00" min="1" max="5" />
+    <ns2:statistics views="18299" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2777,8 +2801,8 @@ Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:thumbnail url="https://i2.ytimg.com/vi/9j-Gx0ALrrY/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="1065" average="5.00" min="1" max="5" />
-    <ns2:statistics views="33372" />
+    <ns2:starRating count="1069" average="5.00" min="1" max="5" />
+    <ns2:statistics views="34758" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2799,8 +2823,8 @@ Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:thumbnail url="https://i1.ytimg.com/vi/4jqrs0kqZ_g/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="1378" average="5.00" min="1" max="5" />
-    <ns2:statistics views="35711" />
+    <ns2:starRating count="1385" average="5.00" min="1" max="5" />
+    <ns2:statistics views="35895" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2822,8 +2846,8 @@ Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:description>Take a peek at the Naughty Dog 40th anniversary showcase held at Gallery Nucleus. To celebrate four decades of history, Naughty Dog and Gallery Nucleus collaborated with a number of artists to honor some of the studio's biggest franchises with a gallery showing featuring UNCHARTED, The Last of Us, and more.
  Fans attended several signings with Dogs past and present, so we captured the experience as developers, fans, and gallery artists reminisced about what Naughty Dog games have meant to them. Thank you to all our fans who attended and spent time with the Dogs at these panels, and we hope all who could and could not attend enjoy this look at the festivities.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="766" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6946" />
+    <ns2:starRating count="769" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6951" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2872,8 +2896,8 @@ Use code YT25 for 25% off PRO access
 - Building a Claude Clode with my mind
 - Neurosity SDK</ns2:description>
    <ns2:community>
-    <ns2:starRating count="8593" average="5.00" min="1" max="5" />
-    <ns2:statistics views="168361" />
+    <ns2:starRating count="8643" average="5.00" min="1" max="5" />
+    <ns2:statistics views="169395" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2900,8 +2924,8 @@ http://twitter.com/Dave2D
 http://www.instagram.com/Dave2D
 https://discord.gg/Dave2D</ns2:description>
    <ns2:community>
-    <ns2:starRating count="34774" average="5.00" min="1" max="5" />
-    <ns2:statistics views="730512" />
+    <ns2:starRating count="34946" average="5.00" min="1" max="5" />
+    <ns2:statistics views="735906" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2944,8 +2968,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3852" average="5.00" min="1" max="5" />
-    <ns2:statistics views="98355" />
+    <ns2:starRating count="3970" average="5.00" min="1" max="5" />
+    <ns2:statistics views="102436" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2988,8 +3012,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="58659" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1211880" />
+    <ns2:starRating count="59848" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1230394" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3034,8 +3058,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1365" average="5.00" min="1" max="5" />
-    <ns2:statistics views="20170" />
+    <ns2:starRating count="1369" average="5.00" min="1" max="5" />
+    <ns2:statistics views="20217" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3078,7 +3102,7 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 请注意，本视频完全符合YouTube社区准则，没有任何违规行为。</ns2:description>
    <ns2:community>
     <ns2:starRating count="28" average="5.00" min="1" max="5" />
-    <ns2:statistics views="661" />
+    <ns2:statistics views="660" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3155,8 +3179,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
 
 #overwatch #froggerow</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4317" average="5.00" min="1" max="5" />
-    <ns2:statistics views="66181" />
+    <ns2:starRating count="4327" average="5.00" min="1" max="5" />
+    <ns2:statistics views="66366" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3200,8 +3224,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="8510" average="5.00" min="1" max="5" />
-    <ns2:statistics views="133657" />
+    <ns2:starRating count="8511" average="5.00" min="1" max="5" />
+    <ns2:statistics views="132753" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3245,8 +3269,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
 
 #TED #TEDTalks #politics</ns2:description>
    <ns2:community>
-    <ns2:starRating count="309" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13104" />
+    <ns2:starRating count="310" average="5.00" min="1" max="5" />
+    <ns2:statistics views="13328" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3267,8 +3291,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
    <ns2:thumbnail url="https://i2.ytimg.com/vi/Yv4Tc5hy7yI/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="36515" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1749900" />
+    <ns2:starRating count="36620" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1753494" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3289,8 +3313,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
    <ns2:thumbnail url="https://i3.ytimg.com/vi/jay-lBwAJ_4/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="17961" average="5.00" min="1" max="5" />
-    <ns2:statistics views="494608" />
+    <ns2:starRating count="18003" average="5.00" min="1" max="5" />
+    <ns2:statistics views="494601" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3304,7 +3328,7 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
    <ns0:uri>https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ</ns0:uri>
   </ns0:author>
   <ns0:published>2025-11-12T13:23:39+00:00</ns0:published>
-  <ns0:updated>2025-11-13T19:40:04+00:00</ns0:updated>
+  <ns0:updated>2025-11-13T20:12:52+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>【庫存影片】百慕大三角（拍攝於2022年2月，由於特殊原因封存至今） | 老高與小茉 Mr &amp; Mrs Gao</ns2:title>
    <ns2:content url="https://www.youtube.com/v/ESObIvXrKZI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -3538,8 +3562,8 @@ https://www.youtube.com/watch?v=2FLYgFa2ZyI
 
 【奇趣】https://goo.gl/Tbpiuj</ns2:description>
    <ns2:community>
-    <ns2:starRating count="28385" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1115625" />
+    <ns2:starRating count="28464" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1123266" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3574,8 +3598,8 @@ Copyright © 腦洞烏托邦™️ All Rights Reserved.
 ☆
 # Xiaowu # 小烏 # ndwtb # 驚掉下巴</ns2:description>
    <ns2:community>
-    <ns2:starRating count="674" average="5.00" min="1" max="5" />
-    <ns2:statistics views="32880" />
+    <ns2:starRating count="675" average="5.00" min="1" max="5" />
+    <ns2:statistics views="32975" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3606,7 +3630,7 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
 #猴哥 #猴哥精華 #猴哥日常</ns2:description>
    <ns2:community>
     <ns2:starRating count="1097" average="5.00" min="1" max="5" />
-    <ns2:statistics views="105389" />
+    <ns2:statistics views="105492" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3627,8 +3651,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
    <ns2:thumbnail url="https://i3.ytimg.com/vi/2dNWxUnM6p8/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="4322" average="5.00" min="1" max="5" />
-    <ns2:statistics views="137173" />
+    <ns2:starRating count="4340" average="5.00" min="1" max="5" />
+    <ns2:statistics views="138012" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3651,7 +3675,7 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
 首款伊藤潤二授權的第一人稱恐怖冒險遊戲，我們是失憶又被困在神秘洋樓的大學生，為了逃離洋樓卻遇到了更多恐怖詭異的現象，找回記憶的過程中逐漸拼湊出讓人毛骨悚然的終局。</ns2:description>
    <ns2:community>
     <ns2:starRating count="96" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4744" />
+    <ns2:statistics views="4822" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3683,8 +3707,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2593" average="5.00" min="1" max="5" />
-    <ns2:statistics views="267472" />
+    <ns2:starRating count="2598" average="5.00" min="1" max="5" />
+    <ns2:statistics views="268016" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3909,8 +3933,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="512" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9398" />
+    <ns2:starRating count="514" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9413" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3936,8 +3960,8 @@ ALL SOCIALS - https://vldl.info
 WATCH US STREAM! - https://bit.ly/VLDLtwitch
 SERIES PLAYLISTS - https://bit.ly/VLDLplaylists</ns2:description>
    <ns2:community>
-    <ns2:starRating count="50509" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1064030" />
+    <ns2:starRating count="50693" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1066416" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3965,8 +3989,8 @@ Facebook：https://www.facebook.com/FinalFantasyXIVTC
 
 #FF14 #FFXIV</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3203" average="5.00" min="1" max="5" />
-    <ns2:statistics views="124910" />
+    <ns2:starRating count="3210" average="5.00" min="1" max="5" />
+    <ns2:statistics views="125301" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4010,7 +4034,7 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
 感謝收看！喜歡請訂閱點贊！</ns2:description>
    <ns2:community>
     <ns2:starRating count="597" average="5.00" min="1" max="5" />
-    <ns2:statistics views="37536" />
+    <ns2:statistics views="37607" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4054,8 +4078,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2372" average="5.00" min="1" max="5" />
-    <ns2:statistics views="34259" />
+    <ns2:starRating count="2374" average="5.00" min="1" max="5" />
+    <ns2:statistics views="34297" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4077,7 +4101,7 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="132" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9309" />
+    <ns2:statistics views="9320" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4102,8 +4126,8 @@ B站频道：磊哥聊政经
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="7185" average="5.00" min="1" max="5" />
-    <ns2:statistics views="97824" />
+    <ns2:starRating count="7191" average="5.00" min="1" max="5" />
+    <ns2:statistics views="97884" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4265,7 +4289,7 @@ Bilibili: https://space.bilibili.com/471303350
    <ns2:description>没想到我们这么快就1400万粉丝了，这次我们用超强的执行力，回答了许多从未想过的问题，希望可以满足你的好奇！如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看！</ns2:description>
    <ns2:community>
     <ns2:starRating count="3910" average="5.00" min="1" max="5" />
-    <ns2:statistics views="106428" />
+    <ns2:statistics views="106322" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4359,30 +4383,8 @@ https://soundcloud.com/getsixofficial
 
 #overwatch2</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3571" average="5.00" min="1" max="5" />
-    <ns2:statistics views="108663" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:qMvrw-WWUzM</ns0:id>
-  <ns1:videoId>qMvrw-WWUzM</ns1:videoId>
-  <ns1:channelId>UC9fSZHEh6XsRpX-xJc6lT3A</ns1:channelId>
-  <ns0:title>[UrAvgConsumer]Day 5 of 25 Days of Tech Gift ideas. You know I had to include a daily essential ⌚️Apple Watch SE 3</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/qMvrw-WWUzM" />
-  <ns0:author>
-   <ns0:name>UrAvgConsumer</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-11-12T00:30:16+00:00</ns0:published>
-  <ns0:updated>2025-11-12T08:48:50+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Day 5 of 25 Days of Tech Gift ideas. You know I had to include a daily essential ⌚️Apple Watch SE 3</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/qMvrw-WWUzM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/qMvrw-WWUzM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Apple Watch SE 3. Here is the link to follow along on this 25 days 25 Tech Gifts 🎁 https://linktr.ee/uravgconsumer</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="412" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14679" />
+    <ns2:starRating count="3581" average="5.00" min="1" max="5" />
+    <ns2:statistics views="108894" />
    </ns2:community>
   </ns2:group>
  </ns0:entry></feed>
