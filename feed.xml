@@ -1,5 +1,189 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2025-11-13T19:13:55Z</updated><ns0:entry>
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2025-11-13T19:36:20Z</updated><ns0:entry>
+  <ns0:id>yt:video:l1cnOHzkJb8</ns0:id>
+  <ns1:videoId>l1cnOHzkJb8</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]Amazon ECS managed instances explained | Amazon Web Services</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=l1cnOHzkJb8" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-11-13T19:31:53+00:00</ns0:published>
+  <ns0:updated>2025-11-13T19:31:54+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Amazon ECS managed instances explained | Amazon Web Services</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/l1cnOHzkJb8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/l1cnOHzkJb8/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Amazon ECS Managed Instances is a fully managed compute option that eliminates infrastructure management overhead while providing access to a broad suite of EC2 capabilities, including the flexibility to select instance types. By offloading infrastructure operations to AWS, ECS Managed Instances allows you quickly launch and scale your workloads while enhancing performance and reducing your total cost of ownership. Learn more about Amazon ECS Managed Instances here: https://go.aws/3LBuKYJ
+
+Subscribe to AWS: https://go.aws/subscribe
+
+Create a free AWS account: https://go.aws/signup 
+Try AWS for free: https://go.aws/free 
+Connect with an expert: https://go.aws/contact
+Explore more: https://go.aws/more
+
+Next steps:
+Explore on AWS in Analyst Research:  https://go.aws/reports
+Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
+Join the AWS Partner Network: https://go.aws/partners 
+Learn more on how Amazon builds and operates software: https://go.aws/library 
+
+Do you have technical AWS questions? 
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+Why AWS?
+Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
+
+#AWS #AmazonWebServices #CloudComputing</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="2" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:2MxxCAEprcU</ns0:id>
+  <ns1:videoId>2MxxCAEprcU</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]SES Deliverability Learning Series : State of feedback monitoring | Amazon Web Services</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=2MxxCAEprcU" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-11-13T19:19:41+00:00</ns0:published>
+  <ns0:updated>2025-11-13T19:19:42+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>SES Deliverability Learning Series : State of feedback monitoring | Amazon Web Services</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/2MxxCAEprcU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/2MxxCAEprcU/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Learn how to monitor email feedback using SES tools, postmaster dashboards, and bounce data. Covers complaint handling, engagement metrics, and reputation monitoring for successful inbox delivery.
+
+Learn more about Amazon Simple Email Service: https://go.aws/480nVaI
+
+Subscribe to AWS: https://go.aws/subscribe
+
+Create a free AWS account: https://go.aws/signup 
+Try AWS for free: https://go.aws/free 
+Connect with an expert: https://go.aws/contact
+Explore more: https://go.aws/more
+
+Next steps:
+Explore on AWS in Analyst Research:  https://go.aws/reports
+Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
+Join the AWS Partner Network: https://go.aws/partners 
+Learn more on how Amazon builds and operates software: https://go.aws/library 
+
+Do you have technical AWS questions? 
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+Why AWS?
+Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
+
+#AWS #AmazonWebServices #CloudComputing</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:0--YWWgRkOM</ns0:id>
+  <ns1:videoId>0--YWWgRkOM</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]SES Deliverability learning series: Domain Authentication (Part II) | Amazon Web Services</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=0--YWWgRkOM" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-11-13T19:08:11+00:00</ns0:published>
+  <ns0:updated>2025-11-13T19:08:11+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>SES Deliverability learning series: Domain Authentication (Part II) | Amazon Web Services</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/0--YWWgRkOM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/0--YWWgRkOM/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Welcome back to part two of our Domain authentication masterclass! Today, we're demystifying DMARC reports and unpacking the latest bulk sender requirements that are reshaping email delivery standards.
+First, let's decode DMARC reports - those powerful XML documents that hold the key to understanding your email authentication performance. We'll explore both Aggregate (RUA) and Forensic (RUF) reports, showing you exactly how they work and why they're crucial for monitoring your email security. You'll learn practical ways to interpret these reports and set up smart monitoring systems that keep your email program running smoothly.
+Then, we're diving into the major updates in bulk sender requirements introduced by Microsoft, Google, and Yahoo in 2024-2025. If your organization sends more than 5,000 emails daily, these changes directly affect you. We'll cover the essential authentication protocols, spam complaint management strategies, and the new one-click unsubscribe requirements that are now mandatory.
+
+Whether you're a seasoned email marketer or just starting with bulk email campaigns, this guide will give you the  knowledge to maintain strong deliverability and protect your sender reputation. Ready to become an email authentication expert? Let's get started!
+
+Learn more about Amazon Simple Email Service: https://go.aws/480nVaI
+
+Subscribe to AWS: https://go.aws/subscribe
+
+Create a free AWS account: https://go.aws/signup 
+Try AWS for free: https://go.aws/free 
+Connect with an expert: https://go.aws/contact
+Explore more: https://go.aws/more
+
+Next steps:
+Explore on AWS in Analyst Research:  https://go.aws/reports
+Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
+Join the AWS Partner Network: https://go.aws/partners 
+Learn more on how Amazon builds and operates software: https://go.aws/library 
+
+Do you have technical AWS questions? 
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+Why AWS?
+Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
+
+#SES #EmailDeliverability #AWS #AmazonWebServices #CloudComputing</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="4" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:WqPjdO4SQYQ</ns0:id>
+  <ns1:videoId>WqPjdO4SQYQ</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]SES Deliverability learning series: Domain Authentication (Part I) | Amazon Web Services</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=WqPjdO4SQYQ" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-11-13T19:08:08+00:00</ns0:published>
+  <ns0:updated>2025-11-13T19:08:08+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>SES Deliverability learning series: Domain Authentication (Part I) | Amazon Web Services</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/WqPjdO4SQYQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/WqPjdO4SQYQ/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>In today's digital landscape, ensuring your emails reach their destination is more crucial than ever. Welcome to our comprehensive guide on Amazon SES email authentication. In this first segment, we'll dive deep into the fundamentals of email deliverability and why proper authentication matters for businesses. We'll take a hands-on approach to implementing the three crucial email authentication protocols: SPF, DKIM, and DMARC. We'll break down each protocol's purpose and demonstrate step-by-step how to configure them properly in your Amazon SES setup.
+
+Discover how SPF helps verify legitimate email sources, how DKIM adds a digital signature to your emails, and how DMARC ties it all together while providing valuable reporting insights. We'll share practical examples, common pitfalls to avoid, and best practices for maintaining high deliverability rates.
+
+Learn more about Amazon Simple Email Service: https://go.aws/480nVaI
+
+Subscribe to AWS: https://go.aws/subscribe
+
+Create a free AWS account: https://go.aws/signup 
+Try AWS for free: https://go.aws/free 
+Connect with an expert: https://go.aws/contact
+Explore more: https://go.aws/more
+
+Next steps:
+Explore on AWS in Analyst Research:  https://go.aws/reports
+Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
+Join the AWS Partner Network: https://go.aws/partners 
+Learn more on how Amazon builds and operates software: https://go.aws/library 
+
+Do you have technical AWS questions? 
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+Why AWS?
+Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
+
+#SES #EmailDeliverability #AWS #AmazonWebServices #CloudComputing</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="5" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
   <ns0:id>yt:video:vWxUE1NDujA</ns0:id>
   <ns1:videoId>vWxUE1NDujA</ns1:videoId>
   <ns1:channelId>UCOkE7SxzwKUII9CxfggMSIw</ns1:channelId>
@@ -43,8 +227,8 @@ Support us on Patreon: https://www.patreon.com/Commonrealm
 Subscribe to Commonwealth Realm:
 http://bit.ly/Commonrealm</ns2:description>
    <ns2:community>
-    <ns2:starRating count="26" average="5.00" min="1" max="5" />
-    <ns2:statistics views="141" />
+    <ns2:starRating count="50" average="5.00" min="1" max="5" />
+    <ns2:statistics views="310" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -58,15 +242,15 @@ http://bit.ly/Commonrealm</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UCejVlAl2kUwBgSHtQeBoKhQ</ns0:uri>
   </ns0:author>
   <ns0:published>2025-11-13T18:58:18+00:00</ns0:published>
-  <ns0:updated>2025-11-13T19:11:57+00:00</ns0:updated>
+  <ns0:updated>2025-11-13T19:16:32+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>This Sojourn BUFF made her PICK OR BAN #overwatch2 #gaming #overwatch</ns2:title>
    <ns2:content url="https://www.youtube.com/v/zGLeKPBdjMo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i3.ytimg.com/vi/zGLeKPBdjMo/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="34" average="5.00" min="1" max="5" />
-    <ns2:statistics views="433" />
+    <ns2:starRating count="75" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1233" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -93,8 +277,8 @@ Find out more on how our AWS Certified Partner Keeper.io can help by contacting 
 
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="120" />
+    <ns2:starRating count="3" average="5.00" min="1" max="5" />
+    <ns2:statistics views="233" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -141,7 +325,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="77" />
+    <ns2:statistics views="117" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -169,7 +353,7 @@ Find out more on how our AWS Certified Partner b.Telligent can help by contactin
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
     <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="145" />
+    <ns2:statistics views="216" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -213,8 +397,8 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
-    <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="4" />
+    <ns2:starRating count="1" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -259,7 +443,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="3" />
+    <ns2:statistics views="4" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -403,8 +587,8 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 #心河摆渡
 请注意，本视频完全符合YouTube社区准则，没有任何违规行为。</ns2:description>
    <ns2:community>
-    <ns2:starRating count="7" average="5.00" min="1" max="5" />
-    <ns2:statistics views="90" />
+    <ns2:starRating count="8" average="5.00" min="1" max="5" />
+    <ns2:statistics views="96" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -447,7 +631,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 请注意，本视频完全符合YouTube社区准则，没有任何违规行为。</ns2:description>
    <ns2:community>
     <ns2:starRating count="3" average="5.00" min="1" max="5" />
-    <ns2:statistics views="78" />
+    <ns2:statistics views="84" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -489,8 +673,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
 
 #TED #TEDTalks #AI</ns2:description>
    <ns2:community>
-    <ns2:starRating count="107" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2365" />
+    <ns2:starRating count="114" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2511" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -524,8 +708,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
 
 #overwatch #froggerow</ns2:description>
    <ns2:community>
-    <ns2:starRating count="752" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5270" />
+    <ns2:starRating count="820" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5755" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -550,8 +734,8 @@ B站频道：磊哥聊政经
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2481" average="5.00" min="1" max="5" />
-    <ns2:statistics views="16043" />
+    <ns2:starRating count="2627" average="5.00" min="1" max="5" />
+    <ns2:statistics views="17462" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -721,8 +905,8 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 
 #AWS #AmazonWebServices #CloudComputing</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4" average="5.00" min="1" max="5" />
-    <ns2:statistics views="63" />
+    <ns2:starRating count="5" average="5.00" min="1" max="5" />
+    <ns2:statistics views="74" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -778,8 +962,8 @@ LINKEDIN                  ►  https://bit.ly/3hWOLVT
 
 MLOps Explained | What is MLOps | MLOps Tutorial | What is Machine Learning Operations | What is AI Operations</ns2:description>
    <ns2:community>
-    <ns2:starRating count="223" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2514" />
+    <ns2:starRating count="234" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2692" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -800,8 +984,8 @@ MLOps Explained | What is MLOps | MLOps Tutorial | What is Machine Learning Oper
    <ns2:thumbnail url="https://i3.ytimg.com/vi/jrzK4xL_W4Q/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="46558" average="5.00" min="1" max="5" />
-    <ns2:statistics views="662976" />
+    <ns2:starRating count="49541" average="5.00" min="1" max="5" />
+    <ns2:statistics views="719609" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -836,8 +1020,8 @@ My music:
 Spotify: https://open.spotify.com/album/5m7SFVMTfNvv7dyqfa00G3
 iTunes: http://itunes.apple.com/album/id1122291881?ls=1&amp;app=itunes</ns2:description>
    <ns2:community>
-    <ns2:starRating count="14079" average="5.00" min="1" max="5" />
-    <ns2:statistics views="69494" />
+    <ns2:starRating count="15182" average="5.00" min="1" max="5" />
+    <ns2:statistics views="80141" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -869,8 +1053,8 @@ http://twitter.com/MKBHD
 http://instagram.com/MKBHD
 http://facebook.com/MKBHD</ns2:description>
    <ns2:community>
-    <ns2:starRating count="49475" average="5.00" min="1" max="5" />
-    <ns2:statistics views="636709" />
+    <ns2:starRating count="51973" average="5.00" min="1" max="5" />
+    <ns2:statistics views="701473" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -920,8 +1104,8 @@ Twitter: https://twitter.com/dennied_
 
 #Overwatch2 #Overwatch #ml7</ns2:description>
    <ns2:community>
-    <ns2:starRating count="240" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4504" />
+    <ns2:starRating count="250" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4857" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -946,8 +1130,8 @@ B站频道：磊哥聊政经
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2761" average="5.00" min="1" max="5" />
-    <ns2:statistics views="24158" />
+    <ns2:starRating count="2797" average="5.00" min="1" max="5" />
+    <ns2:statistics views="25030" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -969,7 +1153,7 @@ B站频道：磊哥聊政经
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="11" average="5.00" min="1" max="5" />
-    <ns2:statistics views="905" />
+    <ns2:statistics views="946" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -991,7 +1175,7 @@ B站频道：磊哥聊政经
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="8" average="5.00" min="1" max="5" />
-    <ns2:statistics views="865" />
+    <ns2:statistics views="889" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1012,8 +1196,8 @@ B站频道：磊哥聊政经
    <ns2:thumbnail url="https://i3.ytimg.com/vi/V9gotKXt-xQ/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="62" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4877" />
+    <ns2:starRating count="63" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5083" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1035,7 +1219,7 @@ B站频道：磊哥聊政经
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="24" average="5.00" min="1" max="5" />
-    <ns2:statistics views="848" />
+    <ns2:statistics views="878" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1075,8 +1259,8 @@ B站频道：磊哥聊政经
 
 #Overwatch2 #gaming #mL7</ns2:description>
    <ns2:community>
-    <ns2:starRating count="63" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2129" />
+    <ns2:starRating count="65" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2287" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1097,8 +1281,8 @@ B站频道：磊哥聊政经
    <ns2:thumbnail url="https://i3.ytimg.com/vi/nTURBQm-Kbs/hqdefault.jpg" width="480" height="360" />
    <ns2:description>传统运动相机发展到今天，已经受到了很多新形态相机的挑战，大疆很明白必须整一些独特的活，才能留住用户。这次我们想和你一起看看，大疆的Action 6，够Pro吗？如果你喜欢这期节目，请多多支持我们，并把视频分享给你的朋友们一起看看！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1424" average="5.00" min="1" max="5" />
-    <ns2:statistics views="43152" />
+    <ns2:starRating count="1439" average="5.00" min="1" max="5" />
+    <ns2:statistics views="44763" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1124,8 +1308,8 @@ ALL SOCIALS - https://vldl.info
 WATCH US STREAM! - https://bit.ly/VLDLtwitch
 SERIES PLAYLISTS - https://bit.ly/VLDLplaylists</ns2:description>
    <ns2:community>
-    <ns2:starRating count="6582" average="5.00" min="1" max="5" />
-    <ns2:statistics views="87355" />
+    <ns2:starRating count="6859" average="5.00" min="1" max="5" />
+    <ns2:statistics views="92315" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1350,8 +1534,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="62" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1658" />
+    <ns2:starRating count="63" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1702" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1383,8 +1567,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2055" average="5.00" min="1" max="5" />
-    <ns2:statistics views="116166" />
+    <ns2:starRating count="2109" average="5.00" min="1" max="5" />
+    <ns2:statistics views="122977" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1405,8 +1589,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:thumbnail url="https://i2.ytimg.com/vi/m2NoiwfpJys/hqdefault.jpg" width="480" height="360" />
    <ns2:description>分裂、分裂、無限分裂......她沒有超能力，卻是伊藤潤二筆下最詭異的怪物！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1381" average="5.00" min="1" max="5" />
-    <ns2:statistics views="47439" />
+    <ns2:starRating count="1390" average="5.00" min="1" max="5" />
+    <ns2:statistics views="48456" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1427,8 +1611,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:thumbnail url="https://i1.ytimg.com/vi/LfbOQ1gh_vk/hqdefault.jpg" width="480" height="360" />
    <ns2:description>老梁针对国内的线下培训，从青年人、中年人到老年人，看准了你的钱袋子，培训是如何做到精准收割</ns2:description>
    <ns2:community>
-    <ns2:starRating count="290" average="5.00" min="1" max="5" />
-    <ns2:statistics views="17272" />
+    <ns2:starRating count="292" average="5.00" min="1" max="5" />
+    <ns2:statistics views="18071" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1449,7 +1633,7 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:thumbnail url="https://i3.ytimg.com/vi/rDCEAMyzlUI/hqdefault.jpg" width="480" height="360" />
    <ns2:description>老梁通过中美贸易战，解读中国古代贸易战</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3" average="5.00" min="1" max="5" />
+    <ns2:starRating count="4" average="5.00" min="1" max="5" />
     <ns2:statistics views="0" />
    </ns2:community>
   </ns2:group>
@@ -1491,7 +1675,7 @@ If you'd like to support the channel / 如果你想支持我们的频道:
 *Contains affiliate links*</ns2:description>
    <ns2:community>
     <ns2:starRating count="33" average="5.00" min="1" max="5" />
-    <ns2:statistics views="582" />
+    <ns2:statistics views="590" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1520,7 +1704,7 @@ It’s called the #HemingwayBridge, and Naomi’s here to walk you through it �
 #productivity #focus #tips</ns2:description>
    <ns2:community>
     <ns2:starRating count="19" average="5.00" min="1" max="5" />
-    <ns2:statistics views="279" />
+    <ns2:statistics views="288" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1564,8 +1748,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3032" average="5.00" min="1" max="5" />
-    <ns2:statistics views="37930" />
+    <ns2:starRating count="3046" average="5.00" min="1" max="5" />
+    <ns2:statistics views="38535" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1619,8 +1803,8 @@ https://youtu.be/aDGyz9dHrcs
 -----------------------------------------------------------------------------------------------------
 #知識分享 #科學揭秘 #科學 #科普 #冷知識 #台灣熱門 #香港討論 #新加坡熱話 #化学 #生活 #数学 #理论 #物理 #逻辑 #毕导THU</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2231" average="5.00" min="1" max="5" />
-    <ns2:statistics views="34852" />
+    <ns2:starRating count="2244" average="5.00" min="1" max="5" />
+    <ns2:statistics views="35672" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1674,8 +1858,8 @@ https://youtu.be/aDGyz9dHrcs
    <ns2:thumbnail url="https://i2.ytimg.com/vi/u_dhJ808GIM/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="212" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7077" />
+    <ns2:starRating count="216" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7275" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1922,8 +2106,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="273" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6677" />
+    <ns2:starRating count="274" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6748" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1955,8 +2139,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 所有视频取得中国大陆创作者授权，严格遵守平台规定。🛡️
 #骑行环游世界#国家残疾运动员#骑行旅行</ns2:description>
    <ns2:community>
-    <ns2:starRating count="5" average="5.00" min="1" max="5" />
-    <ns2:statistics views="132" />
+    <ns2:starRating count="6" average="5.00" min="1" max="5" />
+    <ns2:statistics views="140" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1986,8 +2170,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
 
 #猴哥 #猴哥精華 #猴哥日常</ns2:description>
    <ns2:community>
-    <ns2:starRating count="758" average="5.00" min="1" max="5" />
-    <ns2:statistics views="20130" />
+    <ns2:starRating count="767" average="5.00" min="1" max="5" />
+    <ns2:statistics views="20585" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2010,8 +2194,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
 https://www.youtube.com/channel/UC81MVNxLVWQz0erAeIpL5yQ/join
 https://supr.link/ykjzM</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1004" average="5.00" min="1" max="5" />
-    <ns2:statistics views="27248" />
+    <ns2:starRating count="1009" average="5.00" min="1" max="5" />
+    <ns2:statistics views="27566" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2038,8 +2222,8 @@ Weibo: @大狸子切切里
 Bilibili: https://space.bilibili.com/471303350
 #windows11 #win10 #微軟 #電腦知識</ns2:description>
    <ns2:community>
-    <ns2:starRating count="144" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6500" />
+    <ns2:starRating count="145" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6563" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2061,8 +2245,8 @@ Bilibili: https://space.bilibili.com/471303350
    <ns2:description>NCSOFT 在 G-Star 2025 現場發表 MMORPG 新作《Horizon Steel Frontiers》的宣傳影片
 © 2025 NCSOFT Corporation. © 2025 Sony Interactive Entertainment Europe. Horizon Steel Frontiers is a trademark or registered trademark of Sony Interactive Entertainment LLC in the United States and other countries.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="336" average="5.00" min="1" max="5" />
-    <ns2:statistics views="23979" />
+    <ns2:starRating count="339" average="5.00" min="1" max="5" />
+    <ns2:statistics views="24385" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2083,8 +2267,8 @@ Bilibili: https://space.bilibili.com/471303350
    <ns2:thumbnail url="https://i1.ytimg.com/vi/pboAyRH9g4o/hqdefault.jpg" width="480" height="360" />
    <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
    <ns2:community>
-    <ns2:starRating count="152" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5669" />
+    <ns2:starRating count="154" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5724" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2105,8 +2289,8 @@ Bilibili: https://space.bilibili.com/471303350
    <ns2:thumbnail url="https://i2.ytimg.com/vi/IfB-KSRfoAg/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="540" average="5.00" min="1" max="5" />
-    <ns2:statistics views="18418" />
+    <ns2:starRating count="546" average="5.00" min="1" max="5" />
+    <ns2:statistics views="18634" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2132,8 +2316,8 @@ ALL SOCIALS - https://vldl.info
 WATCH US STREAM! - https://bit.ly/VLDLtwitch
 SERIES PLAYLISTS - https://bit.ly/VLDLplaylists</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1729" average="5.00" min="1" max="5" />
-    <ns2:statistics views="25883" />
+    <ns2:starRating count="1754" average="5.00" min="1" max="5" />
+    <ns2:statistics views="26405" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2294,7 +2478,7 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 #柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #dr berg</ns2:description>
    <ns2:community>
     <ns2:starRating count="312" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6236" />
+    <ns2:statistics views="6243" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2356,51 +2540,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
    <ns2:thumbnail url="https://i4.ytimg.com/vi/S_3tekfQ9pE/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Wacom Intuos Small Black. Here is the link to follow along on this 25 days 25 Tech Gifts 🎁 https://linktr.ee/uravgconsumer</ns2:description>
    <ns2:community>
-    <ns2:starRating count="192" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8821" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:yhhoJtCKVuc</ns0:id>
-  <ns1:videoId>yhhoJtCKVuc</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]AWS re:Invent 2025 | The Future of Agentic AI is Here featuring Swami Sivasubramanian</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=yhhoJtCKVuc" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-11-12T21:04:41+00:00</ns0:published>
-  <ns0:updated>2025-11-12T21:04:44+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>AWS re:Invent 2025 | The Future of Agentic AI is Here featuring Swami Sivasubramanian</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/yhhoJtCKVuc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/yhhoJtCKVuc/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Join Swami Sivasubramanian, Vice President of Agentic AI, to learn how Agentic AI is poised to transform the way we live and work. In this keynote you’ll hear about the tools and services you can use to build, deploy, and run secure, reliable, and scalable agents on AWS. We will also dive deep into the engineering innovations that power your agentic systems and give you a glimpse of the future.
-
-Subscribe to AWS: https://go.aws/subscribe
-
-Create a free AWS account: https://go.aws/signup 
-Try AWS for free: https://go.aws/free 
-Connect with an expert: https://go.aws/contact
-Explore more: https://go.aws/more
-
-Next steps:
-Explore on AWS in Analyst Research:  https://go.aws/reports
-Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
-Join the AWS Partner Network: https://go.aws/partners 
-Learn more on how Amazon builds and operates software: https://go.aws/library 
-
-Do you have technical AWS questions? 
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-Why AWS?
-Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
-
-#AWS #AmazonWebServices #CloudComputing #AWSreInvent2025</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="3" average="5.00" min="1" max="5" />
-    <ns2:statistics views="0" />
+    <ns2:starRating count="193" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8877" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2435,53 +2576,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
 
 #overwatch #froggerow</ns2:description>
    <ns2:community>
-    <ns2:starRating count="7951" average="5.00" min="1" max="5" />
-    <ns2:statistics views="98613" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:59nBVn_szcE</ns0:id>
-  <ns1:videoId>59nBVn_szcE</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]Amazon ElastiCache Serverless | Amazon Web Services</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=59nBVn_szcE" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-11-12T20:27:21+00:00</ns0:published>
-  <ns0:updated>2025-11-13T15:34:37+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Amazon ElastiCache Serverless | Amazon Web Services</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/59nBVn_szcE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/59nBVn_szcE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Curious about serverless caching on AWS? This short video on Amazon ElastiCache Serverless for Valkey covers the key benefits of serverless caching, explores the scalable architecture, and shows the solution in action through a brief demonstration. Perfect for developers and architects looking to optimize performance with zero infrastructure management.
-
-Learn more about Amazon ElastiCache resources: https://go.aws/47D1x8h
-
-Subscribe to AWS: https://go.aws/subscribe
-
-Create a free AWS account: https://go.aws/signup 
-Try AWS for free: https://go.aws/free 
-Connect with an expert: https://go.aws/contact
-Explore more: https://go.aws/more
-
-Next steps:
-Explore on AWS in Analyst Research:  https://go.aws/reports
-Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
-Join the AWS Partner Network: https://go.aws/partners 
-Learn more on how Amazon builds and operates software: https://go.aws/library 
-
-Do you have technical AWS questions? 
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-Why AWS?
-Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
-
-#elasticache #serverless #valkey #AWS #AmazonWebServices #CloudComputing</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="17" average="5.00" min="1" max="5" />
-    <ns2:statistics views="297" />
+    <ns2:starRating count="8004" average="5.00" min="1" max="5" />
+    <ns2:statistics views="99429" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2550,8 +2646,8 @@ Only send in videos that you personally filmed.
 
 https://thisisyourdailydose.com/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="54192" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1105002" />
+    <ns2:starRating count="54478" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1108409" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2606,8 +2702,8 @@ Welcome to MacRumors, your ultimate destination for in-depth and insightful Mac 
 
 Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:community>
-    <ns2:starRating count="577" average="5.00" min="1" max="5" />
-    <ns2:statistics views="17802" />
+    <ns2:starRating count="580" average="5.00" min="1" max="5" />
+    <ns2:statistics views="17937" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2628,8 +2724,8 @@ Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:thumbnail url="https://i2.ytimg.com/vi/9j-Gx0ALrrY/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="1023" average="5.00" min="1" max="5" />
-    <ns2:statistics views="30157" />
+    <ns2:starRating count="1035" average="5.00" min="1" max="5" />
+    <ns2:statistics views="31004" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2650,8 +2746,8 @@ Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:thumbnail url="https://i1.ytimg.com/vi/4jqrs0kqZ_g/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="1365" average="5.00" min="1" max="5" />
-    <ns2:statistics views="34575" />
+    <ns2:starRating count="1369" average="5.00" min="1" max="5" />
+    <ns2:statistics views="34857" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2673,8 +2769,8 @@ Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:description>Take a peek at the Naughty Dog 40th anniversary showcase held at Gallery Nucleus. To celebrate four decades of history, Naughty Dog and Gallery Nucleus collaborated with a number of artists to honor some of the studio's biggest franchises with a gallery showing featuring UNCHARTED, The Last of Us, and more.
  Fans attended several signings with Dogs past and present, so we captured the experience as developers, fans, and gallery artists reminisced about what Naughty Dog games have meant to them. Thank you to all our fans who attended and spent time with the Dogs at these panels, and we hope all who could and could not attend enjoy this look at the festivities.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="751" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6825" />
+    <ns2:starRating count="756" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6852" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2723,8 +2819,8 @@ Use code YT25 for 25% off PRO access
 - Building a Claude Clode with my mind
 - Neurosity SDK</ns2:description>
    <ns2:community>
-    <ns2:starRating count="8505" average="5.00" min="1" max="5" />
-    <ns2:statistics views="165656" />
+    <ns2:starRating count="8543" average="5.00" min="1" max="5" />
+    <ns2:statistics views="166498" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2751,8 +2847,8 @@ http://twitter.com/Dave2D
 http://www.instagram.com/Dave2D
 https://discord.gg/Dave2D</ns2:description>
    <ns2:community>
-    <ns2:starRating count="34193" average="5.00" min="1" max="5" />
-    <ns2:statistics views="704807" />
+    <ns2:starRating count="34397" average="5.00" min="1" max="5" />
+    <ns2:statistics views="713022" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2795,8 +2891,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3339" average="5.00" min="1" max="5" />
-    <ns2:statistics views="82788" />
+    <ns2:starRating count="3425" average="5.00" min="1" max="5" />
+    <ns2:statistics views="84849" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2839,116 +2935,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="54490" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1111385" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:wOe5gJBrZSQ</ns0:id>
-  <ns1:videoId>wOe5gJBrZSQ</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]How can I resolve issues when I use read replicas in Aurora?</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=wOe5gJBrZSQ" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-11-12T17:24:29+00:00</ns0:published>
-  <ns0:updated>2025-11-12T17:24:29+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How can I resolve issues when I use read replicas in Aurora?</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/wOe5gJBrZSQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/wOe5gJBrZSQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/aurora-mysql-read-replicas
-
-The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
-
-Sreedhar shows you how to resolve issues when using read replicas in Amazon Aurora.
-
-0:00 Introduction
-0:31 Manual Failover Process
-0:44 Measuring Replication Lag
-1:41 Reducing Replication Lag
-2:10 Troubleshooting Replication
-2:36 Closing
-
-Subscribe to AWS: https://go.aws/subscribe
-
-Create a free AWS account: https://go.aws/signup 
-Try AWS for free: https://go.aws/free 
-Connect with an expert: https://go.aws/contact
-Explore more: https://go.aws/more
-
-Next steps:
-Explore on AWS in Analyst Research:  https://go.aws/reports
-Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
-Join the AWS Partner Network: https://go.aws/partners 
-Learn more on how Amazon builds and operates software: https://go.aws/library 
-
-Do you have technical AWS questions? 
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-Why AWS?
-Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
-
-#AWS #AmazonWebServices #CloudComputing</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="5" average="5.00" min="1" max="5" />
-    <ns2:statistics views="160" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:X9PXdcje_nE</ns0:id>
-  <ns1:videoId>X9PXdcje_nE</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]How do I turn on, access, or delete CloudWatch logs for AWS DMS?</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=X9PXdcje_nE" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-11-12T16:42:24+00:00</ns0:published>
-  <ns0:updated>2025-11-12T16:42:24+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How do I turn on, access, or delete CloudWatch logs for AWS DMS?</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/X9PXdcje_nE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/X9PXdcje_nE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/manage-cloudwatch-logs-dms
-
-The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
-
-Sivakumar shows you how to manage Amazon CloudWatch logs for AWS Database Migration Service tasks.
-
-0:00 Introduction
-0:28 Create Migration Task
-1:10 Enable CloudWatch Logs
-2:03 CLI Configuration
-2:59 View and Delete Logs
-3:33 Closing
-
-Subscribe to AWS: https://go.aws/subscribe
-
-Create a free AWS account: https://go.aws/signup 
-Try AWS for free: https://go.aws/free 
-Connect with an expert: https://go.aws/contact
-Explore more: https://go.aws/more
-
-Next steps:
-Explore on AWS in Analyst Research:  https://go.aws/reports
-Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
-Join the AWS Partner Network: https://go.aws/partners 
-Learn more on how Amazon builds and operates software: https://go.aws/library 
-
-Do you have technical AWS questions? 
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-Why AWS?
-Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
-
-#AWS #AmazonWebServices #CloudComputing</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="9" average="5.00" min="1" max="5" />
-    <ns2:statistics views="203" />
+    <ns2:starRating count="55299" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1126797" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2993,8 +2981,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1358" average="5.00" min="1" max="5" />
-    <ns2:statistics views="19911" />
+    <ns2:starRating count="1362" average="5.00" min="1" max="5" />
+    <ns2:statistics views="19993" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3114,8 +3102,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
 
 #overwatch #froggerow</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4290" average="5.00" min="1" max="5" />
-    <ns2:statistics views="65339" />
+    <ns2:starRating count="4296" average="5.00" min="1" max="5" />
+    <ns2:statistics views="65548" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3159,8 +3147,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="8504" average="5.00" min="1" max="5" />
-    <ns2:statistics views="133041" />
+    <ns2:starRating count="8507" average="5.00" min="1" max="5" />
+    <ns2:statistics views="133221" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3205,7 +3193,7 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
 #TED #TEDTalks #politics</ns2:description>
    <ns2:community>
     <ns2:starRating count="307" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12858" />
+    <ns2:statistics views="12919" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3226,8 +3214,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
    <ns2:thumbnail url="https://i2.ytimg.com/vi/Yv4Tc5hy7yI/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="36259" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1735079" />
+    <ns2:starRating count="36369" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1742379" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3248,8 +3236,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
    <ns2:thumbnail url="https://i3.ytimg.com/vi/jay-lBwAJ_4/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="17775" average="5.00" min="1" max="5" />
-    <ns2:statistics views="486628" />
+    <ns2:starRating count="17845" average="5.00" min="1" max="5" />
+    <ns2:statistics views="489366" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3263,7 +3251,7 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
    <ns0:uri>https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ</ns0:uri>
   </ns0:author>
   <ns0:published>2025-11-12T13:23:39+00:00</ns0:published>
-  <ns0:updated>2025-11-13T18:36:34+00:00</ns0:updated>
+  <ns0:updated>2025-11-13T19:07:08+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>【庫存影片】百慕大三角（拍攝於2022年2月，由於特殊原因封存至今） | 老高與小茉 Mr &amp; Mrs Gao</ns2:title>
    <ns2:content url="https://www.youtube.com/v/ESObIvXrKZI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -3497,8 +3485,8 @@ https://www.youtube.com/watch?v=2FLYgFa2ZyI
 
 【奇趣】https://goo.gl/Tbpiuj</ns2:description>
    <ns2:community>
-    <ns2:starRating count="28221" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1096884" />
+    <ns2:starRating count="28307" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1105332" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3533,8 +3521,8 @@ Copyright © 腦洞烏托邦™️ All Rights Reserved.
 ☆
 # Xiaowu # 小烏 # ndwtb # 驚掉下巴</ns2:description>
    <ns2:community>
-    <ns2:starRating count="671" average="5.00" min="1" max="5" />
-    <ns2:statistics views="32539" />
+    <ns2:starRating count="672" average="5.00" min="1" max="5" />
+    <ns2:statistics views="32630" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3564,8 +3552,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
 
 #猴哥 #猴哥精華 #猴哥日常</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1095" average="5.00" min="1" max="5" />
-    <ns2:statistics views="105082" />
+    <ns2:starRating count="1096" average="5.00" min="1" max="5" />
+    <ns2:statistics views="105248" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3586,8 +3574,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
    <ns2:thumbnail url="https://i3.ytimg.com/vi/2dNWxUnM6p8/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="4249" average="5.00" min="1" max="5" />
-    <ns2:statistics views="133998" />
+    <ns2:starRating count="4273" average="5.00" min="1" max="5" />
+    <ns2:statistics views="134877" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3642,8 +3630,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2578" average="5.00" min="1" max="5" />
-    <ns2:statistics views="264202" />
+    <ns2:starRating count="2584" average="5.00" min="1" max="5" />
+    <ns2:statistics views="265907" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3868,8 +3856,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="510" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9347" />
+    <ns2:starRating count="511" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9363" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3895,8 +3883,8 @@ ALL SOCIALS - https://vldl.info
 WATCH US STREAM! - https://bit.ly/VLDLtwitch
 SERIES PLAYLISTS - https://bit.ly/VLDLplaylists</ns2:description>
    <ns2:community>
-    <ns2:starRating count="50054" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1053100" />
+    <ns2:starRating count="50198" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1055897" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3924,8 +3912,8 @@ Facebook：https://www.facebook.com/FinalFantasyXIVTC
 
 #FF14 #FFXIV</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3181" average="5.00" min="1" max="5" />
-    <ns2:statistics views="123449" />
+    <ns2:starRating count="3193" average="5.00" min="1" max="5" />
+    <ns2:statistics views="124141" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3968,8 +3956,8 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
 製作更多有趣、有價值的視頻內容
 感謝收看！喜歡請訂閱點贊！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="593" average="5.00" min="1" max="5" />
-    <ns2:statistics views="37005" />
+    <ns2:starRating count="596" average="5.00" min="1" max="5" />
+    <ns2:statistics views="37275" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4014,7 +4002,7 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
     <ns2:starRating count="2369" average="5.00" min="1" max="5" />
-    <ns2:statistics views="33981" />
+    <ns2:statistics views="34066" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4036,7 +4024,7 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="132" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9240" />
+    <ns2:statistics views="9277" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4061,8 +4049,8 @@ B站频道：磊哥聊政经
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="7176" average="5.00" min="1" max="5" />
-    <ns2:statistics views="98005" />
+    <ns2:starRating count="7179" average="5.00" min="1" max="5" />
+    <ns2:statistics views="98081" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4125,7 +4113,7 @@ http://www.youtube.com/timedtext_cs_panel?tab=2&amp;c=UCpPswAyGzdRwWmiW5oTNnvA
 联系邮箱：BOSS@bigdongdong.com</ns2:description>
    <ns2:community>
     <ns2:starRating count="34" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3664" />
+    <ns2:statistics views="3802" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4173,8 +4161,8 @@ https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:thumbnail url="https://i4.ytimg.com/vi/GJ6JkTJBkOU/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="259" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8772" />
+    <ns2:starRating count="260" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8782" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4202,7 +4190,7 @@ Bilibili: https://space.bilibili.com/471303350
 #iphone17 #蘋果 #ios #手機技巧</ns2:description>
    <ns2:community>
     <ns2:starRating count="291" average="5.00" min="1" max="5" />
-    <ns2:statistics views="16657" />
+    <ns2:statistics views="16669" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4223,8 +4211,8 @@ Bilibili: https://space.bilibili.com/471303350
    <ns2:thumbnail url="https://i2.ytimg.com/vi/izwucC3q1b4/hqdefault.jpg" width="480" height="360" />
    <ns2:description>没想到我们这么快就1400万粉丝了，这次我们用超强的执行力，回答了许多从未想过的问题，希望可以满足你的好奇！如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3900" average="5.00" min="1" max="5" />
-    <ns2:statistics views="105851" />
+    <ns2:starRating count="3902" average="5.00" min="1" max="5" />
+    <ns2:statistics views="106133" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4318,8 +4306,8 @@ https://soundcloud.com/getsixofficial
 
 #overwatch2</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3549" average="5.00" min="1" max="5" />
-    <ns2:statistics views="107353" />
+    <ns2:starRating count="3558" average="5.00" min="1" max="5" />
+    <ns2:statistics views="107776" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4340,8 +4328,8 @@ https://soundcloud.com/getsixofficial
    <ns2:thumbnail url="https://i2.ytimg.com/vi/qMvrw-WWUzM/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Apple Watch SE 3. Here is the link to follow along on this 25 days 25 Tech Gifts 🎁 https://linktr.ee/uravgconsumer</ns2:description>
    <ns2:community>
-    <ns2:starRating count="411" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14624" />
+    <ns2:starRating count="412" average="5.00" min="1" max="5" />
+    <ns2:statistics views="14639" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4417,8 +4405,8 @@ TikTok: https://tiktok.com/@imaginedragons​​
 
 #ImagineDragons</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1673" average="5.00" min="1" max="5" />
-    <ns2:statistics views="18081" />
+    <ns2:starRating count="1676" average="5.00" min="1" max="5" />
+    <ns2:statistics views="18093" />
    </ns2:community>
   </ns2:group>
  </ns0:entry></feed>
