@@ -1,5 +1,185 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2025-12-17T20:45:08Z</updated><ns0:entry>
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2025-12-17T21:17:53Z</updated><ns0:entry>
+  <ns0:id>yt:video:xH6A5snX8QU</ns0:id>
+  <ns1:videoId>xH6A5snX8QU</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]AWS EDGE Innovation Spotlight: Coralogix | Amazon Web Services</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=xH6A5snX8QU" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-17T21:10:59+00:00</ns0:published>
+  <ns0:updated>2025-12-17T21:10:59+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>AWS EDGE Innovation Spotlight: Coralogix | Amazon Web Services</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/xH6A5snX8QU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/xH6A5snX8QU/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>In this AWS Edge Innovation Spotlight, Coralogix demonstrates their innovative approach to API security and observability, combining comprehensive API monitoring with advanced security features. By seamlessly integrating with AWS services like WAF, CloudFront, and API Gateway, Coralogix provides end-to-end visibility and protection for your API infrastructure.
+
+Coralogix's platform leverages their advanced analytics and machine learning capabilities to provide real-time insights into API behavior and security threats. Their solution is particularly valuable as organizations face the challenge of monitoring and securing rapidly growing API ecosystems, especially with the increasing demands of AI-driven traffic.
+
+This collaboration showcases how Coralogix and AWS are working together to provide enterprises with powerful API observability and security solutions, helping organizations maintain robust protection while gaining valuable insights into their API operations.
+
+Discover more about Coralogix on the AWS Marketplace: https://go.aws/4pFE2BZ
+Subscribe to AWS: https://go.aws/subscribe
+
+Create a free AWS account: https://go.aws/signup 
+Try AWS for free: https://go.aws/free 
+Connect with an expert: https://go.aws/contact
+Explore more: https://go.aws/more
+
+Next steps:
+Explore on AWS in Analyst Research:  https://go.aws/reports
+Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
+Join the AWS Partner Network: https://go.aws/partners 
+Learn more on how Amazon builds and operates software: https://go.aws/library 
+
+Do you have technical AWS questions? 
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+Why AWS?
+Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
+
+#AWS #AmazonWebServices #CloudComputing</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="1" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:1Tn8Vg7eS5o</ns0:id>
+  <ns1:videoId>1Tn8Vg7eS5o</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]AWS EDGE Innovation Spotlight: Salt Security | Amazon Web Services</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=1Tn8Vg7eS5o" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-17T21:07:43+00:00</ns0:published>
+  <ns0:updated>2025-12-17T21:07:43+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>AWS EDGE Innovation Spotlight: Salt Security | Amazon Web Services</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/1Tn8Vg7eS5o?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/1Tn8Vg7eS5o/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>In this AWS Edge Innovation Spotlight, Salt Security discusses their innovative approach to API security, focusing on API discovery, posture assessment, and threat protection. Salt Security integrates seamlessly with AWS services like WAF, CloudFront, and API Gateway to provide complete protection. They've also embraced AI through their MCP server, allowing customers to query their API security status using natural language, while helping organizations manage the exponential growth in API traffic caused by AI agents.
+
+This conversation highlights how Salt Security and AWS together are making enterprise API security more accessible and manageable while addressing the growing complexities of modern applications.
+
+Find out more about Salt Security on the AWS Marketplace: https://go.aws/4qlbH41
+Subscribe to AWS: https://go.aws/subscribe
+
+Create a free AWS account: https://go.aws/signup 
+Try AWS for free: https://go.aws/free 
+Connect with an expert: https://go.aws/contact
+Explore more: https://go.aws/more
+
+Next steps:
+Explore on AWS in Analyst Research:  https://go.aws/reports
+Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
+Join the AWS Partner Network: https://go.aws/partners 
+Learn more on how Amazon builds and operates software: https://go.aws/library 
+
+Do you have technical AWS questions? 
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+Why AWS?
+Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
+
+#AWS #AmazonWebServices #CloudComputing</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="1" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:vcGv0_6FGck</ns0:id>
+  <ns1:videoId>vcGv0_6FGck</ns1:videoId>
+  <ns1:channelId>UCdC0An4ZPNr_YiFiYoVbwaw</ns1:channelId>
+  <ns0:title>[Daily Dose Of Internet]The Most Serious Mall Cop</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=vcGv0_6FGck" />
+  <ns0:author>
+   <ns0:name>Daily Dose Of Internet</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCdC0An4ZPNr_YiFiYoVbwaw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-17T20:44:20+00:00</ns0:published>
+  <ns0:updated>2025-12-17T20:44:20+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>The Most Serious Mall Cop</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/vcGv0_6FGck?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/vcGv0_6FGck/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Hello everyone, this is YOUR Daily Dose of Internet. In this video, I show you the most serious mall cop.
+
+Links To Sources: https://docs.google.com/document/d/1N7bdUqLtZbp7CqNyvHknH5FgRdiSoNs5N6OsGfAQYXE/preview
+
+Rest of the videos: https://www.youtube.com/channel/UCdkQzfvvGV5BdVmsPUNi4Dw
+
+----------------------------------------------------------------------------------------------------------------
+
+Welcome to your Daily Dose of Internet where I search for the best trending videos, or videos people have forgotten about, and put them all in one video. I upload 2-3 times a week to keep video quality high. I always ask for permission to share videos that I find!
+
+If you enjoyed this video, watch my other videos as well: https://tinyurl.com/pmr7x24a
+
+Click here to subscribe today: https://bit.ly/2Qts9Uo
+
+►►►Follow me!
+
+Discord: https://discord.gg/ddoi
+
+My Gaming Channel: https://www.youtube.com/channel/UCmdmZp1K_kjXYBKgyqg_5LA
+
+Twitter: https://twitter.com/ddofinternet
+
+Instagram: https://www.instagram.com/dailydoseofinternet/
+
+Patreon: https://www.patreon.com/DailyDoseOfInternet
+
+If YOU film a video and think it is good enough to be featured on Daily Dose Of Internet, you can submit videos to me using the link below, and you will get paid. 
+
+Only send in videos that you personally filmed.
+
+https://thisisyourdailydose.com/</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="5820" average="5.00" min="1" max="5" />
+    <ns2:statistics views="62806" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:xDdHgjL3n-Q</ns0:id>
+  <ns1:videoId>xDdHgjL3n-Q</ns1:videoId>
+  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
+  <ns0:title>[Apple Developer]Discover how DREDGE was reimagined for Apple platforms | Black Salt Games | Meet with Apple</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=xDdHgjL3n-Q" />
+  <ns0:author>
+   <ns0:name>Apple Developer</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-17T20:39:52+00:00</ns0:published>
+  <ns0:updated>2025-12-17T20:39:53+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Discover how DREDGE was reimagined for Apple platforms | Black Salt Games | Meet with Apple</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/xDdHgjL3n-Q?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/xDdHgjL3n-Q/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Find out firsthand how Black Salt Games rebuilt their indie hit DREDGE from the inside out, redesigning the game’s UI, controls, and flow to make it feel truly native on iPhone, iPad, and Mac. Plus, learn how business strategies like Universal App support, long runway pre-orders, and “Try before you buy” powered the game’s premium mobile launch.
+
+This session was originally presented as part of the Meet with Apple activity “Press Start: Game development on Apple platforms.”
+Watch the full video for more insights and related sessions: https://www.youtube.com/watch?v=H4Dm97pNGV0&amp;pp=ygUacHJlc3Mgc3RhcnQgZ2FtZXMgb24gYXBwbGU=
+
+To explore additional sessions, appointments, and workshops, view the full schedule of Meet with Apple activities worldwide.
+https://apple.co/Meet-with-Apple
+
+More Apple Developer resources:
+Video sessions: https://apple.co/VideoSessions
+Documentation: https://apple.co/DeveloperDocs
+Forums: https://apple.co/DeveloperForums
+App: https://apple.co/DeveloperApp</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="9" average="5.00" min="1" max="5" />
+    <ns2:statistics views="74" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
   <ns0:id>yt:video:me72_xqHvdI</ns0:id>
   <ns1:videoId>me72_xqHvdI</ns1:videoId>
   <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
@@ -132,8 +312,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="164" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1433" />
+    <ns2:starRating count="207" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1860" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -157,8 +337,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 ► Check out our Help Center: https://goo.gl/fBzr7
 ► Check out the Creator Insider channel: https://www.youtube.com/@creatorinsider</ns2:description>
    <ns2:community>
-    <ns2:starRating count="510" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6096" />
+    <ns2:starRating count="575" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7649" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -179,8 +359,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
    <ns2:thumbnail url="https://i2.ytimg.com/vi/exe_nW7xUnM/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="201" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2388" />
+    <ns2:starRating count="237" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2950" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -219,8 +399,8 @@ Follow HBO Max on TikTok: https://hbom.ax/Tiktok
 Follow HBO Max on Twitter: https://hbom.ax/x
 Follow HBO Max on Facebook: https://hbom.ax/Facebook</ns2:description>
    <ns2:community>
-    <ns2:starRating count="66" average="5.00" min="1" max="5" />
-    <ns2:statistics views="743" />
+    <ns2:starRating count="70" average="5.00" min="1" max="5" />
+    <ns2:statistics views="877" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -273,8 +453,8 @@ Welcome to MacRumors, your ultimate destination for in-depth and insightful Mac 
 
 Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:community>
-    <ns2:starRating count="251" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3945" />
+    <ns2:starRating count="288" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4838" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -317,8 +497,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="6700" average="5.00" min="1" max="5" />
-    <ns2:statistics views="141304" />
+    <ns2:starRating count="6726" average="5.00" min="1" max="5" />
+    <ns2:statistics views="142394" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -339,8 +519,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
    <ns2:thumbnail url="https://i2.ytimg.com/vi/1qneDqsikFA/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="833" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6173" />
+    <ns2:starRating count="909" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7147" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -380,8 +560,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
 
 #TED #TEDTalks #HowToBeABetterHuman</ns2:description>
    <ns2:community>
-    <ns2:starRating count="112" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3065" />
+    <ns2:starRating count="118" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3364" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -424,7 +604,7 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
 请注意，本视频完全符合YouTube社区准则，没有任何违规行为。</ns2:description>
    <ns2:community>
     <ns2:starRating count="5" average="5.00" min="1" max="5" />
-    <ns2:statistics views="82" />
+    <ns2:statistics views="108" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -456,8 +636,8 @@ Woodwinds: Kristin Naigus
 League of Legends - Play Free Now:
 https://signup.leagueoflegends.com/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="972" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8814" />
+    <ns2:starRating count="1042" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10134" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -654,8 +834,8 @@ B站频道：磊哥聊政经
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2197" average="5.00" min="1" max="5" />
-    <ns2:statistics views="24314" />
+    <ns2:starRating count="2308" average="5.00" min="1" max="5" />
+    <ns2:statistics views="27175" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -695,8 +875,8 @@ B站频道：磊哥聊政经
 
 #Overwatch2 #gaming #mL7</ns2:description>
    <ns2:community>
-    <ns2:starRating count="42" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1889" />
+    <ns2:starRating count="43" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2100" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -739,8 +919,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="63" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2528" />
+    <ns2:starRating count="67" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2780" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -789,8 +969,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="340" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7924" />
+    <ns2:starRating count="368" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8937" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -822,8 +1002,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="140" average="5.00" min="1" max="5" />
-    <ns2:statistics views="21991" />
+    <ns2:starRating count="147" average="5.00" min="1" max="5" />
+    <ns2:statistics views="23748" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -870,7 +1050,7 @@ Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopte
 #AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
    <ns2:community>
     <ns2:starRating count="3" average="5.00" min="1" max="5" />
-    <ns2:statistics views="126" />
+    <ns2:statistics views="146" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -903,8 +1083,8 @@ Plus, the GM Energy PowerBank can store and transfer energy from the grid, addin
 
 Disclaimer: The GM Energy PowerShift Charger and GM Energy V2H Enablement Kit requires an adequately charged and properly equipped GM EV having bidirectional charging capabilities, a properly equipped home, and proper grid interconnection. Weather conditions, life of the battery, vehicle variation and usage, and other external factors may impact the duration of power supply. Power supply may be interrupted. It is not recommended that the following devices be powered with the GM Energy PowerShift Charger and V2H Enablement Kit: Medical Devices.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="5800" average="5.00" min="1" max="5" />
-    <ns2:statistics views="75303" />
+    <ns2:starRating count="6026" average="5.00" min="1" max="5" />
+    <ns2:statistics views="80692" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -939,8 +1119,8 @@ Copyright © 腦洞烏托邦™️ All Rights Reserved.
 ☆
 # Xiaowu # 小烏 # ndwtb # 驚掉下巴</ns2:description>
    <ns2:community>
-    <ns2:starRating count="284" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10377" />
+    <ns2:starRating count="292" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11001" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -972,8 +1152,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="144" average="5.00" min="1" max="5" />
-    <ns2:statistics views="20273" />
+    <ns2:starRating count="149" average="5.00" min="1" max="5" />
+    <ns2:statistics views="21101" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -996,8 +1176,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 https://www.youtube.com/channel/UC81MVNxLVWQz0erAeIpL5yQ/join
 https://supr.link/ykjzM</ns2:description>
    <ns2:community>
-    <ns2:starRating count="499" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4249" />
+    <ns2:starRating count="505" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4353" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1050,8 +1230,8 @@ B站频道：磊哥聊政经
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1071" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14658" />
+    <ns2:starRating count="1090" average="5.00" min="1" max="5" />
+    <ns2:statistics views="15326" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1113,8 +1293,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2968" average="5.00" min="1" max="5" />
-    <ns2:statistics views="236804" />
+    <ns2:starRating count="3045" average="5.00" min="1" max="5" />
+    <ns2:statistics views="246039" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1157,8 +1337,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3549" average="5.00" min="1" max="5" />
-    <ns2:statistics views="54803" />
+    <ns2:starRating count="3566" average="5.00" min="1" max="5" />
+    <ns2:statistics views="56150" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1383,8 +1563,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="469" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9646" />
+    <ns2:starRating count="478" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9864" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1417,7 +1597,7 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #骑行环游世界#国家残疾运动员#骑行旅行</ns2:description>
    <ns2:community>
     <ns2:starRating count="21" average="5.00" min="1" max="5" />
-    <ns2:statistics views="664" />
+    <ns2:statistics views="666" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1447,7 +1627,7 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #电影推荐  #老景观影 #movie</ns2:description>
    <ns2:community>
     <ns2:starRating count="5" average="5.00" min="1" max="5" />
-    <ns2:statistics views="122" />
+    <ns2:statistics views="125" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1501,8 +1681,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
    <ns2:thumbnail url="https://i3.ytimg.com/vi/JOz97bfmlgc/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="171" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5239" />
+    <ns2:starRating count="172" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5321" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1539,8 +1719,8 @@ We are deeply grateful for his trust — for allowing us, in this extended conve
 
 In this fourteenth episode of Crossroads with Luo Yonghao, we talk with Da Peng about the two lives he has lived.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="84" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3835" />
+    <ns2:starRating count="86" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4008" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1572,8 +1752,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="157" average="5.00" min="1" max="5" />
-    <ns2:statistics views="27277" />
+    <ns2:starRating count="156" average="5.00" min="1" max="5" />
+    <ns2:statistics views="27914" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1598,7 +1778,7 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
     <ns2:starRating count="3" average="5.00" min="1" max="5" />
-    <ns2:statistics views="97" />
+    <ns2:statistics views="101" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1707,8 +1887,8 @@ https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:thumbnail url="https://i4.ytimg.com/vi/WMq9U_UlbI4/hqdefault.jpg" width="480" height="360" />
    <ns2:description>如果要说全球最家喻户晓，最敢用新技术的导演，相信你肯定会想到詹姆斯·卡梅隆这个名字。这次我们来到了《阿凡达3》的首映礼，和卡梅隆面对面地进行了一次交流，我们尽可能问了很多奇特的问题，希望也有你感兴趣的问题！如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看～</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1330" average="5.00" min="1" max="5" />
-    <ns2:statistics views="42415" />
+    <ns2:starRating count="1335" average="5.00" min="1" max="5" />
+    <ns2:statistics views="42610" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1742,7 +1922,7 @@ Forums: https://apple.co/DeveloperForums
 App: https://apple.co/DeveloperApp</ns2:description>
    <ns2:community>
     <ns2:starRating count="38" average="5.00" min="1" max="5" />
-    <ns2:statistics views="727" />
+    <ns2:statistics views="743" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1775,7 +1955,7 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
     <ns2:starRating count="45" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9241" />
+    <ns2:statistics views="9340" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1796,8 +1976,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:thumbnail url="https://i3.ytimg.com/vi/VJ8yNSilkAM/hqdefault.jpg" width="480" height="360" />
    <ns2:description>在大城市剩女现象越发明显，容不下的城市，回不去的农村，从剩女现象看城乡差距</ns2:description>
    <ns2:community>
-    <ns2:starRating count="943" average="5.00" min="1" max="5" />
-    <ns2:statistics views="58246" />
+    <ns2:starRating count="955" average="5.00" min="1" max="5" />
+    <ns2:statistics views="59100" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1889,7 +2069,7 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 #皮膚 #更年期 #抗老化 #麩質過敏 #腸胃問題 #減肥 #生酮飲食 #斷食 #間歇性斷食 #柏格醫生中文 #柏格醫生 #胰島素 #肝功能</ns2:description>
    <ns2:community>
     <ns2:starRating count="39" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1212" />
+    <ns2:statistics views="1221" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1922,8 +2102,8 @@ Documentation: https://apple.co/DeveloperDocs
 Forums: https://apple.co/DeveloperForums
 App: https://apple.co/DeveloperApp</ns2:description>
    <ns2:community>
-    <ns2:starRating count="62" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1960" />
+    <ns2:starRating count="63" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1988" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1955,8 +2135,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="844" average="5.00" min="1" max="5" />
-    <ns2:statistics views="136986" />
+    <ns2:starRating count="849" average="5.00" min="1" max="5" />
+    <ns2:statistics views="138142" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2053,8 +2233,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #dr berg</ns2:description>
    <ns2:community>
-    <ns2:starRating count="108" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1883" />
+    <ns2:starRating count="109" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1907" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2141,8 +2321,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3740325/
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #眼睛 #柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝</ns2:description>
    <ns2:community>
-    <ns2:starRating count="462" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10141" />
+    <ns2:starRating count="464" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10266" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2167,8 +2347,8 @@ B站频道：磊哥聊政经
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2060" average="5.00" min="1" max="5" />
-    <ns2:statistics views="31237" />
+    <ns2:starRating count="2063" average="5.00" min="1" max="5" />
+    <ns2:statistics views="31401" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2267,8 +2447,8 @@ Data：
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #腎臟 #柏格醫生 #洗腎 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #更年期 #血管</ns2:description>
    <ns2:community>
-    <ns2:starRating count="294" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5875" />
+    <ns2:starRating count="297" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5927" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2290,7 +2470,7 @@ Data：
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="106" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5696" />
+    <ns2:statistics views="5802" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2391,8 +2571,8 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
    <ns2:thumbnail url="https://i1.ytimg.com/vi/TM179asvB3Y/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="211" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14949" />
+    <ns2:starRating count="213" average="5.00" min="1" max="5" />
+    <ns2:statistics views="15199" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2459,8 +2639,8 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 
 #shorts</ns2:description>
    <ns2:community>
-    <ns2:starRating count="16001" average="5.00" min="1" max="5" />
-    <ns2:statistics views="556201" />
+    <ns2:starRating count="16388" average="5.00" min="1" max="5" />
+    <ns2:statistics views="576359" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2527,8 +2707,8 @@ http://twitter.com/Dave2D
 http://www.instagram.com/Dave2D
 https://discord.gg/Dave2D</ns2:description>
    <ns2:community>
-    <ns2:starRating count="14804" average="5.00" min="1" max="5" />
-    <ns2:statistics views="471452" />
+    <ns2:starRating count="14964" average="5.00" min="1" max="5" />
+    <ns2:statistics views="479880" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2602,8 +2782,8 @@ The new Images model and feature are rolling out today in ChatGPT for all users,
 
 Try it at: https://chatgpt.com/images/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2219" average="5.00" min="1" max="5" />
-    <ns2:statistics views="49247" />
+    <ns2:starRating count="2228" average="5.00" min="1" max="5" />
+    <ns2:statistics views="49900" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2624,8 +2804,8 @@ Try it at: https://chatgpt.com/images/</ns2:description>
    <ns2:thumbnail url="https://i4.ytimg.com/vi/Gv1WAzEgObw/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="1978" average="5.00" min="1" max="5" />
-    <ns2:statistics views="57029" />
+    <ns2:starRating count="2012" average="5.00" min="1" max="5" />
+    <ns2:statistics views="58223" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2639,15 +2819,15 @@ Try it at: https://chatgpt.com/images/</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</ns0:uri>
   </ns0:author>
   <ns0:published>2025-12-16T17:00:42+00:00</ns0:published>
-  <ns0:updated>2025-12-17T07:41:06+00:00</ns0:updated>
+  <ns0:updated>2025-12-17T21:13:44+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>HOW TO: Edit with AI in YouTube Shorts</ns2:title>
    <ns2:content url="https://www.youtube.com/v/1WW76Rz4nqM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i2.ytimg.com/vi/1WW76Rz4nqM/hqdefault.jpg" width="480" height="360" />
    <ns2:description>You can now Edit with AI in YouTube Shorts!</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1253" average="5.00" min="1" max="5" />
-    <ns2:statistics views="15224" />
+    <ns2:starRating count="1266" average="5.00" min="1" max="5" />
+    <ns2:statistics views="15445" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2670,8 +2850,8 @@ Try it at: https://chatgpt.com/images/</ns2:description>
 
 #iPhone  #iPhoneTips #SendCash #AppleStore</ns2:description>
    <ns2:community>
-    <ns2:starRating count="985" average="5.00" min="1" max="5" />
-    <ns2:statistics views="34610" />
+    <ns2:starRating count="991" average="5.00" min="1" max="5" />
+    <ns2:statistics views="34855" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2692,8 +2872,8 @@ Try it at: https://chatgpt.com/images/</ns2:description>
    <ns2:thumbnail url="https://i2.ytimg.com/vi/qsJgJjOG5tY/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="64727" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4636518" />
+    <ns2:starRating count="65099" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4674271" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2753,7 +2933,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
    <ns0:uri>https://www.youtube.com/channel/UCy2aOVSWiF_ivcb0ilhGaXQ</ns0:uri>
   </ns0:author>
   <ns0:published>2025-12-16T16:00:58+00:00</ns0:published>
-  <ns0:updated>2025-12-16T16:00:59+00:00</ns0:updated>
+  <ns0:updated>2025-12-17T21:05:27+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>效率暴涨，一天变48小时！时间管理鼻祖的神级人生，刷新你对高效的认知！专治时间少、效率低、懒癌晚期</ns2:title>
    <ns2:content url="https://www.youtube.com/v/U40RZuyli3Q?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2782,7 +2962,7 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 请注意，本视频完全符合YouTube社区准则，没有任何违规行为。</ns2:description>
    <ns2:community>
     <ns2:starRating count="14" average="5.00" min="1" max="5" />
-    <ns2:statistics views="370" />
+    <ns2:statistics views="380" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2824,8 +3004,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
 
 #TED #TEDTalks #ClimateChange</ns2:description>
    <ns2:community>
-    <ns2:starRating count="252" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8815" />
+    <ns2:starRating count="253" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8868" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2963,96 +3143,6 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:s3bvKEE3BCY</ns0:id>
-  <ns1:videoId>s3bvKEE3BCY</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]Amazon Quick Suite for Operations | Amazon Web Services</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=s3bvKEE3BCY" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-16T15:56:23+00:00</ns0:published>
-  <ns0:updated>2025-12-16T15:56:24+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Amazon Quick Suite for Operations | Amazon Web Services</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/s3bvKEE3BCY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/s3bvKEE3BCY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Operations managers’ primary goals are to ensure safety and minimize downtime, and no one wants to waste time digging through manuals or trying to come up with a solution while equipment sits idle. Quick offers all the tools you need to achieve operational excellence. For instance, you can easily build a centralized dashboard to monitor critical machine metrics in real time and generate incident tickets in systems like ServiceNow, allowing the team to detect problems before they happen and reduce diagnosis and resolution time. You can also create a custom chat agent to provide expert troubleshooting guidance that's instantly pulled from the company’s entire knowledge base.
-
-Learn more about Amazon Quick Suite: https://go.aws/49cHTk5
-
-Subscribe to AWS: https://go.aws/subscribe
-
-Create a free AWS account: https://go.aws/signup 
-Try AWS for free: https://go.aws/free 
-Connect with an expert: https://go.aws/contact
-Explore more: https://go.aws/more
-
-Next steps:
-Explore on AWS in Analyst Research:  https://go.aws/reports
-Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
-Join the AWS Partner Network: https://go.aws/partners 
-Learn more on how Amazon builds and operates software: https://go.aws/library 
-
-Do you have technical AWS questions? 
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-Why AWS?
-Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
-
-#agenticAI #businessagents #AWS #AmazonWebServices #CloudComputing</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="4" average="5.00" min="1" max="5" />
-    <ns2:statistics views="100" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:zsKqdIDLeOM</ns0:id>
-  <ns1:videoId>zsKqdIDLeOM</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]Amazon Quick Suite for Software Development | Amazon Web Services</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=zsKqdIDLeOM" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-16T15:56:21+00:00</ns0:published>
-  <ns0:updated>2025-12-16T15:56:21+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Amazon Quick Suite for Software Development | Amazon Web Services</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/zsKqdIDLeOM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/zsKqdIDLeOM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Software developers face challenges that go beyond coding, such as preparing design documentation, deep diving into architecture component choices, making complex decisions, and expediting ticket resolution. With Quick, developers can dramatically speed up decision-making by eliminating the need to manually navigate scattered documentation, tribal knowledge, and switching between tools. For instance, they may want to understand security policies for an application they’re building. Using Quick, they can create a specialized dataset with all compliance documentation, best practices, coding standards, and other assets, called a space, to determine the most contextual and specific answers to their questions. Then, they can use a chat agent connected to the space to brainstorm with or answer questions on security postures, authentication tests, potential risks, and more.
-
-Learn more about Amazon Quick Suite: https://go.aws/49cHTk5
-
-Subscribe to AWS: https://go.aws/subscribe
-
-Create a free AWS account: https://go.aws/signup 
-Try AWS for free: https://go.aws/free 
-Connect with an expert: https://go.aws/contact
-Explore more: https://go.aws/more
-
-Next steps:
-Explore on AWS in Analyst Research:  https://go.aws/reports
-Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
-Join the AWS Partner Network: https://go.aws/partners 
-Learn more on how Amazon builds and operates software: https://go.aws/library 
-
-Do you have technical AWS questions? 
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-Why AWS?
-Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
-
-#agenticAI #businessagents #AWS #AmazonWebServices #CloudComputing</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="4" average="5.00" min="1" max="5" />
-    <ns2:statistics views="118" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
   <ns0:id>yt:video:SBoMuUmnrxg</ns0:id>
   <ns1:videoId>SBoMuUmnrxg</ns1:videoId>
   <ns1:channelId>UCEw4gExCX4SWq-dwhakHbUQ</ns1:channelId>
@@ -3070,8 +3160,8 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
    <ns2:thumbnail url="https://i4.ytimg.com/vi/SBoMuUmnrxg/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="4958" average="5.00" min="1" max="5" />
-    <ns2:statistics views="89342" />
+    <ns2:starRating count="4997" average="5.00" min="1" max="5" />
+    <ns2:statistics views="90539" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3115,7 +3205,7 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
     <ns2:starRating count="129" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7923" />
+    <ns2:statistics views="7988" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3142,8 +3232,8 @@ Weibo: @大狸子切切里
 Bilibili: https://space.bilibili.com/471303350
  #steam #ps5 #遊戲</ns2:description>
    <ns2:community>
-    <ns2:starRating count="314" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11209" />
+    <ns2:starRating count="318" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11260" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3178,7 +3268,7 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
     <ns2:starRating count="3727" average="5.00" min="1" max="5" />
-    <ns2:statistics views="421519" />
+    <ns2:statistics views="422851" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3237,7 +3327,7 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
     <ns2:starRating count="160" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6993" />
+    <ns2:statistics views="7007" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3366,8 +3456,8 @@ https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
 --------------------------------------------------------------------------------------
 #曉涵哥來了 #運動 #籃球 #品牌 #故事 #NBA #街頭籃球 #球星 #时尚 #education #knowledge</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2098" average="5.00" min="1" max="5" />
-    <ns2:statistics views="85052" />
+    <ns2:starRating count="2102" average="5.00" min="1" max="5" />
+    <ns2:statistics views="85464" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3420,8 +3510,8 @@ This breakdown covers how to use improved multimodal understanding to turn video
 
 #ai #google</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2314" average="5.00" min="1" max="5" />
-    <ns2:statistics views="55185" />
+    <ns2:starRating count="2339" average="5.00" min="1" max="5" />
+    <ns2:statistics views="55976" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3646,8 +3736,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="348" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8826" />
+    <ns2:starRating count="349" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8862" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3680,7 +3770,7 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
     <ns2:starRating count="174" average="5.00" min="1" max="5" />
-    <ns2:statistics views="35034" />
+    <ns2:statistics views="35115" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3703,7 +3793,7 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 #拳擊 #boxing #格鬥 #gennadygolovkin</ns2:description>
    <ns2:community>
     <ns2:starRating count="89" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4464" />
+    <ns2:statistics views="4471" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3736,7 +3826,7 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
 #猴哥 #猴哥精華 #猴哥日常</ns2:description>
    <ns2:community>
     <ns2:starRating count="373" average="5.00" min="1" max="5" />
-    <ns2:statistics views="23593" />
+    <ns2:statistics views="23712" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3758,7 +3848,7 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
    <ns2:description>为什么山西菜里又全是主食呢？</ns2:description>
    <ns2:community>
     <ns2:starRating count="752" average="5.00" min="1" max="5" />
-    <ns2:statistics views="38739" />
+    <ns2:statistics views="38851" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3846,7 +3936,7 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="364" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14715" />
+    <ns2:statistics views="14771" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3980,7 +4070,7 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
     <ns2:starRating count="100" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12322" />
+    <ns2:statistics views="12389" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4137,157 +4227,6 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
    <ns2:community>
     <ns2:starRating count="191" average="5.00" min="1" max="5" />
     <ns2:statistics views="3482" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:ikAt_QK3Zf8</ns0:id>
-  <ns1:videoId>ikAt_QK3Zf8</ns1:videoId>
-  <ns1:channelId>UCUXi5mmqbvIithAs9AaxEtw</ns1:channelId>
-  <ns0:title>[柏格醫生中文 健康知識]生酮飲食減肥失敗的13個常見錯誤！柏格醫生Dr. Berg教你避開地雷成功瘦身</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ikAt_QK3Zf8" />
-  <ns0:author>
-   <ns0:name>柏格醫生中文 健康知識</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUXi5mmqbvIithAs9AaxEtw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-16T05:56:16+00:00</ns0:published>
-  <ns0:updated>2025-12-17T07:09:08+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>生酮飲食減肥失敗的13個常見錯誤！柏格醫生Dr. Berg教你避開地雷成功瘦身</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/ikAt_QK3Zf8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/ikAt_QK3Zf8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>🌹🌹柏格醫生英文頻道1,420萬、俄語710萬、阿拉伯語700萬訂閱.
-🌹柏格醫生 亞洲購物網: https://www.drberg.asia
-🌹柏格醫生 亞洲購 官耐：https://lin.ee/FSgW71d
-🌹台灣 柏格醫生商店: https://ketogoods.com.tw
-🌹 台灣 官耐LINE : https://page.line.me/keto168
-
-吃生酮飲食體重沒有下降，或停滯，請確保沒犯這些常見的生酮飲食錯誤，它們可能是生酮飲食無效的原因！
-
-0:00 生酮飲食沒效！
-0:41 為什麼我吃生酮飲食無法減肥
-5:35 膽囊、肝臟健康與生酮飲食
-10:03 維生素D與生酮減肥問題
-13:50 生酮飲食的真相與錯誤
-
-柏格醫生 dr. berg 談：為什麼有些人吃生酮飲食難以減肥，或有生酮減肥停滯期。
-
-正確吃生酮飲食，需將碳水減到每天 50 克以下，尤其想減肥、緩解慢性病、提升能量、改善健康的人。
-
-生酮飲食減重失敗13 個常見錯誤：
-
-1.吃“不純淨的生酮飲食”，沒有去除不健康成分的低碳飲食。
-
-2. 睡眠不足，會導致血糖升高，類似糖尿病前期。
-睡不好，還會提高皮質醇，抑制生長激素，降低脂肪燃燒。
-
-3. 壓力，會升高皮質醇，阻礙生酮飲食的好處。 
-
-4. 運動過度，會阻礙減重！ 
-
-5. 膽囊和肝問題，膽囊和肝對分解、吸收脂肪，很重要，也是甲狀腺功能的關鍵。
-不先解決這些問題，就無法透過生酮飲食減肥。 
-
-6. 甲狀腺問題，甲狀腺負責新陳代謝、能量供應。為了甲狀腺健康，應補碘、硒和鋅。 
-
-7.腸道菌失衡，腸道菌對生酮飲食減肥，很重要。
-吃羅伊氏菌 (L. reuteri) 優格，有助恢復腸道健康並減重。
-
-8.不曬太陽，是生酮飲食減肥最常見的問題之一。 
-維生素D可以保護免受胰島素阻抗的傷害，陽光還能增加褪黑激素、血清素的分泌。
-
-9. 肌肉萎縮越嚴重，生酮飲食的減重效果就越差。 
-
-10. 對減肥效果的預期太高，並對「正常」的定義有準確的了解。
-剛開始生酮飲食時，會先減掉一些水分，之後每個人的體重變化都會有所不同。 
-
-11. 生酮飲食沒搭配間歇性斷食。避免吃零食，只在餓的時候吃。 
-
-12.「作弊日」，要避免！ 
-
-13. 吃太多脂肪，生酮飲食減肥過程中遇到困難，請減少吃脂肪。
-
-你可能聽過生酮飲食很危險的傳言，但這完全是胡址，且往往是出自不嚴謹的研究。
-
-一些標有“零糖”的食物仍然含有碳水化合物。
-仔細看食品標籤，確保你的生酮減肥停滯期不是吃了隱形糖造成的！
-
-觀看以下影片，了解體重停滯不前的隱藏原因，以及真正有效的方法。
-
-▶️ 食品中三種最毒成分, 千萬不要吃！柏格醫生 Dr Berg
-https://www.youtube.com/watch?v=2F7e6p8EGtg
-▶️史上最大的減重謊言,柏格醫生 Dr Berg
-https://www.youtube.com/watch?v=XGrg72l75Q8
- 
-一種益菌修復腸道：
-(必看訪談)神奇的羅伊氏菌,年輕抗老化,消炎,好情緒!自己做優格菌! 柏格醫生 Dr Berg
-https://www.youtube.com/watch?v=y3BW-Ck9zdw
-
-HOW TO MAKE L. REUTERI YOGURT:
-➡️ https://www.drberg.com/guides-resources/how-to-make-l-reuteri-yogurt?utm_source=youtube&amp;utm_medium=description_link&amp;utm_campaign=https://youtu.be/GuvGtnMMet8
-
-[Affiliate links]
-Yogurt Maker: https://amzn.to/4k1LO71
-Yogurt Jars: https://amzn.to/411hSPw
-Yogurt Containers: https://amzn.to/411eXX0
-
-柏格醫生中文 健康知識：
-生酮飲食入門（中文）：https://youtu.be/VVZQIMKUWvU
-第2步,吃的內容（中文）：https://youtu.be/Nd1RNTymyvM
-斷食的方法（中文）:  https://youtu.be/VVZQIMKUWvU
-斷食的體內變化(中文) :  https://youtu.be/SlzBMJvtGHo
-柏格醫生臉書(中文): https://www.facebook.com/柏格醫生中文-健康知識-101906848408734/
-
-艾瑞克柏格(Dr Eric Berg)醫生介紹：
-他是弗吉尼亞州、加利福尼亞州和路易斯安那州的3州的脊椎科醫生，￼執照一直維持有效。他是全球最知名的健康生酮飲食和斷食專家，也是《新體型指南》和KB Publishing出版書作者。
-他曾在霍華德大學（Howard University）擔任兼職教授，教授學生營養學。 近年忙於媒體教育，他無暇親自看診病人￼。
-
-英文柏格醫生社群媒體:
-Facebook:  https://bit.ly/FB-DrBerg
-Instagram:  https://bit.ly/IG-DrBerg
-Anchor:  https://bit.ly/Anchor-DrBerg
-TikTok:  https://bit.ly/TikTok-DrBerg
-Anchor:  https://bit.ly/Anchor-DrBerg
-https://drbrg.co/DrBerg-Spotify
-英文柏格醫生網店DR. BERG'S SHOP: http://shop.drberg.com/
-ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
-
-免責聲明：￼
-柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
-
-生酮飲食、生酮減肥、生酮飲食錯誤、生酮常見錯誤、不純淨生酮、低碳飲食、睡眠不足、血糖升高、皮質醇升高、壓力管理、生酮壓力、運動過度、減重阻礙、膽囊問題、肝臟健康、脂肪吸收、甲狀腺問題、補碘補硒、補鋅營養、腸道菌失衡、羅伊氏菌、L. reuteri、優格減重、不曬太陽、維生素D缺乏、曬太陽好處、褪黑激素、血清素分泌、胰島素阻抗、肌肉萎縮、減重效果差、減肥預期、體重變化、水分減重、間歇性斷食、168斷食、生酮斷食、避免零食、作弊日、生酮作弊、吃太多脂肪、減少脂肪攝取、生酮危險、生酮傳言、低醣飲食、副作用、酮流感、便秘問題、酮酸中毒、心血管風險、腎臟負擔、肝腎功能、糖尿病患者、孕婦禁忌、青少年不適合、營養不均衡、長期生酮、短期減重、酮體產生、燃燒脂肪、防彈咖啡、橄欖油、堅果類、酪梨、綠葉蔬菜、低碳食物、高脂食物、蛋白質攝取、菜單規劃、一週菜單、外食選擇、益生菌補充、腸道健康、維生素D補充、陽光暴露、硒缺乏、鋅缺乏、甲狀腺低下、肌肉流失、骨質疏鬆、腎結石、膽固醇變化、血脂異常、飽足感、食慾控制、能量穩定、免疫功能、癲癇治療、生酮原理、酮症狀態、糖質新生、循環生酮、高蛋白生酮、針對式生酮、減脂期、健身飲食、減重風險、均衡飲食、營養師建議、醫師諮詢、健康減肥、體重反彈、溜溜球效應、代謝率、基礎代謝、熱量赤字、電解質平衡、補充水分、鹼性食物、益菌生、酮疹、口臭問題、消化不良、腹脹便秘、酮體檢測、尿酮試紙、血酮測量、脂肪來源、中鏈脂肪酸、椰子油、奶油、紅肉攝取、大腸癌風險、乳癌風險、飽和脂肪、植物蛋白、慢性疾病、胰臟疾病、腎臟疾病、高血壓患者、哺乳期婦女、兒童發育、難治性癲癇、癌症輔助、神經退化、阿茲海默症、偏頭痛改善、血糖控制、胰島素敏感、基礎代謝率、肌肉量維持、飢餓荷爾蒙、食慾中樞、熱量控制、長期安全、短期效果、醫學應用、臨床研究、營養指南、每日熱量、三大營養素、食物金字塔、極端飲食、均衡原則、專業指導、定期追蹤、血液檢查、酸鹼值、血壓血糖、膽固醇檢測、微量營養素、膳食纖維、礦物質缺乏、維生素不足、抗氧化物、植化素、發炎反應、腸道菌叢、好菌壞菌、益生元、短鏈脂肪酸、自噬作用、新陳代謝、荷爾蒙失調、內分泌影響、腎上腺負擔、情緒低落、憂鬱風險、酮流感症狀、頭痛疲倦、抽筋不適、電解質失衡、鈉鉀鎂、天然鹽、岩鹽補充、深綠蔬菜、藻類食物、堅果種子、可可黑咖啡、茶飲選擇、黑咖啡茶、綠茶舒壓、抹茶益處、洋甘菊茶、薑黃粉、肉桂粉、薑粉、蒟蒻製品、珊瑚藻、海帶昆布、海苔米糠、小麥胚芽、奇亞籽、亞麻籽、木耳菇類、秋葵苦瓜、酪梨堅果、橄欖酪梨、高脂水果、真空乾燥、苦瓜脆片、無糖巧克力、海鹽黑巧、無麩質曲奇、扁桃粉、椰子粉、草飼牛油、膠原蛋白、天然甜味、低溫乾燥、椒鹽芥末、原味苦瓜、減罪惡感、鬆脆口感、驗證認可、生酮零食、生酮甜點、減肥零食、健康點心、解饞食物、健身零食、體態管理、理想體重、體脂降低、能量來源、葡萄糖替代、肝臟代謝、脂肪分解、酮體燃料、大腦能源、飽足延長、暴食減少、穩定血糖、降低食慾、提高代謝、免疫提升、腦神經保護、失智預防、痙攣緩解、癲癇輔助、難控癲癇、兒童治療、抗驚厥藥、丙戊酸鈉、苯妥英、醫療用途、歷史起源、1920年代、梅奧醫院、懷爾德博士、禁食模擬、飢餓狀態、酮體產生、替代能源、血腦屏障、神經保護、易激惹性、發作頻率、輔助療法、成人應用、難治病例、雷葛氏症、癌症治療、輔助療法、癌細胞能量、葡萄糖依賴、酮體代謝、差異能力、臨床監控、必需營養、醫師指導、營養師規劃、定期檢測、血液酸鹼、血脂血壓、血糖變化、健康評估、個體差異、生活習慣、基因體質、性別年齡、均衡基礎、長期維持、可持續性、減醣飲食、相對均衡、容易執行、營養完整、減脂入門、好油挑選、食用油關鍵、喝水重要、壓力來源、減重博士、基本原則、隱藏陷阱、短期效果、長期風險、醫學應用、兒童癲癇、輔助手段、神經細胞、易激惹性、控制發作、觀察研究、假設階段、學術證實、冠狀動脈、心臟病、高血脂、家族病史、不建議族群、飽足感、食慾降低、熱量減少、紅肉煙燻、肥美鮪魚、椰子油、熱量來源、戒澱粉、水果糖、消化碳水、促進代謝、減重效果、原設計、癲癇患者、飲食法、極端低碳、熱量組成、碳水少於10%、總醣20-50克、蛋白質20%、脂肪70%、去除澱粉、添加糖、身體無法、快速轉換、葡萄糖能量、肝臟動員、脂肪轉化、中長鏈酸、酮體產生、血糖降低、酮體升高、酮症狀態、名稱來源、總熱量、三大營養、碳水55-65%、脂肪20-30%、蛋白10-15%、食物金字塔、誘發饑餓、代謝改變、葡萄糖燃料、腦細胞能量、總熱量不足、肝臟誤判、脂肪酸、酮體代替、葡萄糖利用、酸性血液、危及生命、第一型糖尿病、第二型討論、風險降低、專業醫生、諮詢意見、腎臟代謝、蛋白質作用、過多肉類、蛋白質量、腎臟健康、訂製計劃、營養師幫助、酮副產物、丙酮釋放、呼吸氣味、口臭不同、細菌積聚、血糖控制、糖化血紅蛋白、胰島素需求、糖尿病酮酸、脂肪分解快、青少年發育、均衡基礎、不建議族群、肝腎問題、過重負擔、脆弱器官、糖尿病患者、精確血糖、風險增加、胰島素依賴、低血糖風險、肝功能異常、脂肪積聚、加重病情、腎臟胰臟、甲狀腺問題、過多脂肪、慢性疾病、代謝異常、特殊處理、</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="75" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1060" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:93_yOuILPew</ns0:id>
-  <ns1:videoId>93_yOuILPew</ns1:videoId>
-  <ns1:channelId>UC_9AeV5Riy9AsIJZEsnsCDw</ns1:channelId>
-  <ns0:title>[箭厂ArrowFactory Doc]Accident at Xiaomi Car Delivery Center in Hangzhou</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/93_yOuILPew" />
-  <ns0:author>
-   <ns0:name>箭厂ArrowFactory Doc</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC_9AeV5Riy9AsIJZEsnsCDw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-16T05:08:24+00:00</ns0:published>
-  <ns0:updated>2025-12-17T08:09:17+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Accident at Xiaomi Car Delivery Center in Hangzhou</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/93_yOuILPew?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/93_yOuILPew/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>A customer who had just picked up a new Xiaomi vehicle accidentally hit a staff member while reversing at a delivery center in Hangzhou on December 15.
-
-Xiaomi sources say the car was in manual driving mode, not autonomous. 
-
-In a narrow passage, the driver reportedly mistook the accelerator for the brake, leading to the collision.
-
-Police and paramedics responded quickly, and the injured worker was taken to hospital. The incident is still under investigation.
-
-#xiaomi #evcar #accident #china</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="2" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1068" />
    </ns2:community>
   </ns2:group>
  </ns0:entry></feed>
