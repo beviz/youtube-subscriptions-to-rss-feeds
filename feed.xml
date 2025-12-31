@@ -1,5 +1,873 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2025-12-31T20:43:20Z</updated><ns0:entry>
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2025-12-31T21:16:32Z</updated><ns0:entry>
+  <ns0:id>yt:video:sCBV2RMUj08</ns0:id>
+  <ns1:videoId>sCBV2RMUj08</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]How do I resolve the "user cannot be dropped" error in Amazon Redshift?</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=sCBV2RMUj08" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-31T21:11:11+00:00</ns0:published>
+  <ns0:updated>2025-12-31T21:11:11+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>How do I resolve the "user cannot be dropped" error in Amazon Redshift?</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/sCBV2RMUj08?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/sCBV2RMUj08/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/redshift-user-cannot-be-dropped
+
+The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
+
+Nikhil shows you how to resolve the user cannot be dropped error when trying to drop a user or group in Amazon Redshift.
+
+0:00 Introduction
+0:28 Understanding Errors
+1:17 Using Helper Scripts
+2:27 Dropping the User
+3:30 Closing
+
+
+Subscribe:
+More AWS videos: https://go.aws/3m5yEMW
+More AWS events videos: https://go.aws/3ZHq4BK
+
+Do you have technical AWS questions?
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+ABOUT AWS
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster.
+
+#AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="2" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:UI1UGEdDtl0</ns0:id>
+  <ns1:videoId>UI1UGEdDtl0</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]How do I copy or unload data from Amazon Redshift to an Amazon S3 bucket that's in another account?</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=UI1UGEdDtl0" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-31T21:10:40+00:00</ns0:published>
+  <ns0:updated>2025-12-31T21:10:40+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>How do I copy or unload data from Amazon Redshift to an Amazon S3 bucket that's in another account?</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/UI1UGEdDtl0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/UI1UGEdDtl0/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/redshift-s3-cross-account
+
+The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
+
+Nikhil shows you how to copy or unload data from Amazon Redshift to an Amazon S3 bucket that's in another AWS account.
+
+0:00 Introduction
+0:30 Cross-Account Access Setup
+1:55 Creating IAM Policies
+3:31 Configuring Trust Relationships
+5:38 Testing Copy and Unload
+6:43 Closing
+
+Subscribe:
+More AWS videos: https://go.aws/3m5yEMW
+More AWS events videos: https://go.aws/3ZHq4BK
+
+Do you have technical AWS questions?
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+ABOUT AWS
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster.
+
+#AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="1" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:O79lazQJm6c</ns0:id>
+  <ns1:videoId>O79lazQJm6c</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]How do I renew a Let's Encrypt SSL certificate in a Bitnami stack hosted on a Lightsail instance?</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=O79lazQJm6c" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-31T21:09:59+00:00</ns0:published>
+  <ns0:updated>2025-12-31T21:10:00+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>How do I renew a Let's Encrypt SSL certificate in a Bitnami stack hosted on a Lightsail instance?</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/O79lazQJm6c?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/O79lazQJm6c/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/lightsail-bitnami-renew-ssl-certificate
+
+The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
+
+Neeraj shows you how to renew a Let's Encrypt SSL certificate installed on a Bitnami stack hosted on an Amazon Lightsail instance.
+
+0:00 Introduction
+0:28 Identifying the installation tool
+1:08 Renewing with Bitnami tool or Lego
+1:19 Renewing with Certbot
+3:17 Closing
+
+Subscribe:
+More AWS videos: https://go.aws/3m5yEMW
+More AWS events videos: https://go.aws/3ZHq4BK
+
+Do you have technical AWS questions?
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+ABOUT AWS
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster.
+
+#AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="3" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:BhVWcvDHAN4</ns0:id>
+  <ns1:videoId>BhVWcvDHAN4</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]How do I resolve Amazon RDS instance full storage issues when storage auto-scaling is turned on?</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=BhVWcvDHAN4" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-31T21:09:20+00:00</ns0:published>
+  <ns0:updated>2025-12-31T21:09:20+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>How do I resolve Amazon RDS instance full storage issues when storage auto-scaling is turned on?</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/BhVWcvDHAN4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/BhVWcvDHAN4/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/rds-autoscaling-low-free-storage
+
+The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
+
+Mounika shows you how to resolve issues when your Amazon RDS database instance enters a storage full state or has low free storage space even after enabling storage autoscaling.
+
+0:00 Introduction
+0:49 Storage Autoscaling Limitations
+1:48 Checking Free Storage Space
+2:16 Create and Promote Read Replica
+4:01 Restore DB Snapshot
+5:51 Manually Control Storage
+6:21 Closing
+
+Subscribe:
+More AWS videos: https://go.aws/3m5yEMW
+More AWS events videos: https://go.aws/3ZHq4BK
+
+Do you have technical AWS questions?
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+ABOUT AWS
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster.
+
+#AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="2" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:4raAvoMjhlk</ns0:id>
+  <ns1:videoId>4raAvoMjhlk</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]How do I troubleshoot the increase to my DiskQueueDepth in Amazon RDS for PostgreSQL?</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=4raAvoMjhlk" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-31T21:08:31+00:00</ns0:published>
+  <ns0:updated>2025-12-31T21:08:31+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>How do I troubleshoot the increase to my DiskQueueDepth in Amazon RDS for PostgreSQL?</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/4raAvoMjhlk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/4raAvoMjhlk/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/rds-postgresql-diskqueuedepth
+
+The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
+
+Swati shows you how to troubleshoot and increase disk depth for your Amazon RDS PostgreSQL instance.
+
+0:00 Introduction
+0:53 Identify High Queue Depth
+2:08 Check for Traffic Spikes
+3:03 Monitor Performance Insights
+4:00 Closing
+
+Subscribe:
+More AWS videos: https://go.aws/3m5yEMW
+More AWS events videos: https://go.aws/3ZHq4BK
+
+Do you have technical AWS questions?
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+ABOUT AWS
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster.
+
+#AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="0" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:rZD--o5bbrg</ns0:id>
+  <ns1:videoId>rZD--o5bbrg</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]How can I retrieve Amazon EKS control plane logs from CloudWatch Logs?</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=rZD--o5bbrg" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-31T21:07:53+00:00</ns0:published>
+  <ns0:updated>2025-12-31T21:07:53+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>How can I retrieve Amazon EKS control plane logs from CloudWatch Logs?</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/rZD--o5bbrg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/rZD--o5bbrg/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/eks-get-control-plane-logs
+
+The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
+
+Sushma shows you how to retrieve Amazon EKS control plane logs from CloudWatch logs by activating control plane logging and running queries.
+
+0:00 Introduction
+0:33 Control Plane Logging Types
+1:43 CloudWatch Log Insights
+2:37 Example Query Operations
+4:03 Closing
+
+Subscribe:
+More AWS videos: https://go.aws/3m5yEMW
+More AWS events videos: https://go.aws/3ZHq4BK
+
+Do you have technical AWS questions?
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+ABOUT AWS
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster.
+
+#AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="0" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:B7IPPtiXH6g</ns0:id>
+  <ns1:videoId>B7IPPtiXH6g</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]How do I troubleshoot Amazon Connect CCP softphone errors?</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=B7IPPtiXH6g" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-31T21:06:58+00:00</ns0:published>
+  <ns0:updated>2025-12-31T21:06:59+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>How do I troubleshoot Amazon Connect CCP softphone errors?</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/B7IPPtiXH6g?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/B7IPPtiXH6g/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/resolve-amazon-connect-ccp-errors
+
+The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
+
+Niharika shows you how to troubleshoot Amazon Connect CCP softphone errors.
+
+0:00 Introduction
+0:31 Endpoint Types
+1:07 Signaling Endpoint Errors
+1:19 Media Endpoint Errors
+1:48 API Endpoint Errors
+2:13 Closing
+
+Subscribe:
+More AWS videos: https://go.aws/3m5yEMW
+More AWS events videos: https://go.aws/3ZHq4BK
+
+Do you have technical AWS questions?
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+ABOUT AWS
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster.
+
+#AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="14" average="5.00" min="1" max="5" />
+    <ns2:statistics views="63" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:CxNTyPoKVVE</ns0:id>
+  <ns1:videoId>CxNTyPoKVVE</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]Why do I get zero records when I query my Amazon Athena table?</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=CxNTyPoKVVE" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-31T21:06:12+00:00</ns0:published>
+  <ns0:updated>2025-12-31T21:06:12+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Why do I get zero records when I query my Amazon Athena table?</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/CxNTyPoKVVE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/CxNTyPoKVVE/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/athena-empty-results
+
+The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
+
+Akash shows you how to troubleshoot scenarios where Amazon Athena query returns zero records.
+
+0:00 Introduction
+0:33 Crawler Configuration
+0:56 Location Path
+1:19 Special Characters
+2:22 Multiple Tables
+3:03 Partition Loading
+3:34 Hidden Files
+4:07 Closing
+
+Subscribe:
+More AWS videos: https://go.aws/3m5yEMW
+More AWS events videos: https://go.aws/3ZHq4BK
+
+Do you have technical AWS questions?
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+ABOUT AWS
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster.
+
+#AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="3" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:81u43AmGOOk</ns0:id>
+  <ns1:videoId>81u43AmGOOk</ns1:videoId>
+  <ns1:channelId>UCHNDk7584Q5g7RQCAFj7RFA</ns1:channelId>
+  <ns0:title>[松明講心理]2026，换个活法！ #感情 #煩惱 #新年 #抑鬱 #松明</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/81u43AmGOOk" />
+  <ns0:author>
+   <ns0:name>松明講心理</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-31T21:00:14+00:00</ns0:published>
+  <ns0:updated>2025-12-31T21:00:14+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>2026，换个活法！ #感情 #煩惱 #新年 #抑鬱 #松明</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/81u43AmGOOk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/81u43AmGOOk/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>電腦端點擊鏈接、加入松明老師頻道會員、即可看課
+https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
+
+
+#初級學員福利
+一、搶先看影片
+二、會員專屬直播
+三、評論區優先回復
+四、會員專享直播
+
+
+#中級學員福利
+一、包含所有初級會員福利
+二、五天特訓營第一期 高敏感變天賦
+三、五天特训营第二期 喚醒“心”自我
+
+#高級學員福利：
+一、包含初級、中級會員所有課程
+二、十大能力系统课
+1、《高敏感變優勢的能力》
+2、《修復討好的能力》
+3、《自卑變自信的能力》
+4、《將壓力變為動力》
+5、《提高效率“專注力”》
+6、《睡好覺的能力》
+7、《運用情緒的力量》
+8、《讀懂人心的能力》
+9、《不說話的影響力》
+10、《會賺錢的能力》
+
+
+#黃金學員福利
+一、包含初級、中級會員、高級會員所有課程
+二、情感课『親密關係幸福密碼』
+三、亲子课 『如何挽救和孩子的关系』
+
+
+#鑽石VIP學員福利
+一、包含初級、中級、高級、黃金會員所有課程
+二、决策力 『多維度選擇力』
+三、沟通课  『如何學會有效溝通』 
+四、松明有声书 『語言的力量365』 
+五、『告別討好型人格』課程
+六、『轉換壞情緒』課程
+
+
+#導師班學員福利
+一、包含初級、中級、高級、黃金、鑽石會員所有課程
+二、『21天行動計劃』課程
+三、『心理學導師班課程』
+
+
+課程內容介紹
+
+五天特訓營第一期內容：
+第一天、修復原生家庭給自己帶來的創傷。
+第二天、學會自我覺察、覺察認知、覺察情緒、覺察身體。
+第三天、如何走出人生的逆境，走出失戀創傷。
+第四天、親子關係課程，提高家長的8大認知模型。
+第五天、解決兩性關係裡的冷暴力、敘情障礙、猜疑、貶損、指責。
+
+
+溝通課十大重點內容：
+1、溝通和關係、人生的四個成果
+2、人類本質的6大需求
+3、溝通的四種重要的表達方式、建立溝通的通路、深度的溝通
+4、在溝通中去傾聽、通過溝通和對方達成共贏
+5、學會拒絕對方、學會去“讚美對方”、學會“道歉”
+6、溝通的““高我”和“小人”、高情商的語言模型
+7、人類的21個潛在需求
+8、溝通中的16個絆腳石
+9、溝通中的墻壁~演繹
+10、溝通的緯度
+
+『決策力、多維選擇力』
+第1課、關於決策力的三個誤解！
+第2課、做出不後悔決策的5種風格
+第3課、合理型風格的5個習慣
+第4課、“完美主義者”和“知足主義者”的決策！
+第5課、你的決策、真的是考慮後決定的嗎？
+第6課、明確做決策的計劃和成本！
+第7課、習慣是改變決策的原動力！
+第8課、做決策的最佳時間段！
+第9課、為做決策的焦慮制定對策
+第10課、如何消除你做決策時候的情緒偏見！
+第11課、削弱決策力的五個誤區
+第12課、決策中的2種致命偏見
+第13課、做不後悔決策的5種訓練
+第14課、提高決策力的2個方法！
+
+
+
+『親密關係幸福密碼』兩性關係課程
+第1課，如何在戀愛期去選人？
+第2課：伴侶和自己的價值觀不一樣怎麼辦？
+第3課：兩性關係之間沒有交流正常嗎？
+第4課：夫妻潛意識裡的“權威期待”！
+第5課：如何面對夫妻關係裡的冷暴力形成的“空洞”！
+第6課：夫妻關係裡的“對方不懂自己”怎麼辦？
+第７課：我為了你放棄了全世界，而你卻放棄了我？
+第8課，婚姻和愛情的區別在哪裡？
+第9課，在兩性關係裡如何學會溝通？
+第10課、如何創造健康的兩性關係？
+第11課、為何我們難以走出失戀？
+第12課、如何去修復情感給自身帶來的傷害？
+第13課：兩性關係裡的依戀類型是什麼？
+第14課：如何判斷對方是「回避」還是「不愛」？
+第15課：回避型依戀的形成？
+第16課：回避型依戀的人格特徵是什麼？
+第17課：如何將回避型伴侶轉化成安全型？
+第18課：婚姻的裂縫與修復
+第19課：如何識別一段關係該結束的5個信號
+第20課：學會表達需求，在親密關係中做回自己
+第21課：婚姻裡，「不愛了」的三個跡象
+第22課：真愛的6個心理學跡象
+第23課：婚姻裡的表達藝術，真誠，而不必須真實
+第24課：警惕婚姻裡致命傷1：堅持「我是對的」
+第25課：警惕婚姻裡致命傷2：託付型婚姻
+第26課：警惕婚姻裡致命傷3：不願分享內心感受
+第27課：警惕婚姻裡致命傷4：維持「蘋果皮式的和諧」
+第28課：警惕婚姻裡致命傷5：不會有效處理衝突
+第29課：婚姻的底層邏輯：1+1如何才能大于2
+第30課：美滿婚姻的12條幸福法則
+
+『如何挽救和孩子的關係』親子課程
+第1課：原生家庭影響孩子的一生
+第2課：原生家庭的數據庫
+第3課：我們並非完美的父母
+第4課：情緒化家長有多可怕
+第5課：四種常見的中式教育
+第6課：恐嚇式教育的危害
+第7課：苦難式教育的後果
+第8課：父母如何重塑心智模式
+第9課：心理創傷的形成和療愈
+第10課：孩子為何切斷和你的溝通
+第11課：如何正確的把責任還給孩子
+第12課：為何你養孩子這麼累
+第13課：一流父母如何教孩子
+第14課：二孩家庭如何避免被忽視感
+第15課：不同年齡段父母的角色變化
+第16課：不吼不叫也能教好孩子
+第17課：最傷孩子的五種說話方式
+第18課：父母最容易犯的錯誤示範
+第19課：如何培養心理健康的孩子
+第20課：提升孩子心理健康的路徑
+第21課：如何培養人格完整的孩子
+第22課：如何學會和孩子共情
+第23課：幫助孩子“去毒化”
+第24課：贏了孩子、贏得孩子
+第25課：贏得孩子的四件事
+第26課：如何正確的懲罰孩子
+第27課：“3R”技術處理親子關係
+第28課：孩子犯錯後 家長怎麼辦
+第29課：如何讓孩子感受到父母的愛
+第30課：心理學大師教你育兒（1）
+第31課：孩子的三個意識和三個防禦機制
+第32課：孩子成長中的人格理念
+第33課：心理學大師教你育兒（2）
+第34課：如何打開孩子天賦的開關
+第35課：未滿足孩子需求後的對策
+第36課：心理學大師教你育兒（3）
+第37課：如何解決育兒焦慮
+第38課：育兒中的定位 鏈接 改變和結果
+第39課：不同年齡段的共情需求
+第40課：如何和孩子去聊天
+第41課：6個方法做到共情到位（上）
+第42課：6個方法做到共情到位（下）
+第43課：讓孩子留下好印象的7種方法
+第44課：7個方法提高孩子控場能力（上）
+第45課：7個方法提高孩子控場能力（下）
+第46課：如何培養幽默的孩子（上）
+第47課：如何培養幽默的孩子（下）
+第48課：快速提升家長表達力的5個方法
+第49課：如何訓練孩子的主動性（上）
+第50課：如何訓練孩子的主動性（下）
+第51課：學會非語言的溝通模型
+
+會員級別變更方法
+1. 用電腦或筆電開啟yt 找到老師頻道的主頁，然後在首頁、影片 那一列的最右手邊會看到一個“齒輪”，點進去會看到“更變級別”
+2. 用手機開啟瀏覽器 然後瀏覽器要設定是以電腦視窗顯示，此時顯示畫面會變很小 因為是以電腦的螢幕大小做的排版，然後收尋yt 長壓後點擊以新視窗開啟，之後的動作一樣 找到老師頻道主頁 然後在右手邊找到齒輪 點擊後找到更變級別。
+
+
+
+不一樣的心理療愈，做一位價值發現者！
+👍喜歡我的影片請按贊，分享
+🔔歡迎訂閱我的YouTube頻道，並打開小鈴鐺
+🪄為你帶來更多精彩心理學影片
+🎭亞洲人氣心理導師、分享根正苗紅的心理學
+🎭對決華人神探李昌鈺、成功操縱日本導演北野武
+🎭與吴京、古天樂、黃百鳴、吴尊出演電影【開心魔法】
+🎭香港TVB【讀心專家】 、【破解讀心理】
+🎭內地綜藝 【挑戰不可能】、【 王牌對王牌】
+🎭日本綜藝 【世界まる見え】、【人間観察モニターニング】
+🎭發售書籍【成功を掴むマインドハック】、【松明教你心理術】、【六大係統解決高敏感】
+
+#心理學 #松明  #情感 #育兒 #育儿 #心理学
+ #創傷 #抑鬱 #焦慮 #壓力 #失眠 #壓抑 
+#育兒 #家庭 #教育 #家庭教育 #意識 #潛意識 
+#投射 #缺愛 #心理創傷 #原生家庭 #養育 
+#關係 #週期 #冷暴力 #嫉妒 #心智模式 
+#本我 #自我 #超我 #安全感 #價值感 #歸屬感 #完美主義
+#親子 #決策 #溝通 #兩性關係 #厭學 #反芻 #吸引力 #抑鬱 #賺錢
+#金錢 #自閉症 #人際關係 #操縱 #叛逆 #自殺 #厭世 #悔恨 #消極清晰
+#積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
+#情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="19" average="5.00" min="1" max="5" />
+    <ns2:statistics views="124" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:UzwVyYORuO0</ns0:id>
+  <ns1:videoId>UzwVyYORuO0</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]How do I use SCPs and tag policies to restrict resource creation in AWS Organizations?</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=UzwVyYORuO0" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-31T20:51:34+00:00</ns0:published>
+  <ns0:updated>2025-12-31T20:51:34+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>How do I use SCPs and tag policies to restrict resource creation in AWS Organizations?</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/UzwVyYORuO0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/UzwVyYORuO0/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>For more details on this topic, visit the AWS Knowledge Center 
+on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/organizations-scp-tag-policies
+
+The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
+
+Ximena shows you how to use service control policies and tag policies to restrict users in AWS organization member accounts from creating resources without compliant tags.
+
+0:00 Introduction
+0:27 Create Tag Policy
+1:18 Configure Tag Policy
+2:40 Create SCP
+3:42 Attach Policies
+4:23 Test Policies
+6:33 Closing
+
+Subscribe to AWS: https://go.aws/subscribe
+
+Create a free AWS account: https://go.aws/signup 
+Try AWS for free: https://go.aws/free 
+Connect with an expert: https://go.aws/contact
+Explore more: https://go.aws/more
+
+Next steps:
+Explore on AWS in Analyst Research:  https://go.aws/reports
+Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
+Join the AWS Partner Network: https://go.aws/partners 
+Learn more on how Amazon builds and operates software: https://go.aws/library 
+
+Do you have technical AWS questions? 
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+Why AWS?
+Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
+
+#AWS #AmazonWebServices #CloudComputing</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="4" average="5.00" min="1" max="5" />
+    <ns2:statistics views="16" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:pVohxo8B6V4</ns0:id>
+  <ns1:videoId>pVohxo8B6V4</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]How do I delete or terminate an Amazon ECS service?</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=pVohxo8B6V4" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-31T20:48:58+00:00</ns0:published>
+  <ns0:updated>2025-12-31T20:48:58+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>How do I delete or terminate an Amazon ECS service?</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/pVohxo8B6V4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/pVohxo8B6V4/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>For more details on this topic, visit the AWS Knowledge Center 
+on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/ecs-delete-terminate
+
+The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
+
+Axel shows you how to delete a service running in Amazon Elastic Container Service (ECS) using the AWS Management Console.
+
+0:00 Introduction
+0:23 Sign in to AWS
+0:38 Navigate to ECS
+0:48 Select cluster
+0:55 Choose service
+0:59 Delete service
+1:27 Additional considerations
+1:37 Closing
+
+Subscribe to AWS: https://go.aws/subscribe
+
+Create a free AWS account: https://go.aws/signup 
+Try AWS for free: https://go.aws/free 
+Connect with an expert: https://go.aws/contact
+Explore more: https://go.aws/more
+
+Next steps:
+Explore on AWS in Analyst Research:  https://go.aws/reports
+Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
+Join the AWS Partner Network: https://go.aws/partners 
+Learn more on how Amazon builds and operates software: https://go.aws/library 
+
+Do you have technical AWS questions? 
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+Why AWS?
+Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
+
+#AWS #AmazonWebServices #CloudComputing</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="4" average="5.00" min="1" max="5" />
+    <ns2:statistics views="20" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:ItLXg221S-k</ns0:id>
+  <ns1:videoId>ItLXg221S-k</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]How do I resolve low free memory or high swap issues in my Amazon RDS for Oracle DB instance?</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ItLXg221S-k" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-31T20:46:58+00:00</ns0:published>
+  <ns0:updated>2025-12-31T20:46:59+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>How do I resolve low free memory or high swap issues in my Amazon RDS for Oracle DB instance?</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/ItLXg221S-k?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/ItLXg221S-k/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>For more details on this topic, visit the AWS Knowledge Center 
+on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/rds-oracle-low-memory-high-swap
+
+The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
+
+Diego shows you how to resolve low free memory or high subject issues on Amazon RDS for Oracle database instances.
+
+0:00 Introduction
+0:25 Memory Usage Overview
+0:46 Memory Management Types
+1:11 Troubleshooting Commands
+1:57 Viewing Memory Usage
+2:25 Adjusting Memory Parameters
+2:52 High PGA Usage
+3:19 Closing
+
+Subscribe to AWS: https://go.aws/subscribe
+
+Create a free AWS account: https://go.aws/signup 
+Try AWS for free: https://go.aws/free 
+Connect with an expert: https://go.aws/contact
+Explore more: https://go.aws/more
+
+Next steps:
+Explore on AWS in Analyst Research:  https://go.aws/reports
+Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
+Join the AWS Partner Network: https://go.aws/partners 
+Learn more on how Amazon builds and operates software: https://go.aws/library 
+
+Do you have technical AWS questions? 
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+Why AWS?
+Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
+
+#AWS #AmazonWebServices #CloudComputing</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="6" average="5.00" min="1" max="5" />
+    <ns2:statistics views="35" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:-7Xy8OPGND8</ns0:id>
+  <ns1:videoId>-7Xy8OPGND8</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]How do I recognize and resolve cluster health issues that have too many shards?</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=-7Xy8OPGND8" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-31T20:44:56+00:00</ns0:published>
+  <ns0:updated>2025-12-31T20:44:57+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>How do I recognize and resolve cluster health issues that have too many shards?</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/-7Xy8OPGND8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/-7Xy8OPGND8/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>For more details on this topic, visit the AWS Knowledge Center 
+on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/opensearch-too-many-shards
+
+The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
+
+Siha shows you how to recognize and resolve cluster health issues caused by having too many shards in an AWS OpenSearch service cluster.
+
+0:00 Introduction
+0:22 Cluster Health Conditions
+0:52 Reviewing CloudWatch Metrics
+1:46 Identifying Shard Issues
+3:42 Reducing Shard Count
+4:42 Scaling Instances
+5:06 Closing
+
+Subscribe to AWS: https://go.aws/subscribe
+
+Create a free AWS account: https://go.aws/signup 
+Try AWS for free: https://go.aws/free 
+Connect with an expert: https://go.aws/contact
+Explore more: https://go.aws/more
+
+Next steps:
+Explore on AWS in Analyst Research:  https://go.aws/reports
+Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
+Join the AWS Partner Network: https://go.aws/partners 
+Learn more on how Amazon builds and operates software: https://go.aws/library 
+
+Do you have technical AWS questions? 
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+Why AWS?
+Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
+
+#AWS #AmazonWebServices #CloudComputing</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1" average="5.00" min="1" max="5" />
+    <ns2:statistics views="15" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:ysWzvtJdV1M</ns0:id>
+  <ns1:videoId>ysWzvtJdV1M</ns1:videoId>
+  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
+  <ns0:title>[Amazon Web Services]Why does the presigned URL for my Amazon S3 bucket expire before the time that I specified?</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ysWzvtJdV1M" />
+  <ns0:author>
+   <ns0:name>Amazon Web Services</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-31T20:40:56+00:00</ns0:published>
+  <ns0:updated>2025-12-31T20:40:56+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Why does the presigned URL for my Amazon S3 bucket expire before the time that I specified?</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/ysWzvtJdV1M?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/ysWzvtJdV1M/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>For more details on this topic, visit the AWS Knowledge Center 
+on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/presigned-url-s3-bucket-expiration
+
+The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
+
+Alexia shows you how to explain why pre-signed URLs for Amazon S3 buckets might expire early and how to create longer-lasting pre-signed URLs.
+
+0:00 Introduction
+0:26 Pre-signed URL Basics
+0:49 Security Considerations
+0:59 Credential Types
+1:15 User Credentials
+3:00 Required Permissions
+3:08 Closing
+
+Subscribe to AWS: https://go.aws/subscribe
+
+Create a free AWS account: https://go.aws/signup 
+Try AWS for free: https://go.aws/free 
+Connect with an expert: https://go.aws/contact
+Explore more: https://go.aws/more
+
+Next steps:
+Explore on AWS in Analyst Research:  https://go.aws/reports
+Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
+Join the AWS Partner Network: https://go.aws/partners 
+Learn more on how Amazon builds and operates software: https://go.aws/library 
+
+Do you have technical AWS questions? 
+Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
+
+Why AWS?
+Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
+
+#AWS #AmazonWebServices #CloudComputing</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1" average="5.00" min="1" max="5" />
+    <ns2:statistics views="16" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
   <ns0:id>yt:video:ewMUUvhvclk</ns0:id>
   <ns1:videoId>ewMUUvhvclk</ns1:videoId>
   <ns1:channelId>UCdC0An4ZPNr_YiFiYoVbwaw</ns1:channelId>
@@ -73,8 +941,8 @@ Only send in videos that you personally filmed.
 
 https://thisisyourdailydose.com/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="17438" average="5.00" min="1" max="5" />
-    <ns2:statistics views="126110" />
+    <ns2:starRating count="20871" average="5.00" min="1" max="5" />
+    <ns2:statistics views="170038" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -125,8 +993,8 @@ Welcome to MacRumors, your ultimate destination for in-depth and insightful Mac 
 
 Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:community>
-    <ns2:starRating count="306" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5200" />
+    <ns2:starRating count="336" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6333" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -160,8 +1028,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
 
 #overwatch #froggerow</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3124" average="5.00" min="1" max="5" />
-    <ns2:statistics views="29164" />
+    <ns2:starRating count="3415" average="5.00" min="1" max="5" />
+    <ns2:statistics views="33255" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -204,8 +1072,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="5287" average="5.00" min="1" max="5" />
-    <ns2:statistics views="119994" />
+    <ns2:starRating count="5328" average="5.00" min="1" max="5" />
+    <ns2:statistics views="121172" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -226,8 +1094,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
    <ns2:thumbnail url="https://i4.ytimg.com/vi/SxoJq0ivq6c/hqdefault.jpg" width="480" height="360" />
    <ns2:description>每次看到电影中的魔术片段，我都会忍不住好奇，这究竟是特效合成的效果，还是现实中真的有可能由魔术师呈现出来？为了解开这个疑惑，我们特别邀请到了大家非常熟悉的魔术大师——刘谦，为我们解析电影里这些魔术片段背后的奥秘。如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="776" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14686" />
+    <ns2:starRating count="803" average="5.00" min="1" max="5" />
+    <ns2:statistics views="16188" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -270,7 +1138,7 @@ https://github.com/bigdongdongCLUB/welcome
 联系邮箱：BOSS@bigdongdong.com</ns2:description>
    <ns2:community>
     <ns2:starRating count="10" average="5.00" min="1" max="5" />
-    <ns2:statistics views="626" />
+    <ns2:statistics views="642" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -295,8 +1163,8 @@ https://github.com/bigdongdongCLUB/welcome
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2649" average="5.00" min="1" max="5" />
-    <ns2:statistics views="19299" />
+    <ns2:starRating count="2731" average="5.00" min="1" max="5" />
+    <ns2:statistics views="20568" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -336,8 +1204,8 @@ CDT播客：https://cdt.firstory.io
 
 The copyright of this video belongs to the original creator. China Digital Times has cached a copy of the original work only for archival purposes in order to counter state censorship by the People’s Republic of China.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="47" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1242" />
+    <ns2:starRating count="48" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1353" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -380,8 +1248,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="250" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7856" />
+    <ns2:starRating count="260" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8484" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -424,8 +1292,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3783" average="5.00" min="1" max="5" />
-    <ns2:statistics views="90203" />
+    <ns2:starRating count="3792" average="5.00" min="1" max="5" />
+    <ns2:statistics views="90504" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -446,8 +1314,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
    <ns2:thumbnail url="https://i2.ytimg.com/vi/9Zkft_3s5o0/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="7600" average="5.00" min="1" max="5" />
-    <ns2:statistics views="104098" />
+    <ns2:starRating count="7872" average="5.00" min="1" max="5" />
+    <ns2:statistics views="116862" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -485,8 +1353,8 @@ Copyright © 腦洞烏托邦™️ All Rights Reserved.
 ☆
 # Xiaowu # 小烏 # ndwtb # 驚掉下巴</ns2:description>
    <ns2:community>
-    <ns2:starRating count="224" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11883" />
+    <ns2:starRating count="230" average="5.00" min="1" max="5" />
+    <ns2:statistics views="12432" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -534,8 +1402,8 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
 製作更多有趣、有價值的視頻內容
 感謝收看！喜歡請訂閱點贊！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="480" average="5.00" min="1" max="5" />
-    <ns2:statistics views="16618" />
+    <ns2:starRating count="488" average="5.00" min="1" max="5" />
+    <ns2:statistics views="17023" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -569,8 +1437,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3032" average="5.00" min="1" max="5" />
-    <ns2:statistics views="290641" />
+    <ns2:starRating count="3092" average="5.00" min="1" max="5" />
+    <ns2:statistics views="299237" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -695,8 +1563,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 #柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #dr berg
 脂肪肝、脂肪肝怎麼辦、脂肪肝飲食、脂肪肝症狀、B型肝炎、C型肝炎、肝癌、肝指數高、護肝食物、肝功能檢查、肝硬化、酒精肝、肝炎症狀、GOT高、GPT高、肝臟保養、肝癌末期、肝腫瘤、肝囊腫、肝血管瘤、肝功能異常、納豆紅麴、護肝膠囊、肝病飲食、肝癌治療、肝炎疫苗、脂肪肝改善、肝指數正常值、肝臟位置、肝臟解毒、抗性澱粉、抗性澱粉食物、抗性澱粉益處、澱粉腸、玉米澱粉、木薯澱粉、澱粉減肥、改性澱粉、澱粉酶、澱粉結構、澱粉食物、馬鈴薯澱粉、地瓜澱粉、太白粉、樹薯澱粉、澱粉類蔬菜、澱粉質水果、澱粉加工、澱粉膠、澱粉營養、台灣政治、賴清德、韓國瑜、柯文哲、傅崐萁、民進黨、國民黨、台灣民眾黨、立法院、罷免、罷免案、罷免韓國瑜、罷免傅崐萁、政治新聞、總統大選、美國大選、特朗普、習近平、中國政治、台灣選舉、立委選舉、行政院、青鳥行動、國會改革、擴權法案、罷免潮、藍白合、綠營、紅營、政治人物、政治獻金、政治獻金法、貪腐、貪污、賄賂、政治腐敗、京華城案、遠雄案、貪污治罪條例、廉政署、洗錢、防洗錢、腐敗案件、司法腐敗、官商勾結、圖利罪、收賄、行賄、弊案、弊端、貪官、腐敗指數、詐騙、投資詐騙、電話詐騙、網路詐騙、深偽詐騙、AI詐騙、假投資、解除監管、監管帳戶、假檢警、假貸款、浪漫詐騙、打詐、反詐騙、165反詐騙、詐騙手法、詐騙集團、柬埔寨詐騙、猪屠盤、假交友、假名人、假專家、AI妖股、飆股、黑馬股、限時領取、遊戲點數、健保卡盜用、解除分期、深偽視訊、假醫師、投資群組、假廣告、台灣經濟、台股、股市、房價、通貨膨脹、利率、央行、GDP、經濟成長、失業率、普發現金、關稅、特朗普關稅、半導體、台積電、AI經濟、虛擬貨幣、比特幣、以太幣、經濟新聞、美股、道瓊、納斯達克、房貸利率、基本工資、CPI、經濟部、財政部、普發6000、普發1萬、經濟衰退、供應鏈、晶片戰爭、台美貿易、中國經濟、美國經濟、全球經濟、經濟預測、股市崩盤、房市泡沫、薪資成長、消費力、出口貿易、進口關稅、能源危機、綠能經濟、數位經濟、電價、油價、黃金價格、匯率、新台幣匯率、美元匯率、經濟指標、就業率、青年失業、貧富差距、稅制改革、財政赤字、國債、公共債務、經濟刺激、振興券、消費券、股市分析、股票推薦、基金投資、ETF、0050、0056、半導體股票、護肝茶、肝癌篩檢、脂肪肝運動、抗性澱粉減肥、澱粉腸食安、政治罷免、貪腐案、投資詐騙案例、經濟成長率、肝病國病、澱粉添加物、政治亂象、腐敗醜聞、詐騙新聞、經濟衰退預測、肝臟健康、澱粉益生菌、政治風暴、腐敗調查、詐騙預防、經濟復甦、脂肪肝藥物、澱粉過敏、政治獻金爭議、貪污自肥、AI深偽詐騙、台股萬點、經濟政策、肝炎治療、澱粉料理、政治抗議、腐敗指控、網路詐騙防範、房價下跌、肝臟捐贈、澱粉工業、政治聯盟、貪腐醜聞、假投資平台、經濟危機、護肝營養品、澱粉代謝、政治改革、腐敗防治、詐騙熱線、股市漲跌、肝癌存活率、抗性澱粉補充、台灣政局、官場腐敗、電話詐騙話術、經濟數據、肝功能食物、澱粉來源、政治新聞熱搜、貪污判決、深偽技術詐騙、台經院預測、B肝攜帶者、澱粉腸爭議、政治人物醜聞、腐敗黑金、投資詐騙受害者、經濟部長、肝臟超音波、澱粉減重、政治罷免連署、貪腐案偵辦、浪漫詐騙案例、通膨率、肝癌標靶、澱粉酶缺乏、政治獻金透明、腐敗文化、假檢察官詐騙、股市操盤、脂肪肝逆轉、澱粉食物排行、政治風向、貪污金額、網路投資詐騙、經濟自由度、肝臟排毒食物、澱粉膠帶、政治危機、腐敗事件、詐騙統計、房價指數、肝炎病毒、澱粉加工食品、政治腐敗案例、貪污罪、AI詐騙名人、經濟成長預測、護肝飲品、澱粉營養價值、政治罷免門檻、腐敗防治法、假交友詐騙、台股指數、肝病預防、澱粉腸配方、政治獻金來源、貪腐政商關係、解除設定詐騙、經濟新聞頭條、肝臟腫大、澱粉減肥法、政治新聞直播、腐敗調查局、投資詐騙報案、央行升息、脂肪肝飲食禁忌、抗性澱粉好處、台灣政治新聞、貪污案判決、深偽詐騙案例、經濟部政策、肝癌化療、澱粉食物熱量、政治人物排名、腐敗新聞、電話詐騙預防、股市行情、肝功能護理、澱粉替代品、政治罷免成功、貪腐指數、網路詐騙類型、經濟指標解讀、B肝治療、澱粉腸做法、政治聯盟破裂、腐敗弊案、假貸款詐騙、房貸補貼、肝臟保健、澱粉酶補充、政治風波、貪污調查、投資群組詐騙、全球經濟展望、肝癌症狀、澱粉減重餐、政治罷免失敗、腐敗文化批判、AI投資詐騙、台股崩盤、護肝運動、澱粉食物清單、政治人物爭議、貪腐事件簿、浪漫交友詐騙、經濟刺激方案、脂肪肝食物、澱粉腸品牌、政治新聞頭條、腐敗防治條例、假名人詐騙、利率政策、肝炎篩檢、澱粉益處壞處、政治獻金爭議案、貪污自首、深偽視頻詐騙、經濟復甦計畫、肝臟捐贈登記、抗性澱粉料理、政治亂局、腐敗黑幕、遊戲點數詐騙、股市投資、肝病基金會、澱粉膠囊、台灣政壇、官商勾結案、監管帳戶詐騙、通膨控制、肝癌預防、澱粉減肥飲食、政治改革法案、貪腐醜聞曝光、假專家詐騙、經濟數據發布、護肝聖品、澱粉腸食譜、政治抗爭、腐敗指控撤銷、網路購物詐騙、房市趨勢、肝功能食物禁忌、澱粉來源植物、政治人物評價、貪污金額記錄、投資課程詐騙、經濟部長換人、脂肪肝自癒、澱粉酶活性、罷免連署、政治腐敗新聞、假檢警電話、央行政策、肝臟健康檢查、澱粉工業應用、政治風雲、腐敗防治中心、浪漫詐騙手法、台股分析、肝癌標靶藥物、抗性澱粉補充品、台灣政治生態、貪污罪刑度、AI黑馬股詐騙、經濟成長率預測、肝炎治療藥物、澱粉減重原理、政治罷免潮、腐敗事件調查、假廣告詐騙、股市推薦、護肝茶飲、澱粉食物避免、政治新聞排行、貪腐政黨、深偽詐騙防範、經濟危機應對、肝臟排毒方法、澱粉膠帶用途、政治人物下台、腐敗文化根除、電話詐騙關鍵字、房價預測、脂肪肝運動方式、抗性澱粉好處壞處、立法院亂象、貪污案起訴、投資平台詐騙、全球經濟新聞、肝病飲食禁忌、澱粉加工技術、政治獻金法修法、腐敗新聞頭條、假交友平台、利率調整、肝癌存活率提高、澱粉腸健康、政治罷免結果、貪腐案結案、網路詐騙報警、經濟政策評析、B肝疫苗、澱粉減肥成功案例、政治風向球、腐敗防治策略、浪漫詐騙受害、台經院報告、肝臟保健品推薦、澱粉酶食物、台灣政局穩定、官場腐敗、解除監管詐騙、經濟部長記者會、脂肪肝逆轉飲食、澱粉益生元、政治新聞熱度、貪污判決上訴、AI詐騙案例、股市大盤、護肝食物排行、澱粉腸爭議事件、政治聯盟、腐敗黑金政治、假醫師詐騙、經濟數據解讀、肝功能異常原因、澱粉替代、健康政治、貪腐調查報告、投資詐騙新聞、房市泡沫、肝癌早期症狀、抗性澱粉餐單、政治人物財產、腐敗事件簿、深偽技術、央行利率決議、肝臟腫瘤切除、澱粉減重食譜、政治改革運動、貪污罪量刑、網路投資群組、經濟展望報告、脂肪肝藥物治療、澱粉膠應用、政治罷免門檻修法、腐敗防治法規、假貸款廣告、台股萬八、護肝營養素、澱粉來源動物、政治新聞焦點、貪腐醜聞連環爆、浪漫詐騙預防、經濟刺激政策、肝病預防篩檢、澱粉工業產品、政治人物排名榜</ns2:description>
    <ns2:community>
-    <ns2:starRating count="365" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10725" />
+    <ns2:starRating count="370" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10930" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -738,7 +1606,7 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 个人博客：pdsharing.com</ns2:description>
    <ns2:community>
     <ns2:starRating count="85" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2459" />
+    <ns2:statistics views="2511" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -804,7 +1672,7 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 #骑行环游世界#国家残疾运动员#骑行旅行</ns2:description>
    <ns2:community>
     <ns2:starRating count="5" average="5.00" min="1" max="5" />
-    <ns2:statistics views="807" />
+    <ns2:statistics views="845" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -903,7 +1771,7 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 #骑行环游世界#国家残疾运动员#骑行旅行</ns2:description>
    <ns2:community>
     <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="38" />
+    <ns2:statistics views="42" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -968,8 +1836,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 所有视频取得中国大陆创作者授权，严格遵守平台规定。🛡️
 #骑行环游世界#国家残疾运动员#骑行旅行</ns2:description>
    <ns2:community>
-    <ns2:starRating count="6" average="5.00" min="1" max="5" />
-    <ns2:statistics views="378" />
+    <ns2:starRating count="8" average="5.00" min="1" max="5" />
+    <ns2:statistics views="401" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -994,8 +1862,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1751" average="5.00" min="1" max="5" />
-    <ns2:statistics views="23058" />
+    <ns2:starRating count="1773" average="5.00" min="1" max="5" />
+    <ns2:statistics views="23469" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1293,8 +2161,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
    <ns2:thumbnail url="https://i1.ytimg.com/vi/t8XxavuBXK4/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="149" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4701" />
+    <ns2:starRating count="150" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4821" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1326,8 +2194,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="151" average="5.00" min="1" max="5" />
-    <ns2:statistics views="21131" />
+    <ns2:starRating count="153" average="5.00" min="1" max="5" />
+    <ns2:statistics views="21370" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1707,8 +2575,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1100" average="5.00" min="1" max="5" />
-    <ns2:statistics views="85679" />
+    <ns2:starRating count="1117" average="5.00" min="1" max="5" />
+    <ns2:statistics views="87463" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1740,8 +2608,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="81" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5735" />
+    <ns2:starRating count="82" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5827" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1770,8 +2638,8 @@ douyin@贪玩歌姬小宁子：https://v.douyin.com/iywQKW9X
 weibo@小宁子：https://weibo.com/2216529910
 Taobao淘宝店铺「贪玩PLAYFULL」：https://kv2gnj94i49gly5xga53uxr91t1w4rq.taobao.com</ns2:description>
    <ns2:community>
-    <ns2:starRating count="813" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10101" />
+    <ns2:starRating count="817" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10232" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1890,8 +2758,8 @@ Taobao淘宝店铺「贪玩PLAYFULL」：https://kv2gnj94i49gly5xga53uxr91t1w4rq
 𝐀𝐯𝐌 𝐄𝐩.𝟎 𝐁𝐞𝐭𝐚 
 𝐌𝐞𝐫𝐜𝐞𝐧𝐚𝐫𝐲 𝐓𝐫𝐲𝐨𝐮𝐭𝐬</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2721" average="5.00" min="1" max="5" />
-    <ns2:statistics views="27502" />
+    <ns2:starRating count="2925" average="5.00" min="1" max="5" />
+    <ns2:statistics views="34201" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1926,8 +2794,8 @@ Taobao淘宝店铺「贪玩PLAYFULL」：https://kv2gnj94i49gly5xga53uxr91t1w4rq
 ④ 如果能对大家有帮助的话请记得点赞收藏关注, 可以多多分享给身边的小伙伴支持♥️
 ⑤ 其他平台欢迎关注 微博/抖音/小红书/B站/Youtube 同名@ElenaLin_青青</ns2:description>
    <ns2:community>
-    <ns2:starRating count="238" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2581" />
+    <ns2:starRating count="241" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2604" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1959,8 +2827,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1702" average="5.00" min="1" max="5" />
-    <ns2:statistics views="119276" />
+    <ns2:starRating count="1707" average="5.00" min="1" max="5" />
+    <ns2:statistics views="119816" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1981,8 +2849,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:thumbnail url="https://i3.ytimg.com/vi/vgJp-GIPxOY/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="287" average="5.00" min="1" max="5" />
-    <ns2:statistics views="27886" />
+    <ns2:starRating count="289" average="5.00" min="1" max="5" />
+    <ns2:statistics views="28374" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2035,8 +2903,8 @@ The technology opens the door to full-scenario robotic applications, from daily 
 TESTV不接受厂家业配，专注表达真实、独立的产品使用体验。
 如果我们的内容能够帮助到你，不妨加入频道会员，帮助我们做出更优质的节目！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="445" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11231" />
+    <ns2:starRating count="446" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11278" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2261,8 +3129,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1403" average="5.00" min="1" max="5" />
-    <ns2:statistics views="21458" />
+    <ns2:starRating count="1414" average="5.00" min="1" max="5" />
+    <ns2:statistics views="21659" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2294,8 +3162,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="79" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7729" />
+    <ns2:starRating count="83" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7869" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2327,8 +3195,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="168" average="5.00" min="1" max="5" />
-    <ns2:statistics views="27535" />
+    <ns2:starRating count="169" average="5.00" min="1" max="5" />
+    <ns2:statistics views="27668" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2426,100 +3294,6 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:IFOlWYMhGmo</ns0:id>
-  <ns1:videoId>IFOlWYMhGmo</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]Honeycomb powers real-time observability with generative AI on AWS | Amazon Web Services</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=IFOlWYMhGmo" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-31T00:48:48+00:00</ns0:published>
-  <ns0:updated>2025-12-31T00:48:49+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Honeycomb powers real-time observability with generative AI on AWS | Amazon Web Services</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/IFOlWYMhGmo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/IFOlWYMhGmo/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Honeycomb is a modern observability platform that helps engineering teams understand system behavior, troubleshoot faster, and deliver reliable software at scale. Known for high-performance querying and real-time insights, Honeycomb supports teams building and operating complex cloud-native applications.
-
-Julie Neumann, Chief Marketing Officer at Honeycomb, shares how AI is shaping faster investigations and better developer experiences, from sub second query performance to AI-assisted analysis. She explains how Amazon Web Services (AWS) enables Honeycomb to scale seamlessly, innovate with generative AI, and deliver new intelligence-driven capabilities that improve customer experience.
-
-Watch to learn how Honeycomb uses AI and AWS to push the limits of observability speed, insight, and innovation.
-
-Subscribe to AWS: https://go.aws/subscribe
-
-Create a free AWS account: https://go.aws/signup 
-Try AWS for free: https://go.aws/free 
-Connect with an expert: https://go.aws/contact
-Explore more: https://go.aws/more
-
-Next steps:
-Explore on AWS in Analyst Research:  https://go.aws/reports
-Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
-Join the AWS Partner Network: https://go.aws/partners 
-Learn more on how Amazon builds and operates software: https://go.aws/library 
-
-Do you have technical AWS questions? 
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-Why AWS?
-Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
-
-#AWS #AmazonWebServices #CloudComputing</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="7" average="5.00" min="1" max="5" />
-    <ns2:statistics views="138" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:a1CRnpr15yM</ns0:id>
-  <ns1:videoId>a1CRnpr15yM</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]Automation Anywhere accelerates enterprise automation with AI on AWS | Amazon Web Services</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=a1CRnpr15yM" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-31T00:47:52+00:00</ns0:published>
-  <ns0:updated>2025-12-31T00:47:52+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Automation Anywhere accelerates enterprise automation with AI on AWS | Amazon Web Services</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/a1CRnpr15yM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/a1CRnpr15yM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Automation Anywhere is a leader in intelligent automation, helping enterprises streamline complex, regulated workflows across industries like healthcare, financial services, and insurance. The company focuses on improving operational speed, accuracy, and customer outcomes at scale.
-
-Jay Bala, Senior Vice President of Product at Automation Anywhere, explains how agentic AI is reshaping processes such as claims handling, KYC, and mortgage processing to make outcomes more predictable and efficient. He shares how Amazon Web Services (AWS) enables faster product innovation and market responsiveness, supporting advanced AI capabilities that help Automation Anywhere deliver automation solutions more quickly and effectively.
-
-Watch to learn how Automation Anywhere uses AI and AWS to modernize enterprise workflows and drive real-world impact.
-
-Subscribe to AWS: https://go.aws/subscribe
-
-Create a free AWS account: https://go.aws/signup 
-Try AWS for free: https://go.aws/free 
-Connect with an expert: https://go.aws/contact
-Explore more: https://go.aws/more
-
-Next steps:
-Explore on AWS in Analyst Research:  https://go.aws/reports
-Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
-Join the AWS Partner Network: https://go.aws/partners 
-Learn more on how Amazon builds and operates software: https://go.aws/library 
-
-Do you have technical AWS questions? 
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-Why AWS?
-Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
-
-#AWS #AmazonWebServices #CloudComputing</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="9" average="5.00" min="1" max="5" />
-    <ns2:statistics views="121" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
   <ns0:id>yt:video:mB2F15NBCZg</ns0:id>
   <ns1:videoId>mB2F15NBCZg</ns1:videoId>
   <ns1:channelId>UCD_gy8DWV_DhjJ-bQXF5dGQ</ns1:channelId>
@@ -2541,8 +3315,8 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2377" average="5.00" min="1" max="5" />
-    <ns2:statistics views="39121" />
+    <ns2:starRating count="2390" average="5.00" min="1" max="5" />
+    <ns2:statistics views="39512" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2661,8 +3435,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #指甲 #柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝</ns2:description>
    <ns2:community>
-    <ns2:starRating count="151" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2497" />
+    <ns2:starRating count="154" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2503" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2880,51 +3654,7 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 #柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #骨質疏鬆</ns2:description>
    <ns2:community>
     <ns2:starRating count="188" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3135" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:QgoDrjgJBG8</ns0:id>
-  <ns1:videoId>QgoDrjgJBG8</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]How Amazon Legal automates global regulatory monitoring with Amazon Quick | Amazon Web Services</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=QgoDrjgJBG8" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-30T22:26:11+00:00</ns0:published>
-  <ns0:updated>2025-12-30T22:26:11+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How Amazon Legal automates global regulatory monitoring with Amazon Quick | Amazon Web Services</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/QgoDrjgJBG8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/QgoDrjgJBG8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Amazon's Legal team is tasked with identifying emerging laws and regulations worldwide through horizon scanning. Missing or delayed insights create risks, while relying on multiple tools and fragmented information leads to gaps and increases in operational costs. To address this challenge, the team used Amazon Quick to build a Flow with a research step that automatically monitors changes, generates compliance reports, and sends email updates to relevant legal teams—all without switching applications. See how this transformation in operations can lead to cost savings while improving the speed and efficiency of regulatory monitoring. 
-
-Learn more about Amazon Quick Suite: https://go.aws/4sllXuC
-Subscribe to AWS: https://go.aws/subscribe
-
-Create a free AWS account: https://go.aws/signup 
-Try AWS for free: https://go.aws/free 
-Connect with an expert: https://go.aws/contact
-Explore more: https://go.aws/more
-
-Next steps:
-Explore on AWS in Analyst Research:  https://go.aws/reports
-Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
-Join the AWS Partner Network: https://go.aws/partners 
-Learn more on how Amazon builds and operates software: https://go.aws/library 
-
-Do you have technical AWS questions? 
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-Why AWS?
-Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
-
-#AWS #AmazonWebServices #CloudComputing #AgenticAI #AI #BusinessIntelligence #AWSAnalytics</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="7" average="5.00" min="1" max="5" />
-    <ns2:statistics views="181" />
+    <ns2:statistics views="3154" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2958,8 +3688,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
 
 #overwatch #froggerow</ns2:description>
    <ns2:community>
-    <ns2:starRating count="8795" average="5.00" min="1" max="5" />
-    <ns2:statistics views="102490" />
+    <ns2:starRating count="8850" average="5.00" min="1" max="5" />
+    <ns2:statistics views="103649" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3020,52 +3750,8 @@ Only send in videos that you personally filmed.
 
 https://thisisyourdailydose.com/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="51496" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1184674" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:HKooynuMsq0</ns0:id>
-  <ns1:videoId>HKooynuMsq0</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]How AI Is Reshaping the Consumer Goods Industry | Amazon Web Services</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=HKooynuMsq0" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-30T20:10:41+00:00</ns0:published>
-  <ns0:updated>2025-12-30T20:11:02+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How AI Is Reshaping the Consumer Goods Industry | Amazon Web Services</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/HKooynuMsq0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/HKooynuMsq0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Explore how AI is transforming consumer goods execution with Arvind Mathur, AWS Executive in Residence, and Anupam Sinha, CEO and Co-founder of Vxceed. Anupam reveals how Consumer Packed Goods (CPG) companies are leveraging predictive AI, generative AI, and agentic AI to close the execution reality gap that has plagued traditional trade for decades—turning delayed insights into real-time market responsiveness. From preventing stock-outs to achieving autonomous trade promotion optimization, discover how forward-thinking leaders are protecting market share against digital-first insurgent brands penetrating traditional retail channels. Learn why your field execution strategy—powered by AI that delivers actionable intelligence—has become your most critical competitive advantage in markets where traditional trade still drives 95% of volume.
-
-Learn more about business resilience: https://go.aws/4pnTFgx
-Subscribe to AWS: https://go.aws/subscribe
-
-Create a free AWS account: https://go.aws/signup 
-Try AWS for free: https://go.aws/free 
-Connect with an expert: https://go.aws/contact
-Explore more: https://go.aws/more
-
-Next steps:
-Explore on AWS in Analyst Research:  https://go.aws/reports
-Discover, deploy, and manage software that runs on AWS: https://go.aws/marketplace
-Join the AWS Partner Network: https://go.aws/partners 
-Learn more on how Amazon builds and operates software: https://go.aws/library 
-
-Do you have technical AWS questions? 
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-Why AWS?
-Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine. We offer the greatest choice of innovative cloud capabilities and expertise, on the most extensive global infrastructure with industry-leading security, reliability, and performance.
-
-#AWS #AmazonWebServices #CloudComputing #GenerativeAI #AgenticAI #AWSExecutiveInsights</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="135" />
+    <ns2:starRating count="51752" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1193252" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3086,8 +3772,8 @@ Amazon Web Services is the world’s most comprehensive and broadly adopted clou
    <ns2:thumbnail url="https://i1.ytimg.com/vi/X3EK8cR6Tas/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Every moment of movement is a chance to become more aware of yourself and the world around you, says Zen Buddhist nun Sister True Dedication. Guiding us through the art of "mindful walking," she shares three essential questions to ask yourself to awaken your strength, build resilience and discover your inner peace.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="457" average="5.00" min="1" max="5" />
-    <ns2:statistics views="18754" />
+    <ns2:starRating count="458" average="5.00" min="1" max="5" />
+    <ns2:statistics views="19052" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3138,52 +3824,8 @@ Support us on Patreon and get your Pin!: https://www.patreon.com/Commonrealm
 Subscribe to Commonwealth Realm:
 http://bit.ly/Commonrealm</ns2:description>
    <ns2:community>
-    <ns2:starRating count="706" average="5.00" min="1" max="5" />
-    <ns2:statistics views="33884" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:gEcOqmC5dYE</ns0:id>
-  <ns1:videoId>gEcOqmC5dYE</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]How to delete a stack instance from CloudFormation stack set in a closed or suspended AWS account?</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=gEcOqmC5dYE" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-30T16:53:37+00:00</ns0:published>
-  <ns0:updated>2025-12-30T16:53:37+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How to delete a stack instance from CloudFormation stack set in a closed or suspended AWS account?</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/gEcOqmC5dYE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/gEcOqmC5dYE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: [https://repost.aws/knowledge-center/cloudformation-removal-stacksets]
-
-The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
-
-Aparna shows you how to delete a stack instance from an AWS CloudFormation stack set when the target AWS account is closed or suspended.
-0:00 Introduction
-0:22 Stack Instance Deletion
-0:48 Permission Models
-1:03 Self-Managed Permissions
-1:55 Service-Managed Permissions
-3:27 Closing
-
-Subscribe:
-More AWS videos: https://go.aws/3m5yEMW
-More AWS events videos: https://go.aws/3ZHq4BK
-
-Do you have technical AWS questions?
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-ABOUT AWS
-Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster.
-
-#AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="4" average="5.00" min="1" max="5" />
-    <ns2:statistics views="125" />
+    <ns2:starRating count="710" average="5.00" min="1" max="5" />
+    <ns2:statistics views="34051" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3204,8 +3846,8 @@ Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopte
    <ns2:thumbnail url="https://i1.ytimg.com/vi/090tn1fzrIs/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="5660" average="5.00" min="1" max="5" />
-    <ns2:statistics views="112898" />
+    <ns2:starRating count="5677" average="5.00" min="1" max="5" />
+    <ns2:statistics views="113696" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3219,7 +3861,7 @@ Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopte
    <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
   </ns0:author>
   <ns0:published>2025-12-30T16:01:25+00:00</ns0:published>
-  <ns0:updated>2025-12-30T16:01:26+00:00</ns0:updated>
+  <ns0:updated>2025-12-31T21:14:55+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Can AI Uplift Entrepreneurs That Traditional Banks Reject? | Mercedes Bidart | TED</ns2:title>
    <ns2:content url="https://www.youtube.com/v/rGOTVtXkaRs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -3247,8 +3889,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
 
 #TED #TEDTalks #Technology</ns2:description>
    <ns2:community>
-    <ns2:starRating count="294" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11868" />
+    <ns2:starRating count="296" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11992" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3262,7 +3904,7 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
    <ns0:uri>https://www.youtube.com/channel/UCy2aOVSWiF_ivcb0ilhGaXQ</ns0:uri>
   </ns0:author>
   <ns0:published>2025-12-30T16:00:53+00:00</ns0:published>
-  <ns0:updated>2025-12-30T16:00:53+00:00</ns0:updated>
+  <ns0:updated>2025-12-31T20:58:41+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>一次非法彩票骗局，8个心理陷阱，这你顶得了？</ns2:title>
    <ns2:content url="https://www.youtube.com/v/S9DZ3REvJeo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -3291,364 +3933,7 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
 请注意，本视频完全符合YouTube社区准则，没有任何违规行为。</ns2:description>
    <ns2:community>
     <ns2:starRating count="5" average="5.00" min="1" max="5" />
-    <ns2:statistics views="289" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:5e_k3J1mEq8</ns0:id>
-  <ns1:videoId>5e_k3J1mEq8</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]Why does my Athena query fail with the "HIVE_BAD_DATA" error?</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=5e_k3J1mEq8" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-30T15:47:13+00:00</ns0:published>
-  <ns0:updated>2025-12-30T15:47:14+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Why does my Athena query fail with the "HIVE_BAD_DATA" error?</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/5e_k3J1mEq8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/5e_k3J1mEq8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: [https://repost.aws/knowledge-center/athena-hive-bad-data-parsing-field-value]
-
-
-The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
-
-Anjana shows you how to resolve the hive bad data error in Amazon Athena queries.
-
-0:00 Introduction
-0:22 Hive Bad Data Error
-0:41 Example 1: Mixed Data Types
-1:08 Example 2: Integer Range
-1:49 Example 3: Decimal Scale
-2:43 Example 4: Date Formatting
-3:11 Closing
-
-Subscribe:
-More AWS videos: https://go.aws/3m5yEMW
-More AWS events videos: https://go.aws/3ZHq4BK
-
-Do you have technical AWS questions?
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-ABOUT AWS
-Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster.
-
-#AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="4" average="5.00" min="1" max="5" />
-    <ns2:statistics views="99" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:plRZzjD_CB0</ns0:id>
-  <ns1:videoId>plRZzjD_CB0</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]How can I allow all accounts in AWS Organizations to use an AWS KMS key in my account?</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=plRZzjD_CB0" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-30T15:37:09+00:00</ns0:published>
-  <ns0:updated>2025-12-30T15:37:09+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How can I allow all accounts in AWS Organizations to use an AWS KMS key in my account?</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/plRZzjD_CB0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/plRZzjD_CB0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/kms-key-organization-account
-
-The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
-
-Ravi shows you how to allow all AWS accounts in your AWS organizations to use an KMS key in your AWS account.
-
-0:00 Introduction
-1:21 Creating IAM Users
-2:38 Configuring AWS CLI Profiles
-3:22 Configuring KMS Key Policy
-4:34 Closing
-
-Subscribe:
-More AWS videos: https://go.aws/3m5yEMW
-More AWS events videos: https://go.aws/3ZHq4BK
-
-Do you have technical AWS questions?
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-ABOUT AWS
-Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster.
-
-#AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="3" average="5.00" min="1" max="5" />
-    <ns2:statistics views="102" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:TRkp54ekyY4</ns0:id>
-  <ns1:videoId>TRkp54ekyY4</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]How do I use an EC2 instance to connect to a private RDS DB instance from a local machine?</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=TRkp54ekyY4" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-30T15:36:12+00:00</ns0:published>
-  <ns0:updated>2025-12-30T15:36:12+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How do I use an EC2 instance to connect to a private RDS DB instance from a local machine?</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/TRkp54ekyY4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/TRkp54ekyY4/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/rds-connect-ec2-bastion-host
-
-The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
-
-Kartikey shows you how to use an Amazon EC2 instance as a bastion or jump host to connect to a private Amazon RDS DB instance from your local machine.
-
-0:00 Introduction
-0:34 Launch EC2 Instance
-2:07 Configure Security Group
-3:11 Connect MySQL Workbench
-4:16 Private Subnet Setup
-6:15 Create EC2 Instance Connect Endpoint
-7:21 Connect to RDS Instance
-7:56 Closing
-
-Subscribe:
-More AWS videos: https://go.aws/3m5yEMW
-More AWS events videos: https://go.aws/3ZHq4BK
-
-Do you have technical AWS questions?
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-ABOUT AWS
-Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster.
-
-#AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="11" average="5.00" min="1" max="5" />
-    <ns2:statistics views="171" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:xuCW6DJhdOc</ns0:id>
-  <ns1:videoId>xuCW6DJhdOc</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]How do I resolve the "java.lang.ClassNotFoundException" error in Spark on Amazon EMR?</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=xuCW6DJhdOc" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-30T15:34:58+00:00</ns0:published>
-  <ns0:updated>2025-12-30T15:34:58+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How do I resolve the "java.lang.ClassNotFoundException" error in Spark on Amazon EMR?</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/xuCW6DJhdOc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/xuCW6DJhdOc/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/emr-spark-classnotfoundexception
-
-The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
-
-Ramya shows you how to resolve the "java.lang.ClassNotFoundException" error in Spark on Amazon EMR.
-
-0:00 Introduction
-0:41 Running Cluster
-1:28 New Cluster
-2:15 Closing
-Subscribe:
-More AWS videos: https://go.aws/3m5yEMW
-More AWS events videos: https://go.aws/3ZHq4BK
-
-Do you have technical AWS questions?
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-ABOUT AWS
-Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster.
-
-#AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="3" average="5.00" min="1" max="5" />
-    <ns2:statistics views="78" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:8bBheEK2SZA</ns0:id>
-  <ns1:videoId>8bBheEK2SZA</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]How do I resolve "CannotPullContainerError" errors when I launch an EC2 task in Amazon ECS?</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=8bBheEK2SZA" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-30T15:32:58+00:00</ns0:published>
-  <ns0:updated>2025-12-30T15:32:58+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How do I resolve "CannotPullContainerError" errors when I launch an EC2 task in Amazon ECS?</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/8bBheEK2SZA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/8bBheEK2SZA/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/ecs-pull-container-error
-
-The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
-
-Muralikrishna shows you how to resolve the "CannotPullContainerError" errors when launching an Amazon EC2 task in Amazon ECS.
-
-0:00 Introduction
-0:35 Troubleshooting automation
-1:03 Execute runbook
-1:47 Review solutions
-2:36 Closing
-
-Subscribe:
-More AWS videos: https://go.aws/3m5yEMW
-More AWS events videos: https://go.aws/3ZHq4BK
-
-Do you have technical AWS questions?
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-ABOUT AWS
-Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster.
-
-#AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="2" average="5.00" min="1" max="5" />
-    <ns2:statistics views="63" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:JVDoQ0xllRE</ns0:id>
-  <ns1:videoId>JVDoQ0xllRE</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]Why does my Amazon EC2 instance exceed its network limits when average utilization is low?</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=JVDoQ0xllRE" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-30T15:31:23+00:00</ns0:published>
-  <ns0:updated>2025-12-30T15:31:24+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Why does my Amazon EC2 instance exceed its network limits when average utilization is low?</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/JVDoQ0xllRE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/JVDoQ0xllRE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/ec2-instance-exceeding-network-limits
-
-The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
-
-Rakesh shows you how to troubleshoot Amazon EC2 instances that exceed network limits when average utilization appears low.
-
-0:00 Introduction
-0:34 Understanding Network Performance Metrics
-1:32 Microbursts Explained
-3:02 Monitoring Setup
-5:12 Prevention Strategies
-5:50 Closing
-
-Subscribe:
-More AWS videos: https://go.aws/3m5yEMW
-More AWS events videos: https://go.aws/3ZHq4BK
-
-Do you have technical AWS questions?
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-ABOUT AWS
-Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster.
-
-#AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="54" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:SwcxGYFcqtM</ns0:id>
-  <ns1:videoId>SwcxGYFcqtM</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]How do I use EC2Rescue to troubleshoot issues with my Amazon EC2 Windows instance?</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=SwcxGYFcqtM" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-30T15:30:12+00:00</ns0:published>
-  <ns0:updated>2025-12-30T15:30:12+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How do I use EC2Rescue to troubleshoot issues with my Amazon EC2 Windows instance?</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/SwcxGYFcqtM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/SwcxGYFcqtM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/ec2rescue-windows-troubleshoot
-
-The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
-
-Sumit shows you how to use the EC2 rescue tool to troubleshoot issues with your Amazon Elastic Compute Cloud Windows instance.
-
-0:00 Introduction
-0:31 System Requirements
-0:57 Three Ways to Use EC2 Rescue
-2:37 Current and Offline Instance Modes
-3:32 Closing
-
-Subscribe:
-More AWS videos: https://go.aws/3m5yEMW
-More AWS events videos: https://go.aws/3ZHq4BK
-
-Do you have technical AWS questions?
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-ABOUT AWS
-Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster.
-
-#AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="43" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:S-rZVr9Qvho</ns0:id>
-  <ns1:videoId>S-rZVr9Qvho</ns1:videoId>
-  <ns1:channelId>UCd6MoB9NC6uYN2grvUNT-Zg</ns1:channelId>
-  <ns0:title>[Amazon Web Services]How to check consumption for Amazon RDS for PostgreSQL or Aurora PostgreSQL DB instance?</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=S-rZVr9Qvho" />
-  <ns0:author>
-   <ns0:name>Amazon Web Services</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-30T15:29:26+00:00</ns0:published>
-  <ns0:updated>2025-12-30T15:29:26+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How to check consumption for Amazon RDS for PostgreSQL or Aurora PostgreSQL DB instance?</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/S-rZVr9Qvho?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/S-rZVr9Qvho/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>For more details on this topic, visit the AWS Knowledge Center on AWS re:Post and read the full article associated with this video: https://repost.aws/knowledge-center/rds-postgresql-running-queries
-
-The AWS Knowledge Center contains trusted, expert-reviewed answers to frequently asked questions across AWS services — including EC2, S3, IAM, Lambda, Bedrock, and more.
-
-Swati shows you how to check running queries and diagnose resource consumption issues for your Amazon RDS for PostgreSQL or Aurora PostgreSQL compatible database instance.
-
-0:00 Introduction
-0:25 Check Running Queries
-1:46 Enable Enhanced Monitoring
-2:20 Identify Resource Issues
-3:06 Closing
-
-Subscribe:
-More AWS videos: https://go.aws/3m5yEMW
-More AWS events videos: https://go.aws/3ZHq4BK
-
-Do you have technical AWS questions?
-Ask the community of experts on AWS re:Post: https://go.aws/3lPaoPb
-
-ABOUT AWS
-Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster.
-
-#AWS  #AmazonWebServices  #CloudComputing  #awsknowledgecentervideos #AWSCloud  #AmazonAWS #KnowledgeCenterVideos #AWSrePost</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="3" average="5.00" min="1" max="5" />
-    <ns2:statistics views="87" />
+    <ns2:statistics views="302" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3691,8 +3976,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="329" average="5.00" min="1" max="5" />
-    <ns2:statistics views="15911" />
+    <ns2:starRating count="332" average="5.00" min="1" max="5" />
+    <ns2:statistics views="16040" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3717,8 +4002,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="6186" average="5.00" min="1" max="5" />
-    <ns2:statistics views="75539" />
+    <ns2:starRating count="6188" average="5.00" min="1" max="5" />
+    <ns2:statistics views="75679" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3745,8 +4030,8 @@ Weibo: @大狸子切切里
 Bilibili: https://space.bilibili.com/471303350
 #滑鼠 #羅技 #外設</ns2:description>
    <ns2:community>
-    <ns2:starRating count="562" average="5.00" min="1" max="5" />
-    <ns2:statistics views="23988" />
+    <ns2:starRating count="565" average="5.00" min="1" max="5" />
+    <ns2:statistics views="24141" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3787,7 +4072,7 @@ Bilibili: https://space.bilibili.com/471303350
 09:56 1/29 PS5 / Xbox Series X|S / PC / Switch《怪奇鎮生存指南 I Hate This Place》</ns2:description>
    <ns2:community>
     <ns2:starRating count="247" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13712" />
+    <ns2:statistics views="13742" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3830,7 +4115,7 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
 感謝收看！喜歡請訂閱點贊！</ns2:description>
    <ns2:community>
     <ns2:starRating count="419" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13918" />
+    <ns2:statistics views="13951" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3844,7 +4129,7 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
    <ns0:uri>https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg</ns0:uri>
   </ns0:author>
   <ns0:published>2025-12-30T12:00:17+00:00</ns0:published>
-  <ns0:updated>2025-12-31T20:34:51+00:00</ns0:updated>
+  <ns0:updated>2025-12-31T20:58:48+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>新版 《治安管理处罚法》 只许领导睡下属，不许百姓发黄图？｜公权力｜私域｜新婚抄党章｜王局拍案 20251229</ns2:title>
    <ns2:content url="https://www.youtube.com/v/8uf_G2rHl0E?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -3864,8 +4149,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4220" average="5.00" min="1" max="5" />
-    <ns2:statistics views="451266" />
+    <ns2:starRating count="4224" average="5.00" min="1" max="5" />
+    <ns2:statistics views="452084" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4090,8 +4375,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="492" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9036" />
+    <ns2:starRating count="493" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9064" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4114,7 +4399,7 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #格鬥 #柔理 #mma #ufc</ns2:description>
    <ns2:community>
     <ns2:starRating count="197" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9245" />
+    <ns2:statistics views="9263" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4147,7 +4432,7 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #骑行环游世界#国家残疾运动员#骑行旅行</ns2:description>
    <ns2:community>
     <ns2:starRating count="2" average="5.00" min="1" max="5" />
-    <ns2:statistics views="94" />
+    <ns2:statistics views="100" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4179,8 +4464,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
 
 #猴哥 #猴哥精華 #猴哥日常</ns2:description>
    <ns2:community>
-    <ns2:starRating count="579" average="5.00" min="1" max="5" />
-    <ns2:statistics views="44046" />
+    <ns2:starRating count="580" average="5.00" min="1" max="5" />
+    <ns2:statistics views="44283" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4202,7 +4487,7 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="224" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10897" />
+    <ns2:statistics views="10950" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4267,8 +4552,8 @@ https://youtu.be/aDGyz9dHrcs
 -----------------------------------------------------------------------------------------------------
 #知識分享 #科學揭秘 #科學 #科普 #冷知識 #台灣熱門 #香港討論 #新加坡熱話 #化学 #生活 #数学 #理论 #物理 #逻辑 #毕导THU</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2178" average="5.00" min="1" max="5" />
-    <ns2:statistics views="65056" />
+    <ns2:starRating count="2180" average="5.00" min="1" max="5" />
+    <ns2:statistics views="65379" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4355,8 +4640,8 @@ https://youtu.be/aDGyz9dHrcs
    <ns2:thumbnail url="https://i2.ytimg.com/vi/Ama-ma8HuxM/hqdefault.jpg" width="480" height="360" />
    <ns2:description>头颈前伸、圆肩驼背、小腹凸出、骨盆前移……不良体态的问题困扰着许多人，这次我们想和你一起看看，如果一直保持这样的体态，我们的身体都会有什么样的变化？要怎么做才能改善这些问题？如果这期视频对你有帮助，请多多支持我们，并把视频分享给你的朋友们一起看看！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2258" average="5.00" min="1" max="5" />
-    <ns2:statistics views="54462" />
+    <ns2:starRating count="2259" average="5.00" min="1" max="5" />
+    <ns2:statistics views="54624" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4393,233 +4678,7 @@ Bilibili: https://space.bilibili.com/471303350
 #數碼 #開箱 #手機 #拍攝</ns2:description>
    <ns2:community>
     <ns2:starRating count="363" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11304" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:VBqoW_OeVaM</ns0:id>
-  <ns1:videoId>VBqoW_OeVaM</ns1:videoId>
-  <ns1:channelId>UCHNDk7584Q5g7RQCAFj7RFA</ns1:channelId>
-  <ns0:title>[松明講心理]如何跟孩子去溝通？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/VBqoW_OeVaM" />
-  <ns0:author>
-   <ns0:name>松明講心理</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-30T08:15:27+00:00</ns0:published>
-  <ns0:updated>2025-12-30T08:15:27+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>如何跟孩子去溝通？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/VBqoW_OeVaM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/VBqoW_OeVaM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>電腦端點擊鏈接、加入松明老師頻道會員、即可看課
-https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
-
-
-#初級學員福利
-一、搶先看影片
-二、會員專屬直播
-三、評論區優先回復
-四、會員專享直播
-
-
-#中級學員福利
-一、包含所有初級會員福利
-二、五天特訓營第一期 高敏感變天賦
-三、五天特训营第二期 喚醒“心”自我
-
-#高級學員福利：
-一、包含初級、中級會員所有課程
-二、十大能力系统课
-1、《高敏感變優勢的能力》
-2、《修復討好的能力》
-3、《自卑變自信的能力》
-4、《將壓力變為動力》
-5、《提高效率“專注力”》
-6、《睡好覺的能力》
-7、《運用情緒的力量》
-8、《讀懂人心的能力》
-9、《不說話的影響力》
-10、《會賺錢的能力》
-
-
-#黃金學員福利
-一、包含初級、中級會員、高級會員所有課程
-二、情感课『親密關係幸福密碼』
-三、亲子课 『如何挽救和孩子的关系』
-
-
-#鑽石VIP學員福利
-一、包含初級、中級、高級、黃金會員所有課程
-二、决策力 『多維度選擇力』
-三、沟通课  『如何學會有效溝通』 
-四、松明有声书 『語言的力量365』 
-五、『告別討好型人格』課程
-六、『轉換壞情緒』課程
-
-
-#導師班學員福利
-一、包含初級、中級、高級、黃金、鑽石會員所有課程
-二、『21天行動計劃』課程
-三、『心理學導師班課程』
-
-
-課程內容介紹
-
-五天特訓營第一期內容：
-第一天、修復原生家庭給自己帶來的創傷。
-第二天、學會自我覺察、覺察認知、覺察情緒、覺察身體。
-第三天、如何走出人生的逆境，走出失戀創傷。
-第四天、親子關係課程，提高家長的8大認知模型。
-第五天、解決兩性關係裡的冷暴力、敘情障礙、猜疑、貶損、指責。
-
-
-溝通課十大重點內容：
-1、溝通和關係、人生的四個成果
-2、人類本質的6大需求
-3、溝通的四種重要的表達方式、建立溝通的通路、深度的溝通
-4、在溝通中去傾聽、通過溝通和對方達成共贏
-5、學會拒絕對方、學會去“讚美對方”、學會“道歉”
-6、溝通的““高我”和“小人”、高情商的語言模型
-7、人類的21個潛在需求
-8、溝通中的16個絆腳石
-9、溝通中的墻壁~演繹
-10、溝通的緯度
-
-『決策力、多維選擇力』
-第1課、關於決策力的三個誤解！
-第2課、做出不後悔決策的5種風格
-第3課、合理型風格的5個習慣
-第4課、“完美主義者”和“知足主義者”的決策！
-第5課、你的決策、真的是考慮後決定的嗎？
-第6課、明確做決策的計劃和成本！
-第7課、習慣是改變決策的原動力！
-第8課、做決策的最佳時間段！
-第9課、為做決策的焦慮制定對策
-第10課、如何消除你做決策時候的情緒偏見！
-第11課、削弱決策力的五個誤區
-第12課、決策中的2種致命偏見
-第13課、做不後悔決策的5種訓練
-第14課、提高決策力的2個方法！
-
-
-
-『親密關係幸福密碼』兩性關係課程
-第1課：如何在戀愛期選對人？
-第2課：伴侶和自己的價值觀不一樣怎麼辦？
-第3課：兩性關係之間沒有交流正常嗎？
-第4課：夫妻潛意識裡的「權威期待」！
-第5課：如何面對夫妻關係裡的冷暴力形成的「空洞」？
-第6課：夫妻關係裡「對方不懂自己」怎麼辦？
-第7課：我為了你放棄了全世界，而你卻放棄了我？
-第8課：婚姻和愛情的區別在哪裡？
-第9課：在兩性關係裡如何學會溝通？
-第10課：如何創造健康的兩性關係？
-第11課：為何我們難以走出失戀？
-第12課：如何修復情感帶來的傷害？
-第13課：兩性關係裡的依戀類型是什麼？
-第14課：如何判斷對方是「回避」還是「不愛」？
-第15課：回避型依戀的形成？
-第16課：回避型依戀的人格特徵是什麼？
-第17課：如何將回避型伴侶轉化成安全型？
-第18課：婚姻的裂縫與修復
-第19課：如何識別一段關係該結束的5個信號
-第20課：學會表達需求，在親密關係中做回自己
-第21課：婚姻裡，「不愛了」的三個跡象
-第22課：真愛的6個心理學跡象
-第23課：婚姻裡的表達藝術，真誠，而不必須真實
-第24課：警惕婚姻裡致命傷1：堅持「我是對的」
-第25課：警惕婚姻裡致命傷2：託付型婚姻
-第26課：警惕婚姻裡致命傷3：不願分享內心感受
-第27課：警惕婚姻裡致命傷4：維持「蘋果皮式的和諧」
-第28課：警惕婚姻裡致命傷5：不會有效處理衝突
-第29課：婚姻的底層邏輯：1+1如何才能大于2
-第30課：美滿婚姻的12條幸福法則
-
-『如何挽救和孩子的關係』親子課程
-第1課：原生家庭影響孩子的一生
-第2課：原生家庭的數據庫
-第3課：我們並非完美的父母
-第4課：情緒化家長有多可怕
-第5課：四種常見的中式教育
-第6課：恐嚇式教育的危害
-第7課：苦難式教育的後果
-第8課：父母如何重塑心智模式
-第9課：心理創傷的形成和療愈
-第10課：孩子為何切斷和你的溝通
-第11課：如何正確的把責任還給孩子
-第12課：為何你養孩子這麼累
-第13課：一流父母如何教孩子
-第14課：二孩家庭如何避免被忽視感
-第15課：不同年齡段父母的角色變化
-第16課：不吼不叫也能教好孩子
-第17課：最傷孩子的五種說話方式
-第18課：父母最容易犯的錯誤示範
-第19課：如何培養心理健康的孩子
-第20課：提升孩子心理健康的路徑
-第21課：如何培養人格完整的孩子
-第22課：如何學會和孩子共情
-第23課：幫助孩子“去毒化”
-第24課：贏了孩子、贏得孩子
-第25課：贏得孩子的四件事
-第26課：如何正確的懲罰孩子
-第27課：“3R”技術處理親子關係
-第28課：孩子犯錯後 家長怎麼辦
-第29課：如何讓孩子感受到父母的愛
-第30課：心理學大師教你育兒（1）
-第31課：孩子的三個意識和三個防禦機制
-第32課：孩子成長中的人格理念
-第33課：心理學大師教你育兒（2）
-第34課：如何打開孩子天賦的開關
-第35課：未滿足孩子需求後的對策
-第36課：心理學大師教你育兒（3）
-第37課：如何解決育兒焦慮
-第38課：育兒中的定位 鏈接 改變和結果
-第39課：不同年齡段的共情需求
-第40課：如何和孩子去聊天
-第41課：6個方法做到共情到位（上）
-第42課：6個方法做到共情到位（下）
-第43課：讓孩子留下好印象的7種方法
-第44課：7個方法提高孩子控場能力（上）
-第45課：7個方法提高孩子控場能力（下）
-第46課：如何培養幽默的孩子（上）
-第47課：如何培養幽默的孩子（下）
-第48課：快速提升家長表達力的5個方法
-第49課：如何訓練孩子的主動性（上）
-第50課：如何訓練孩子的主動性（下）
-第51課：學會非語言的溝通模型
-
-會員級別變更方法
-1. 用電腦或筆電開啟yt 找到老師頻道的主頁，然後在首頁、影片 那一列的最右手邊會看到一個“齒輪”，點進去會看到“更變級別”
-2. 用手機開啟瀏覽器 然後瀏覽器要設定是以電腦視窗顯示，此時顯示畫面會變很小 因為是以電腦的螢幕大小做的排版，然後收尋yt 長壓後點擊以新視窗開啟，之後的動作一樣 找到老師頻道主頁 然後在右手邊找到齒輪 點擊後找到更變級別。
-
-
-
-不一樣的心理療愈，做一位價值發現者！
-👍喜歡我的影片請按贊，分享
-🔔歡迎訂閱我的YouTube頻道，並打開小鈴鐺
-🪄為你帶來更多精彩心理學影片
-🎭亞洲人氣心理導師、分享根正苗紅的心理學
-🎭對決華人神探李昌鈺、成功操縱日本導演北野武
-🎭與吴京、古天樂、黃百鳴、吴尊出演電影【開心魔法】
-🎭香港TVB【讀心專家】 、【破解讀心理】
-🎭內地綜藝 【挑戰不可能】、【 王牌對王牌】
-🎭日本綜藝 【世界まる見え】、【人間観察モニターニング】
-🎭發售書籍【成功を掴むマインドハック】、【松明教你心理術】、【六大係統解決高敏感】
-
-#心理學 #松明  #情感 #育兒 #育儿 #心理学
- #創傷 #抑鬱 #焦慮 #壓力 #失眠 #壓抑 
-#育兒 #家庭 #教育 #家庭教育 #意識 #潛意識 
-#投射 #缺愛 #心理創傷 #原生家庭 #養育 
-#關係 #週期 #冷暴力 #嫉妒 #心智模式 
-#本我 #自我 #超我 #安全感 #價值感 #歸屬感 #完美主義
-#親子 #決策 #溝通 #兩性關係 #厭學 #反芻 #吸引力 #抑鬱 #賺錢
-#金錢 #自閉症 #人際關係 #操縱 #叛逆 #自殺 #厭世 #悔恨 #消極清晰
-#積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
-#情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="285" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6824" />
+    <ns2:statistics views="11336" />
    </ns2:community>
   </ns2:group>
  </ns0:entry></feed>
