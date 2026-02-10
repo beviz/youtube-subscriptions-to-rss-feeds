@@ -1,5 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-02-10T08:59:33Z</updated><ns0:entry>
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-02-10T10:05:34Z</updated><ns0:entry>
+  <ns0:id>yt:video:yzuVu3ZGAUY</ns0:id>
+  <ns1:videoId>yzuVu3ZGAUY</ns1:videoId>
+  <ns1:channelId>UCQ_61yRKscCnkIJBPoR15EA</ns1:channelId>
+  <ns0:title>[Todoist]Getting started with Todoist on Android</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=yzuVu3ZGAUY" />
+  <ns0:author>
+   <ns0:name>Todoist</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCQ_61yRKscCnkIJBPoR15EA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-02-10T09:48:43+00:00</ns0:published>
+  <ns0:updated>2026-02-10T09:50:25+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Getting started with Todoist on Android</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/yzuVu3ZGAUY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/yzuVu3ZGAUY/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>In this video, Kaitlin provides a high-level overview on how to get started with Todoist.
+
+Join 120k+ people and kick off every month with our productivity newsletter: https://todoist.com/inspiration
+
+Todoist is the world's favorite task manager and to-do list app. Organize your work &amp; life, finally (and for free) at https://todoist.com</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="925" average="5.00" min="1" max="5" />
+    <ns2:statistics views="47972" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:6DDxN3lLL0E</ns0:id>
+  <ns1:videoId>6DDxN3lLL0E</ns1:videoId>
+  <ns1:channelId>UCAdkMoGhrqH16FVFJ9mbz3Q</ns1:channelId>
+  <ns0:title>[好奇零零漆]4点起床手抠马桶，每天都跑马拉松，日本变态监狱高中！</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=6DDxN3lLL0E" />
+  <ns0:author>
+   <ns0:name>好奇零零漆</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCAdkMoGhrqH16FVFJ9mbz3Q</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-02-10T09:40:58+00:00</ns0:published>
+  <ns0:updated>2026-02-10T09:40:59+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>4点起床手抠马桶，每天都跑马拉松，日本变态监狱高中！</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/6DDxN3lLL0E?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/6DDxN3lLL0E/hqdefault.jpg" width="480" height="360" />
+   <ns2:description />
+   <ns2:community>
+    <ns2:starRating count="8" average="5.00" min="1" max="5" />
+    <ns2:statistics views="261" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
   <ns0:id>yt:video:LhZbGKQMs2Q</ns0:id>
   <ns1:videoId>LhZbGKQMs2Q</ns1:videoId>
   <ns1:channelId>UCNJTPOFN-13sb5JGrY1mNQg</ns1:channelId>
@@ -17,8 +65,8 @@
    <ns2:thumbnail url="https://i1.ytimg.com/vi/LhZbGKQMs2Q/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="21" average="5.00" min="1" max="5" />
-    <ns2:statistics views="452" />
+    <ns2:starRating count="64" average="5.00" min="1" max="5" />
+    <ns2:statistics views="895" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -45,8 +93,8 @@ http://twitter.com/Dave2D
 http://www.instagram.com/Dave2D
 https://discord.gg/Dave2D</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1999" average="5.00" min="1" max="5" />
-    <ns2:statistics views="21055" />
+    <ns2:starRating count="2877" average="5.00" min="1" max="5" />
+    <ns2:statistics views="35635" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -72,7 +120,7 @@ Tim suspects the model learned from the team’s previously released videos, rai
 #AI #ByteDance #Seedance2 #TechNews #china</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="5" />
+    <ns2:statistics views="16" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -86,7 +134,7 @@ Tim suspects the model learned from the team’s previously released videos, rai
    <ns0:uri>https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg</ns0:uri>
   </ns0:author>
   <ns0:published>2026-02-10T06:00:57+00:00</ns0:published>
-  <ns0:updated>2026-02-10T06:00:58+00:00</ns0:updated>
+  <ns0:updated>2026-02-10T09:13:23+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>为什么日本宪法没有“紧急事态条款”？</ns2:title>
    <ns2:content url="https://www.youtube.com/v/rWclZBL2Cw8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -104,8 +152,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="17" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1429" />
+    <ns2:starRating count="25" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1938" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -147,8 +195,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 #心河摆渡
 请注意，本视频完全符合YouTube社区准则，没有任何违规行为。</ns2:description>
    <ns2:community>
-    <ns2:starRating count="5" average="5.00" min="1" max="5" />
-    <ns2:statistics views="156" />
+    <ns2:starRating count="7" average="5.00" min="1" max="5" />
+    <ns2:statistics views="185" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -173,8 +221,8 @@ He said it’s a New Year’s short with no controls, combat, gameplay, or Zhong
 
 #BlackMythZhongKui #GameScience #GamingReveal #IndieGame #NewYearsSpecial</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2" average="5.00" min="1" max="5" />
-    <ns2:statistics views="104" />
+    <ns2:starRating count="3" average="5.00" min="1" max="5" />
+    <ns2:statistics views="115" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -200,7 +248,7 @@ He added that a Xiaomi YU7 recently spotted on a California highway was likely b
 #Xiaomi #LeiJun #EV #China #AutoIndustry</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="331" />
+    <ns2:statistics views="333" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -293,8 +341,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="127" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13993" />
+    <ns2:starRating count="133" average="5.00" min="1" max="5" />
+    <ns2:statistics views="16066" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -316,7 +364,7 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:description>At the Shanghai Chinese and Foreign Press Spring Gala on February 9, a charming robot panda quickly became the center of attention.</ns2:description>
    <ns2:community>
     <ns2:starRating count="5" average="5.00" min="1" max="5" />
-    <ns2:statistics views="435" />
+    <ns2:statistics views="448" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -348,8 +396,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 所有视频取得中国大陆创作者授权，严格遵守平台规定。🛡️
 #骑行环游世界#国家残疾运动员#骑行旅行</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4" average="5.00" min="1" max="5" />
-    <ns2:statistics views="104" />
+    <ns2:starRating count="5" average="5.00" min="1" max="5" />
+    <ns2:statistics views="148" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -387,8 +435,8 @@ Second Channel: https://www.youtube.com/channel/UCb3n4k6_smEbOUqiXu4rlOg
 
 Production Music courtesy of Epidemic Sound: http://www.epidemicsound.com</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2901" average="5.00" min="1" max="5" />
-    <ns2:statistics views="41965" />
+    <ns2:starRating count="3025" average="5.00" min="1" max="5" />
+    <ns2:statistics views="46157" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -409,8 +457,8 @@ Production Music courtesy of Epidemic Sound: http://www.epidemicsound.com</ns2:d
    <ns2:thumbnail url="https://i2.ytimg.com/vi/9leTIkVd8C8/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="701" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9796" />
+    <ns2:starRating count="723" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10840" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -424,7 +472,7 @@ Production Music courtesy of Epidemic Sound: http://www.epidemicsound.com</ns2:d
    <ns0:uri>https://www.youtube.com/channel/UCD_gy8DWV_DhjJ-bQXF5dGQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-02-09T23:30:09+00:00</ns0:published>
-  <ns0:updated>2026-02-09T23:30:09+00:00</ns0:updated>
+  <ns0:updated>2026-02-10T09:00:32+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>西方人要成为中国人？tiktok上分享学习中国人的生活方式、吃热粥喝热水穿棉拖鞋，中式养生开始风靡全球！喝冰美式的高华尴尬了</ns2:title>
    <ns2:content url="https://www.youtube.com/v/LOhCvLLU9Gc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -435,8 +483,8 @@ Production Music courtesy of Epidemic Sound: http://www.epidemicsound.com</ns2:d
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2132" average="5.00" min="1" max="5" />
-    <ns2:statistics views="23210" />
+    <ns2:starRating count="2227" average="5.00" min="1" max="5" />
+    <ns2:statistics views="24810" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -518,8 +566,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 #柏格醫生 #減肥 #斷食減肥 #快速減肥 #不飢餓減肥#脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #dr berg
 天氣預報、即時翻譯、Google地圖、匯率換算、今日新聞、熱搜榜、ChatGPT使用教學、AI繪圖工具、人工智慧應用、文心一言、生成式AI、手機推薦、蘋果發表會、華為新款、小米手機評測、軟體下載排行榜、App Store、安卓系統、遊戲攻略、手遊排行榜、電競比賽直播、動漫線上看、最新漫畫、網路小說推薦、熱門電視劇、陸劇、韓劇、美劇線上看、電影時刻表、影評解析、Netflix片單推薦、YouTube影片下載、抖音短視頻、B站、直播平台、網紅動態、明星八卦緋聞、娛樂新聞頭條、流行音樂排行榜、MP3下載、歌詞查詢、演唱會門票搶購、附近美食推薦、食譜大全、家常菜做法、做菜教學影片、外送平台優惠、人氣飲料店、健康資訊、有效減肥方法、居家運動、健身器材推薦、瑜伽入門教學、常見症狀查詢、醫院網路掛號、藥局營業時間、旅遊景點推薦、自由行攻略、機票比價網、廉價航空、酒店訂房優惠、住宿評比、簽證辦理流程、日本旅遊指南、韓國自由行、泰國旅遊景點、淘寶網購教學、天貓精選、京東商城、拼多多團購、蝦皮購物免運、優惠券領取、折扣碼分享、雙十一購物節、必買商品清單、好物開箱推薦、線上教育平台、考試準備資料、留學申請攻略、雅思托福準備、線上字典、成語辭典、百科全書查詢、維基百科資料、生活小撇步、問題解決方法、影片剪輯教學、修圖軟體推薦、食安問題報導、環保議題討論、氣候變遷影響、電動車趨勢、特斯拉股價、比亞迪車款、汽車價格查詢、機車推薦、即時交通路況、捷運路線圖、高鐵時刻表查詢、火車票訂購系統、快遞包裹查詢、物流追蹤單號、郵局營業據點、銀行代碼查詢、線上轉帳教學、信用卡優惠比較、貸款利率試算、保險方案推薦、報稅軟體操作、政府補助申請、免費法律諮詢、萬年曆查詢、農曆日期對照、國定假日通知、黃曆宜忌查詢、每日星座運勢、塔羅牌占卜、心理測驗題目、姓名學分析、風水擺設建議、室內裝潢設計、家居佈置靈感、親子教育文章、育兒知識分享、寵物用品推薦、貓咪飼養心得、狗狗訓練方法、烘焙甜點做法、咖啡廳探店、早午餐推薦、宵夜好去處、吃到飽餐廳評比、素食餐廳地圖、米其林指南名單、必比登推介小吃、在地夜市美食、特色伴手禮推薦、名產訂購、網購商品評價、3C產品開箱、筆電規格比較、平板電腦推薦、藍牙耳機評測、智慧手錶功能、數位相機評比、攝影技巧教學、社群媒體行銷、SEO優化策略、程式設計入門、Python教學課程、Java學習資源、網頁設計範本、UI/UX設計趨勢、大數據分析工具、區塊鏈技術原理解說、虛擬貨幣行情、比特幣價格走勢、以太幣投資、NFT市場分析、元宇宙概念股、資安防護措施、防詐騙宣導資訊、個資保護方法、VPN推薦評比、網路速度測試工具、Wifi密碼破解（警示）、手機吃到飽方案比較、電信費率試算、5G網路覆蓋率、雲端硬碟空間、Google Drive教學、百度網盤資源、大檔案傳輸工具、PDF轉檔線上工具、圖片壓縮網站、免費線上工具集合、無版權圖庫素材、簡報模板下載、免費字體清單、配色參考網站、設計靈感來源、創意點子發想、手工藝教學影片、DIY製作步驟、園藝種植技巧、多肉植物照顧、花藝設計作品、居家清潔妙招、收納整理技巧、斷捨離方法、二手商品拍賣、舊衣回收管道、志工服務機會、公益活動報名、捐款機構查詢、熱門社會議題、兩性關係諮詢、情感問題解答、人際溝通技巧、職場生存法則、自我成長書籍推薦、心靈雞湯語錄、勵志名言佳句、成功人士案例、創業經驗分享、新興商業模式、市場調查報告數據、行業趨勢預測分析、經濟發展前景評估、國際局勢分析報導、地緣政治影響、貿易戰最新進展、一帶一路項目進度、亞洲基礎建設投資、區域全面經濟夥伴協定規範、東協市場商機分析、跨境電商平台操作、海外倉儲物流解決方案、關稅政策解讀分析、翻譯軟體比較、語音輸入法設定、輸入法推薦、電腦截圖快捷鍵、螢幕錄影軟體、視訊會議軟體教學、Zoom使用指南、遠距工作工具、線上協作平台、專案管理軟體推薦、時間管理技巧、提升效率方法、筆記軟體評比、Notion教學範本、心智圖工具推薦、各國時差查詢、世界地圖檢索、歷史事件查詢、名人傳記閱讀、科學知識普及、科普文章分享、天文奇觀預報、太空探索進展、生物多樣性資訊、環境保護措施、垃圾分類指南、節能減碳方法、綠色能源發展、太陽能板價格、風力發電資訊、水資源保護、海洋生態保育、動物保護議題、植物辨識App、昆蟲圖鑑查詢、鳥類觀察指南、露營地點推薦、登山路線規劃、戶外裝備評比、潛水課程資訊、滑雪勝地推薦、釣魚技巧分享、自行車路線圖、馬拉松賽事報名、健身房推薦評價、瑜伽墊挑選、運動鞋評測報告、健康飲食菜單、低卡路里食物、素食食譜分享、無麩質飲食指南、生酮飲食介紹、斷食法教學、營養補充品推薦、維他命功效查詢、益生菌品牌比較、膠原蛋白飲品、護膚保養步驟、化妝品推薦清單、美妝教學影片、髮型設計參考、染髮顏色推薦、美甲款式圖片、穿搭技巧分享、時尚潮流趨勢、名牌包包鑑定、二手精品交易、手錶品牌排名、珠寶首飾推薦、婚禮籌備清單、婚紗照風格參考、蜜月旅行地點、育兒津貼申請、幼兒園評比、親子旅遊景點、兒童玩具推薦、繪本故事書單、青少年心理輔導、升學考試資訊、大學科系介紹、職涯規劃建議、履歷範本下載、面試技巧教學、薪資行情查詢、勞工權益法規、加班費計算標準、特休假規定、失業補助申請流程、退休金試算、國民年金查詢、醫療保險比較、意外險推薦、儲蓄險試算分析、投資理財觀念、股票開戶教學、基金投資入門、ETF推薦清單、美股投資指南、黃金價格走勢分析</ns2:description>
    <ns2:community>
-    <ns2:starRating count="110" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2841" />
+    <ns2:starRating count="117" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2987" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -670,8 +718,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 
 阿斯匹靈、普拿疼、普拿疼普滅、普滅、抗生素、止痛藥、胃藥、降血壓藥、降血脂藥、糖尿病藥、感冒藥、咳嗽藥、過敏藥、抗組織胺、維他命C、維他命B群、葉酸、鈣片、魚油、葡萄糖胺、益生菌、綜合維他命</ns2:description>
    <ns2:community>
-    <ns2:starRating count="86" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1517" />
+    <ns2:starRating count="93" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1606" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -709,8 +757,8 @@ Chapters:
 01:53 Inductive loop: feedback - fix - improve the skill
 02:06 Compounding payoff: Codex gets better over time</ns2:description>
    <ns2:community>
-    <ns2:starRating count="250" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8787" />
+    <ns2:starRating count="270" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9594" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -731,8 +779,8 @@ Chapters:
    <ns2:thumbnail url="https://i3.ytimg.com/vi/2yA3TSSEaGw/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="366" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13608" />
+    <ns2:starRating count="383" average="5.00" min="1" max="5" />
+    <ns2:statistics views="14444" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -746,7 +794,7 @@ Chapters:
    <ns0:uri>https://www.youtube.com/channel/UCdC0An4ZPNr_YiFiYoVbwaw</ns0:uri>
   </ns0:author>
   <ns0:published>2026-02-09T19:54:00+00:00</ns0:published>
-  <ns0:updated>2026-02-09T19:54:05+00:00</ns0:updated>
+  <ns0:updated>2026-02-10T09:00:46+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>The Fastest Pit Crew</ns2:title>
    <ns2:content url="https://www.youtube.com/v/0y5lAoMZEgw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -756,8 +804,8 @@ Chapters:
 
 #shorts</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2425" average="5.00" min="1" max="5" />
-    <ns2:statistics views="89023" />
+    <ns2:starRating count="2494" average="5.00" min="1" max="5" />
+    <ns2:statistics views="93887" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -798,7 +846,7 @@ Chapters:
  #gaming #overwatch</ns2:description>
    <ns2:community>
     <ns2:starRating count="176" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9607" />
+    <ns2:statistics views="9619" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -830,8 +878,8 @@ Chapters
 00:20:26 — Helping small businesses
 00:24:13 — Future of ads</ns2:description>
    <ns2:community>
-    <ns2:starRating count="162" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5623" />
+    <ns2:starRating count="167" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5826" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -845,7 +893,7 @@ Chapters
    <ns0:uri>https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-02-09T18:03:48+00:00</ns0:published>
-  <ns0:updated>2026-02-09T18:20:53+00:00</ns0:updated>
+  <ns0:updated>2026-02-10T08:58:14+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>The Verge news editor Dominic Preston got an exclusive look at the T1 Phone.</ns2:title>
    <ns2:content url="https://www.youtube.com/v/6FOcD-aj55A?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -874,8 +922,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="423" average="5.00" min="1" max="5" />
-    <ns2:statistics views="21672" />
+    <ns2:starRating count="436" average="5.00" min="1" max="5" />
+    <ns2:statistics views="22997" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -899,8 +947,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
 
 #shorts</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1608" average="5.00" min="1" max="5" />
-    <ns2:statistics views="45230" />
+    <ns2:starRating count="1646" average="5.00" min="1" max="5" />
+    <ns2:statistics views="47446" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -914,7 +962,7 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
    <ns0:uri>https://www.youtube.com/channel/UCi2GvcaxZCN-61a0co8Smnw</ns0:uri>
   </ns0:author>
   <ns0:published>2026-02-09T16:30:57+00:00</ns0:published>
-  <ns0:updated>2026-02-10T07:09:57+00:00</ns0:updated>
+  <ns0:updated>2026-02-10T09:14:37+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>【館長精華】民進黨不敢讓人民看到真相！綠媒抹黑造謠養一堆青鳥狗！只要敢說出真相一定有拿中共的錢？</ns2:title>
    <ns2:content url="https://www.youtube.com/v/DyL9LPXMVOM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -944,8 +992,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="721" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8667" />
+    <ns2:starRating count="745" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9146" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -996,8 +1044,8 @@ Twitter: https://twitter.com/dennied_
 
 #gaming #Overwatch #ml7</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1341" average="5.00" min="1" max="5" />
-    <ns2:statistics views="44237" />
+    <ns2:starRating count="1374" average="5.00" min="1" max="5" />
+    <ns2:statistics views="45864" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1011,7 +1059,7 @@ Twitter: https://twitter.com/dennied_
    <ns0:uri>https://www.youtube.com/channel/UCi2GvcaxZCN-61a0co8Smnw</ns0:uri>
   </ns0:author>
   <ns0:published>2026-02-09T16:21:10+00:00</ns0:published>
-  <ns0:updated>2026-02-09T17:36:24+00:00</ns0:updated>
+  <ns0:updated>2026-02-10T09:12:53+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>【館長直播完整版】2026/02/09/周一 仁王3  詐騙沒面子 青鳥出征YT頻道主事件!!! 街頭演路人 配合綠媒~</ns2:title>
    <ns2:content url="https://www.youtube.com/v/NO8TyecvSxA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -1040,8 +1088,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4465" average="5.00" min="1" max="5" />
-    <ns2:statistics views="75050" />
+    <ns2:starRating count="4481" average="5.00" min="1" max="5" />
+    <ns2:statistics views="75646" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1083,8 +1131,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
 
 #TED #TEDTalks #Philosophy</ns2:description>
    <ns2:community>
-    <ns2:starRating count="489" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11838" />
+    <ns2:starRating count="507" average="5.00" min="1" max="5" />
+    <ns2:statistics views="12405" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1118,8 +1166,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
 
 #overwatch #froggerow</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4793" average="5.00" min="1" max="5" />
-    <ns2:statistics views="65725" />
+    <ns2:starRating count="5012" average="5.00" min="1" max="5" />
+    <ns2:statistics views="72175" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1140,8 +1188,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
    <ns2:thumbnail url="https://i2.ytimg.com/vi/AoHGVE-YWK0/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="3699" average="5.00" min="1" max="5" />
-    <ns2:statistics views="36447" />
+    <ns2:starRating count="3821" average="5.00" min="1" max="5" />
+    <ns2:statistics views="39009" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1184,8 +1232,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://www.theverge.com/ethics-state...</ns2:description>
    <ns2:community>
-    <ns2:starRating count="212" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10530" />
+    <ns2:starRating count="213" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10819" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1210,8 +1258,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4566" average="5.00" min="1" max="5" />
-    <ns2:statistics views="55395" />
+    <ns2:starRating count="4622" average="5.00" min="1" max="5" />
+    <ns2:statistics views="56368" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1256,8 +1304,8 @@ https://youtu.be/evGUB1dwY9s
 1000 Spanish conversation phrases to speak fluently
 https://youtu.be/tMKv2tDx5NQ</ns2:description>
    <ns2:community>
-    <ns2:starRating count="61" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2085" />
+    <ns2:starRating count="63" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2132" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1271,7 +1319,7 @@ https://youtu.be/tMKv2tDx5NQ</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UCdC0An4ZPNr_YiFiYoVbwaw</ns0:uri>
   </ns0:author>
   <ns0:published>2026-02-09T12:57:32+00:00</ns0:published>
-  <ns0:updated>2026-02-09T23:23:58+00:00</ns0:updated>
+  <ns0:updated>2026-02-10T09:00:39+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Teaching Jazz to Pigeons</ns2:title>
    <ns2:content url="https://www.youtube.com/v/rzvPQ9DTJY8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -1281,8 +1329,8 @@ https://youtu.be/tMKv2tDx5NQ</ns2:description>
 
 #shorts</ns2:description>
    <ns2:community>
-    <ns2:starRating count="32081" average="5.00" min="1" max="5" />
-    <ns2:statistics views="620666" />
+    <ns2:starRating count="34276" average="5.00" min="1" max="5" />
+    <ns2:statistics views="680097" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1507,8 +1555,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="325" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6581" />
+    <ns2:starRating count="330" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6726" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1733,8 +1781,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="149" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3229" />
+    <ns2:starRating count="151" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3349" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1755,8 +1803,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
    <ns2:thumbnail url="https://i2.ytimg.com/vi/YhIO_KWii18/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="820" average="5.00" min="1" max="5" />
-    <ns2:statistics views="20232" />
+    <ns2:starRating count="828" average="5.00" min="1" max="5" />
+    <ns2:statistics views="20545" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1790,8 +1838,8 @@ https://www.todoist.com/inspiration
 
 Credit to Joe (@JoeCasa) for showing us how he uses Ramble</ns2:description>
    <ns2:community>
-    <ns2:starRating count="32" average="5.00" min="1" max="5" />
-    <ns2:statistics views="87464" />
+    <ns2:starRating count="33" average="5.00" min="1" max="5" />
+    <ns2:statistics views="87479" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1884,8 +1932,8 @@ Copyright © 腦洞烏托邦™️ All Rights Reserved.
 ☆
 #腦洞烏托邦 # Xiaowu # 小烏 # ndwtb # 驚掉下巴 #未解之謎 #真實事件 #神秘事件 #都市傳說 #歷史懸案 #科學無法解釋 #人類未解之謎 #被隱藏的真相 #真實恐怖事件 #深度解析</ns2:description>
    <ns2:community>
-    <ns2:starRating count="121" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8504" />
+    <ns2:starRating count="123" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8612" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1899,7 +1947,7 @@ Copyright © 腦洞烏托邦™️ All Rights Reserved.
    <ns0:uri>https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg</ns0:uri>
   </ns0:author>
   <ns0:published>2026-02-09T12:00:16+00:00</ns0:published>
-  <ns0:updated>2026-02-10T08:37:56+00:00</ns0:updated>
+  <ns0:updated>2026-02-10T10:03:33+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>高市旋风”横扫众议院，日本修宪进入倒计时？！｜自民党｜维新会｜中道改革联盟｜国家紧急事态｜和平宪法｜王局拍案 20260209</ns2:title>
    <ns2:content url="https://www.youtube.com/v/5CrK9nVr2zw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -1919,8 +1967,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4144" average="5.00" min="1" max="5" />
-    <ns2:statistics views="462395" />
+    <ns2:starRating count="4208" average="5.00" min="1" max="5" />
+    <ns2:statistics views="475244" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1963,8 +2011,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="6273" average="5.00" min="1" max="5" />
-    <ns2:statistics views="180507" />
+    <ns2:starRating count="6332" average="5.00" min="1" max="5" />
+    <ns2:statistics views="184785" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1996,8 +2044,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
 
 #猴哥 #猴哥精華 #猴哥日常</ns2:description>
    <ns2:community>
-    <ns2:starRating count="435" average="5.00" min="1" max="5" />
-    <ns2:statistics views="29954" />
+    <ns2:starRating count="444" average="5.00" min="1" max="5" />
+    <ns2:statistics views="30493" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2061,8 +2109,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
    <ns2:thumbnail url="https://i2.ytimg.com/vi/yvVuhgxrlbA/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="211" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12174" />
+    <ns2:starRating count="212" average="5.00" min="1" max="5" />
+    <ns2:statistics views="12520" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2084,7 +2132,7 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
    <ns2:description>观看NBC超级燃的橄榄球盛宴开幕式</ns2:description>
    <ns2:community>
     <ns2:starRating count="7" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1160" />
+    <ns2:statistics views="1190" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2111,8 +2159,8 @@ Weibo: @大狸子切切里
 Bilibili: https://space.bilibili.com/471303350
 #windows #win11 #電腦</ns2:description>
    <ns2:community>
-    <ns2:starRating count="398" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11044" />
+    <ns2:starRating count="407" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11359" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2138,8 +2186,8 @@ douyin@贪玩歌姬小宁子：https://v.douyin.com/iywQKW9X
 weibo@小宁子：https://weibo.com/2216529910
 Taobao淘宝店铺「贪玩PLAYFULL」：https://kv2gnj94i49gly5xga53uxr91t1w4rq.taobao.com</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1058" average="5.00" min="1" max="5" />
-    <ns2:statistics views="31329" />
+    <ns2:starRating count="1070" average="5.00" min="1" max="5" />
+    <ns2:statistics views="31990" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2160,8 +2208,8 @@ Taobao淘宝店铺「贪玩PLAYFULL」：https://kv2gnj94i49gly5xga53uxr91t1w4rq
    <ns2:thumbnail url="https://i2.ytimg.com/vi/YwQbOgpLuWQ/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="576" average="5.00" min="1" max="5" />
-    <ns2:statistics views="15355" />
+    <ns2:starRating count="580" average="5.00" min="1" max="5" />
+    <ns2:statistics views="15617" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2175,15 +2223,15 @@ Taobao淘宝店铺「贪玩PLAYFULL」：https://kv2gnj94i49gly5xga53uxr91t1w4rq
    <ns0:uri>https://www.youtube.com/channel/UCh1V3avE4NAzho1MImejaSA</ns0:uri>
   </ns0:author>
   <ns0:published>2026-02-09T07:23:59+00:00</ns0:published>
-  <ns0:updated>2026-02-10T08:04:20+00:00</ns0:updated>
+  <ns0:updated>2026-02-10T09:27:24+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>2026开年第一奇葩电影！震碎三观，注定无缘中国大陆院线</ns2:title>
    <ns2:content url="https://www.youtube.com/v/F_T08Lm3AXw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i3.ytimg.com/vi/F_T08Lm3AXw/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="13" average="5.00" min="1" max="5" />
-    <ns2:statistics views="444" />
+    <ns2:starRating count="14" average="5.00" min="1" max="5" />
+    <ns2:statistics views="448" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2197,7 +2245,7 @@ Taobao淘宝店铺「贪玩PLAYFULL」：https://kv2gnj94i49gly5xga53uxr91t1w4rq
    <ns0:uri>https://www.youtube.com/channel/UCfw2hvuj40AChU7n-N-PRHA</ns0:uri>
   </ns0:author>
   <ns0:published>2026-02-09T06:04:25+00:00</ns0:published>
-  <ns0:updated>2026-02-09T06:04:44+00:00</ns0:updated>
+  <ns0:updated>2026-02-10T09:06:09+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Apple Has Failed At Artificial Intelligence. Again.</ns2:title>
    <ns2:content url="https://www.youtube.com/v/qRLvC0kd2jk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2206,8 +2254,8 @@ Taobao淘宝店铺「贪玩PLAYFULL」：https://kv2gnj94i49gly5xga53uxr91t1w4rq
 ____
 Apple has officially failed at artificial intelligence. Again. After spending two years trying to develop their own LLMs (large language models) to compete with services like ChatGPT, they appear to have given up.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4261" average="5.00" min="1" max="5" />
-    <ns2:statistics views="78494" />
+    <ns2:starRating count="4285" average="5.00" min="1" max="5" />
+    <ns2:statistics views="79248" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2228,8 +2276,8 @@ Apple has officially failed at artificial intelligence. Again. After spending tw
    <ns2:thumbnail url="https://i1.ytimg.com/vi/05mI_uglZeE/hqdefault.jpg" width="480" height="360" />
    <ns2:description>老梁通过解读明十三陵，讲讲大明是为何灭亡的</ns2:description>
    <ns2:community>
-    <ns2:starRating count="663" average="5.00" min="1" max="5" />
-    <ns2:statistics views="66304" />
+    <ns2:starRating count="670" average="5.00" min="1" max="5" />
+    <ns2:statistics views="67356" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2341,8 +2389,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #益生菌類型 #益生菌好處 #柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝</ns2:description>
    <ns2:community>
-    <ns2:starRating count="111" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2626" />
+    <ns2:starRating count="112" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2662" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2356,7 +2404,7 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
    <ns0:uri>https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA</ns0:uri>
   </ns0:author>
   <ns0:published>2026-02-09T01:46:55+00:00</ns0:published>
-  <ns0:updated>2026-02-09T09:30:51+00:00</ns0:updated>
+  <ns0:updated>2026-02-10T09:56:19+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>為什麼iPhone 17的8倍長焦，是最被低估的功能? | 大耳朵TV #蘋果 #smartphone#iphone17promax</ns2:title>
    <ns2:content url="https://www.youtube.com/v/JpNvt-5N1gA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2375,7 +2423,7 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
 感謝收看！喜歡請訂閱點贊！</ns2:description>
    <ns2:community>
     <ns2:starRating count="107" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5525" />
+    <ns2:statistics views="5631" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2422,7 +2470,7 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
    <ns0:uri>https://www.youtube.com/channel/UC81MVNxLVWQz0erAeIpL5yQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-02-09T00:08:39+00:00</ns0:published>
-  <ns0:updated>2026-02-09T07:39:21+00:00</ns0:updated>
+  <ns0:updated>2026-02-10T09:11:12+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>【自白】我的實戰能力到底幾何？|  曾經有幾百場的街鬥經歷 | 用棍對戰過鐮刀 | 我不是專業的 | 20260209</ns2:title>
    <ns2:content url="https://www.youtube.com/v/gMu_KAd-Es4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2431,8 +2479,8 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
 https://www.youtube.com/channel/UC81MVNxLVWQz0erAeIpL5yQ/join
 https://supr.link/ykjzM</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1044" average="5.00" min="1" max="5" />
-    <ns2:statistics views="17133" />
+    <ns2:starRating count="1050" average="5.00" min="1" max="5" />
+    <ns2:statistics views="17265" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2455,8 +2503,8 @@ https://supr.link/ykjzM</ns2:description>
 
 https://openai.com/codex/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1850" average="5.00" min="1" max="5" />
-    <ns2:statistics views="157952" />
+    <ns2:starRating count="1865" average="5.00" min="1" max="5" />
+    <ns2:statistics views="159298" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2575,8 +2623,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #dr berg</ns2:description>
    <ns2:community>
-    <ns2:starRating count="475" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10993" />
+    <ns2:starRating count="478" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11200" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2597,8 +2645,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
    <ns2:thumbnail url="https://i1.ytimg.com/vi/hUBuxFcr6gY/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="1410" average="5.00" min="1" max="5" />
-    <ns2:statistics views="46689" />
+    <ns2:starRating count="1425" average="5.00" min="1" max="5" />
+    <ns2:statistics views="47093" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2706,8 +2754,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 
 旅遊、日本旅遊、韓國旅遊、泰國旅遊、越南旅遊、印尼旅遊、峇里島、沖繩、北海道、東京、京都、大阪、首爾、釜山、濟州島、曼谷、清邁、普吉島、峇里島、河內、胡志明市、峇里島自由行、日本自由行、韓國自由行、台灣旅遊、台北旅遊、台中旅遊、高雄旅遊、花蓮旅遊、台東旅遊、澎湖、綠島、蘭嶼、九份、夜市、故宮、101、阿里山、日月潭、墾丁、太魯格、九份老街、十分瀑布、平溪、野柳、十分、十分放天燈、環島、台灣環島、國內旅遊、出國旅遊、機票、廉航、自由行、跟團、蜜月旅行、親子旅遊、背包客、景點推薦、必去景點、打卡景點、IG打卡、網美景點、秘境、隱藏景點、溫泉、滑雪、海邊、沙灘、賞櫻、賞楓、賞雪、賞花、油菜花、櫻花季、楓葉季、旅遊景點、旅遊攻略、行程規劃、自由行攻略、美食旅遊、景點美食、親子景點、浪漫景點、度假村、飯店、民宿、Airbnb、機加酒、旅遊優惠、旅遊補助、國旅補助、出國補助、簽證、護照、旅遊保險</ns2:description>
    <ns2:community>
-    <ns2:starRating count="287" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8533" />
+    <ns2:starRating count="289" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8600" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2779,8 +2827,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
 
 #overwatch #froggerow</ns2:description>
    <ns2:community>
-    <ns2:starRating count="11558" average="5.00" min="1" max="5" />
-    <ns2:statistics views="165461" />
+    <ns2:starRating count="11598" average="5.00" min="1" max="5" />
+    <ns2:statistics views="166333" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2801,8 +2849,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
    <ns2:thumbnail url="https://i4.ytimg.com/vi/SY5Wm7fUJFE/hqdefault.jpg" width="480" height="360" />
    <ns2:description>It's genuinely terrifying. This video came a bit out of the blue, so we hope you'll join us in exploring this newly released AI model: Seedance 2.0. Why does it make us feel the countdown has started for the impending tsunami that will wipe out the traditional filmmaking workflow?</ns2:description>
    <ns2:community>
-    <ns2:starRating count="575" average="5.00" min="1" max="5" />
-    <ns2:statistics views="18216" />
+    <ns2:starRating count="591" average="5.00" min="1" max="5" />
+    <ns2:statistics views="18756" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2823,8 +2871,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
    <ns2:thumbnail url="https://i1.ytimg.com/vi/LoGJEs4VKpA/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="5405" average="5.00" min="1" max="5" />
-    <ns2:statistics views="163099" />
+    <ns2:starRating count="5432" average="5.00" min="1" max="5" />
+    <ns2:statistics views="164224" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2845,8 +2893,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
    <ns2:thumbnail url="https://i2.ytimg.com/vi/iOTCsXd38Ng/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Bacteria are the most incredible creatures on Earth, says biotechnologist and TED Fellow Patricia Aymà Maldonado. She presents a groundbreaking technology that “trains” bacteria to transform organic waste into biodegradable plastic that behaves like the real thing. Learn how this creative, sustainable approach could revolutionize the plastics industry.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="685" average="5.00" min="1" max="5" />
-    <ns2:statistics views="30180" />
+    <ns2:starRating count="690" average="5.00" min="1" max="5" />
+    <ns2:statistics views="30333" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2931,8 +2979,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="845" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13694" />
+    <ns2:starRating count="848" average="5.00" min="1" max="5" />
+    <ns2:statistics views="13770" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2975,8 +3023,8 @@ Support us on Patreon!: https://www.patreon.com/Commonrealm
 Subscribe to Commonwealth Realm:
 http://bit.ly/Commonrealm</ns2:description>
    <ns2:community>
-    <ns2:starRating count="560" average="5.00" min="1" max="5" />
-    <ns2:statistics views="19986" />
+    <ns2:starRating count="562" average="5.00" min="1" max="5" />
+    <ns2:statistics views="20151" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3046,8 +3094,8 @@ Only send in videos that you personally filmed.
 
 https://thisisyourdailydose.com/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="43588" average="5.00" min="1" max="5" />
-    <ns2:statistics views="842835" />
+    <ns2:starRating count="43849" average="5.00" min="1" max="5" />
+    <ns2:statistics views="851360" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3101,8 +3149,8 @@ https://thisisyourdailydose.com/</ns2:description>
    <ns2:thumbnail url="https://i3.ytimg.com/vi/v-3ob9csK3M/hqdefault.jpg" width="480" height="360" />
    <ns2:description>真的有点恐怖，这个视频做的很突然，所以希望你能和我们一起来看看这个新发布的AI模型，为什么让我们觉得，传统影视流程距离被AI海啸冲走，已经彻底进入倒计时了。</ns2:description>
    <ns2:community>
-    <ns2:starRating count="8034" average="5.00" min="1" max="5" />
-    <ns2:statistics views="238513" />
+    <ns2:starRating count="8122" average="5.00" min="1" max="5" />
+    <ns2:statistics views="241992" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3178,8 +3226,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4230" average="5.00" min="1" max="5" />
-    <ns2:statistics views="92266" />
+    <ns2:starRating count="4232" average="5.00" min="1" max="5" />
+    <ns2:statistics views="92400" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3221,8 +3269,8 @@ TED's videos may be used for non-commercial purposes under a Creative Commons Li
 
 #TED #TEDTalks #PersonalGrowth</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2159" average="5.00" min="1" max="5" />
-    <ns2:statistics views="44328" />
+    <ns2:starRating count="2201" average="5.00" min="1" max="5" />
+    <ns2:statistics views="45343" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3256,8 +3304,8 @@ My music:
 Spotify: https://open.spotify.com/album/5m7SFVMTfNvv7dyqfa00G3
 iTunes: http://itunes.apple.com/album/id1122291881?ls=1&amp;app=itunes</ns2:description>
    <ns2:community>
-    <ns2:starRating count="138935" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1691883" />
+    <ns2:starRating count="139896" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1706935" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3286,7 +3334,7 @@ iTunes: http://itunes.apple.com/album/id1122291881?ls=1&amp;app=itunes</ns2:desc
 #电影推荐  #老景观影 #movie</ns2:description>
    <ns2:community>
     <ns2:starRating count="11" average="5.00" min="1" max="5" />
-    <ns2:statistics views="406" />
+    <ns2:statistics views="416" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3354,8 +3402,8 @@ Twitter: https://twitter.com/dennied_
 
 #gaming #Overwatch #ml7</ns2:description>
    <ns2:community>
-    <ns2:starRating count="804" average="5.00" min="1" max="5" />
-    <ns2:statistics views="23111" />
+    <ns2:starRating count="811" average="5.00" min="1" max="5" />
+    <ns2:statistics views="23324" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3376,8 +3424,8 @@ Twitter: https://twitter.com/dennied_
    <ns2:thumbnail url="https://i2.ytimg.com/vi/-lO5FTKyl5s/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="6537" average="5.00" min="1" max="5" />
-    <ns2:statistics views="112686" />
+    <ns2:starRating count="6645" average="5.00" min="1" max="5" />
+    <ns2:statistics views="115965" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3456,8 +3504,8 @@ https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
 --------------------------------------------------------------------------------------
 #曉涵哥來了 #脑机接口  #腦機接口 #科學 #馬斯克 #未來 #AI #科普 #education #knowledge</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2998" average="5.00" min="1" max="5" />
-    <ns2:statistics views="95216" />
+    <ns2:starRating count="3016" average="5.00" min="1" max="5" />
+    <ns2:statistics views="95935" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3489,8 +3537,8 @@ https://www.youtube.com/channel/UCD_cg9Tak9SvlPHRsWxUIpA/join
 製作更多有趣、有價值的視頻內容
 感謝收看！喜歡請訂閱點贊！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="473" average="5.00" min="1" max="5" />
-    <ns2:statistics views="24108" />
+    <ns2:starRating count="475" average="5.00" min="1" max="5" />
+    <ns2:statistics views="24258" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3715,8 +3763,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="371" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7084" />
+    <ns2:starRating count="374" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7249" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3942,7 +3990,7 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
     <ns2:starRating count="148" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4999" />
+    <ns2:statistics views="5037" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4167,8 +4215,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="466" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10479" />
+    <ns2:starRating count="468" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10609" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4195,8 +4243,8 @@ They said the kindness of people they met in China left a deep impression. In Sh
 
 The two plan to continue traveling in Shanghai and other Chinese cities, where they hope to experience the festivities of the Chinese New Year.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="5" average="5.00" min="1" max="5" />
-    <ns2:statistics views="688" />
+    <ns2:starRating count="6" average="5.00" min="1" max="5" />
+    <ns2:statistics views="695" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4222,8 +4270,8 @@ The two plan to continue traveling in Shanghai and other Chinese cities, where t
 本期《格鬥大視野》，帶你走進這個瘋子的內心世界。 看看這位格鬥表演大師，到底藏著怎樣一個嗜血的靈魂！ 看看他是如何用無解的表演，把各路高手一個個送進醫院、塞進輪椅、打入噩夢的深淵！
 #格鬥 #mma #ufc</ns2:description>
    <ns2:community>
-    <ns2:starRating count="64" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4498" />
+    <ns2:starRating count="65" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4546" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4255,7 +4303,7 @@ The two plan to continue traveling in Shanghai and other Chinese cities, where t
 所有视频取得中国大陆创作者授权，严格遵守平台规定。🛡️
 #骑行环游世界#国家残疾运动员#骑行旅行</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3" average="5.00" min="1" max="5" />
+    <ns2:starRating count="4" average="5.00" min="1" max="5" />
     <ns2:statistics views="38" />
    </ns2:community>
   </ns2:group>
@@ -4277,8 +4325,8 @@ The two plan to continue traveling in Shanghai and other Chinese cities, where t
    <ns2:thumbnail url="https://i2.ytimg.com/vi/QQxb0En8j-o/hqdefault.jpg" width="480" height="360" />
    <ns2:description>探访非洲最安全、最干净、最不腐败的国家卢旺达，它的首都基加利更是号称非洲新加坡 。在过去8年间，小钟走过了29个非洲国家，卢旺达是我目前去过最不像非洲的非洲国家，可以说是非洲国家里的一股清流。今天就跟着小钟的镜头一起走进卢旺达！#卢旺达#非洲小钟</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4861" average="5.00" min="1" max="5" />
-    <ns2:statistics views="180931" />
+    <ns2:starRating count="4887" average="5.00" min="1" max="5" />
+    <ns2:statistics views="182321" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4300,8 +4348,8 @@ The two plan to continue traveling in Shanghai and other Chinese cities, where t
    <ns2:description>我们拍摄过许多手术，几乎都需要麻醉，为什么麻醉能让你一下子就睡过去了？麻醉对身体有伤害吗？这一次我们来到了余杭区第一人民医院，想带你一起看看，麻醉医生到底对我们的身体做了什么！
 本期节目由浙大一院良渚分院（余杭一院）提供医疗与场地支持。节目均在专业人士陪同下进行拍摄，手术有风险，请遵医嘱进行治疗。</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1798" average="5.00" min="1" max="5" />
-    <ns2:statistics views="55623" />
+    <ns2:starRating count="1806" average="5.00" min="1" max="5" />
+    <ns2:statistics views="56001" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4322,8 +4370,8 @@ The two plan to continue traveling in Shanghai and other Chinese cities, where t
    <ns2:thumbnail url="https://i4.ytimg.com/vi/WaG3ghF66ZI/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="211" average="5.00" min="1" max="5" />
-    <ns2:statistics views="19228" />
+    <ns2:starRating count="212" average="5.00" min="1" max="5" />
+    <ns2:statistics views="19435" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4366,7 +4414,7 @@ The two plan to continue traveling in Shanghai and other Chinese cities, where t
 请注意，本视频完全符合YouTube社区准则，没有任何违规行为。</ns2:description>
    <ns2:community>
     <ns2:starRating count="77" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2131" />
+    <ns2:statistics views="2162" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4400,8 +4448,8 @@ Bilibili: https://space.bilibili.com/471303350
 
 #數碼 #開箱 #無人機</ns2:description>
    <ns2:community>
-    <ns2:starRating count="473" average="5.00" min="1" max="5" />
-    <ns2:statistics views="15497" />
+    <ns2:starRating count="475" average="5.00" min="1" max="5" />
+    <ns2:statistics views="15601" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4500,8 +4548,8 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC552336/
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #水果 #柏格醫生 #果糖 #葡萄糖 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝</ns2:description>
    <ns2:community>
-    <ns2:starRating count="321" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8379" />
+    <ns2:starRating count="322" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8420" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4522,8 +4570,8 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC552336/
    <ns2:thumbnail url="https://i1.ytimg.com/vi/xD0u2hU33d8/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="1090" average="5.00" min="1" max="5" />
-    <ns2:statistics views="20294" />
+    <ns2:starRating count="1093" average="5.00" min="1" max="5" />
+    <ns2:statistics views="20386" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4544,8 +4592,8 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC552336/
    <ns2:thumbnail url="https://i3.ytimg.com/vi/2peXd3vk72A/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="202" average="5.00" min="1" max="5" />
-    <ns2:statistics views="21754" />
+    <ns2:starRating count="203" average="5.00" min="1" max="5" />
+    <ns2:statistics views="22083" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4577,8 +4625,8 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC552336/
 所有视频取得中国大陆创作者授权，严格遵守平台规定。🛡️
 #骑行环游世界#国家残疾运动员#骑行旅行</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3" average="5.00" min="1" max="5" />
-    <ns2:statistics views="71" />
+    <ns2:starRating count="4" average="5.00" min="1" max="5" />
+    <ns2:statistics views="72" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4621,7 +4669,7 @@ https://github.com/bigdongdongCLUB/welcome
 联系邮箱：BOSS@bigdongdong.com</ns2:description>
    <ns2:community>
     <ns2:starRating count="13" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1896" />
+    <ns2:statistics views="1913" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4642,148 +4690,8 @@ https://github.com/bigdongdongCLUB/welcome
    <ns2:thumbnail url="https://i1.ytimg.com/vi/leL4vu9nEdk/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="2947" average="5.00" min="1" max="5" />
-    <ns2:statistics views="134367" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:YEj8IAeMBJ4</ns0:id>
-  <ns1:videoId>YEj8IAeMBJ4</ns1:videoId>
-  <ns1:channelId>UCUXi5mmqbvIithAs9AaxEtw</ns1:channelId>
-  <ns0:title>[柏格醫生中文 健康知識]柏格醫生親曝：我花30年才發現的7個致命健康誤區（現在改還來得及）</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=YEj8IAeMBJ4" />
-  <ns0:author>
-   <ns0:name>柏格醫生中文 健康知識</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUXi5mmqbvIithAs9AaxEtw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-02-07T22:00:29+00:00</ns0:published>
-  <ns0:updated>2026-02-08T07:49:34+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>柏格醫生親曝：我花30年才發現的7個致命健康誤區（現在改還來得及）</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/YEj8IAeMBJ4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/YEj8IAeMBJ4/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>🌹🌹柏格醫生英文頻道1,430萬、俄語720萬、阿拉伯語700萬訂閱.
-🌹柏格醫生 亞洲購物網: https://www.drberg.asia
-🌹柏格醫生 亞洲購 官耐：https://lin.ee/FSgW71d
-🌹台灣 柏格醫生商店: https://ketogoods.com.tw
-🌹 台灣 官耐LINE : https://page.line.me/keto168
-
-7個改變人生的健康秘訣，柏格醫生花了30年才領悟到的道理。
-別等到60歲才去學習這些最重要的人生經驗。
-現在開始，開始改變健康！
-
-0:00 柏格醫生60歲時的感悟
-0:52 每天吃維生素
-2:29 大腸排毒
-4:10 如何吃健康飲食
-4:24 拖延健康飲食
-5:30 右肩疼痛
-6:18 忽視健康飲食習慣
-8:04 營養大錯誤
-
-柏格醫生 dr. berg 分享：花了30年才領悟到改變人生的經驗教訓。從柏格醫生的錯誤中學習，免去多年痛苦！
-
-錯誤1：每天吃100種維生素
-柏格醫生曾以為，改善長期疲勞、嚴重失眠、關節炎和其他慢性病的方法，就是吃維生素、更多營養品。
-維生素、營養品只有在同時吃健康飲食下才能發揮作用。
-
-錯誤2：大腸排毒
-大腸排毒也會排掉好菌、電解質，且通常會喝果汁。
-別做任何要喝果汁的體內清潔、斷食計劃，因吃糖，身體無法進入生酮狀態。
-草藥排毒會釋放毒素，引發免疫反應，會生病好幾週。
-制定正確的飲食計劃，吃動物性蛋白質、蔬菜和益生菌，改善腸道健康。
-
-錯誤3：畢業後會吃健康飲食
-柏格醫生大學時，吃碳水、喝濃咖啡，總是很累。疲勞很可能是血糖波動造成的。
-開始吃健康生酮飲食，情況才有改善。
-
-錯誤4：右肩疼痛
-右肩疼痛幾乎總是由肝臟、膽囊和膽管的轉移痛引起的。
-
-錯誤5：忽視間歇性斷食
-零食、吃很多餐會高胰島素。身體原本就不設計來吃零食的！
-間歇性斷食是最有效的健康方法之一，會徹底改變生活！減輕體重，消炎。
-
-錯誤6：羽衣甘藍汁
-羽衣甘藍汁可以喝，但太多纖維對腸道健康，不是最佳選擇。
-
-錯誤7：缺鎂
-鎂有助於預防腎結石、肌肉抽筋、促進睡眠。
-
-Just so you know, my full line of high-quality supplements is available on Amazon — search Dr. Berg Supplements.
-
-👉 Download Dr. Berg’s Daily Health Routine for FREE: https://drbrg.co/45Bdud7
-
-別像柏格醫生一樣走彎路——請​​看以下影片，做出更健康的選擇：
-
-▶️ 減重最糟6建議+最佳13秘訣,柏格醫生Dr Berg
-https://www.youtube.com/watch?v=2NJRw6WWwMs
-▶️ 吃蛋和奶油,可降膽固醇？自然療法,柏格醫生 Dr Berg
-https://youtu.be/jt6PyCRQG18
-▶️ 優格真相大揭秘：活菌存活率低？3種益生菌替代品改善腸道健康,柏格醫生Dr Berg
-https://www.youtube.com/watch?v=98seI_Oa7kg
-
-
-柏格醫生中文 健康知識：
-生酮飲食入門（中文）：https://youtu.be/VVZQIMKUWvU
-第2步,吃的內容（中文）：https://youtu.be/Nd1RNTymyvM
-斷食的方法（中文）:  https://youtu.be/VVZQIMKUWvU
-斷食的體內變化(中文) :  https://youtu.be/SlzBMJvtGHo
-柏格醫生臉書(中文): https://www.facebook.com/柏格醫生中文-健康知識-101906848408734/
-
-艾瑞克柏格(Dr Eric Berg)醫生介紹：
-他是弗吉尼亞州、加利福尼亞州和路易斯安那州的3州的脊椎科醫生，￼執照一直維持有效。他是全球最知名的健康生酮飲食和斷食專家，也是《新體型指南》和KB Publishing出版書作者。
-他曾在霍華德大學（Howard University）擔任兼職教授，教授學生營養學。 近年忙於媒體教育，他無暇親自看診病人￼。
-
-英文柏格醫生社群媒體:
-Facebook:  https://bit.ly/FB-DrBerg
-Instagram:  https://bit.ly/IG-DrBerg
-Anchor:  https://bit.ly/Anchor-DrBerg
-TikTok:  https://bit.ly/TikTok-DrBerg
-Anchor:  https://bit.ly/Anchor-DrBerg
-https://drbrg.co/DrBerg-Spotify
-英文柏格醫生網店DR. BERG'S SHOP: http://shop.drberg.com/
-ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
-
-免責聲明：￼
-柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
-#柏格醫生 #減肥 #斷食減肥 #快速減肥 #不飢餓減肥#脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #dr berg
-
-柏格醫生、Dr Berg、Dr. Eric Berg、柏格醫生中文、柏格醫生中文健康知識、Dr Berg 中文、柏格醫生YouTube、柏格醫生推薦、柏格醫生錯誤、柏格醫生30年、柏格醫生60歲、柏格醫生感悟、柏格醫生教訓、柏格醫生秘訣、柏格醫生改變人生
-生酮飲食、keto飲食、低碳飲食、健康飲食、間歇性斷食、斷食、16+8斷食、OMAD、一天一餐、斷食好處、斷食錯誤、胰島素阻抗、血糖波動、高胰島素、減重秘訣、減肥、燃燒脂肪、消炎、減輕體重、抗衰老、自噬
-營養補充與維生素：維生素、每天吃維生素、100種維生素、營養品、鎂、缺鎂、缺鎂症狀、鎂好處、鎂食物、補鎂、肌肉抽筋、睡眠、腎結石、預防腎結石、電解質、益生菌、腸道健康、腸道菌叢
-大腸排毒、腸道排毒、體內清潔、斷食排毒、果汁排毒、草藥排毒、好菌、壞菌、毒素、免疫反應、腸道問題、腸道清潔、喝果汁、益生菌食物、酸菜、發酵食品
-右肩疼痛、肩膀痛、肝臟疼痛、膽囊問題、膽管、轉移痛、慢性疲勞、嚴重失眠、關節炎、疲勞、血糖波動、忽視健康、拖延健康飲食、大學飲食、碳水化合物、濃咖啡、零食、吃很多餐
-特定食物與避免：羽衣甘藍汁、羽衣甘藍、纖維過多、動物性蛋白質、蔬菜、草飼肉、野生鮭魚、橄欖油、巴西堅果、健康食物、最健康食物、避免果汁、避免糖、避免加工食品
-自噬作用、抗老化、長壽秘訣、健康習慣、慢性病、免疫力、發炎、消炎、腎結石、肌肉痠痛、抽筋、深度睡眠、促進睡眠、荷爾蒙平衡、胰島素、粒線體、代謝、健康生活、自然療法
-影片與系列相關：柏格醫生減重、柏格醫生斷食、生酮飲食入門、斷食秘訣、維生素錯誤、排毒錯誤、間歇性斷食錯誤、生酮飲食錯誤、柏格醫生警告、柏格醫生補充品、Dr Berg Supplements、柏格醫生亞洲
-牛肉麵、火鍋、小籠包、滷肉飯、珍珠奶茶、雞排、蚵仔煎、臭豆腐、鹹酥雞、割包、肉圓、擔仔麵、意麵、豬血糕、魯肉飯、雞肉飯、蚵仔煎、鹽酥雞、刈包、大腸包小腸、雞腿便當、便當、排骨飯、雞腿飯、滷味、臭豆腐、蚵仔煎、肉羹、米糕、肉燥飯、爌肉飯、雞肉飯、牛肉湯、羊肉爐、麻辣鍋、酸菜魚、麻辣燙、串串香、螺螄粉、黃燜雞、煎餅果子、肉夾饃、涼皮、酸辣粉、關東煮、壽司、拉麵、烏龍麵、炸雞、披薩、義大利麵、漢堡、薯條、炸雞排、韓式炸雞、石鍋拌飯、部隊鍋、烤肉、烤肉飯、烤鴨、片皮鴨、北京烤鴨、水煮魚、宮保雞丁、麻婆豆腐、魚香肉絲、紅燒肉、東坡肉、糖醋排骨、口水雞、夫妻肺片、涼拌菜、涼麵、涼粉、米線、過橋米線、腸粉、叉燒包、燒賣、蝦餃、鳳爪、蒸籠點心、早茶、飲茶、港式茶餐廳、菠蘿油、蛋撻、奶茶、絲襪奶茶、鴛鴦奶茶、菠蘿包、雞蛋仔、雞蛋糕、雞排、鹹蛋黃、芋頭米粉、芋頭糕、年糕、粽子、湯圓、元宵、月餅、綠豆椪、太陽餅、鳳梨酥、蛋黃酥、牛軋糖、花生糖、麻糬、大福、雪花冰、芒果冰、剉冰、仙草凍、愛玉冰、豆花、豆漿、油條、燒餅、蔥油餅、蔥抓餅、飯團、蛋餅、蔥抓餅、潤餅、春捲、生煎包、小籠湯包、鍋貼、水餃、蒸餃、手抓餅、蔥油餅、蔥油雞、涼拌小黃瓜、拍黃瓜、涼拌海蜇、涼拌木耳、涼拌粉絲、酸辣土豆絲、魚香茄子、地三鮮、京醬肉絲、回鍋肉、麻辣香鍋、干鍋、香鍋、麻辣香鍋、冒菜、烤冷麵、烤冷麵、烤腸、烤魷魚、烤玉米、烤紅薯、糖葫蘆、冰糖葫蘆、棉花糖、爆米花、瓜子、堅果、薯片、洋芋片、辣條、衛龍辣條、螺螄粉即食包、泡麵、方便麵、自熱火鍋、自熱飯、自熱米飯、關東煮包、咖哩飯、咖哩豬排、親子丼、牛丼、壽喜燒、涮涮鍋、鐵板燒、鐵板牛肉、章魚燒、鯛魚燒、可麗餅、鬆餅、厚片吐司、法式吐司、班尼迪克蛋、早午餐、brunch、沙拉、凱薩沙拉、水果沙拉、優格、優格水果碗、燕麥、燕麥奶、植物奶、豆奶、杏仁奶、燕麥奶、氣炸鍋食譜、氣炸雞翅、氣炸雞塊、空氣炸鍋、電鍋料理、電鍋蛋糕、電鍋蒸蛋、微波爐食譜
-蛋糕、起司蛋糕、巧克力蛋糕、草莓蛋糕、戚風蛋糕、熔岩蛋糕、布丁蛋糕、生乳捲、千層蛋糕、提拉米蘇、馬卡龍、泡芙、閃電泡芙、舒芙蕾、蒙布朗、慕斯、慕斯蛋糕、布丁、焦糖布丁、奶酪、雙皮奶、杏仁豆腐、芒果布丁、優格凍、果凍、仙草凍、愛玉凍、芋圓、芋頭圓、綠豆椪、鳳梨酥、蛋黃酥、太陽餅、牛軋糖、花生糖、麻糬、草莓大福、芒果大福、雪花冰、芒果冰、剉冰、綿綿冰、雪綿冰、冰淇淋、哈根達斯、莫凡彼、霜淇淋、霜淇淋捲、霜淇淋夾心餅、雪糕、冰棒、枝仔冰、仙女紅豆、紅豆湯、綠豆湯、花生湯、薏仁湯、蓮子湯、銀耳蓮子湯、木耳湯、椰汁西米露、西米露、楊枝甘露、芒果西米露、椰奶凍、椰子凍、奶茶凍、珍珠奶茶、黑糖珍珠奶茶、波霸奶茶、手搖飲、手搖杯、果茶、鮮奶茶、冬瓜茶、青草茶、仙草茶、愛玉茶、檸檬愛玉、冬瓜檸檬、梅子綠茶、翡翠檸檬、四季春、凍頂烏龍、鐵觀音、阿里山高山茶、奶蓋茶、芝士奶蓋、鹽焗奶蓋、焦糖奶蓋、黑糖奶蓋、黑糖珍珠、黑糖冰沙、黑糖刨冰、芋泥波波、芋泥鮮奶、芋頭鮮奶、抹茶鮮奶、抹茶拿鐵、抹茶蛋糕、抹茶冰淇淋、抹茶紅豆、抹茶蕨餅、蕨餅、草莓大福、草莓生乳捲、草莓千層、草莓塔、藍莓塔、檸檬塔、巧克力塔、焦糖塔、蘋果派、南瓜派、藍莓派、櫻桃派、肉桂捲、肉桂捲、丹麥酥、牛角麵包、可頌、菠蘿包、老婆餅、綠豆沙餅、豆沙包、棗泥餅、棗泥核桃糕、南棗核桃糕、桂圓蛋糕、桂圓糕、棗糕、紅豆餅、車輪餅、雞蛋糕、古早味雞蛋糕、蜂蜜蛋糕、蜂蜜鬆餅、紅豆鬆餅、香蕉鬆餅、巧克力鬆餅、厚鬆餅、日式厚鬆餅、舒肥蛋糕、舒肥布丁、舒肥優格、優格蛋糕、優格慕斯、低卡甜點、減糖蛋糕、無糖甜點、燕麥甜點、蛋白甜點、健身甜點</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="421" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11419" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:Px9McVfFX1Y</ns0:id>
-  <ns1:videoId>Px9McVfFX1Y</ns1:videoId>
-  <ns1:channelId>UCNJTPOFN-13sb5JGrY1mNQg</ns1:channelId>
-  <ns0:title>[How to DAD]I’m taking on rugby legend Portia Woodman-Wickliffe in a series of rugby challenges - light work 😤</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/Px9McVfFX1Y" />
-  <ns0:author>
-   <ns0:name>How to DAD</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCNJTPOFN-13sb5JGrY1mNQg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-02-07T19:18:05+00:00</ns0:published>
-  <ns0:updated>2026-02-08T08:19:31+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>I’m taking on rugby legend Portia Woodman-Wickliffe in a series of rugby challenges - light work 😤</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/Px9McVfFX1Y?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/Px9McVfFX1Y/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="380" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9258" />
+    <ns2:starRating count="2951" average="5.00" min="1" max="5" />
+    <ns2:statistics views="134667" />
    </ns2:community>
   </ns2:group>
  </ns0:entry></feed>
