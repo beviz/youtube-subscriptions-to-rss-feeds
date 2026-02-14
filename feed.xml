@@ -1,1850 +1,1208 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-02-14T07:09:17Z</updated><ns0:entry>
-  <ns0:id>yt:video:zQY0zf9-WXI</ns0:id>
-  <ns1:videoId>zQY0zf9-WXI</ns1:videoId>
-  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]How to Make AI a Force for Good in Climate | Manoush Zomorodi and Amen Ra Mashariki | TED</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=zQY0zf9-WXI" />
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-02-14T07:53:24Z</updated><ns0:entry>
+  <ns0:id>yt:video:whe268MthvE</ns0:id>
+  <ns1:videoId>whe268MthvE</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]多头注意力 MultiHeadAttention 是什么？</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=whe268MthvE" />
   <ns0:author>
-   <ns0:name>TED</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-13T16:01:37+00:00</ns0:published>
-  <ns0:updated>2026-02-13T16:01:39+00:00</ns0:updated>
+  <ns0:published>2026-02-05T09:01:30+00:00</ns0:published>
+  <ns0:updated>2026-02-12T01:44:10+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>How to Make AI a Force for Good in Climate | Manoush Zomorodi and Amen Ra Mashariki | TED</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/zQY0zf9-WXI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/zQY0zf9-WXI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>In a now-famous Go match against a human in 2016, AI made Move 37 — a seemingly nonsensical play that baffled every expert but ultimately won it the match. Amen Ra Mashariki, director of AI at the Bezos Earth Fund, thinks we need AI to make that same kind of creative leap for climate solutions. In conversation with TED Radio Hour host Manoush Zomorodi, he shares a vision for new AI solutions to environmental problems that human experts haven't yet dreamed up. (Recorded at TED Countdown and Bezos Earth Fund on September 24, 2025)
+   <ns2:title>多头注意力 MultiHeadAttention 是什么？</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/whe268MthvE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/whe268MthvE/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>加入知识星球（鞠躬感谢！）: https://t.zsxq.com/ubYr8
+Embeding原理 https://www.youtube.com/watch?v=BQveePDWavA
+Linear原理 https://www.youtube.com/watch?v=PoQLjK2hlZk
+Softmax原理 https://www.youtube.com/watch?v=OCcHTUiNnGI
 
-Join us in person at a TED conference: https://tedtalks.social/events
-Become a TED Member to support our mission: https://ted.com/membership
-Subscribe to a TED newsletter: https://ted.com/newsletters
-
-Follow TED! 
-X: https://www.twitter.com/TEDTalks
-Instagram: https://www.instagram.com/ted
-Facebook: https://facebook.com/TED
-LinkedIn: https://www.linkedin.com/company/ted-conferences
-TikTok: https://www.tiktok.com/@tedtoks
-
-The TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.
-
-Watch more: https://go.ted.com/amenramashariki
-
-https://youtu.be/zQY0zf9-WXI
-
-TED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com
-
-#TED #TEDTalks #ClimateChange</ns2:description>
+---
+00:00:00 介绍
+00:00:50 Embedding
+00:02:50 K
+00:05:02 Q
+00:06:22 QK‘
+00:09:50 V
+00:13:10 QKV
+00:13:49 哲学</ns2:description>
    <ns2:community>
-    <ns2:starRating count="184" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6205" />
+    <ns2:starRating count="280" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7014" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:bGgBQ1cz0LQ</ns0:id>
-  <ns1:videoId>bGgBQ1cz0LQ</ns1:videoId>
-  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]A good coach will help you break your actions down AND build them back up again #TEDTalks</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/bGgBQ1cz0LQ" />
+  <ns0:id>yt:video:lnneAfJqd9M</ns0:id>
+  <ns1:videoId>lnneAfJqd9M</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]10分钟弄懂 什么是大模型Skill</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=lnneAfJqd9M" />
   <ns0:author>
-   <ns0:name>TED</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-12T21:00:42+00:00</ns0:published>
-  <ns0:updated>2026-02-12T21:00:42+00:00</ns0:updated>
+  <ns0:published>2026-01-22T09:01:08+00:00</ns0:published>
+  <ns0:updated>2026-01-25T21:56:59+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>A good coach will help you break your actions down AND build them back up again #TEDTalks</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/bGgBQ1cz0LQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/bGgBQ1cz0LQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>How do we improve in the face of complexity? Atul Gawande has studied this question with a surgeon's precision. He shares what he's found to be the key: having a good coach to provide a more accurate picture of our reality, to instill positive habits of thinking, and to break our actions down and then help us build them back up again. "It's not how good you are now; it's how good you're going to be that really matters," Gawande says.</ns2:description>
+   <ns2:title>10分钟弄懂 什么是大模型Skill</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/lnneAfJqd9M?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/lnneAfJqd9M/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>加入知识星球（鞠躬感谢！）: https://t.zsxq.com/ubYr8</ns2:description>
    <ns2:community>
-    <ns2:starRating count="458" average="5.00" min="1" max="5" />
-    <ns2:statistics views="19302" />
+    <ns2:starRating count="3243" average="5.00" min="1" max="5" />
+    <ns2:statistics views="121405" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:u2zdQyWlxDw</ns0:id>
-  <ns1:videoId>u2zdQyWlxDw</ns1:videoId>
-  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]The Missing Piece in Climate Action (It’s Not What You Think) | Yi Li | TED</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=u2zdQyWlxDw" />
+  <ns0:id>yt:video:BQveePDWavA</ns0:id>
+  <ns1:videoId>BQveePDWavA</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]15分钟弄懂Token和Embedding 详解LLM与RAG数据处理</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=BQveePDWavA" />
   <ns0:author>
-   <ns0:name>TED</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-12T16:01:20+00:00</ns0:published>
-  <ns0:updated>2026-02-12T16:01:21+00:00</ns0:updated>
+  <ns0:published>2026-01-08T09:00:30+00:00</ns0:published>
+  <ns0:updated>2026-01-23T22:31:05+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>The Missing Piece in Climate Action (It’s Not What You Think) | Yi Li | TED</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/u2zdQyWlxDw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/u2zdQyWlxDw/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>When entrepreneur Yi Li cofounded Farmworks, she set out to build 1,000 climate-smart farms across Kenya, complete with dams, irrigation and organic fertilizers. The science was sound, but reality proved more complicated. Learn what she discovered about the missing ingredient behind failed climate solutions — and how it challenges a core assumption of the environmental movement on how to create lasting impact. (Recorded at TED Countdown Summit 2025 on June 17, 2025)
+   <ns2:title>15分钟弄懂Token和Embedding 详解LLM与RAG数据处理</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/BQveePDWavA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/BQveePDWavA/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>加入知识星球（鞠躬感谢！）: https://t.zsxq.com/ubYr8
+https://www.youtube.com/watch?v=mpGiFuRYrDk
+https://www.youtube.com/watch?v=PoQLjK2hlZk
+AI系列课程列表：https://www.youtube.com/playlist?list=PLeYA2mrASg3E5ctJc80FgMRGb9m3NqFsu
 
-Join us in person at a TED conference: https://tedtalks.social/events
-Become a TED Member to support our mission: https://ted.com/membership
-Subscribe to a TED newsletter: https://ted.com/newsletters
-
-Follow TED! 
-X: https://www.twitter.com/TEDTalks
-Instagram: https://www.instagram.com/ted
-Facebook: https://facebook.com/TED
-LinkedIn: https://www.linkedin.com/company/ted-conferences
-TikTok: https://www.tiktok.com/@tedtoks
-
-The TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.
-
-Watch more: https://go.ted.com/yili
-
-https://youtu.be/u2zdQyWlxDw
-
-TED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com
-
-#TED #TEDTalks #Sustainability</ns2:description>
+---
+00:00:00 Token
+00:03:39 Token的问题
+00:05:42 Embedding
+00:08:55 Embedding实现
+00:10:51 RAG Embedding
+00:14:14 哲学</ns2:description>
    <ns2:community>
-    <ns2:starRating count="378" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11967" />
+    <ns2:starRating count="573" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11955" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:AsiuNEXLhf4</ns0:id>
-  <ns1:videoId>AsiuNEXLhf4</ns1:videoId>
-  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]The TED Conference Experience #TEDTalks</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/AsiuNEXLhf4" />
+  <ns0:id>yt:video:qL6ca-mIeMI</ns0:id>
+  <ns1:videoId>qL6ca-mIeMI</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]30行代码训练模型 手写数字识别【PyTorch实战】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=qL6ca-mIeMI" />
   <ns0:author>
-   <ns0:name>TED</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-12T15:00:28+00:00</ns0:published>
-  <ns0:updated>2026-02-12T15:00:51+00:00</ns0:updated>
+  <ns0:published>2025-12-25T09:01:17+00:00</ns0:published>
+  <ns0:updated>2025-12-25T09:01:17+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>The TED Conference Experience #TEDTalks</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/AsiuNEXLhf4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/AsiuNEXLhf4/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>A TED experience is far more than just the talks. Learn how you can join a powerful community of leaders, dreamers and doers this April 13-17 at TED2026:
-https://conferences.ted.com/ted2026?utm_medium=social&amp;utm_source=youtube&amp;utm_campaign=tedexperience</ns2:description>
+   <ns2:title>30行代码训练模型 手写数字识别【PyTorch实战】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/qL6ca-mIeMI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/qL6ca-mIeMI/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>从0开始一起学大模型播放列表: https://www.youtube.com/playlist?list=PLeYA2mrASg3E5ctJc80FgMRGb9m3NqFsu
+加入知识星球（鞠躬感谢！）: https://t.zsxq.com/ubYr8
+从零搭建神经网络，识别手写数字 https://www.youtube.com/watch?v=OCcHTUiNnGI
+大模型的训练原理 梯度下降 https://www.youtube.com/watch?v=FOHyospzUd4
+
+---
+00:00:00 回顾
+00:01:27 Dataset
+00:04:28 Dataloader
+00:05:43 模型
+00:06:00 Loss
+00:09:06 训练
+00:11:35 测试保存
+00:12:27 Optimizer</ns2:description>
    <ns2:community>
-    <ns2:starRating count="110" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8681" />
+    <ns2:starRating count="79" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3285" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:2harN7sh5Hw</ns0:id>
-  <ns1:videoId>2harN7sh5Hw</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]为什么 second 即是“秒”，又是“第二”，还有“支持“的意思？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=2harN7sh5Hw" />
+  <ns0:id>yt:video:FOHyospzUd4</ns0:id>
+  <ns1:videoId>FOHyospzUd4</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]大模型的训练原理 梯度下降：从一条直线讲起</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=FOHyospzUd4" />
   <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-11T11:30:05+00:00</ns0:published>
-  <ns0:updated>2026-02-12T06:29:26+00:00</ns0:updated>
+  <ns0:published>2025-12-11T09:00:32+00:00</ns0:published>
+  <ns0:updated>2025-12-11T17:04:58+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>为什么 second 即是“秒”，又是“第二”，还有“支持“的意思？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/2harN7sh5Hw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/2harN7sh5Hw/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>为什么 second 即是“秒”，又是“第二”，还有“支持“的意思？</ns2:description>
+   <ns2:title>大模型的训练原理 梯度下降：从一条直线讲起</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/FOHyospzUd4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/FOHyospzUd4/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>https://www.youtube.com/watch?v=PoQLjK2hlZk
+https://www.youtube.com/watch?v=OCcHTUiNnGI
+
+从0开始一起学大模型: https://www.youtube.com/playlist?list=PLeYA2mrASg3E5ctJc80FgMRGb9m3NqFsu
+
+加入知识星球（鞠躬感谢！）：https://t.zsxq.com/ubYr8
+
+---
+00:00:00 介绍
+00:01:49 损失函数
+00:04:21 梯度下降
+00:11:20 批量训练
+00:14:36 效果+哲学</ns2:description>
    <ns2:community>
-    <ns2:starRating count="89" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1775" />
+    <ns2:starRating count="222" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6986" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:LFE5VzUlsWQ</ns0:id>
-  <ns1:videoId>LFE5VzUlsWQ</ns1:videoId>
-  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]Is this the cost of creating for likes and shares? #TEDTalks</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/LFE5VzUlsWQ" />
+  <ns0:id>yt:video:OCcHTUiNnGI</ns0:id>
+  <ns1:videoId>OCcHTUiNnGI</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]从零搭建神经网络，识别手写数字【PyTorch】【Transformer结构拆解】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=OCcHTUiNnGI" />
   <ns0:author>
-   <ns0:name>TED</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-10T21:45:01+00:00</ns0:published>
-  <ns0:updated>2026-02-11T07:56:56+00:00</ns0:updated>
+  <ns0:published>2025-11-27T09:00:40+00:00</ns0:published>
+  <ns0:updated>2026-02-12T07:15:00+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Is this the cost of creating for likes and shares? #TEDTalks</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/LFE5VzUlsWQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/LFE5VzUlsWQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Joseph Gordon-Levitt has gotten more than his fair share of attention from his acting career. But as social media exploded over the past decade, he got addicted like the rest of us -- trying to gain followers and likes only to be left feeling inadequate and less creative. In a refreshingly honest talk, he explores how the attention-driven model of big tech companies impacts our creativity -- and shares a more powerful feeling than getting attention: paying attention.</ns2:description>
+   <ns2:title>从零搭建神经网络，识别手写数字【PyTorch】【Transformer结构拆解】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/OCcHTUiNnGI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/OCcHTUiNnGI/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>https://www.youtube.com/watch?v=PoQLjK2hlZk
+---
+老王开通了知识星球，希望能把视频内容沉淀下来，和大家做更深度的交流。
+星球里会有：
+- 体系化文章：所有视频的深度文字版，方便查漏补缺。
+- 完整源码：每期项目的代码，让你边看边练。
+- 专属答疑：有任何问题，随时向我提问。
+
+你的支持，能让我更踏实地把这个“游戏”一直玩下去。期待在星球见到你！
+
+加入星球：https://t.zsxq.com/ubYr8
+带有“哲学”味道的软文：https://www.bilibili.com/opus/1098170043238187014
+
+---
+00:00:00 Linear
+00:01:42 张量
+00:03:06 Linear输入
+00:04:53 mnist
+00:06:47 数据处理
+00:10:46 模型定义
+00:13:04 推理
+00:13:50 softmax</ns2:description>
    <ns2:community>
-    <ns2:starRating count="716" average="5.00" min="1" max="5" />
-    <ns2:statistics views="28091" />
+    <ns2:starRating count="160" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5131" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:sxE8VSn7E8o</ns0:id>
-  <ns1:videoId>sxE8VSn7E8o</ns1:videoId>
-  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]The Award for Best Comedy Wildlife Photo Goes to… | Tom Sullam | TED</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=sxE8VSn7E8o" />
+  <ns0:id>yt:video:PoQLjK2hlZk</ns0:id>
+  <ns1:videoId>PoQLjK2hlZk</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]从Linear到FeedForward AI模型的数学本质【Transformer结构拆解】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=PoQLjK2hlZk" />
   <ns0:author>
-   <ns0:name>TED</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-10T16:01:28+00:00</ns0:published>
-  <ns0:updated>2026-02-10T16:01:29+00:00</ns0:updated>
+  <ns0:published>2025-11-13T09:00:43+00:00</ns0:published>
+  <ns0:updated>2026-02-10T05:18:48+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>The Award for Best Comedy Wildlife Photo Goes to… | Tom Sullam | TED</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/sxE8VSn7E8o?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/sxE8VSn7E8o/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Where's the best free comedy show in town? Tom Sullam, cofounder of the annual Comedy Wildlife Photography Awards, shares hilarious animal photos that dissolve the distance between humans and nature. The result? A joyful case for caring about what we're at risk of losing. (Recorded at TEDNext 2025 on November 11, 2025)
+   <ns2:title>从Linear到FeedForward AI模型的数学本质【Transformer结构拆解】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/PoQLjK2hlZk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/PoQLjK2hlZk/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>https://www.youtube.com/watch?v=mpGiFuRYrDk
 
-Join us in person at a TED conference: https://tedtalks.social/events
-Become a TED Member to support our mission: https://ted.com/membership
-Subscribe to a TED newsletter: https://ted.com/newsletters
+---
+老王开通了知识星球，希望能把视频内容沉淀下来，和大家做更深度的交流。
+星球里会有：
+- 体系化文章：所有视频的深度文字版，方便查漏补缺。
+- 完整源码：每期项目的代码，让你边看边练。
+- 专属答疑：有任何问题，随时向我提问。
 
-Follow TED! 
-X: https://www.twitter.com/TEDTalks
-Instagram: https://www.instagram.com/ted
-Facebook: https://facebook.com/TED
-LinkedIn: https://www.linkedin.com/company/ted-conferences
-TikTok: https://www.tiktok.com/@tedtoks
+你的支持，能让我更踏实地把这个“游戏”一直玩下去。期待在星球见到你！
 
-The TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.
+加入星球：https://t.zsxq.com/ubYr8
+带有“哲学”味道的软文：https://www.bilibili.com/opus/1098170043238187014
 
-Watch more: https://go.ted.com/tomsullam
-
-https://youtu.be/sxE8VSn7E8o
-
-TED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com
-
-#TED #TEDTalks #Wildlife</ns2:description>
+---
+00:00:00 介绍
+00:00:38 Linear
+00:05:30 训练
+00:06:46 AI思维
+00:07:58 Activation
+00:11:07 ReLU
+00:14:23 MLP
+00:15:51 最后</ns2:description>
    <ns2:community>
-    <ns2:starRating count="15184" average="5.00" min="1" max="5" />
-    <ns2:statistics views="530384" />
+    <ns2:starRating count="269" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10061" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:g83Xl4-mvF8</ns0:id>
-  <ns1:videoId>g83Xl4-mvF8</ns1:videoId>
-  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]The Most Important Virtue for a Good Life | Meghan Sullivan | TED</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=g83Xl4-mvF8" />
+  <ns0:id>yt:video:mpGiFuRYrDk</ns0:id>
+  <ns1:videoId>mpGiFuRYrDk</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]Transformer如何成为AI模型的地基</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=mpGiFuRYrDk" />
   <ns0:author>
-   <ns0:name>TED</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-09T16:00:54+00:00</ns0:published>
-  <ns0:updated>2026-02-09T17:56:43+00:00</ns0:updated>
+  <ns0:published>2025-10-30T09:01:16+00:00</ns0:published>
+  <ns0:updated>2026-02-09T10:52:00+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>The Most Important Virtue for a Good Life | Meghan Sullivan | TED</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/g83Xl4-mvF8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/g83Xl4-mvF8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>What if the secret to a good life isn't just what you achieve but how deeply you love? Drawing on wisdom from Aristotle, Jesus and modern social psychology, philosopher Meghan Sullivan offers tips on how to expand your capacity for love, even in the face of our modern challenges. (Recorded at TEDNext 2025 on November 10, 2025)
+   <ns2:title>Transformer如何成为AI模型的地基</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/mpGiFuRYrDk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/mpGiFuRYrDk/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>老王开通了知识星球【老王的程序训练营】，希望能把视频内容沉淀下来，和大家做更深度的交流。
+星球里会有：
+- 体系化文章：所有视频的深度文字版，方便查漏补缺。
+- 完整源码：每期项目的代码，让你边看边练。
+- 专属答疑：有任何问题，随时向我提问。
 
-Join us in person at a TED conference: https://tedtalks.social/events
-Become a TED Member to support our mission: https://ted.com/membership
-Subscribe to a TED newsletter: https://ted.com/newsletters
+你的支持，能让我更踏实地把这个“游戏”一直玩下去。期待在星球见到你！
 
-Follow TED! 
-X: https://www.twitter.com/TEDTalks
-Instagram: https://www.instagram.com/ted
-Facebook: https://facebook.com/TED
-LinkedIn: https://www.linkedin.com/company/ted-conferences
-TikTok: https://www.tiktok.com/@tedtoks
+加入星球：https://t.zsxq.com/ubYr8
+带有“哲学”味道的软文：https://www.bilibili.com/opus/1098170043238187014
 
-The TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.
-
-Watch more: https://go.ted.com/meghansullivan
-
-https://youtu.be/g83Xl4-mvF8
-
-TED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com
-
-#TED #TEDTalks #Philosophy</ns2:description>
+---
+00:00:00 介绍
+00:00:47 Encoder
+00:03:02 Decoder
+00:07:20 训练
+00:08:09 GPT
+00:10:01 BERT
+00:10:59 最后</ns2:description>
    <ns2:community>
-    <ns2:starRating count="925" average="5.00" min="1" max="5" />
-    <ns2:statistics views="27082" />
+    <ns2:starRating count="442" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10168" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:iOTCsXd38Ng</ns0:id>
-  <ns1:videoId>iOTCsXd38Ng</ns1:videoId>
-  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]What if plastic didn’t last forever? #TEDTalks</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/iOTCsXd38Ng" />
+  <ns0:id>yt:video:WYPwhdh9e2A</ns0:id>
+  <ns1:videoId>WYPwhdh9e2A</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]如何用腾讯EdgeOne 免费搭建个人博客</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=WYPwhdh9e2A" />
   <ns0:author>
-   <ns0:name>TED</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-08T19:00:41+00:00</ns0:published>
-  <ns0:updated>2026-02-08T19:00:41+00:00</ns0:updated>
+  <ns0:published>2025-10-24T09:00:55+00:00</ns0:published>
+  <ns0:updated>2025-12-23T14:26:32+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>What if plastic didn’t last forever? #TEDTalks</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/iOTCsXd38Ng?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/iOTCsXd38Ng/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Bacteria are the most incredible creatures on Earth, says biotechnologist and TED Fellow Patricia Aymà Maldonado. She presents a groundbreaking technology that “trains” bacteria to transform organic waste into biodegradable plastic that behaves like the real thing. Learn how this creative, sustainable approach could revolutionize the plastics industry.</ns2:description>
+   <ns2:title>如何用腾讯EdgeOne 免费搭建个人博客</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/WYPwhdh9e2A?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/WYPwhdh9e2A/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>腾讯云 EdgeOne 官网： https://edgeone.ai/zh?from=wang
+使用 EdgeOne Pages 免费网站部署：https://pages.edgeone.ai/zh?from=wang
+Blog Starter Kit：https://vercel.com/templates/blog/blog-starter-kit
+
+老王拿到了5000个EdgeOne免费套餐兑换码，送给有需要的同学！
+请从这里领取：https://edgeone.codewithwang.com/
+
+---
+00:00:00 介绍
+00:01:02 Blog
+00:02:59 CDN介绍
+00:06:32 CDN配置
+00:09:34 Pages介绍
+00:10:42 Pages配置</ns2:description>
    <ns2:community>
-    <ns2:starRating count="774" average="5.00" min="1" max="5" />
-    <ns2:statistics views="36042" />
+    <ns2:starRating count="36" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11705" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:d1yfb93beSI</ns0:id>
-  <ns1:videoId>d1yfb93beSI</ns1:videoId>
-  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]How to Introduce Yourself — and Get Hired | Rebecca Okamoto | TED</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=d1yfb93beSI" />
+  <ns0:id>yt:video:3SKPc7t9LUI</ns0:id>
+  <ns1:videoId>3SKPc7t9LUI</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]如何使用pytest进行单元测试</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=3SKPc7t9LUI" />
   <ns0:author>
-   <ns0:name>TED</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-08T16:00:53+00:00</ns0:published>
-  <ns0:updated>2026-02-10T22:09:02+00:00</ns0:updated>
+  <ns0:published>2025-10-16T09:00:04+00:00</ns0:published>
+  <ns0:updated>2026-02-10T22:31:30+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>How to Introduce Yourself — and Get Hired | Rebecca Okamoto | TED</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/d1yfb93beSI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/d1yfb93beSI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>First impressions matter, so how do you make yours count? Communication consultant Rebecca Okamoto outlines five simple ways to introduce yourself in 20 words or fewer, setting up any interview or conversation for those three crucial words: "Tell me more." (Recorded at TEDxNorthwesternU on April 19, 2025)
+   <ns2:title>如何使用pytest进行单元测试</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/3SKPc7t9LUI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/3SKPc7t9LUI/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>勘误：
+parametrize例子，test_add函数中的`calc.add(2, 1) == 3`应该改成`calc.add(n1, n2) == expected`
 
-Join us in person at a TED conference: https://tedtalks.social/events
-Become a TED Member to support our mission: https://ted.com/membership
-Subscribe to a TED newsletter: https://ted.com/newsletters
+https://www.youtube.com/watch?v=2m0Ygyzli5I
 
-Follow TED! 
-X: https://www.twitter.com/TEDTalks
-Instagram: https://www.instagram.com/ted
-Facebook: https://facebook.com/TED
-LinkedIn: https://www.linkedin.com/company/ted-conferences
-TikTok: https://www.tiktok.com/@tedtoks
+老王开通了知识星球【老王的程序训练营】，希望能把视频内容沉淀下来，和大家做更深度的交流。
+星球里会有：
+✅ 体系化文章：所有视频的深度文字版，方便查漏补缺。
+✅ 完整源码：每期项目的代码，让你边看边练。
+✅ 专属答疑：有任何问题，随时向我提问。
 
-The TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.
+你的支持，能让我更踏实地把这个“游戏”一直玩下去。期待在星球见到你！
 
-Watch more: https://go.ted.com/rebeccaokamoto
+👉 加入星球：https://t.zsxq.com/ubYr8
+👉 带有“哲学”味道的软文：https://www.bilibili.com/opus/1098170043238187014
 
-https://youtu.be/d1yfb93beSI
-
-TED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com
-
-#TED #TEDTalks #PersonalGrowth</ns2:description>
+--
+时间轴
+00:00:00 介绍
+00:00:29 结构
+00:02:28 assert
+00:03:27 UI
+00:04:37 raises
+00:05:51 fixture
+00:10:07 参数化</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3773" average="5.00" min="1" max="5" />
-    <ns2:statistics views="84566" />
+    <ns2:starRating count="324" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9280" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:yrVtEkCC8uY</ns0:id>
-  <ns1:videoId>yrVtEkCC8uY</ns1:videoId>
-  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]These ads could encourage people to think twice before buying #TEDTalks</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/yrVtEkCC8uY" />
+  <ns0:id>yt:video:ZLDfTwHm56A</ns0:id>
+  <ns1:videoId>ZLDfTwHm56A</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]AI思维链是幻象吗？[白话读论文]</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ZLDfTwHm56A" />
   <ns0:author>
-   <ns0:name>TED</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-07T19:01:00+00:00</ns0:published>
-  <ns0:updated>2026-02-07T19:01:00+00:00</ns0:updated>
+  <ns0:published>2025-10-02T09:00:56+00:00</ns0:published>
+  <ns0:updated>2025-10-14T09:44:46+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>These ads could encourage people to think twice before buying #TEDTalks</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/yrVtEkCC8uY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/yrVtEkCC8uY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>After years of brand building, marketing veteran Sylvester Chauke realized that his industry had sold the world on overconsumption, with devastating consequences. He shares how marketers could instead promote sustainability with "honest ads" that do right by the planet and encourage people to think twice before buying.</ns2:description>
+   <ns2:title>AI思维链是幻象吗？[白话读论文]</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/ZLDfTwHm56A?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/ZLDfTwHm56A/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>论文地址：https://arxiv.org/abs/2508.01191
+
+---
+老王开通了知识星球【老王的程序训练营】，希望能把视频内容沉淀下来，和大家做更深度的交流。
+星球里会有：
+✅ 体系化文章：所有视频的深度文字版，方便查漏补缺。
+✅ 完整源码：每期项目的代码，让你边看边练。
+✅ 专属答疑：有任何问题，随时向我提问。
+
+你的支持，能让我更踏实地把这个“游戏”一直玩下去。期待在星球见到你！
+
+👉 加入星球：https://t.zsxq.com/ubYr8
+👉 带有“哲学”味道的软文：https://www.bilibili.com/opus/1098170043238187014
+
+
+---时间轴
+00:00:00 幻象
+00:00:59 猜想
+00:02:37 实验
+00:04:34 任务泛化
+00:06:20 长度泛化
+00:07:17 格式泛化
+00:08:28 结论
+00:09:07 最后说两句</ns2:description>
    <ns2:community>
-    <ns2:starRating count="414" average="5.00" min="1" max="5" />
-    <ns2:statistics views="25865" />
+    <ns2:starRating count="313" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11341" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:zPAY2VxfFBk</ns0:id>
-  <ns1:videoId>zPAY2VxfFBk</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]The Problem with these Smartphone Batteries</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=zPAY2VxfFBk" />
+  <ns0:id>yt:video:OHXP7AUT98A</ns0:id>
+  <ns1:videoId>OHXP7AUT98A</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]如何使用Keynote快速制作动画？</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=OHXP7AUT98A" />
   <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-06T21:03:37+00:00</ns0:published>
-  <ns0:updated>2026-02-07T08:48:04+00:00</ns0:updated>
+  <ns0:published>2025-09-18T09:00:44+00:00</ns0:published>
+  <ns0:updated>2026-01-18T07:03:57+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>The Problem with these Smartphone Batteries</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/zPAY2VxfFBk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/zPAY2VxfFBk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Silicon carbon batteries are kinda incredible, but for some reason aren't everywhere yet...
+   <ns2:title>如何使用Keynote快速制作动画？</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/OHXP7AUT98A?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/OHXP7AUT98A/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>老王开通了知识星球【老王的程序训练营】，希望能把视频内容沉淀下来，和大家做更深度的交流。
+星球里会有：
+✅ 体系化文章：所有视频的深度文字版，方便查漏补缺。
+✅ 完整源码：每期项目的代码，让你边看边练。
+✅ 专属答疑：有任何问题，随时向我提问。
 
-MKBHD Merch: http://shop.MKBHD.com
+你的支持，能让我更踏实地把这个“游戏”一直玩下去。期待在星球见到你！
 
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
+👉 加入星球：https://t.zsxq.com/ubYr8
+👉 带有“哲学”味道的软文：https://www.bilibili.com/opus/1098170043238187014</ns2:description>
    <ns2:community>
-    <ns2:starRating count="79155" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1922332" />
+    <ns2:starRating count="288" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6323" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:an6ZM0iCGQw</ns0:id>
-  <ns1:videoId>an6ZM0iCGQw</ns1:videoId>
-  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]Let’s Build AI Data Centers in Space | Philip Johnston | TED</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=an6ZM0iCGQw" />
+  <ns0:id>yt:video:yDR5EIvIni4</ns0:id>
+  <ns1:videoId>yDR5EIvIni4</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]专属研究员已就位，从查论文到做PPT，一人搞定全流程？！</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=yDR5EIvIni4" />
   <ns0:author>
-   <ns0:name>TED</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-06T16:00:07+00:00</ns0:published>
-  <ns0:updated>2026-02-09T22:04:01+00:00</ns0:updated>
+  <ns0:published>2025-09-11T09:01:35+00:00</ns0:published>
+  <ns0:updated>2025-10-29T17:05:31+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Let’s Build AI Data Centers in Space | Philip Johnston | TED</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/an6ZM0iCGQw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/an6ZM0iCGQw/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>AI is setting up residence in the final frontier, says technologist Philip Johnston. He shares the incredible work being undertaken to build data centers in outer space — and how they might harness both solar power and frigid temperatures in order to address the AI energy challenge. Learn more about the affordability of this wild idea and how it could address concerns about the resources needed to keep up with the AI boom. (Recorded at TEDAI San Francisco on October 22, 2025)
+   <ns2:title>专属研究员已就位，从查论文到做PPT，一人搞定全流程？！</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/yDR5EIvIni4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/yDR5EIvIni4/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>从数据搜索、表格整理到研究分析、PPT生成，Skywork AI一键输出结果。
+点击👉 https://skywork.ai/p/hjRJ1i
+就有限时优惠可享，感兴趣的赶快来试试：
+🔹 月度会员 9折
+🔹 年度会员 6.6折
 
-Join us in person at a TED conference: https://tedtalks.social/events
-Become a TED Member to support our mission: https://ted.com/membership
-Subscribe to a TED newsletter: https://ted.com/newsletters
-
-Follow TED! 
-X: https://www.twitter.com/TEDTalks
-Instagram: https://www.instagram.com/ted
-Facebook: https://facebook.com/TED
-LinkedIn: https://www.linkedin.com/company/ted-conferences
-TikTok: https://www.tiktok.com/@tedtoks
-
-The TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.
-
-Watch more: https://go.ted.com/philipjohnston
-
-https://youtu.be/an6ZM0iCGQw
-
-TED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com
-
-#TED #TEDTalks #AI</ns2:description>
+#ai  #Skywork #aiagent #效率 #Manus #ChatGPT #OpenAI #Gemini #Gamma #Genspark #deepresearch</ns2:description>
    <ns2:community>
-    <ns2:starRating count="722" average="5.00" min="1" max="5" />
-    <ns2:statistics views="32781" />
+    <ns2:starRating count="99" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3797" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:bA9xGDsQADo</ns0:id>
-  <ns1:videoId>bA9xGDsQADo</ns1:videoId>
-  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]Today’s athletes ARE built different #TEDTalks</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/bA9xGDsQADo" />
+  <ns0:id>yt:video:YCswP_xmxu0</ns0:id>
+  <ns1:videoId>YCswP_xmxu0</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]一段提示词 让Gemini CLI变成自动化Agent！ 提示词工程</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=YCswP_xmxu0" />
   <ns0:author>
-   <ns0:name>TED</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-05T20:00:34+00:00</ns0:published>
-  <ns0:updated>2026-02-10T21:33:48+00:00</ns0:updated>
+  <ns0:published>2025-09-04T12:17:36+00:00</ns0:published>
+  <ns0:updated>2025-09-07T17:13:28+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Today’s athletes ARE built different #TEDTalks</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/bA9xGDsQADo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/bA9xGDsQADo/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>When you look at sporting achievements over the last decades, it seems like humans have gotten faster, better and stronger in nearly every way. Yet as David Epstein points out in this delightfully counter-intuitive talk, we might want to lay off the self-congratulation. Many factors are at play in shattering athletic records, and the development of our natural talents is just one of them.</ns2:description>
+   <ns2:title>一段提示词 让Gemini CLI变成自动化Agent！ 提示词工程</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/YCswP_xmxu0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/YCswP_xmxu0/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>提示词+上下文工程 https://www.youtube.com/watch?v=-8Ygq9AVWZ8
+最终提示词：https://gist.github.com/cradiator/daf9517ebeecafd64e0a895bd77ca8bd
+
+----
+老王开通了知识星球【老王的程序训练营】，希望能把视频内容沉淀下来，和大家做更深度的交流。
+星球里会有：
+✅ 体系化文章：所有视频的深度文字版，方便查漏补缺。
+✅ 完整源码：每期项目的代码，让你边看边练。
+✅ 专属答疑：有任何问题，随时向我提问。
+
+你的支持，能让我更踏实地把这个“游戏”一直玩下去。期待在星球见到你！
+
+👉 加入星球：https://t.zsxq.com/ubYr8
+👉 带有“哲学”味道的软文：https://www.bilibili.com/opus/1098170043238187014
+
+----
+时间轴
+00:00:00 最终效果
+00:01:15 简单提示词
+00:02:22 输入输出
+00:03:03 过程
+00:06:11 进度管理
+00:10:22 GeminiCLI
+
+ #提示词 #提示词工程 #上下文 #上下文工程 #gemini #geminicli #prompt #promptengineering #contextengineering</ns2:description>
    <ns2:community>
-    <ns2:starRating count="360" average="5.00" min="1" max="5" />
-    <ns2:statistics views="25185" />
+    <ns2:starRating count="1179" average="5.00" min="1" max="5" />
+    <ns2:statistics views="31836" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:kryWR7QNBkc</ns0:id>
-  <ns1:videoId>kryWR7QNBkc</ns1:videoId>
-  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]What Successful Negotiators Do Differently | Kathryn Valentine | TED</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=kryWR7QNBkc" />
+  <ns0:id>yt:video:-8Ygq9AVWZ8</ns0:id>
+  <ns1:videoId>-8Ygq9AVWZ8</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]AI 提示词工程 上下文工程 15分钟弄懂！</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=-8Ygq9AVWZ8" />
   <ns0:author>
-   <ns0:name>TED</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-05T17:01:10+00:00</ns0:published>
-  <ns0:updated>2026-02-07T04:14:22+00:00</ns0:updated>
+  <ns0:published>2025-08-21T09:00:00+00:00</ns0:published>
+  <ns0:updated>2025-08-29T09:50:03+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>What Successful Negotiators Do Differently | Kathryn Valentine | TED</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/kryWR7QNBkc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/kryWR7QNBkc/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Studies show that women negotiate just as frequently as men — so why do they succeed half as often? With wit and humor, business consultant Kathryn Valentine unpacks the gender expectations of workplace negotiations, offering a clear equation for anyone looking to make a successful ask and get what they want.  (Recorded at TEDxSugar Creek Women on May 10, 2025)
+   <ns2:title>AI 提示词工程 上下文工程 15分钟弄懂！</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/-8Ygq9AVWZ8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/-8Ygq9AVWZ8/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>10分钟讲清楚 Prompt, Agent, MCP 是什么 https://www.youtube.com/watch?v=1UQ8uz4kuIc
+原来写一个 AI Agent 这么简单 https://www.youtube.com/watch?v=OAE1EWP8dIQ
+这就是RAG 一看就懂的个人知识库架构 https://www.youtube.com/watch?v=qMc0v2OUK3s
 
-Join us in person at a TED conference: https://tedtalks.social/events
-Become a TED Member to support our mission: https://ted.com/membership
-Subscribe to a TED newsletter: https://ted.com/newsletters
+----
 
-Follow TED! 
-X: https://www.twitter.com/TEDTalks
-Instagram: https://www.instagram.com/ted
-Facebook: https://facebook.com/TED
-LinkedIn: https://www.linkedin.com/company/ted-conferences
-TikTok: https://www.tiktok.com/@tedtoks
+老王开通了知识星球【老王的程序训练营】，希望能把视频内容沉淀下来，和大家做更深度的交流。
+星球里会有：
+✅ 体系化文章：所有视频的深度文字版，方便查漏补缺。
+✅ 完整源码：每期项目的代码，让你边看边练。
+✅ 专属答疑：有任何问题，随时向我提问。
 
-The TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.
+你的支持，能让我更踏实地把这个“游戏”一直玩下去。期待在星球见到你！
 
-Watch more: https://go.ted.com/kathrynvalentine 
+👉 加入星球：https://t.zsxq.com/ubYr8
+👉 带有“哲学”味道的软文：https://www.bilibili.com/opus/1098170043238187014
 
-https://youtu.be/kryWR7QNBkc
-
-TED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com
-
-#TED #TEDTalks #Business</ns2:description>
+----
+时间轴
+00:00:00 提示词
+00:02:32 提示词工程
+00:06:11 上下文
+00:10:31 记笔记
+00:13:36 管理上下文长度
+00:15:38 哲学</ns2:description>
    <ns2:community>
-    <ns2:starRating count="897" average="5.00" min="1" max="5" />
-    <ns2:statistics views="31919" />
+    <ns2:starRating count="2592" average="5.00" min="1" max="5" />
+    <ns2:statistics views="95925" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:c7rtbTnmnzI</ns0:id>
-  <ns1:videoId>c7rtbTnmnzI</ns1:videoId>
-  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]“When you get rejected in life ... consider the possibilities.” #TEDTalks</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/c7rtbTnmnzI" />
+  <ns0:id>yt:video:Kpz2_tDB1Zo</ns0:id>
+  <ns1:videoId>Kpz2_tDB1Zo</ns1:videoId>
+  <ns1:channelId>UCuwRke43bi6P-Hs93RPG4Og</ns1:channelId>
+  <ns0:title>[当下频道DxChannel]储能对普通人有什么用？！需要在家囤电吗？</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=Kpz2_tDB1Zo" />
   <ns0:author>
-   <ns0:name>TED</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+   <ns0:name>当下频道DxChannel</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-03T22:00:41+00:00</ns0:published>
-  <ns0:updated>2026-02-13T20:09:03+00:00</ns0:updated>
+  <ns0:published>2024-11-20T09:00:32+00:00</ns0:published>
+  <ns0:updated>2025-06-04T05:51:55+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>“When you get rejected in life ... consider the possibilities.” #TEDTalks</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/c7rtbTnmnzI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/c7rtbTnmnzI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Jia Jiang adventures boldly into a territory so many of us fear: rejection. By seeking out rejection for 100 days -- from asking a stranger to borrow $100 to requesting a "burger refill" at a restaurant -- Jiang desensitized himself to the pain and shame that rejection often brings and, in the process, discovered that simply asking for what you want can open up possibilities where you expect to find dead ends.
+   <ns2:title>储能对普通人有什么用？！需要在家囤电吗？</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/Kpz2_tDB1Zo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/Kpz2_tDB1Zo/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>现代生活离不开电，突如其来的停电仿佛闪回原始时代，普通人面对停电难道只能「囤电」应急？很多人觉得储能就像个超大充电宝，可以存电等用，其实它还可以帮助电网稳定，支持可再生能源的消纳。
 
-https://www.ted.com</ns2:description>
+这期视频我们携手国际环保机构「绿色和平」，深入江苏乡村探索户用光储解决方案，并到福建参观电化学储能车间，去探究新型储能是如何成为我们应对气候变化和推动能源转型的绿色底气。如果喜欢我们的视频的话，别忘了给我们一个好评、订阅小铃铛和分享给朋友们哦～
+▷▷▷▷▷▷▷▷▷▷▷▷▷▷▷
+hello! 这里是当下频道。
+在这里，我们浸润式体验、观察、和解读当代中国青年人的消费现象，并希望以此启发不同青年圈层的好奇心、感知力和同理心。
+欢迎订阅我的频道哦【当下频道】https://is.gd/wEsD8a
+🔔开启小铃铛获取我们的最新更新吧🔔
+
+欢迎加入会员支持我们的自制短剧【重生之契约新娘】：
+https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og/join
+
+Hi Welcome to DxChannel!
+Mini doc explainers made by, for and about Chinese Gen Z.   
+👉Click here to subscribe: https://is.gd/wEsD8a
+🔔Open this little bell can get our newest update🔔
+
+更多精彩视频请看 (More Videos)：
+【当下新消费】NEW CONSUMERISM                                                   https://is.gd/G0EXGX
+【我们这一天】This Is Us                                                                        https://is.gd/EhbpRX
+【当下乱码】DECODE                                                                              https://is.gd/nzPH6H
+【当下小白鼠】DX Try                                                                              https://is.gd/vVzIwx
+【当下VLOG】Our Behind The Scenes and Bonus Footages!           https://is.gd/f28vL6
+【当下频道特别企划】Special Episode of DXChannel                        https://is.gd/iPd6l2
+
+#当下频道 #社会观察 #青年文化 #新能源 #清洁能源 #储能 #电力 #锂电池</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1241" average="5.00" min="1" max="5" />
-    <ns2:statistics views="58381" />
+    <ns2:starRating count="340" average="5.00" min="1" max="5" />
+    <ns2:statistics views="15664" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:HtzG2AoahAo</ns0:id>
-  <ns1:videoId>HtzG2AoahAo</ns1:videoId>
-  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]What Gets Lost When We Treat Conversations Like Transactions | Khaya Dlanga | TED</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=HtzG2AoahAo" />
+  <ns0:id>yt:video:ArnTYxPy_pQ</ns0:id>
+  <ns1:videoId>ArnTYxPy_pQ</ns1:videoId>
+  <ns1:channelId>UCuwRke43bi6P-Hs93RPG4Og</ns1:channelId>
+  <ns0:title>[当下频道DxChannel]上海车墩大神真实体验：在25块挂壁房躺平？时薪15块还要被克扣！</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ArnTYxPy_pQ" />
   <ns0:author>
-   <ns0:name>TED</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+   <ns0:name>当下频道DxChannel</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-03T16:00:24+00:00</ns0:published>
-  <ns0:updated>2026-02-11T14:38:58+00:00</ns0:updated>
+  <ns0:published>2024-09-20T04:16:47+00:00</ns0:published>
+  <ns0:updated>2025-06-12T03:48:26+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>What Gets Lost When We Treat Conversations Like Transactions | Khaya Dlanga | TED</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/HtzG2AoahAo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/HtzG2AoahAo/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>The most powerful stories are the ones told simply to connect with each other, says author Khaya Dlanga. Through humorous anecdotes and moving memories, he explores why it's the conversations we have without strategy or agenda that actually allow us to see one another. (Recorded at TED2025 on April 9, 2025)
+   <ns2:title>上海车墩大神真实体验：在25块挂壁房躺平？时薪15块还要被克扣！</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/ArnTYxPy_pQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/ArnTYxPy_pQ/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>有钱住汤臣，没钱混车墩，上海版的三和市场长什么样？这期视频我们来体验真实的大神生活，挑战用100块在上海生存一周！
+▷▷▷▷▷▷▷▷▷▷▷▷▷▷▷
+hello! 这里是当下频道。
+在这里，我们浸润式体验、观察、和解读当代中国青年人的消费现象，并希望以此启发不同青年圈层的好奇心、感知力和同理心。
+欢迎订阅我的频道哦【当下频道】https://is.gd/wEsD8a
+🔔开启小铃铛获取我们的最新更新吧🔔
 
-Join us in person at a TED conference: https://tedtalks.social/events
-Become a TED Member to support our mission: https://ted.com/membership
-Subscribe to a TED newsletter: https://ted.com/newsletters
+欢迎加入会员支持我们的自制短剧【重生之契约新娘】：
+https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og/join
 
-Follow TED! 
-X: https://www.twitter.com/TEDTalks
-Instagram: https://www.instagram.com/ted
-Facebook: https://facebook.com/TED
-LinkedIn: https://www.linkedin.com/company/ted-conferences
-TikTok: https://www.tiktok.com/@tedtoks
+Hi Welcome to DxChannel!
+Mini doc explainers made by, for and about Chinese Gen Z.   
+👉Click here to subscribe: https://is.gd/wEsD8a
+🔔Open this little bell can get our newest update🔔
 
-The TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit https://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.
+更多精彩视频请看 (More Videos)：
+【当下新消费】NEW CONSUMERISM                                                   https://is.gd/G0EXGX
+【我们这一天】This Is Us                                                                        https://is.gd/EhbpRX
+【当下乱码】DECODE                                                                              https://is.gd/nzPH6H
+【当下小白鼠】DX Try                                                                              https://is.gd/vVzIwx
+【当下VLOG】Our Behind The Scenes and Bonus Footages!           https://is.gd/f28vL6
+【当下频道特别企划】Special Episode of DXChannel                        https://is.gd/iPd6l2
 
-Watch more: https://go.ted.com/khayadlanga
-
-https://youtu.be/HtzG2AoahAo
-
-TED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com
-
-#TED #TEDTalks #Communication</ns2:description>
+#当下频道 #社会观察 #青年文化 #上海 #大神 #打工 #三和 #兼职 #车墩</ns2:description>
    <ns2:community>
-    <ns2:starRating count="707" average="5.00" min="1" max="5" />
-    <ns2:statistics views="26499" />
+    <ns2:starRating count="516" average="5.00" min="1" max="5" />
+    <ns2:statistics views="30002" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:Qr4anBkL2_A</ns0:id>
-  <ns1:videoId>Qr4anBkL2_A</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]This is NOT an iPhone</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/Qr4anBkL2_A" />
+  <ns0:id>yt:video:OF1BiHPSJoE</ns0:id>
+  <ns1:videoId>OF1BiHPSJoE</ns1:videoId>
+  <ns1:channelId>UCuwRke43bi6P-Hs93RPG4Og</ns1:channelId>
+  <ns0:title>[当下频道DxChannel]56岁妈妈40度高温还在找工作，退不了休就得这么拼? Job Hunting Madness：What kind of job could retirees over 50 find in China</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=OF1BiHPSJoE" />
   <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
+   <ns0:name>当下频道DxChannel</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-01-30T19:34:19+00:00</ns0:published>
-  <ns0:updated>2026-02-10T11:46:55+00:00</ns0:updated>
+  <ns0:published>2024-08-16T10:00:32+00:00</ns0:published>
+  <ns0:updated>2025-06-12T10:17:42+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>This is NOT an iPhone</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/Qr4anBkL2_A?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/Qr4anBkL2_A/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>But they sure tried to make it look like one</ns2:description>
+   <ns2:title>56岁妈妈40度高温还在找工作，退不了休就得这么拼? Job Hunting Madness：What kind of job could retirees over 50 find in China</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/OF1BiHPSJoE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/OF1BiHPSJoE/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>延迟退休？中年危机！56岁的妈妈该何去何从？我决定亲自上阵考察中老年就业市场，看看我们老了以后，还有哪些“退休”新出路。
+▷▷▷▷▷▷▷▷▷▷▷▷▷▷▷
+hello! 这里是当下频道。
+在这里，我们浸润式体验、观察、和解读当代中国青年人的消费现象，并希望以此启发不同青年圈层的好奇心、感知力和同理心。
+欢迎订阅我的频道哦【当下频道】https://is.gd/wEsD8a
+🔔开启小铃铛获取我们的最新更新吧🔔
+
+欢迎加入会员支持我们的自制短剧【重生之契约新娘】：
+https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og/join
+
+Hi Welcome to DxChannel!
+Mini doc explainers made by, for and about Chinese Gen Z.   
+👉Click here to subscribe: https://is.gd/wEsD8a
+🔔Open this little bell can get our newest update🔔
+
+更多精彩视频请看 (More Videos)：
+【当下新消费】NEW CONSUMERISM                                                   https://is.gd/G0EXGX
+【我们这一天】This Is Us                                                                        https://is.gd/EhbpRX
+【当下乱码】DECODE                                                                              https://is.gd/nzPH6H
+【当下小白鼠】DX Try                                                                              https://is.gd/vVzIwx
+【当下VLOG】Our Behind The Scenes and Bonus Footages!           https://is.gd/f28vL6
+【当下频道特别企划】Special Episode of DXChannel                        https://is.gd/iPd6l2
+
+#当下频道 #社会观察 #青年文化 #职场 #工资 #失业 #招聘 #五险一金 #面试 #退休 #工作 #老龄化</ns2:description>
    <ns2:community>
-    <ns2:starRating count="131109" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4193737" />
+    <ns2:starRating count="348" average="5.00" min="1" max="5" />
+    <ns2:statistics views="12165" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:LXmNeVLM4e4</ns0:id>
-  <ns1:videoId>LXmNeVLM4e4</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]PSA: You look like this</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/LXmNeVLM4e4" />
+  <ns0:id>yt:video:PlZr5Iu_FOs</ns0:id>
+  <ns1:videoId>PlZr5Iu_FOs</ns1:videoId>
+  <ns1:channelId>UCuwRke43bi6P-Hs93RPG4Og</ns1:channelId>
+  <ns0:title>[当下频道DxChannel]又土又上头的短剧是怎么赚钱的?我们自己去拍了一部... How Chinese Addictive Shorts Make Money</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=PlZr5Iu_FOs" />
   <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
+   <ns0:name>当下频道DxChannel</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-01-27T17:36:20+00:00</ns0:published>
-  <ns0:updated>2026-02-09T23:28:58+00:00</ns0:updated>
+  <ns0:published>2024-06-29T03:00:16+00:00</ns0:published>
+  <ns0:updated>2025-06-13T08:40:32+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>PSA: You look like this</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/LXmNeVLM4e4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/LXmNeVLM4e4/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>AR glasses at night</ns2:description>
+   <ns2:title>又土又上头的短剧是怎么赚钱的?我们自己去拍了一部... How Chinese Addictive Shorts Make Money</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/PlZr5Iu_FOs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/PlZr5Iu_FOs/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>创收轻松上亿，影视民工的终点是拍短剧?先砸1万试试水!
+▷▷▷▷▷▷▷▷▷▷▷▷▷▷▷
+hello! 这里是当下频道。
+在这里，我们浸润式体验、观察、和解读当代中国青年人的消费现象，并希望以此启发不同青年圈层的好奇心、感知力和同理心。
+欢迎订阅我的频道哦【当下频道】https://is.gd/wEsD8a
+🔔开启小铃铛获取我们的最新更新吧🔔
+
+Hi Welcome to DxChannel!
+Mini doc explainers made by, for and about Chinese Gen Z.   
+👉Click here to subscribe: https://is.gd/wEsD8a
+🔔Open this little bell can get our newest update🔔
+
+更多精彩视频请看 (More Videos)：
+【当下新消费】NEW CONSUMERISM                                                   https://is.gd/G0EXGX
+【我们这一天】This Is Us                                                                        https://is.gd/EhbpRX
+【当下乱码】DECODE                                                                              https://is.gd/nzPH6H
+【当下小白鼠】DX Try                                                                              https://is.gd/vVzIwx
+【当下VLOG】Our Behind The Scenes and Bonus Footages!           https://is.gd/f28vL6
+【当下频道特别企划】Special Episode of DXChannel                        https://is.gd/iPd6l2
+
+#当下频道 #社会观察 #青年文化 #短剧</ns2:description>
    <ns2:community>
-    <ns2:starRating count="82837" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2914974" />
+    <ns2:starRating count="407" average="5.00" min="1" max="5" />
+    <ns2:statistics views="17441" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:vZdbbN3FCzE</ns0:id>
-  <ns1:videoId>vZdbbN3FCzE</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]The Downfall of OnePlus will be Studied</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=vZdbbN3FCzE" />
+  <ns0:id>yt:video:QFBbwigQpmY</ns0:id>
+  <ns1:videoId>QFBbwigQpmY</ns1:videoId>
+  <ns1:channelId>UCuwRke43bi6P-Hs93RPG4Og</ns1:channelId>
+  <ns0:title>[当下频道DxChannel]老板用AI拍了部电影，15个员工要被取缔辞退了？Will AI Replace Filmmakers? I Made a Film by AI in One Week.</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=QFBbwigQpmY" />
   <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
+   <ns0:name>当下频道DxChannel</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-01-26T19:13:01+00:00</ns0:published>
-  <ns0:updated>2026-01-30T23:00:06+00:00</ns0:updated>
+  <ns0:published>2024-06-07T10:00:28+00:00</ns0:published>
+  <ns0:updated>2025-06-11T16:41:30+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>The Downfall of OnePlus will be Studied</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/vZdbbN3FCzE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/vZdbbN3FCzE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>The enthusiast brand arc
+   <ns2:title>老板用AI拍了部电影，15个员工要被取缔辞退了？Will AI Replace Filmmakers? I Made a Film by AI in One Week.</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/QFBbwigQpmY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/QFBbwigQpmY/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>在各种AI工具满天飞的今天，影像创作行业迎来了前所未有的变革，写个描述就能生成一段逼真的视频，这会取代影视行业从业者吗？我们用AI拍部电影，测评一下是AI好用还是人好用。如果你喜欢这期视频的话，不要忘记给我们点赞留言转发～
+▷▷▷▷▷▷▷▷▷▷▷▷▷▷▷
+hello! 这里是当下频道。
+在这里，我们浸润式体验、观察、和解读当代中国青年人的消费现象，并希望以此启发不同青年圈层的好奇心、感知力和同理心。
+欢迎订阅我的频道哦【当下频道】https://is.gd/wEsD8a
+🔔开启小铃铛获取我们的最新更新吧🔔
 
-That sweatshirt: http://shop.MKBHD.com
-Why Enthusiast Brands will Betray You: https://youtu.be/FJgTKx-rg18?si=4pUmJhf5G6HZS3Cc
+Hi Welcome to DxChannel!
+Mini doc explainers made by, for and about Chinese Gen Z.   
+👉Click here to subscribe: https://is.gd/wEsD8a
+🔔Open this little bell can get our newest update🔔
 
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+更多精彩视频请看 (More Videos)：
+【当下新消费】NEW CONSUMERISM                                                   https://is.gd/G0EXGX
+【我们这一天】This Is Us                                                                        https://is.gd/EhbpRX
+【当下乱码】DECODE                                                                              https://is.gd/nzPH6H
+【当下小白鼠】DX Try                                                                              https://is.gd/vVzIwx
+【当下VLOG】Our Behind The Scenes and Bonus Footages!           https://is.gd/f28vL6
+【当下频道特别企划】Special Episode of DXChannel                        https://is.gd/iPd6l2
 
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD
-
-0:00 OnePlus the Enthusiast Brand
-1:33 “Startup” Phase
-3:46 Generation 2
-5:17 Peak
-7:58 Realization
-10:46 The Jump</ns2:description>
+#当下频道 #社会观察 #青年文化</ns2:description>
    <ns2:community>
-    <ns2:starRating count="122823" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4290585" />
+    <ns2:starRating count="411" average="5.00" min="1" max="5" />
+    <ns2:statistics views="12829" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:DqAKQwagCDg</ns0:id>
-  <ns1:videoId>DqAKQwagCDg</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]Xiaomi 17 Ultra - More Camera than Phone!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=DqAKQwagCDg" />
+  <ns0:id>yt:video:sJUIkzVxE6A</ns0:id>
+  <ns1:videoId>sJUIkzVxE6A</ns1:videoId>
+  <ns1:channelId>UCuwRke43bi6P-Hs93RPG4Og</ns1:channelId>
+  <ns0:title>[当下频道DxChannel]上海必拉榜：中国超一线城市公厕什么水平？China hosted a expo for toilets.</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=sJUIkzVxE6A" />
   <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
+   <ns0:name>当下频道DxChannel</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-01-22T19:45:23+00:00</ns0:published>
-  <ns0:updated>2026-01-26T20:24:13+00:00</ns0:updated>
+  <ns0:published>2024-05-24T08:00:36+00:00</ns0:published>
+  <ns0:updated>2025-06-08T03:40:08+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Xiaomi 17 Ultra - More Camera than Phone!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/DqAKQwagCDg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/DqAKQwagCDg/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>All that Leica branding had me nervous...
+   <ns2:title>上海必拉榜：中国超一线城市公厕什么水平？China hosted a expo for toilets.</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/sJUIkzVxE6A?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/sJUIkzVxE6A/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>人总有如厕的需求，但公共厕所常常让我们望“厕”兴叹。这期我们逛了一圈上海公厕，发现这些设施尽管还不能很好地满足每一类人群的需求，但大家似乎已经学会与这些“豪放”小角落相处，你和公共厕所有过什么趣事吗？欢迎在评论区分享你的故事，如果你喜欢这期视频的话，请记得点赞评论转发支持我们～
+▷▷▷▷▷▷▷▷▷▷▷▷▷▷▷
+hello! 这里是当下频道。
+在这里，我们浸润式体验、观察、和解读当代中国青年人的消费现象，并希望以此启发不同青年圈层的好奇心、感知力和同理心。
+欢迎订阅我的频道哦【当下频道】https://is.gd/wEsD8a
+🔔开启小铃铛获取我们的最新更新吧🔔
 
-Head to https://www.rocketmoney.com/MKBHD and take control of your finances today with Rocket Money!
+Hi Welcome to DxChannel!
+Mini doc explainers made by, for and about Chinese Gen Z.   
+👉Click here to subscribe: https://is.gd/wEsD8a
+🔔Open this little bell can get our newest update🔔
 
-Model Y Review shot on Xiaomi: https://youtu.be/MnjNgtPr3v0?si=RTW5JXr0N1k0aYeF
+更多精彩视频请看 (More Videos)：
+【当下新消费】NEW CONSUMERISM                                                   https://is.gd/G0EXGX
+【我们这一天】This Is Us                                                                        https://is.gd/EhbpRX
+【当下乱码】DECODE                                                                              https://is.gd/nzPH6H
+【当下小白鼠】DX Try                                                                              https://is.gd/vVzIwx
+【当下VLOG】Our Behind The Scenes and Bonus Footages!           https://is.gd/f28vL6
+【当下频道特别企划】Special Episode of DXChannel                        https://is.gd/iPd6l2
 
-MKBHD Merch: http://shop.MKBHD.com
-
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-Phone provided by Xiaomi for review.
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD
-
-Corrections:
-10:05 (In camera settings, there's a "preserve settings" menu item that can actually remembers several camera parameters including resolution!)</ns2:description>
+#当下频道 #社会观察 #青年文化</ns2:description>
    <ns2:community>
-    <ns2:starRating count="90820" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3390749" />
+    <ns2:starRating count="204" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7171" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:XUWATazubQ0</ns0:id>
-  <ns1:videoId>XUWATazubQ0</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]full fool fall foul 你能读准吗？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=XUWATazubQ0" />
+  <ns0:id>yt:video:ak3d06nV5Hw</ns0:id>
+  <ns1:videoId>ak3d06nV5Hw</ns1:videoId>
+  <ns1:channelId>UCuwRke43bi6P-Hs93RPG4Og</ns1:channelId>
+  <ns0:title>[当下频道DxChannel]完美的死亡？三线城市临终关怀实践观察 Palliative Care in Small Cities</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ak3d06nV5Hw" />
   <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
+   <ns0:name>当下频道DxChannel</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-01-20T11:58:17+00:00</ns0:published>
-  <ns0:updated>2026-01-24T07:30:06+00:00</ns0:updated>
+  <ns0:published>2024-05-10T09:00:03+00:00</ns0:published>
+  <ns0:updated>2025-06-11T17:26:37+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>full fool fall foul 你能读准吗？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/XUWATazubQ0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/XUWATazubQ0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
+   <ns2:title>完美的死亡？三线城市临终关怀实践观察 Palliative Care in Small Cities</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/ak3d06nV5Hw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/ak3d06nV5Hw/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>生命末期的患者，往往需要在「治」与「不治」之间做出选择，「安宁疗护」提供止痛和护理服务，减轻临终前的身心痛苦，给了他们另一种选择。
+
+上期节目中，我们进行了一次关于「安宁疗护」的咨询。然而，如何将安宁疗护（临终关怀）落实到三四线城市，这个过程中面临的挑战是什么？我们拜访了河北沧州和山西阳泉的两家医院，亲身感受并记录了一线的故事。
+▷▷▷▷▷▷▷▷▷▷▷▷▷▷▷
+hello! 这里是当下频道。
+在这里，我们浸润式体验、观察、和解读当代中国青年人的消费现象，并希望以此启发不同青年圈层的好奇心、感知力和同理心。
+欢迎订阅我的频道哦【当下频道】https://is.gd/wEsD8a
+🔔开启小铃铛获取我们的最新更新吧🔔
+
+Hi Welcome to DxChannel!
+Mini doc explainers made by, for and about Chinese Gen Z.   
+👉Click here to subscribe: https://is.gd/wEsD8a
+🔔Open this little bell can get our newest update🔔
+
+更多精彩视频请看 (More Videos)：
+【当下新消费】NEW CONSUMERISM                                                   https://is.gd/G0EXGX
+【我们这一天】This Is Us                                                                        https://is.gd/EhbpRX
+【当下乱码】DECODE                                                                              https://is.gd/nzPH6H
+【当下小白鼠】DX Try                                                                              https://is.gd/vVzIwx
+【当下VLOG】Our Behind The Scenes and Bonus Footages!           https://is.gd/f28vL6
+【当下频道特别企划】Special Episode of DXChannel                        https://is.gd/iPd6l2
+
+#当下频道 #社会观察 #青年文化 #医疗 #公益 #社会 #死亡 #临终关怀 #尊严死 #姑息治疗 #安宁疗护</ns2:description>
    <ns2:community>
-    <ns2:starRating count="53" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1136" />
+    <ns2:starRating count="156" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3146" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:PTd98UnJnnU</ns0:id>
-  <ns1:videoId>PTd98UnJnnU</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]This TECH Knife is Insane!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/PTd98UnJnnU" />
+  <ns0:id>yt:video:8IvKjIFolAA</ns0:id>
+  <ns1:videoId>8IvKjIFolAA</ns1:videoId>
+  <ns1:channelId>UCuwRke43bi6P-Hs93RPG4Og</ns1:channelId>
+  <ns0:title>[当下频道DxChannel]生命进入倒计时，我可以没有痛苦地离开吗？Life’s on a countdown. Can I leave without pain?</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=8IvKjIFolAA" />
   <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
+   <ns0:name>当下频道DxChannel</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-01-16T21:56:34+00:00</ns0:published>
-  <ns0:updated>2026-01-23T06:49:11+00:00</ns0:updated>
+  <ns0:published>2024-04-25T09:11:51+00:00</ns0:published>
+  <ns0:updated>2025-06-12T22:39:31+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>This TECH Knife is Insane!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/PTd98UnJnnU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/PTd98UnJnnU/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Sorry dinner is late, I had to charge my knife</ns2:description>
+   <ns2:title>生命进入倒计时，我可以没有痛苦地离开吗？Life’s on a countdown. Can I leave without pain?</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/8IvKjIFolAA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/8IvKjIFolAA/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>这期节目我们探访了沧州市人民医院的安宁疗护科，看看他们是如何帮助那些饱受病痛折磨的人，以尊严和平静的方式离开人世的。如果你觉得这期视频解答了心中的某些困惑或者对你有所帮助，记得多多支持我们～
+▷▷▷▷▷▷▷▷▷▷▷▷▷▷▷
+hello! 这里是当下频道。
+在这里，我们浸润式体验、观察、和解读当代中国青年人的消费现象，并希望以此启发不同青年圈层的好奇心、感知力和同理心。
+欢迎订阅我的频道哦【当下频道】https://is.gd/wEsD8a
+🔔开启小铃铛获取我们的最新更新吧🔔
+
+Hi Welcome to DxChannel!
+Mini doc explainers made by, for and about Chinese Gen Z.   
+👉Click here to subscribe: https://is.gd/wEsD8a
+🔔Open this little bell can get our newest update🔔
+
+更多精彩视频请看 (More Videos)：
+【当下新消费】NEW CONSUMERISM                                                   https://is.gd/G0EXGX
+【我们这一天】This Is Us                                                                        https://is.gd/EhbpRX
+【当下乱码】DECODE                                                                              https://is.gd/nzPH6H
+【当下小白鼠】DX Try                                                                              https://is.gd/vVzIwx
+【当下VLOG】Our Behind The Scenes and Bonus Footages!           https://is.gd/f28vL6
+【当下频道特别企划】Special Episode of DXChannel                        https://is.gd/iPd6l2
+
+#当下频道 #社会观察 #青年文化</ns2:description>
    <ns2:community>
-    <ns2:starRating count="674598" average="5.00" min="1" max="5" />
-    <ns2:statistics views="23199438" />
+    <ns2:starRating count="311" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6950" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:TVsounscj4U</ns0:id>
-  <ns1:videoId>TVsounscj4U</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]The New Siri is... Google (Explained)</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=TVsounscj4U" />
+  <ns0:id>yt:video:FNWbTvk1Rdk</ns0:id>
+  <ns1:videoId>FNWbTvk1Rdk</ns1:videoId>
+  <ns1:channelId>UCuwRke43bi6P-Hs93RPG4Og</ns1:channelId>
+  <ns0:title>[当下频道DxChannel]跑遍全上海，跨越30年！只为找到这本相册的主人 Back to Shanghai in 90's to return lost photo album</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=FNWbTvk1Rdk" />
   <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
+   <ns0:name>当下频道DxChannel</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-01-13T00:26:17+00:00</ns0:published>
-  <ns0:updated>2026-02-07T23:09:54+00:00</ns0:updated>
+  <ns0:published>2024-04-19T10:00:13+00:00</ns0:published>
+  <ns0:updated>2025-06-10T15:37:45+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>The New Siri is... Google (Explained)</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/TVsounscj4U?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/TVsounscj4U/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Siri by Google. Makes you think.
+   <ns2:title>跑遍全上海，跨越30年！只为找到这本相册的主人 Back to Shanghai in 90's to return lost photo album</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/FNWbTvk1Rdk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/FNWbTvk1Rdk/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>这期我们重返上海90年代追踪老相册，路过相册主人定格过的风景，感受她记忆中的幸福喜悦，回忆属于你我的繁花记忆。再次感谢在寻人之旅中各位朋友的帮助。如果你喜欢这支视频的话，请多多支持我们～
+▷▷▷▷▷▷▷▷▷▷▷▷▷▷▷
+hello! 这里是当下频道。
+在这里，我们浸润式体验、观察、和解读当代中国青年人的消费现象，并希望以此启发不同青年圈层的好奇心、感知力和同理心。
+欢迎订阅我的频道哦【当下频道】https://is.gd/wEsD8a
+🔔开启小铃铛获取我们的最新更新吧🔔
 
-Apple AI video: https://youtu.be/hz6oys4Eem4?si=v362Nuiwg8y_pPPL
+Hi Welcome to DxChannel!
+Mini doc explainers made by, for and about Chinese Gen Z.   
+👉Click here to subscribe: https://is.gd/wEsD8a
+🔔Open this little bell can get our newest update🔔
 
-MKBHD Merch: http://shop.MKBHD.com
+更多精彩视频请看 (More Videos)：
+【当下新消费】NEW CONSUMERISM                                                   https://is.gd/G0EXGX
+【我们这一天】This Is Us                                                                        https://is.gd/EhbpRX
+【当下乱码】DECODE                                                                              https://is.gd/nzPH6H
+【当下小白鼠】DX Try                                                                              https://is.gd/vVzIwx
+【当下VLOG】Our Behind The Scenes and Bonus Footages!           https://is.gd/f28vL6
+【当下频道特别企划】Special Episode of DXChannel                        https://is.gd/iPd6l2
 
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
+#当下频道 #社会观察 #青年文化</ns2:description>
    <ns2:community>
-    <ns2:starRating count="112526" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3874794" />
+    <ns2:starRating count="170" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4001" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:06J87nIMvNk</ns0:id>
-  <ns1:videoId>06J87nIMvNk</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]语法陷阱题 #12 ~ #16</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=06J87nIMvNk" />
+  <ns0:id>yt:video:tbXLhDrstO4</ns0:id>
+  <ns1:videoId>tbXLhDrstO4</ns1:videoId>
+  <ns1:channelId>UCuwRke43bi6P-Hs93RPG4Og</ns1:channelId>
+  <ns0:title>[当下频道DxChannel]背着老板说真心话？下辈子骑沙虫也不干自媒体了｜当下VLOG</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=tbXLhDrstO4" />
   <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
+   <ns0:name>当下频道DxChannel</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-01-10T06:02:43+00:00</ns0:published>
-  <ns0:updated>2026-02-09T14:39:11+00:00</ns0:updated>
+  <ns0:published>2024-04-09T10:15:03+00:00</ns0:published>
+  <ns0:updated>2025-06-17T09:30:09+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>语法陷阱题 #12 ~ #16</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/06J87nIMvNk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/06J87nIMvNk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
+   <ns2:title>背着老板说真心话？下辈子骑沙虫也不干自媒体了｜当下VLOG</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/tbXLhDrstO4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/tbXLhDrstO4/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>虽然天天嘴上说想死，但年轻人其实…我们在工作室里开了一场特别的茶话会，聊聊死亡这个沉重的话题。
+▷▷▷▷▷▷▷▷▷▷▷▷▷▷▷
+hello! 这里是当下频道。
+在这里，我们浸润式体验、观察、和解读当代中国青年人的消费现象，并希望以此启发不同青年圈层的好奇心、感知力和同理心。
+欢迎订阅我的频道哦【当下频道】https://is.gd/wEsD8a
+🔔开启小铃铛获取我们的最新更新吧🔔
+
+Hi Welcome to DxChannel!
+Mini doc explainers made by, for and about Chinese Gen Z.   
+👉Click here to subscribe: https://is.gd/wEsD8a
+🔔Open this little bell can get our newest update🔔
+
+更多精彩视频请看 (More Videos)：
+【当下新消费】NEW CONSUMERISM                                                   https://is.gd/G0EXGX
+【我们这一天】This Is Us                                                                        https://is.gd/EhbpRX
+【当下乱码】DECODE                                                                              https://is.gd/nzPH6H
+【当下小白鼠】DX Try                                                                              https://is.gd/vVzIwx
+【当下VLOG】Our Behind The Scenes and Bonus Footages!           https://is.gd/f28vL6
+【当下频道特别企划】Special Episode of DXChannel                        https://is.gd/iPd6l2
+
+#当下频道 #社会观察 #青年文化</ns2:description>
    <ns2:community>
-    <ns2:starRating count="51" average="5.00" min="1" max="5" />
-    <ns2:statistics views="987" />
+    <ns2:starRating count="77" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4595" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:HLUamwXQ218</ns0:id>
-  <ns1:videoId>HLUamwXQ218</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]The Problem with this “Ultra Luxury” Smartphone</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=HLUamwXQ218" />
+  <ns0:id>yt:video:_2CO-E3HBiw</ns0:id>
+  <ns1:videoId>_2CO-E3HBiw</ns1:videoId>
+  <ns1:channelId>UCuwRke43bi6P-Hs93RPG4Og</ns1:channelId>
+  <ns0:title>[当下频道DxChannel]素人也能上广告屏？花3000块把美女同事送上C位  ¥3000 to have your friend on a huge billboard</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=_2CO-E3HBiw" />
   <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
+   <ns0:name>当下频道DxChannel</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-01-09T23:21:29+00:00</ns0:published>
-  <ns0:updated>2026-02-08T04:01:06+00:00</ns0:updated>
+  <ns0:published>2024-02-04T04:00:21+00:00</ns0:published>
+  <ns0:updated>2025-06-05T19:56:15+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>The Problem with this “Ultra Luxury” Smartphone</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/HLUamwXQ218?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/HLUamwXQ218/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Do not buy this phone. And don’t fall for their website slop.
+   <ns2:title>素人也能上广告屏？花3000块把美女同事送上C位  ¥3000 to have your friend on a huge billboard</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/_2CO-E3HBiw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/_2CO-E3HBiw/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>为爱豆投大屏广告是最常见的应援行为，但如果将为爱发电的对象换成身边人……预算千元有没有可能拿下上海商场里的广告c位？
+▷▷▷▷▷▷▷▷▷▷▷▷▷▷▷
+hello! 这里是当下频道。
+在这里，我们浸润式体验、观察、和解读当代中国青年人的消费现象，并希望以此启发不同青年圈层的好奇心、感知力和同理心。
+欢迎订阅我的频道哦【当下频道】https://is.gd/wEsD8a
+🔔开启小铃铛获取我们的最新更新吧🔔
 
-MKBHD Merch: http://shop.MKBHD.com
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+Hi Welcome to DxChannel!
+Mini doc explainers made by, for and about Chinese Gen Z.   
+👉Click here to subscribe: https://is.gd/wEsD8a
+🔔Open this little bell can get our newest update🔔
 
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
+更多精彩视频请看 (More Videos)：
+【当下新消费】NEW CONSUMERISM                                                   https://is.gd/G0EXGX
+【我们这一天】This Is Us                                                                        https://is.gd/EhbpRX
+【当下乱码】DECODE                                                                              https://is.gd/nzPH6H
+【当下小白鼠】DX Try                                                                              https://is.gd/vVzIwx
+【当下VLOG】Our Behind The Scenes and Bonus Footages!           https://is.gd/f28vL6
+【当下频道特别企划】Special Episode of DXChannel                        https://is.gd/iPd6l2
+
+#当下频道 #社会观察 #青年文化 #广告 #大屏 #应援</ns2:description>
    <ns2:community>
-    <ns2:starRating count="78290" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2544379" />
+    <ns2:starRating count="306" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9122" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:CGo4SGeirn8</ns0:id>
-  <ns1:videoId>CGo4SGeirn8</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]corporate  cooperate 你会读混吗？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=CGo4SGeirn8" />
+  <ns0:id>yt:video:8lpfc3fx_rE</ns0:id>
+  <ns1:videoId>8lpfc3fx_rE</ns1:videoId>
+  <ns1:channelId>UCuwRke43bi6P-Hs93RPG4Og</ns1:channelId>
+  <ns0:title>[当下频道DxChannel]2023，没那么好，也没那么糟</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=8lpfc3fx_rE" />
   <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
+   <ns0:name>当下频道DxChannel</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-01-05T05:39:29+00:00</ns0:published>
-  <ns0:updated>2026-02-04T15:43:33+00:00</ns0:updated>
+  <ns0:published>2024-01-11T09:00:06+00:00</ns0:published>
+  <ns0:updated>2025-06-13T20:35:50+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>corporate  cooperate 你会读混吗？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/CGo4SGeirn8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/CGo4SGeirn8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
+   <ns2:title>2023，没那么好，也没那么糟</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/8lpfc3fx_rE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/8lpfc3fx_rE/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>希望支视频能传递所有的爱和力量给努力活着的大家，更有勇气去迎接新一年的磨难！感谢所有投稿的小伙伴们！如果你喜欢这期视频，也请多多订阅支持我们！
+▷▷▷▷▷▷▷▷▷▷▷▷▷▷▷
+hello! 这里是当下频道。
+在这里，我们浸润式体验、观察、和解读当代中国青年人的消费现象，并希望以此启发不同青年圈层的好奇心、感知力和同理心。
+欢迎订阅我的频道哦【当下频道】https://is.gd/wEsD8a
+🔔开启小铃铛获取我们的最新更新吧🔔
+
+Hi Welcome to DxChannel!
+Mini doc explainers made by, for and about Chinese Gen Z.   
+👉Click here to subscribe: https://is.gd/wEsD8a
+🔔Open this little bell can get our newest update🔔
+
+更多精彩视频请看 (More Videos)：
+【当下新消费】NEW CONSUMERISM                                                   https://is.gd/G0EXGX
+【我们这一天】This Is Us                                                                        https://is.gd/EhbpRX
+【当下乱码】DECODE                                                                              https://is.gd/nzPH6H
+【当下小白鼠】DX Try                                                                              https://is.gd/vVzIwx
+【当下VLOG】Our Behind The Scenes and Bonus Footages!           https://is.gd/f28vL6
+【当下频道特别企划】Special Episode of DXChannel                        https://is.gd/iPd6l2
+
+#当下频道 #社会观察 #青年文化</ns2:description>
    <ns2:community>
-    <ns2:starRating count="41" average="5.00" min="1" max="5" />
-    <ns2:statistics views="987" />
+    <ns2:starRating count="149" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3796" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:Jh9pFp1oM7E</ns0:id>
-  <ns1:videoId>Jh9pFp1oM7E</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]I shrunk down into an M5 chip</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=Jh9pFp1oM7E" />
+  <ns0:id>yt:video:f-YeJRTwsMw</ns0:id>
+  <ns1:videoId>f-YeJRTwsMw</ns1:videoId>
+  <ns1:channelId>UCuwRke43bi6P-Hs93RPG4Og</ns1:channelId>
+  <ns0:title>[当下频道DxChannel]创业7年，挑战全网“最自由”的自媒体工作室 Welcome to our Office!</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=f-YeJRTwsMw" />
   <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
+   <ns0:name>当下频道DxChannel</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og</ns0:uri>
   </ns0:author>
-  <ns0:published>2025-12-26T15:00:12+00:00</ns0:published>
-  <ns0:updated>2026-02-08T01:23:26+00:00</ns0:updated>
+  <ns0:published>2023-12-14T11:00:35+00:00</ns0:published>
+  <ns0:updated>2025-06-13T09:31:03+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>I shrunk down into an M5 chip</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/Jh9pFp1oM7E?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/Jh9pFp1oM7E/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>I shrunk myself down to explore the scale of transistors.
+   <ns2:title>创业7年，挑战全网“最自由”的自媒体工作室 Welcome to our Office!</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/f-YeJRTwsMw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/f-YeJRTwsMw/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>这期vlog想要和大家分享当下频道的现状，顺便带大家看看我们的新工作室
+▷▷▷▷▷▷▷▷▷▷▷▷▷▷▷
+hello! 这里是当下频道。
+在这里，我们浸润式体验、观察、和解读当代中国青年人的消费现象，并希望以此启发不同青年圈层的好奇心、感知力和同理心。
+欢迎订阅我的频道哦【当下频道】https://is.gd/wEsD8a
+🔔开启小铃铛获取我们的最新更新吧🔔
 
-Watch the companion video from @EpicSpaceman 
+Hi Welcome to DxChannel!
+Mini doc explainers made by, for and about Chinese Gen Z.   
+👉Click here to subscribe: https://is.gd/wEsD8a
+🔔Open this little bell can get our newest update🔔
 
-MKBHD Merch: http://shop.MKBHD.com
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+更多精彩视频请看 (More Videos)：
+【当下新消费】NEW CONSUMERISM                                                   https://is.gd/G0EXGX
+【我们这一天】This Is Us                                                                        https://is.gd/EhbpRX
+【当下乱码】DECODE                                                                              https://is.gd/nzPH6H
+【当下小白鼠】DX Try                                                                              https://is.gd/vVzIwx
+【当下VLOG】Our Behind The Scenes and Bonus Footages!           https://is.gd/f28vL6
+【当下频道特别企划】Special Episode of DXChannel                        https://is.gd/iPd6l2
 
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
+#当下频道 #社会观察 #青年文化</ns2:description>
    <ns2:community>
-    <ns2:starRating count="239111" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3233395" />
+    <ns2:starRating count="398" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11497" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:nY6vbsm0I8w</ns0:id>
-  <ns1:videoId>nY6vbsm0I8w</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]《Bad Guy》：坏人的共性是什么？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=nY6vbsm0I8w" />
+  <ns0:id>yt:video:YVxNc0FN8ww</ns0:id>
+  <ns1:videoId>YVxNc0FN8ww</ns1:videoId>
+  <ns1:channelId>UCuwRke43bi6P-Hs93RPG4Og</ns1:channelId>
+  <ns0:title>[当下频道DxChannel]“包治百病”的癌症村，能治愈绝望的病人吗？I investigated the longevity county of China</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=YVxNc0FN8ww" />
   <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
+   <ns0:name>当下频道DxChannel</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og</ns0:uri>
   </ns0:author>
-  <ns0:published>2025-12-25T11:28:49+00:00</ns0:published>
-  <ns0:updated>2026-01-24T14:34:12+00:00</ns0:updated>
+  <ns0:published>2023-11-30T09:00:32+00:00</ns0:published>
+  <ns0:updated>2025-06-08T10:27:30+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>《Bad Guy》：坏人的共性是什么？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/nY6vbsm0I8w?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/nY6vbsm0I8w/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
+   <ns2:title>“包治百病”的癌症村，能治愈绝望的病人吗？I investigated the longevity county of China</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/YVxNc0FN8ww?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/YVxNc0FN8ww/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>不用吃药就能治病，长寿之乡巴马是营销还是奇迹?我们去这里住了一周发现…
+▷▷▷▷▷▷▷▷▷▷▷▷▷▷▷
+hello! 这里是当下频道。
+在这里，我们浸润式体验、观察、和解读当代中国青年人的消费现象，并希望以此启发不同青年圈层的好奇心、感知力和同理心。
+欢迎订阅我的频道哦【当下频道】https://is.gd/wEsD8a
+🔔开启小铃铛获取我们的最新更新吧🔔
+
+Hi Welcome to DxChannel!
+Mini doc explainers made by, for and about Chinese Gen Z.   
+👉Click here to subscribe: https://is.gd/wEsD8a
+🔔Open this little bell can get our newest update🔔
+
+更多精彩视频请看 (More Videos)：
+【当下新消费】NEW CONSUMERISM                                                   https://is.gd/G0EXGX
+【我们这一天】This Is Us                                                                        https://is.gd/EhbpRX
+【当下乱码】DECODE                                                                              https://is.gd/nzPH6H
+【当下小白鼠】DX Try                                                                              https://is.gd/vVzIwx
+【当下VLOG】Our Behind The Scenes and Bonus Footages!           https://is.gd/f28vL6
+【当下频道特别企划】Special Episode of DXChannel                        https://is.gd/iPd6l2
+
+#当下频道 #社会观察 #青年文化</ns2:description>
    <ns2:community>
-    <ns2:starRating count="31" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1012" />
+    <ns2:starRating count="298" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10668" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:v-sCZN3FbR0</ns0:id>
-  <ns1:videoId>v-sCZN3FbR0</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]Every Mistake I Made in 2025</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=v-sCZN3FbR0" />
+  <ns0:id>yt:video:1iRy9cbXotU</ns0:id>
+  <ns1:videoId>1iRy9cbXotU</ns1:videoId>
+  <ns1:channelId>UCuwRke43bi6P-Hs93RPG4Og</ns1:channelId>
+  <ns0:title>[当下频道DxChannel]一场演唱会净赚300万，黄牛还让我付费当保安？！Concerts in China are ruled by ticket scalper mafia. Here is why.</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=1iRy9cbXotU" />
   <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
+   <ns0:name>当下频道DxChannel</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCuwRke43bi6P-Hs93RPG4Og</ns0:uri>
   </ns0:author>
-  <ns0:published>2025-12-23T00:51:58+00:00</ns0:published>
-  <ns0:updated>2026-02-08T00:39:50+00:00</ns0:updated>
+  <ns0:published>2023-11-04T12:40:45+00:00</ns0:published>
+  <ns0:updated>2025-06-04T05:51:55+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Every Mistake I Made in 2025</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/v-sCZN3FbR0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/v-sCZN3FbR0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>I miss annotations.
+   <ns2:title>一场演唱会净赚300万，黄牛还让我付费当保安？！Concerts in China are ruled by ticket scalper mafia. Here is why.</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/1iRy9cbXotU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/1iRy9cbXotU/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>演出五花八门，黄牛损招不断，想看场演唱会就这么费劲吗？
+▷▷▷▷▷▷▷▷▷▷▷▷▷▷▷
+hello! 这里是当下频道。
+在这里，我们浸润式体验、观察、和解读当代中国青年人的消费现象，并希望以此启发不同青年圈层的好奇心、感知力和同理心。
+欢迎订阅我的频道哦【当下频道】https://is.gd/wEsD8a
+🔔开启小铃铛获取我们的最新更新吧🔔
 
-MKBHD Merch: http://shop.MKBHD.com
+Hi Welcome to DxChannel!
+Mini doc explainers made by, for and about Chinese Gen Z.   
+👉Click here to subscribe: https://is.gd/wEsD8a
+🔔Open this little bell can get our newest update🔔
 
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+更多精彩视频请看 (More Videos)：
+【当下新消费】NEW CONSUMERISM                                                   https://is.gd/G0EXGX
+【我们这一天】This Is Us                                                                        https://is.gd/EhbpRX
+【当下乱码】DECODE                                                                              https://is.gd/nzPH6H
+【当下小白鼠】DX Try                                                                              https://is.gd/vVzIwx
+【当下VLOG】Our Behind The Scenes and Bonus Footages!           https://is.gd/f28vL6
+【当下频道特别企划】Special Episode of DXChannel                        https://is.gd/iPd6l2
 
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
+#当下频道 #社会观察 #青年文化</ns2:description>
    <ns2:community>
-    <ns2:starRating count="55537" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1260304" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:7NhpqoKwpqA</ns0:id>
-  <ns1:videoId>7NhpqoKwpqA</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]Tyger《老虎》</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=7NhpqoKwpqA" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-20T11:10:42+00:00</ns0:published>
-  <ns0:updated>2026-01-19T14:56:07+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Tyger《老虎》</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/7NhpqoKwpqA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/7NhpqoKwpqA/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="34" average="5.00" min="1" max="5" />
-    <ns2:statistics views="930" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:NC1nzXq6Rh4</ns0:id>
-  <ns1:videoId>NC1nzXq6Rh4</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]PROOF the Trifold is Awesome!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/NC1nzXq6Rh4" />
-  <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-18T22:39:54+00:00</ns0:published>
-  <ns0:updated>2025-12-27T00:39:19+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>PROOF the Trifold is Awesome!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/NC1nzXq6Rh4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/NC1nzXq6Rh4/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="115207" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4342603" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:trsHTKqmZOk</ns0:id>
-  <ns1:videoId>trsHTKqmZOk</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]Samsung Galaxy Z Tri Fold Impressions: NOW It Makes Sense!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=trsHTKqmZOk" />
-  <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-17T22:20:33+00:00</ns0:published>
-  <ns0:updated>2026-02-08T05:44:47+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Samsung Galaxy Z Tri Fold Impressions: NOW It Makes Sense!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/trsHTKqmZOk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/trsHTKqmZOk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Samsung's trifold is better than expected!
-
-Get your last minute gifts and save up to 47% off with Ridge at https://geni.us/RidgeMKBHD 
-
-Huawei Mate XT trifold: https://youtu.be/Yv_S7KrOlfk
-
-MKBHD Merch: http://shop.MKBHD.com
-
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="107580" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4141506" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:pdDRr_i44iw</ns0:id>
-  <ns1:videoId>pdDRr_i44iw</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]这句刷爆屏的“英语名言”居然有语法错误？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=pdDRr_i44iw" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-11T11:59:05+00:00</ns0:published>
-  <ns0:updated>2026-01-10T14:26:32+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>这句刷爆屏的“英语名言”居然有语法错误？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/pdDRr_i44iw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/pdDRr_i44iw/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="28" average="5.00" min="1" max="5" />
-    <ns2:statistics views="940" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:sfyL4BswUeE</ns0:id>
-  <ns1:videoId>sfyL4BswUeE</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]Smartphone Awards 2025!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=sfyL4BswUeE" />
-  <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-08T21:54:05+00:00</ns0:published>
-  <ns0:updated>2026-02-08T10:51:01+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Smartphone Awards 2025!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/sfyL4BswUeE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/sfyL4BswUeE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>The best (and worst) smartphones of 2025!
-
-MKBHD Merch: http://shop.MKBHD.com
-
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD
-
-0:00 Introduction
-1:28 Best Big Phone
-3:34 Best Small Phone
-6:09 Best Camera
-10:47 Best Value
-14:16 Best Battery
-17:04 The Design Award
-21:03 Best Foldable
-23:38 Most Improved
-25:45 Bust of the Year
-28:15 Phone of the Year</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="184734" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5007842" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:Mb6H7trzMfI</ns0:id>
-  <ns1:videoId>Mb6H7trzMfI</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]Driving Xiaomi's Electric Car: Are we Cooked?</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=Mb6H7trzMfI" />
-  <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-05T21:43:39+00:00</ns0:published>
-  <ns0:updated>2026-02-08T00:02:08+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Driving Xiaomi's Electric Car: Are we Cooked?</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/Mb6H7trzMfI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/Mb6H7trzMfI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Xiaomi (yes, that Xiaomi) made a ridiculously good car for the price.
-
-Get yourself or someone a gift they’ll actually use every day with Ridge. Get up to 47% off at https://geni.us/RidgeMKBHD
-
-Auto Focus video: https://youtu.be/sdSusCDZcDg?si=eaL2H2y5Iq-9jdem
-
-MKBHD Merch: http://shop.MKBHD.com
-
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD
-
-0:00 Intro
-0:34 The Xiaomi SU7
-3:06 Interior Features
-6:34 It's Modular!
-8:03 Driving Impressions
-13:39 Are we cooked?</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="253659" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9495758" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:jbARgCr-ys0</ns0:id>
-  <ns1:videoId>jbARgCr-ys0</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]will well while 你咋读一个样？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=jbARgCr-ys0" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-05T12:41:34+00:00</ns0:published>
-  <ns0:updated>2026-01-05T16:09:49+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>will well while 你咋读一个样？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/jbARgCr-ys0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/jbARgCr-ys0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="40" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1236" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:Qqyp00JPJZI</ns0:id>
-  <ns1:videoId>Qqyp00JPJZI</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]"Siri Isn't That Bad"</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=Qqyp00JPJZI" />
-  <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-11-28T19:35:27+00:00</ns0:published>
-  <ns0:updated>2026-02-12T18:45:04+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>"Siri Isn't That Bad"</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/Qqyp00JPJZI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/Qqyp00JPJZI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>I expected nothing less from you all
-
-Save up to 47% with Ridge’s Black Friday sales event at https://ridge.com/MKBHD
-
-@JxmyHighroller: https://www.youtube.com/@JxmyHighroller
-
-MKBHD Merch: http://shop.MKBHD.com
-
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="61518" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1941327" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:xw3ANOYrLpw</ns0:id>
-  <ns1:videoId>xw3ANOYrLpw</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]“母亲今天死了。或者是昨天，我不确定。”</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=xw3ANOYrLpw" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-11-20T11:36:32+00:00</ns0:published>
-  <ns0:updated>2026-02-10T23:57:57+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>“母亲今天死了。或者是昨天，我不确定。”</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/xw3ANOYrLpw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/xw3ANOYrLpw/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="63" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1299" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:a8pNlj8EhTs</ns0:id>
-  <ns1:videoId>a8pNlj8EhTs</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]economic 和 economical 有啥区别？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=a8pNlj8EhTs" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-11-18T12:28:08+00:00</ns0:published>
-  <ns0:updated>2026-02-10T23:55:45+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>economic 和 economical 有啥区别？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/a8pNlj8EhTs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/a8pNlj8EhTs/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="57" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1003" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:KN_N-abS63g</ns0:id>
-  <ns1:videoId>KN_N-abS63g</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]was 到底咋读？/wɒz wɑːz wʌz wəz/？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=KN_N-abS63g" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-11-05T11:49:18+00:00</ns0:published>
-  <ns0:updated>2026-02-09T11:46:13+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>was 到底咋读？/wɒz wɑːz wʌz wəz/？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/KN_N-abS63g?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/KN_N-abS63g/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="54" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1433" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:v9M18Gm7pbM</ns0:id>
-  <ns1:videoId>v9M18Gm7pbM</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]I saw her duck 这话啥意思？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=v9M18Gm7pbM" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-10-25T04:22:24+00:00</ns0:published>
-  <ns0:updated>2026-02-10T19:39:07+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>I saw her duck 这话啥意思？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/v9M18Gm7pbM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/v9M18Gm7pbM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="235" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8696" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:QgkBolC0AzU</ns0:id>
-  <ns1:videoId>QgkBolC0AzU</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]bus是哪个词的缩写？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=QgkBolC0AzU" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-09-14T04:27:28+00:00</ns0:published>
-  <ns0:updated>2025-10-14T14:10:47+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>bus是哪个词的缩写？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/QgkBolC0AzU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/QgkBolC0AzU/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="317" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12445" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:B0nK-2Z8rlQ</ns0:id>
-  <ns1:videoId>B0nK-2Z8rlQ</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]这些英文单词居然来自中文？！</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=B0nK-2Z8rlQ" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-02-04T03:58:34+00:00</ns0:published>
-  <ns0:updated>2025-06-05T03:52:07+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>这些英文单词居然来自中文？！</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/B0nK-2Z8rlQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/B0nK-2Z8rlQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="529" average="5.00" min="1" max="5" />
-    <ns2:statistics views="16984" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:a9GVYGEMJfQ</ns0:id>
-  <ns1:videoId>a9GVYGEMJfQ</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]英语发音秘诀</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=a9GVYGEMJfQ" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2024-12-28T04:29:24+00:00</ns0:published>
-  <ns0:updated>2025-06-12T19:42:44+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>英语发音秘诀</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/a9GVYGEMJfQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/a9GVYGEMJfQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="507" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12063" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:s0MJvZBmTQY</ns0:id>
-  <ns1:videoId>s0MJvZBmTQY</ns1:videoId>
-  <ns1:channelId>UCTfRwznpxtbjQQQJ_15Fk2w</ns1:channelId>
-  <ns0:title>[逍遥散人]【散人】人气下降就会毙命！逃离恐怖真人秀 P7 完结🤵游戏版《楚门的世界》（完结共7P）</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=s0MJvZBmTQY" />
-  <ns0:author>
-   <ns0:name>逍遥散人</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCTfRwznpxtbjQQQJ_15Fk2w</ns0:uri>
-  </ns0:author>
-  <ns0:published>2024-10-23T04:00:41+00:00</ns0:published>
-  <ns0:updated>2025-06-08T20:49:35+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【散人】人气下降就会毙命！逃离恐怖真人秀 P7 完结🤵游戏版《楚门的世界》（完结共7P）</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/s0MJvZBmTQY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/s0MJvZBmTQY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>American Arcadia
-跟随主角逃离全球人气最高的电视真人秀节目。一款第一人称与第三人称巧妙结合的游戏，创意无限。剧情跌宕起伏，值得一看。
-喜欢的朋友欢迎按赞评论支持，感谢！
-
-散人🌟GAMES，快乐就完事儿了！
-欢迎订阅👉【https://bit.ly/3w48EUY 】
-🔔打开小铃铛，记得第一时间来看我的频道更新哦
-
-👇这里还有更多好玩儿的视频，可以看看
-【I wanna！！！】                                     https://bit.ly/3w4uyqZ 
-【其余小型 I wanna 实况】                       https://bit.ly/3i62MlK 
-【孙美琪疑案】                                           https://bit.ly/3t8V1ly 
-【独立游戏系列】                                       https://bit.ly/3IaAcKK 
-
-#逍遥散人#游戏#Iwanna#独立游戏</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="19" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1277" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:hxk-fGsAFGI</ns0:id>
-  <ns1:videoId>hxk-fGsAFGI</ns1:videoId>
-  <ns1:channelId>UCTfRwznpxtbjQQQJ_15Fk2w</ns1:channelId>
-  <ns0:title>[逍遥散人]【散人】人气下降就会毙命！逃离恐怖真人秀 P6 迷离幻境🤵游戏版《楚门的世界》（完结共7P）</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=hxk-fGsAFGI" />
-  <ns0:author>
-   <ns0:name>逍遥散人</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCTfRwznpxtbjQQQJ_15Fk2w</ns0:uri>
-  </ns0:author>
-  <ns0:published>2024-10-22T04:00:29+00:00</ns0:published>
-  <ns0:updated>2025-06-10T15:35:26+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【散人】人气下降就会毙命！逃离恐怖真人秀 P6 迷离幻境🤵游戏版《楚门的世界》（完结共7P）</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/hxk-fGsAFGI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/hxk-fGsAFGI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>American Arcadia
-跟随主角逃离全球人气最高的电视真人秀节目。一款第一人称与第三人称巧妙结合的游戏，创意无限。剧情跌宕起伏，值得一看。
-喜欢的朋友欢迎按赞评论支持，感谢！
-
-散人🌟GAMES，快乐就完事儿了！
-欢迎订阅👉【https://bit.ly/3w48EUY 】
-🔔打开小铃铛，记得第一时间来看我的频道更新哦
-
-👇这里还有更多好玩儿的视频，可以看看
-【I wanna！！！】                                     https://bit.ly/3w4uyqZ 
-【其余小型 I wanna 实况】                       https://bit.ly/3i62MlK 
-【孙美琪疑案】                                           https://bit.ly/3t8V1ly 
-【独立游戏系列】                                       https://bit.ly/3IaAcKK 
-
-#逍遥散人#游戏#Iwanna#独立游戏</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="6" average="5.00" min="1" max="5" />
-    <ns2:statistics views="509" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:F017IlpE52E</ns0:id>
-  <ns1:videoId>F017IlpE52E</ns1:videoId>
-  <ns1:channelId>UCTfRwznpxtbjQQQJ_15Fk2w</ns1:channelId>
-  <ns0:title>[逍遥散人]【散人】人气下降就会毙命！逃离恐怖真人秀 P5 公司潜入🤵游戏版《楚门的世界》（完结共7P）</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=F017IlpE52E" />
-  <ns0:author>
-   <ns0:name>逍遥散人</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCTfRwznpxtbjQQQJ_15Fk2w</ns0:uri>
-  </ns0:author>
-  <ns0:published>2024-10-21T04:00:16+00:00</ns0:published>
-  <ns0:updated>2025-06-13T22:18:10+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【散人】人气下降就会毙命！逃离恐怖真人秀 P5 公司潜入🤵游戏版《楚门的世界》（完结共7P）</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/F017IlpE52E?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/F017IlpE52E/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>American Arcadia
-跟随主角逃离全球人气最高的电视真人秀节目。一款第一人称与第三人称巧妙结合的游戏，创意无限。剧情跌宕起伏，值得一看。
-喜欢的朋友欢迎按赞评论支持，感谢！
-
-散人🌟GAMES，快乐就完事儿了！
-欢迎订阅👉【https://bit.ly/3w48EUY 】
-🔔打开小铃铛，记得第一时间来看我的频道更新哦
-
-👇这里还有更多好玩儿的视频，可以看看
-【I wanna！！！】                                     https://bit.ly/3w4uyqZ 
-【其余小型 I wanna 实况】                       https://bit.ly/3i62MlK 
-【孙美琪疑案】                                           https://bit.ly/3t8V1ly 
-【独立游戏系列】                                       https://bit.ly/3IaAcKK 
-
-#逍遥散人#游戏#Iwanna#独立游戏</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="8" average="5.00" min="1" max="5" />
-    <ns2:statistics views="532" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:D7pd_M8o4JI</ns0:id>
-  <ns1:videoId>D7pd_M8o4JI</ns1:videoId>
-  <ns1:channelId>UCTfRwznpxtbjQQQJ_15Fk2w</ns1:channelId>
-  <ns0:title>[逍遥散人]【散人】人气下降就会毙命！逃离恐怖真人秀 P4 密林逃亡🤵游戏版《楚门的世界》（完结共7P）</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=D7pd_M8o4JI" />
-  <ns0:author>
-   <ns0:name>逍遥散人</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCTfRwznpxtbjQQQJ_15Fk2w</ns0:uri>
-  </ns0:author>
-  <ns0:published>2024-10-20T04:00:08+00:00</ns0:published>
-  <ns0:updated>2025-06-08T21:24:19+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【散人】人气下降就会毙命！逃离恐怖真人秀 P4 密林逃亡🤵游戏版《楚门的世界》（完结共7P）</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/D7pd_M8o4JI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/D7pd_M8o4JI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>American Arcadia
-跟随主角逃离全球人气最高的电视真人秀节目。一款第一人称与第三人称巧妙结合的游戏，创意无限。剧情跌宕起伏，值得一看。
-喜欢的朋友欢迎按赞评论支持，感谢！
-
-散人🌟GAMES，快乐就完事儿了！
-欢迎订阅👉【https://bit.ly/3w48EUY 】
-🔔打开小铃铛，记得第一时间来看我的频道更新哦
-
-👇这里还有更多好玩儿的视频，可以看看
-【I wanna！！！】                                     https://bit.ly/3w4uyqZ 
-【其余小型 I wanna 实况】                       https://bit.ly/3i62MlK 
-【孙美琪疑案】                                           https://bit.ly/3t8V1ly 
-【独立游戏系列】                                       https://bit.ly/3IaAcKK 
-
-#逍遥散人#游戏#Iwanna#独立游戏</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="4" average="5.00" min="1" max="5" />
-    <ns2:statistics views="392" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:7-SlJkKk9Es</ns0:id>
-  <ns1:videoId>7-SlJkKk9Es</ns1:videoId>
-  <ns1:channelId>UCTfRwznpxtbjQQQJ_15Fk2w</ns1:channelId>
-  <ns0:title>[逍遥散人]【散人】人气下降就会毙命！逃离恐怖真人秀 P3 权限争夺🤵游戏版《楚门的世界》（完结共7P）</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=7-SlJkKk9Es" />
-  <ns0:author>
-   <ns0:name>逍遥散人</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCTfRwznpxtbjQQQJ_15Fk2w</ns0:uri>
-  </ns0:author>
-  <ns0:published>2024-10-19T04:00:07+00:00</ns0:published>
-  <ns0:updated>2025-06-08T21:22:06+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【散人】人气下降就会毙命！逃离恐怖真人秀 P3 权限争夺🤵游戏版《楚门的世界》（完结共7P）</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/7-SlJkKk9Es?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/7-SlJkKk9Es/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>American Arcadia
-跟随主角逃离全球人气最高的电视真人秀节目。一款第一人称与第三人称巧妙结合的游戏，创意无限。剧情跌宕起伏，值得一看。
-喜欢的朋友欢迎按赞评论支持，感谢！
-
-散人🌟GAMES，快乐就完事儿了！
-欢迎订阅👉【https://bit.ly/3w48EUY 】
-🔔打开小铃铛，记得第一时间来看我的频道更新哦
-
-👇这里还有更多好玩儿的视频，可以看看
-【I wanna！！！】                                     https://bit.ly/3w4uyqZ 
-【其余小型 I wanna 实况】                       https://bit.ly/3i62MlK 
-【孙美琪疑案】                                           https://bit.ly/3t8V1ly 
-【独立游戏系列】                                       https://bit.ly/3IaAcKK 
-
-#逍遥散人#游戏#Iwanna#独立游戏</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="8" average="5.00" min="1" max="5" />
-    <ns2:statistics views="406" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:Iq41f3oOiL8</ns0:id>
-  <ns1:videoId>Iq41f3oOiL8</ns1:videoId>
-  <ns1:channelId>UCTfRwznpxtbjQQQJ_15Fk2w</ns1:channelId>
-  <ns0:title>[逍遥散人]【散人】人气下降就会毙命！逃离恐怖真人秀 P2 酒店逃离🤵游戏版《楚门的世界》（完结共7P）</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=Iq41f3oOiL8" />
-  <ns0:author>
-   <ns0:name>逍遥散人</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCTfRwznpxtbjQQQJ_15Fk2w</ns0:uri>
-  </ns0:author>
-  <ns0:published>2024-10-18T04:00:14+00:00</ns0:published>
-  <ns0:updated>2025-06-13T19:11:35+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【散人】人气下降就会毙命！逃离恐怖真人秀 P2 酒店逃离🤵游戏版《楚门的世界》（完结共7P）</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/Iq41f3oOiL8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/Iq41f3oOiL8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>American Arcadia
-跟随主角逃离全球人气最高的电视真人秀节目。一款第一人称与第三人称巧妙结合的游戏，创意无限。剧情跌宕起伏，值得一看。
-喜欢的朋友欢迎按赞评论支持，感谢！
-
-散人🌟GAMES，快乐就完事儿了！
-欢迎订阅👉【https://bit.ly/3w48EUY 】
-🔔打开小铃铛，记得第一时间来看我的频道更新哦
-
-👇这里还有更多好玩儿的视频，可以看看
-【I wanna！！！】                                     https://bit.ly/3w4uyqZ 
-【其余小型 I wanna 实况】                       https://bit.ly/3i62MlK 
-【孙美琪疑案】                                           https://bit.ly/3t8V1ly 
-【独立游戏系列】                                       https://bit.ly/3IaAcKK 
-
-#逍遥散人#游戏#Iwanna#独立游戏</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="10" average="5.00" min="1" max="5" />
-    <ns2:statistics views="556" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:b4tn6AHUafQ</ns0:id>
-  <ns1:videoId>b4tn6AHUafQ</ns1:videoId>
-  <ns1:channelId>UCTfRwznpxtbjQQQJ_15Fk2w</ns1:channelId>
-  <ns0:title>[逍遥散人]【散人】人气下降就会毙命！逃离恐怖真人秀 P1 恐怖真人秀🤵游戏版《楚门的世界》（完结共7P）</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=b4tn6AHUafQ" />
-  <ns0:author>
-   <ns0:name>逍遥散人</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCTfRwznpxtbjQQQJ_15Fk2w</ns0:uri>
-  </ns0:author>
-  <ns0:published>2024-10-17T04:00:22+00:00</ns0:published>
-  <ns0:updated>2025-06-13T09:51:43+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【散人】人气下降就会毙命！逃离恐怖真人秀 P1 恐怖真人秀🤵游戏版《楚门的世界》（完结共7P）</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/b4tn6AHUafQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/b4tn6AHUafQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>American Arcadia
-跟随主角逃离全球人气最高的电视真人秀节目。一款第一人称与第三人称巧妙结合的游戏，创意无限。剧情跌宕起伏，值得一看。
-喜欢的朋友欢迎按赞评论支持，感谢！
-
-散人🌟GAMES，快乐就完事儿了！
-欢迎订阅👉【https://bit.ly/3w48EUY 】
-🔔打开小铃铛，记得第一时间来看我的频道更新哦
-
-👇这里还有更多好玩儿的视频，可以看看
-【I wanna！！！】                                     https://bit.ly/3w4uyqZ 
-【其余小型 I wanna 实况】                       https://bit.ly/3i62MlK 
-【孙美琪疑案】                                           https://bit.ly/3t8V1ly 
-【独立游戏系列】                                       https://bit.ly/3IaAcKK 
-
-#逍遥散人#游戏#Iwanna#独立游戏</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="20" average="5.00" min="1" max="5" />
-    <ns2:statistics views="866" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:P2WL6M7oiJs</ns0:id>
-  <ns1:videoId>P2WL6M7oiJs</ns1:videoId>
-  <ns1:channelId>UCTfRwznpxtbjQQQJ_15Fk2w</ns1:channelId>
-  <ns0:title>[逍遥散人]【散人】网络黑客破案！员工自爆之谜《全网公敌2》试玩 P2 真相 （共2P）</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=P2WL6M7oiJs" />
-  <ns0:author>
-   <ns0:name>逍遥散人</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCTfRwznpxtbjQQQJ_15Fk2w</ns0:uri>
-  </ns0:author>
-  <ns0:published>2024-10-16T04:00:17+00:00</ns0:published>
-  <ns0:updated>2025-06-12T18:11:47+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【散人】网络黑客破案！员工自爆之谜《全网公敌2》试玩 P2 真相 （共2P）</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/P2WL6M7oiJs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/P2WL6M7oiJs/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>《全网公敌：新世界》续作来了，还是过去的味道，全程精彩，欢迎收看。
-一代正传 https://youtu.be/8W2Q8Y1z7mw
-DLC1甜蜜之家 https://youtu.be/qC3wox23SzQ
-DLC2 https://youtu.be/7PS1zCBPo_0
-
-散人🌟GAMES，快乐就完事儿了！
-欢迎订阅👉【https://bit.ly/3w48EUY 】
-🔔打开小铃铛，记得第一时间来看我的频道更新哦
-
-👇这里还有更多好玩儿的视频，可以看看
-【I wanna！！！】                                     https://bit.ly/3w4uyqZ 
-【其余小型 I wanna 实况】                       https://bit.ly/3i62MlK 
-【孙美琪疑案】                                           https://bit.ly/3t8V1ly 
-【独立游戏系列】                                       https://bit.ly/3IaAcKK 
-
-#逍遥散人#游戏#Iwanna#独立游戏</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="3" average="5.00" min="1" max="5" />
-    <ns2:statistics views="185" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:6rkS7q8UDhQ</ns0:id>
-  <ns1:videoId>6rkS7q8UDhQ</ns1:videoId>
-  <ns1:channelId>UCTfRwznpxtbjQQQJ_15Fk2w</ns1:channelId>
-  <ns0:title>[逍遥散人]【散人】网络黑客破案！员工自爆之谜《全网公敌2》试玩 P1 悲惨员工 （共2P）</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=6rkS7q8UDhQ" />
-  <ns0:author>
-   <ns0:name>逍遥散人</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCTfRwznpxtbjQQQJ_15Fk2w</ns0:uri>
-  </ns0:author>
-  <ns0:published>2024-10-15T04:00:05+00:00</ns0:published>
-  <ns0:updated>2025-06-08T14:26:42+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【散人】网络黑客破案！员工自爆之谜《全网公敌2》试玩 P1 悲惨员工 （共2P）</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/6rkS7q8UDhQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/6rkS7q8UDhQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>《全网公敌：新世界》续作来了，还是过去的味道，全程精彩，欢迎收看。
-一代正传 https://youtu.be/8W2Q8Y1z7mw
-DLC1甜蜜之家 https://youtu.be/qC3wox23SzQ
-DLC2 https://youtu.be/7PS1zCBPo_0
-
-散人🌟GAMES，快乐就完事儿了！
-欢迎订阅👉【https://bit.ly/3w48EUY 】
-🔔打开小铃铛，记得第一时间来看我的频道更新哦
-
-👇这里还有更多好玩儿的视频，可以看看
-【I wanna！！！】                                     https://bit.ly/3w4uyqZ 
-【其余小型 I wanna 实况】                       https://bit.ly/3i62MlK 
-【孙美琪疑案】                                           https://bit.ly/3t8V1ly 
-【独立游戏系列】                                       https://bit.ly/3IaAcKK 
-
-#逍遥散人#游戏#Iwanna#独立游戏</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="5" average="5.00" min="1" max="5" />
-    <ns2:statistics views="383" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:yVZaG1qM6j8</ns0:id>
-  <ns1:videoId>yVZaG1qM6j8</ns1:videoId>
-  <ns1:channelId>UCTfRwznpxtbjQQQJ_15Fk2w</ns1:channelId>
-  <ns0:title>[逍遥散人]【散人】沉浸式攀岩《jusant》 P4 登至巅峰⛰️登山美景 紧张刺激（完结共4P）</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=yVZaG1qM6j8" />
-  <ns0:author>
-   <ns0:name>逍遥散人</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCTfRwznpxtbjQQQJ_15Fk2w</ns0:uri>
-  </ns0:author>
-  <ns0:published>2024-10-14T04:00:42+00:00</ns0:published>
-  <ns0:updated>2025-06-15T02:19:13+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【散人】沉浸式攀岩《jusant》 P4 登至巅峰⛰️登山美景 紧张刺激（完结共4P）</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/yVZaG1qM6j8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/yVZaG1qM6j8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>jusant 
-一款攀岩游戏，各种小机制营造出紧张刺激的登山氛围，代入感极强。全程发力，玩完手都累了，哈哈。
-
-散人🌟GAMES，快乐就完事儿了！
-欢迎订阅👉【https://bit.ly/3w48EUY 】
-🔔打开小铃铛，记得第一时间来看我的频道更新哦
-
-👇这里还有更多好玩儿的视频，可以看看
-【I wanna！！！】                                     https://bit.ly/3w4uyqZ 
-【其余小型 I wanna 实况】                       https://bit.ly/3i62MlK 
-【孙美琪疑案】                                           https://bit.ly/3t8V1ly 
-【独立游戏系列】                                       https://bit.ly/3IaAcKK 
-
-#逍遥散人#游戏#Iwanna#独立游戏</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="6" average="5.00" min="1" max="5" />
-    <ns2:statistics views="275" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:4KsZDpBvHkk</ns0:id>
-  <ns1:videoId>4KsZDpBvHkk</ns1:videoId>
-  <ns1:channelId>UCTfRwznpxtbjQQQJ_15Fk2w</ns1:channelId>
-  <ns0:title>[逍遥散人]【散人】沉浸式攀岩《jusant》 P3 洞穴森林⛰️登山美景 紧张刺激（完结共4P）</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=4KsZDpBvHkk" />
-  <ns0:author>
-   <ns0:name>逍遥散人</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCTfRwznpxtbjQQQJ_15Fk2w</ns0:uri>
-  </ns0:author>
-  <ns0:published>2024-10-13T04:00:04+00:00</ns0:published>
-  <ns0:updated>2025-06-05T12:52:10+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【散人】沉浸式攀岩《jusant》 P3 洞穴森林⛰️登山美景 紧张刺激（完结共4P）</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/4KsZDpBvHkk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/4KsZDpBvHkk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>jusant 
-一款攀岩游戏，各种小机制营造出紧张刺激的登山氛围，代入感极强。全程发力，玩完手都累了，哈哈。
-
-散人🌟GAMES，快乐就完事儿了！
-欢迎订阅👉【https://bit.ly/3w48EUY 】
-🔔打开小铃铛，记得第一时间来看我的频道更新哦
-
-👇这里还有更多好玩儿的视频，可以看看
-【I wanna！！！】                                     https://bit.ly/3w4uyqZ 
-【其余小型 I wanna 实况】                       https://bit.ly/3i62MlK 
-【孙美琪疑案】                                           https://bit.ly/3t8V1ly 
-【独立游戏系列】                                       https://bit.ly/3IaAcKK 
-
-#逍遥散人#游戏#Iwanna#独立游戏</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="6" average="5.00" min="1" max="5" />
-    <ns2:statistics views="232" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:X6TZlUEmk3c</ns0:id>
-  <ns1:videoId>X6TZlUEmk3c</ns1:videoId>
-  <ns1:channelId>UCTfRwznpxtbjQQQJ_15Fk2w</ns1:channelId>
-  <ns0:title>[逍遥散人]【散人】沉浸式攀岩《jusant》 P2 岩石小蟹⛰️登山美景 紧张刺激（完结共4P）</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=X6TZlUEmk3c" />
-  <ns0:author>
-   <ns0:name>逍遥散人</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCTfRwznpxtbjQQQJ_15Fk2w</ns0:uri>
-  </ns0:author>
-  <ns0:published>2024-10-12T04:00:31+00:00</ns0:published>
-  <ns0:updated>2025-06-08T21:59:09+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【散人】沉浸式攀岩《jusant》 P2 岩石小蟹⛰️登山美景 紧张刺激（完结共4P）</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/X6TZlUEmk3c?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/X6TZlUEmk3c/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>jusant 
-一款攀岩游戏，各种小机制营造出紧张刺激的登山氛围，代入感极强。全程发力，玩完手都累了，哈哈。
-
-散人🌟GAMES，快乐就完事儿了！
-欢迎订阅👉【https://bit.ly/3w48EUY 】
-🔔打开小铃铛，记得第一时间来看我的频道更新哦
-
-👇这里还有更多好玩儿的视频，可以看看
-【I wanna！！！】                                     https://bit.ly/3w4uyqZ 
-【其余小型 I wanna 实况】                       https://bit.ly/3i62MlK 
-【孙美琪疑案】                                           https://bit.ly/3t8V1ly 
-【独立游戏系列】                                       https://bit.ly/3IaAcKK 
-
-#逍遥散人#游戏#Iwanna#独立游戏</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="10" average="5.00" min="1" max="5" />
-    <ns2:statistics views="384" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:OA8eyZNnZWA</ns0:id>
-  <ns1:videoId>OA8eyZNnZWA</ns1:videoId>
-  <ns1:channelId>UCTfRwznpxtbjQQQJ_15Fk2w</ns1:channelId>
-  <ns0:title>[逍遥散人]【散人】沉浸式攀岩《jusant》 P1 初入门槛⛰️登山美景 紧张刺激（完结共4P）</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=OA8eyZNnZWA" />
-  <ns0:author>
-   <ns0:name>逍遥散人</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCTfRwznpxtbjQQQJ_15Fk2w</ns0:uri>
-  </ns0:author>
-  <ns0:published>2024-10-11T04:00:14+00:00</ns0:published>
-  <ns0:updated>2025-06-13T00:40:25+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【散人】沉浸式攀岩《jusant》 P1 初入门槛⛰️登山美景 紧张刺激（完结共4P）</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/OA8eyZNnZWA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/OA8eyZNnZWA/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>jusant 
-一款攀岩游戏，各种小机制营造出紧张刺激的登山氛围，代入感极强。全程发力，玩完手都累了，哈哈。
-
-散人🌟GAMES，快乐就完事儿了！
-欢迎订阅👉【https://bit.ly/3w48EUY 】
-🔔打开小铃铛，记得第一时间来看我的频道更新哦
-
-👇这里还有更多好玩儿的视频，可以看看
-【I wanna！！！】                                     https://bit.ly/3w4uyqZ 
-【其余小型 I wanna 实况】                       https://bit.ly/3i62MlK 
-【孙美琪疑案】                                           https://bit.ly/3t8V1ly 
-【独立游戏系列】                                       https://bit.ly/3IaAcKK 
-
-#逍遥散人#游戏#Iwanna#独立游戏</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="17" average="5.00" min="1" max="5" />
-    <ns2:statistics views="456" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:qWBcIWl2Zp0</ns0:id>
-  <ns1:videoId>qWBcIWl2Zp0</ns1:videoId>
-  <ns1:channelId>UCTfRwznpxtbjQQQJ_15Fk2w</ns1:channelId>
-  <ns0:title>[逍遥散人]【散人】无限套娃？创意无限！超好玩解谜《cocoon》实况 P3 终极试炼（完结共3P）</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=qWBcIWl2Zp0" />
-  <ns0:author>
-   <ns0:name>逍遥散人</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCTfRwznpxtbjQQQJ_15Fk2w</ns0:uri>
-  </ns0:author>
-  <ns0:published>2024-10-10T04:00:39+00:00</ns0:published>
-  <ns0:updated>2025-06-07T03:17:32+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【散人】无限套娃？创意无限！超好玩解谜《cocoon》实况 P3 终极试炼（完结共3P）</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/qWBcIWl2Zp0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/qWBcIWl2Zp0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>游戏名cocoon limbo和inside的游戏设计师新作，太好玩了！
-纵横宇宙，穿越时空大冒险，年度独立游戏预定了，大爱！
-喜欢的朋友欢迎按赞评论，分享给更多小伙伴，看着玩吧。
-
-散人🌟GAMES，快乐就完事儿了！
-欢迎订阅👉【https://bit.ly/3w48EUY 】
-🔔打开小铃铛，记得第一时间来看我的频道更新哦
-
-👇这里还有更多好玩儿的视频，可以看看
-【I wanna！！！】                                     https://bit.ly/3w4uyqZ 
-【其余小型 I wanna 实况】                       https://bit.ly/3i62MlK 
-【孙美琪疑案】                                           https://bit.ly/3t8V1ly 
-【独立游戏系列】                                       https://bit.ly/3IaAcKK 
-
-#逍遥散人#游戏#Iwanna#独立游戏</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="10" average="5.00" min="1" max="5" />
-    <ns2:statistics views="337" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:0xwfJ34RSHY</ns0:id>
-  <ns1:videoId>0xwfJ34RSHY</ns1:videoId>
-  <ns1:channelId>UCTfRwznpxtbjQQQJ_15Fk2w</ns1:channelId>
-  <ns0:title>[逍遥散人]【散人】无限套娃？创意无限！超好玩解谜《cocoon》实况 P2 套娃开始（完结共3P）</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=0xwfJ34RSHY" />
-  <ns0:author>
-   <ns0:name>逍遥散人</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCTfRwznpxtbjQQQJ_15Fk2w</ns0:uri>
-  </ns0:author>
-  <ns0:published>2024-10-09T04:00:03+00:00</ns0:published>
-  <ns0:updated>2025-06-05T10:53:56+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【散人】无限套娃？创意无限！超好玩解谜《cocoon》实况 P2 套娃开始（完结共3P）</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/0xwfJ34RSHY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/0xwfJ34RSHY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>游戏名cocoon limbo和inside的游戏设计师新作，太好玩了！
-纵横宇宙，穿越时空大冒险，年度独立游戏预定了，大爱！
-喜欢的朋友欢迎按赞评论，分享给更多小伙伴，看着玩吧。
-
-散人🌟GAMES，快乐就完事儿了！
-欢迎订阅👉【https://bit.ly/3w48EUY 】
-🔔打开小铃铛，记得第一时间来看我的频道更新哦
-
-👇这里还有更多好玩儿的视频，可以看看
-【I wanna！！！】                                     https://bit.ly/3w4uyqZ 
-【其余小型 I wanna 实况】                       https://bit.ly/3i62MlK 
-【孙美琪疑案】                                           https://bit.ly/3t8V1ly 
-【独立游戏系列】                                       https://bit.ly/3IaAcKK 
-
-#逍遥散人#游戏#Iwanna#独立游戏</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="11" average="5.00" min="1" max="5" />
-    <ns2:statistics views="375" />
+    <ns2:starRating count="299" average="5.00" min="1" max="5" />
+    <ns2:statistics views="17116" />
    </ns2:community>
   </ns2:group>
  </ns0:entry></feed>
