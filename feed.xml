@@ -1,415 +1,2205 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-04-21T03:49:52Z</updated><ns0:entry>
-  <ns0:id>yt:video:WJXKsUpa_gM</ns0:id>
-  <ns1:videoId>WJXKsUpa_gM</ns1:videoId>
-  <ns1:channelId>UCUGJ-yKqQHl4FSZwUmGpiUg</ns1:channelId>
-  <ns0:title>[回形针PaperClip]【提前动手】Vol.002 我们做了个公开成本的 T 恤套装</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=WJXKsUpa_gM" />
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-04-21T06:00:29Z</updated><ns0:entry>
+  <ns0:id>yt:video:k9xZuTMCR1Q</ns0:id>
+  <ns1:videoId>k9xZuTMCR1Q</ns1:videoId>
+  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
+  <ns0:title>[OpenAI]Designing faster life sciences experiments</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=k9xZuTMCR1Q" />
   <ns0:author>
-   <ns0:name>回形针PaperClip</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg</ns0:uri>
+   <ns0:name>OpenAI</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
   </ns0:author>
-  <ns0:published>2021-06-18T05:48:35+00:00</ns0:published>
-  <ns0:updated>2025-06-12T12:25:48+00:00</ns0:updated>
+  <ns0:published>2026-04-20T20:14:41+00:00</ns0:published>
+  <ns0:updated>2026-04-20T20:38:08+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>【提前动手】Vol.002 我们做了个公开成本的 T 恤套装</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/WJXKsUpa_gM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/WJXKsUpa_gM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>隆重介绍提前动手的第二款产品—— T 恤研究套装。这是三件看上去几乎一模一样，穿上身却各不相同的纯色圆领短袖纯棉 T 恤，不同的面料参数，照顾到不同场景下的你。
+   <ns2:title>Designing faster life sciences experiments</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/k9xZuTMCR1Q?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/k9xZuTMCR1Q/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>GPT‑Rosalind and the Life Sciences Research Plugin for Codex help researchers connect evidence, databases, and scientific tools to plan stronger follow-up experiments.
 
-另外，我们在视频中公开了这款产品的成本，感兴趣的朋友可以看看。
-
-◆趣味科普 科技博主
-◆每週不定期更新
-
-不要忘記訂閱這個頻道～</ns2:description>
+Learn more: https://openai.com/index/introducing-gpt-rosalind/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3333" average="5.00" min="1" max="5" />
-    <ns2:statistics views="338715" />
+    <ns2:starRating count="25" average="5.00" min="1" max="5" />
+    <ns2:statistics views="768" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:QrKazUkV9DI</ns0:id>
-  <ns1:videoId>QrKazUkV9DI</ns1:videoId>
-  <ns1:channelId>UCUGJ-yKqQHl4FSZwUmGpiUg</ns1:channelId>
-  <ns0:title>[回形针PaperClip]Vol.177 地震预报为什么这么难？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=QrKazUkV9DI" />
+  <ns0:id>yt:video:a-YJ6h7EJv8</ns0:id>
+  <ns1:videoId>a-YJ6h7EJv8</ns1:videoId>
+  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
+  <ns0:title>[OpenAI]Turning scattered evidence into discovery decisions for life sciences</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=a-YJ6h7EJv8" />
   <ns0:author>
-   <ns0:name>回形针PaperClip</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg</ns0:uri>
+   <ns0:name>OpenAI</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
   </ns0:author>
-  <ns0:published>2021-06-10T13:00:09+00:00</ns0:published>
-  <ns0:updated>2026-03-08T19:15:21+00:00</ns0:updated>
+  <ns0:published>2026-04-20T20:13:38+00:00</ns0:published>
+  <ns0:updated>2026-04-20T20:44:12+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Vol.177 地震预报为什么这么难？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/QrKazUkV9DI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/QrKazUkV9DI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>为什么地震预报到现在仍然是世界性难题？为了减少地震带来的损失，人类都做了哪些努力？
+   <ns2:title>Turning scattered evidence into discovery decisions for life sciences</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/a-YJ6h7EJv8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/a-YJ6h7EJv8/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>GPT‑Rosalind in Codex helps scientists move from raw scientific inputs to evidence-backed hypotheses, analysis, and research decisions across discovery workflows.
 
-◆趣味科普 科技博主
-◆每週不定期更新
-
-不要忘記訂閱這個頻道～</ns2:description>
+Learn more: https://openai.com/index/introducing-gpt-rosalind/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2337" average="5.00" min="1" max="5" />
-    <ns2:statistics views="129463" />
+    <ns2:starRating count="167" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4242" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:y0dougLEA8E</ns0:id>
-  <ns1:videoId>y0dougLEA8E</ns1:videoId>
-  <ns1:channelId>UCUGJ-yKqQHl4FSZwUmGpiUg</ns1:channelId>
-  <ns0:title>[回形针PaperClip]【提前动手】Vol.001 我们做了三面镜子：挺钢的，有点硬</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=y0dougLEA8E" />
+  <ns0:id>yt:video:-MV7Hg31usU</ns0:id>
+  <ns1:videoId>-MV7Hg31usU</ns1:videoId>
+  <ns1:channelId>UCbKWv2x9t6u8yZoB3KcPtnw</ns1:channelId>
+  <ns0:title>[Alan Becker]The Aether - Animation vs. Minecraft Shorts Ep 39</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=-MV7Hg31usU" />
   <ns0:author>
-   <ns0:name>回形针PaperClip</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg</ns0:uri>
+   <ns0:name>Alan Becker</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw</ns0:uri>
   </ns0:author>
-  <ns0:published>2021-06-03T05:53:32+00:00</ns0:published>
-  <ns0:updated>2025-11-26T04:10:50+00:00</ns0:updated>
+  <ns0:published>2026-04-18T12:00:06+00:00</ns0:published>
+  <ns0:updated>2026-04-20T16:20:30+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>【提前动手】Vol.001 我们做了三面镜子：挺钢的，有点硬</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/y0dougLEA8E?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/y0dougLEA8E/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>这是干燥工厂的全新栏目——提前动手。
+   <ns2:title>The Aether - Animation vs. Minecraft Shorts Ep 39</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/-MV7Hg31usU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/-MV7Hg31usU/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>YouTooz plushies ► https://youtooz.com/collections/alan-becker 
 
-做实业不容易，所以我们试图通过视频向大家汇报实体产品的工作进展，欢迎吐槽！今天介绍的是提前动手的第一款产品——很钢镜。简单来说，就是一面钢做成的镜子。
+🖐 ASK ME ANYTHING! ► https://www.youtube.com/noogai89/join 
 
-◆趣味科普 科技博主
-◆每週不定期更新
+👕 MERCH! ► https://alanbecker.shop
 
-不要忘記訂閱這個頻道～</ns2:description>
+💬DISCORD SERVER ► https://discord.gg/alanbecker 
+
+🕹️ANIMATORS VS GAMES ►  @AnimatorsVSGames 
+
+📷INSTAGRAM ► http://www.instagram.com/alanbecker 
+
+✏️TWITTER ► http://twitter.com/alanthebecker 
+
+
+🔹🔶DIRECTOR🔶🔹
+Alan Becker
+🔹🔶WRITER🔶🔹
+Alan Becker
+@its_me_skim 
+🔹🔶ANIMATION🔶🔹
+🔶2D🔶
+@ARCpersona 
+Exceld
+@doumaki4501 
+@robby24anims62 
+@Ellis02Media 
+@SimpleFox1 
+@MateusSilvaAnimationsOfc 
+@effie2095 
+@NotSoProishNoob 
+@n8sterAnimates 
+@Spacedoughnut 
+@efan_04 
+@oxob3000 
+rojackie
+@Shuriken255 
+@Hexalhaxel 
+🔶3D🔶
+@Ellis02Media 
+Skittlq https://skittlq.com/
+@Jaitie018 
+@SunnyIsOnline 
+🔹🔶MINECRAFT BUILDERS🔶🔹
+@RafalSzubaOfficial 
+@snovarh4665 
+https://twitter.com/BeefLeather?mx=1
+https://www.youtube.com/channel/UCz_zPxHteoeB1tE0duala2A
+@StacyBluebird 
+🔹🔶SCRIPTING🔶🔹
+@Shuriken255 
+🔹🔶MOB ASSETS🔶🔹
+Exceld
+@Shuriken255 
+🔹🔶COMPOSITING🔶🔹
+Grace
+🔹🔶SFX🔶🔹
+@dan_loeb 
+https://twitter.com/E_SoundWork 
+🔹🔶MUSIC🔶🔹
+@ScottBuckley 
+🔹🔶EDITORS🔶🔹
+@n8sterAnimates 
+@dan_loeb 
+🔹🔶THUMBNAIL ARTIST🔶🔹
+Exceld
+🔹🔶PRODUCTION COORDINATOR🔶🔹
+@n8sterAnimates 
+🔹🔶CREATIVE COORDINATOR🔶🔹
+@Fabian_Banu 
+🔹🔶PRODUCTION ASSISTANT🔶🔹
+Sammi Alea https://sammialea.com/ 
+🔹🔶LINE PRODUCER🔶🔹 
+ @hatena360
+
+Player Skin based on a Skin by @Nugcon</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1745" average="5.00" min="1" max="5" />
-    <ns2:statistics views="78437" />
+    <ns2:starRating count="161929" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2678607" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:UFtDQuwXDho</ns0:id>
-  <ns1:videoId>UFtDQuwXDho</ns1:videoId>
-  <ns1:channelId>UCUGJ-yKqQHl4FSZwUmGpiUg</ns1:channelId>
-  <ns0:title>[回形针PaperClip]Vol.176 你喝的牛奶从哪来？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=UFtDQuwXDho" />
+  <ns0:id>yt:video:CUxUJpI8DV4</ns0:id>
+  <ns1:videoId>CUxUJpI8DV4</ns1:videoId>
+  <ns1:channelId>UCxcuxsAjdnQaiRwYb5CVISw</ns1:channelId>
+  <ns0:title>[翼王]主动防止显卡烧接口的量产电源终于来了！微星MPG Ai1300TS PCIE5月神拆解评测【翼王】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=CUxUJpI8DV4" />
   <ns0:author>
-   <ns0:name>回形针PaperClip</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg</ns0:uri>
+   <ns0:name>翼王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw</ns0:uri>
   </ns0:author>
-  <ns0:published>2021-05-28T13:00:28+00:00</ns0:published>
-  <ns0:updated>2025-10-29T17:02:47+00:00</ns0:updated>
+  <ns0:published>2026-04-18T09:04:08+00:00</ns0:published>
+  <ns0:updated>2026-04-18T09:18:45+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Vol.176 你喝的牛奶从哪来？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/UFtDQuwXDho?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/UFtDQuwXDho/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>牧场里奶牛的一生是如何度过的？为了让我们喝上牛奶，奶牛都付出了哪些努力？
+   <ns2:title>主动防止显卡烧接口的量产电源终于来了！微星MPG Ai1300TS PCIE5月神拆解评测【翼王】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/CUxUJpI8DV4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/CUxUJpI8DV4/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>微星MPG Ai1300TS PCIE5内置了12V-2x6接口电流检测系统，据说可以在接口电流出现异常时主动报警甚至关机，这个保护功能实际使用起来怎么样，真能保护显卡吗，我们来测试一下。
 
-◆趣味科普 科技博主
-◆每週不定期更新
+BGM：
+Track: Flavour — Wataboi [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/iP-ug5RLe7w
+Free Download / Stream: https://alplus.io/flavour
 
-不要忘記訂閱這個頻道～</ns2:description>
+Song: Markvard - Vacation
+Music provided by Vlog No Copyright Music.
+Creative Commons - Attribution 3.0 Unported
+Video Link: https://youtu.be/ljryt9kQGH0
+
+Song: Peyruis - Neutral Bay (Vlog No Copyright Music)
+Music promoted by Vlog No Copyright Music.
+Video Link: https://youtu.be/CNBV015NL3U
+
+Song: LAKEY INSPIRED - Blossom
+Music provided by Vlog No Copyright Music.
+Creative Commons - Attribution-ShareAlike 3.0 Unported
+Video Link: https://youtu.be/c-HcOT3kV28
+
+Track: Doing Nothing — sakura Hz [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/o5ivAJQ_iHQ
+Free Download / Stream: https://alplus.io/Doing-nothing</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2775" average="5.00" min="1" max="5" />
-    <ns2:statistics views="143411" />
+    <ns2:starRating count="187" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6126" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:MTT9Qvd9Ko8</ns0:id>
-  <ns1:videoId>MTT9Qvd9Ko8</ns1:videoId>
-  <ns1:channelId>UCUGJ-yKqQHl4FSZwUmGpiUg</ns1:channelId>
-  <ns0:title>[回形针PaperClip]Vol.175 血糖监测对糖尿病人到底有多重要？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=MTT9Qvd9Ko8" />
+  <ns0:id>yt:video:UZyH0nx5zgI</ns0:id>
+  <ns1:videoId>UZyH0nx5zgI</ns1:videoId>
+  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
+  <ns0:title>[OpenAI]Episode 16: Building AI for Life Sciences</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=UZyH0nx5zgI" />
   <ns0:author>
-   <ns0:name>回形针PaperClip</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg</ns0:uri>
+   <ns0:name>OpenAI</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
   </ns0:author>
-  <ns0:published>2021-05-25T13:00:07+00:00</ns0:published>
-  <ns0:updated>2025-06-14T23:06:26+00:00</ns0:updated>
+  <ns0:published>2026-04-16T19:04:11+00:00</ns0:published>
+  <ns0:updated>2026-04-19T01:41:27+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Vol.175 血糖监测对糖尿病人到底有多重要？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/MTT9Qvd9Ko8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/MTT9Qvd9Ko8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>今天，全国有超过一亿糖尿病患者，他们必须时刻关注饮食运动等情况对自身血糖的影响。糖尿病是怎么一回事？糖尿病人又该如何科学监测自己的血糖？
+   <ns2:title>Episode 16: Building AI for Life Sciences</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/UZyH0nx5zgI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/UZyH0nx5zgI/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>What does it take to build AI systems that can actually help scientists? Research lead Joy Jiao and product lead Yunyun Wang discuss how OpenAI is developing models for life sciences and what responsible deployment means in a field with real biosecurity stakes. They explore how AI is already improving research workflows and where it could lead in drug discovery and more autonomous labs — including why a future with less pipetting sounds pretty good to most scientists.
 
-◆趣味科普 科技博主
-◆每週不定期更新
+Chapters
 
-不要忘記訂閱這個頻道～</ns2:description>
+0:39 Introducing the Life Sciences model series
+3:47 Joy’s path into life sciences 
+5:00 Autonomous lab with Ginkgo Bioworks
+7:27 Yunyun’s path into life sciences
+8:12 OpenAI’s life sciences work
+9:48 Biorisk, access, and safeguards
+15:43 What models can do in the lab
+17:51 Building scientific infrastructure
+20:14 Why compute matters for science
+24:54 Where are we in 6-12 months?
+29:51 Scientific adoption and skepticism
+33:17 Advice for students and researchers
+40:27 Where are we in 10 years?</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1677" average="5.00" min="1" max="5" />
-    <ns2:statistics views="92967" />
+    <ns2:starRating count="322" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10985" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:xyxJuNGjTi4</ns0:id>
-  <ns1:videoId>xyxJuNGjTi4</ns1:videoId>
-  <ns1:channelId>UCUGJ-yKqQHl4FSZwUmGpiUg</ns1:channelId>
-  <ns0:title>[回形针PaperClip]Vol.174 抓娃娃机如何伤透你的心？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=xyxJuNGjTi4" />
+  <ns0:id>yt:video:Lm7-yFZ5fZQ</ns0:id>
+  <ns1:videoId>Lm7-yFZ5fZQ</ns1:videoId>
+  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
+  <ns0:title>[OpenAI]Codex for (almost) everything</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=Lm7-yFZ5fZQ" />
   <ns0:author>
-   <ns0:name>回形针PaperClip</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg</ns0:uri>
+   <ns0:name>OpenAI</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
   </ns0:author>
-  <ns0:published>2021-05-21T13:00:22+00:00</ns0:published>
-  <ns0:updated>2025-08-30T14:07:24+00:00</ns0:updated>
+  <ns0:published>2026-04-16T17:12:34+00:00</ns0:published>
+  <ns0:updated>2026-04-18T22:07:47+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Vol.174 抓娃娃机如何伤透你的心？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/xyxJuNGjTi4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/xyxJuNGjTi4/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>明明已经抓到娃娃，为什么半道上又掉了？抓娃娃机的商家究竟对你隐瞒了多少秘密？
-
-◆趣味科普 科技博主
-◆每週不定期更新
-
-不要忘記訂閱這個頻道～</ns2:description>
+   <ns2:title>Codex for (almost) everything</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/Lm7-yFZ5fZQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/Lm7-yFZ5fZQ/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Codex can now use apps on your Mac, connect to more of your tools, create images, learn from previous actions, remember how you like to work, and take on ongoing and repeatable tasks.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3118" average="5.00" min="1" max="5" />
-    <ns2:statistics views="126172" />
+    <ns2:starRating count="2703" average="5.00" min="1" max="5" />
+    <ns2:statistics views="86808" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:Q8cyR20AZOM</ns0:id>
-  <ns1:videoId>Q8cyR20AZOM</ns1:videoId>
-  <ns1:channelId>UCUGJ-yKqQHl4FSZwUmGpiUg</ns1:channelId>
-  <ns0:title>[回形针PaperClip]回形针 × 《东方时空》 天问一号 : 登陆火星</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=Q8cyR20AZOM" />
+  <ns0:id>yt:video:SddNQIJOeXE</ns0:id>
+  <ns1:videoId>SddNQIJOeXE</ns1:videoId>
+  <ns1:channelId>UCrXHVBS1cJg7MY9krqtCSAg</ns1:channelId>
+  <ns0:title>[电影最TOP唯一官方频道]细读经典：最后一刻大反转！它凭什么拿到奥斯卡最佳外语片？</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=SddNQIJOeXE" />
   <ns0:author>
-   <ns0:name>回形针PaperClip</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg</ns0:uri>
+   <ns0:name>电影最TOP唯一官方频道</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCrXHVBS1cJg7MY9krqtCSAg</ns0:uri>
   </ns0:author>
-  <ns0:published>2021-05-15T13:26:24+00:00</ns0:published>
-  <ns0:updated>2026-04-14T22:02:44+00:00</ns0:updated>
+  <ns0:published>2026-04-16T01:15:00+00:00</ns0:published>
+  <ns0:updated>2026-04-19T23:12:15+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>回形针 × 《东方时空》 天问一号 : 登陆火星</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/Q8cyR20AZOM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/Q8cyR20AZOM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>2021 年 5 月 15 日 7 时 18 分，天问一号在乌托邦平原南部地区成功登陆火星表面。在继探测器完成「环绕」火星的任务后，成功实现登陆器与「祝融号」火星车「落」的目标，正式点燃中国人行星探测的火种。而为了让天问一号顺利抵达火星并成功登陆，我们都会遇到哪些问题？
-
-本期节目由央视新闻频道《东方时空》和回形针联合出品，非常感谢《东方时空》的邀请，让我们能参与这么酷的项目。再次祝贺天问一号和背后的科研团队！
-
-◆趣味科普 科技博主
-◆每週不定期更新
-
-不要忘記訂閱這個頻道～</ns2:description>
+   <ns2:title>细读经典：最后一刻大反转！它凭什么拿到奥斯卡最佳外语片？</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/SddNQIJOeXE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/SddNQIJOeXE/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
    <ns2:community>
-    <ns2:starRating count="6017" average="5.00" min="1" max="5" />
-    <ns2:statistics views="187891" />
+    <ns2:starRating count="907" average="5.00" min="1" max="5" />
+    <ns2:statistics views="41099" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:DWAtBW6tWvU</ns0:id>
-  <ns1:videoId>DWAtBW6tWvU</ns1:videoId>
-  <ns1:channelId>UCUGJ-yKqQHl4FSZwUmGpiUg</ns1:channelId>
-  <ns0:title>[回形针PaperClip]回形针事务所 027：如何饿死你床上的螨虫？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=DWAtBW6tWvU" />
+  <ns0:id>yt:video:CPq1V7sH38I</ns0:id>
+  <ns1:videoId>CPq1V7sH38I</ns1:videoId>
+  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
+  <ns0:title>[OpenAI]Bala Vs Waterfall | With ChatGPT</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=CPq1V7sH38I" />
   <ns0:author>
-   <ns0:name>回形针PaperClip</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg</ns0:uri>
+   <ns0:name>OpenAI</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
   </ns0:author>
-  <ns0:published>2021-05-13T13:00:04+00:00</ns0:published>
-  <ns0:updated>2026-04-14T21:01:44+00:00</ns0:updated>
+  <ns0:published>2026-04-15T17:34:29+00:00</ns0:published>
+  <ns0:updated>2026-04-19T15:43:27+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>回形针事务所 027：如何饿死你床上的螨虫？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/DWAtBW6tWvU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/DWAtBW6tWvU/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>被子、枕头、床垫......床上用品除了让你安然入睡，也为螨虫提供了大快朵颐的场所。螨虫到底对你做了什么？如何有选择性地杀灭螨虫和有害病菌，同时避免伤害皮肤中的益生菌，维持人体的微生物环境平衡？
+   <ns2:title>Bala Vs Waterfall | With ChatGPT</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/CPq1V7sH38I?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/CPq1V7sH38I/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Fix it like a pro with ChatGPT
 
-◆趣味科普 科技博主
-◆每週不定期更新
-
-不要忘記訂閱這個頻道～</ns2:description>
+Director : Abhinav Pratiman
+DOP : Tassaduq Hussain
+Production House : Early Man Film
+Creative agency: Hue &amp; Why</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2185" average="5.00" min="1" max="5" />
-    <ns2:statistics views="123714" />
+    <ns2:starRating count="92" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6307" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:uaB0JN7w78c</ns0:id>
-  <ns1:videoId>uaB0JN7w78c</ns1:videoId>
-  <ns1:channelId>UCUGJ-yKqQHl4FSZwUmGpiUg</ns1:channelId>
-  <ns0:title>[回形针PaperClip]Vol.172 麻醉医生如何让你活着醒来？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=uaB0JN7w78c" />
+  <ns0:id>yt:video:H104L-steDs</ns0:id>
+  <ns1:videoId>H104L-steDs</ns1:videoId>
+  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
+  <ns0:title>[OpenAI]What Codex Unlocks for Wasmer</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/H104L-steDs" />
   <ns0:author>
-   <ns0:name>回形针PaperClip</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg</ns0:uri>
+   <ns0:name>OpenAI</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
   </ns0:author>
-  <ns0:published>2021-05-10T13:11:15+00:00</ns0:published>
-  <ns0:updated>2025-05-26T14:56:55+00:00</ns0:updated>
+  <ns0:published>2026-04-14T14:55:56+00:00</ns0:published>
+  <ns0:updated>2026-04-20T04:32:00+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Vol.172 麻醉医生如何让你活着醒来？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/uaB0JN7w78c?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/uaB0JN7w78c/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>麻醉只是给你打一针就完了吗？为了在手术中保全你的性命，麻醉医生都做了什么？
+   <ns2:title>What Codex Unlocks for Wasmer</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/H104L-steDs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/H104L-steDs/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>We were able to create a JavaScript runtime just in two weeks. Without Codex, it would have taken us easily one year." 
 
-◆趣味科普 科技博主
-◆每週不定期更新
+Syrus Akbary Nieto, founder and CEO of Wasmer has been stress testing Codex, assigning complex, long running tasks. 
 
-不要忘記訂閱這個頻道～</ns2:description>
+"We are actually moving out of the IDE itself. We're not touching as much the code, we're just guiding it where we want it to go." 
+
+#shotsvideo #codex #openaicodex 
+
+Learn more: https://openai.com/codex/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="6221" average="5.00" min="1" max="5" />
-    <ns2:statistics views="183404" />
+    <ns2:starRating count="145" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1693279" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:4IN4g5EAJts</ns0:id>
-  <ns1:videoId>4IN4g5EAJts</ns1:videoId>
-  <ns1:channelId>UCUGJ-yKqQHl4FSZwUmGpiUg</ns1:channelId>
-  <ns0:title>[回形针PaperClip]回形针事务所 026：如何打造一台懂事的吸尘器？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=4IN4g5EAJts" />
+  <ns0:id>yt:video:zGT32tk7U7g</ns0:id>
+  <ns1:videoId>zGT32tk7U7g</ns1:videoId>
+  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
+  <ns0:title>[OpenAI]What Codex Unlocks for Wasmer</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=zGT32tk7U7g" />
   <ns0:author>
-   <ns0:name>回形针PaperClip</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg</ns0:uri>
+   <ns0:name>OpenAI</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
   </ns0:author>
-  <ns0:published>2021-05-07T13:02:53+00:00</ns0:published>
-  <ns0:updated>2025-08-23T15:21:36+00:00</ns0:updated>
+  <ns0:published>2026-04-14T14:52:41+00:00</ns0:published>
+  <ns0:updated>2026-04-18T02:19:32+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>回形针事务所 026：如何打造一台懂事的吸尘器？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/4IN4g5EAJts?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/4IN4g5EAJts/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>扫帚、抹布、拖把……有这么多清洁工具的你，为什么还清理不干净家里的灰尘？一台懂事的吸尘器如何让灰尘无所遁形，帮你从疲惫的无效清洁中解脱出来？
+   <ns2:title>What Codex Unlocks for Wasmer</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/zGT32tk7U7g?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/zGT32tk7U7g/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>"We were able to create a JavaScript runtime just in two weeks. Without Codex, it would have taken us easily one year."  
 
-◆趣味科普 科技博主
-◆每週不定期更新
+Syrus Akbary Nieto, founder and CEO of Wasmer has been stress testing Codex, assigning complex, long running tasks. 
 
-不要忘記訂閱這個頻道～</ns2:description>
+🚀 It's been a game changer. 
+
+"We are actually moving out of the IDE itself. We're not touching as much the code, we're just guiding it where we want it to go." 
+
+Learn more: https://openai.com/codex/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1125" average="5.00" min="1" max="5" />
-    <ns2:statistics views="44949" />
+    <ns2:starRating count="200" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8186" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:ySqWKY894Ic</ns0:id>
-  <ns1:videoId>ySqWKY894Ic</ns1:videoId>
-  <ns1:channelId>UCUGJ-yKqQHl4FSZwUmGpiUg</ns1:channelId>
-  <ns0:title>[回形针PaperClip]Vol.171 F1 赛车如何靠「作弊」夺冠？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ySqWKY894Ic" />
+  <ns0:id>yt:video:flweA_I-VKE</ns0:id>
+  <ns1:videoId>flweA_I-VKE</ns1:videoId>
+  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
+  <ns0:title>[OpenAI]Builders Unscripted: Ep. 2 - Ashe Magalhaes, Founder of Hearth AI</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=flweA_I-VKE" />
   <ns0:author>
-   <ns0:name>回形针PaperClip</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg</ns0:uri>
+   <ns0:name>OpenAI</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
   </ns0:author>
-  <ns0:published>2021-04-30T09:00:19+00:00</ns0:published>
-  <ns0:updated>2025-10-06T13:44:41+00:00</ns0:updated>
+  <ns0:published>2026-04-10T17:30:00+00:00</ns0:published>
+  <ns0:updated>2026-04-13T11:52:45+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Vol.171 F1 赛车如何靠「作弊」夺冠？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/ySqWKY894Ic?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/ySqWKY894Ic/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>在重重规则限定下，F1 赛车怎样才能跑得更快？F1 赛车是怎样进化成今天这个样子的？
+   <ns2:title>Builders Unscripted: Ep. 2 - Ashe Magalhaes, Founder of Hearth AI</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/flweA_I-VKE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/flweA_I-VKE/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Builders Unscripted spotlights the stories behind real projects and the mindset that makes them possible: you can just build things. 
 
-◆趣味科普 科技博主
-◆每週不定期更新
+In this episode, Romain Huet, Head of Developer Experience, chats with Ashe Magalhaes, founder of Hearth AI. Ashe talks about moving fast with Codex, finding beauty in tools, and gives a keen look into her agentic personal operating systems that enable her to feel more present, connected, and intentional.
 
-不要忘記訂閱這個頻道～</ns2:description>
+Chapters:
+00:00 Intro
+00:10 Early agents and Hearth AI
+05:43 AI and human connection
+08:44 Build in public
+12:17 Ashe’s agentic workflow</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3148" average="5.00" min="1" max="5" />
-    <ns2:statistics views="159025" />
+    <ns2:starRating count="237" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9361" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:HyJPq8x764w</ns0:id>
-  <ns1:videoId>HyJPq8x764w</ns1:videoId>
-  <ns1:channelId>UCUGJ-yKqQHl4FSZwUmGpiUg</ns1:channelId>
-  <ns0:title>[回形针PaperClip]Vol.170 基金经理对你的钱做了什么？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=HyJPq8x764w" />
+  <ns0:id>yt:video:EDsxc3-a2LY</ns0:id>
+  <ns1:videoId>EDsxc3-a2LY</ns1:videoId>
+  <ns1:channelId>UCxcuxsAjdnQaiRwYb5CVISw</ns1:channelId>
+  <ns0:title>[翼王]现在品牌机比自己装电脑还便宜？？七彩虹隐星T5拆解评测【翼王】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=EDsxc3-a2LY" />
   <ns0:author>
-   <ns0:name>回形针PaperClip</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg</ns0:uri>
+   <ns0:name>翼王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw</ns0:uri>
   </ns0:author>
-  <ns0:published>2021-04-25T13:00:42+00:00</ns0:published>
-  <ns0:updated>2025-06-23T02:55:30+00:00</ns0:updated>
+  <ns0:published>2026-04-10T01:57:45+00:00</ns0:published>
+  <ns0:updated>2026-04-12T21:03:23+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Vol.170 基金经理对你的钱做了什么？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/HyJPq8x764w?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/HyJPq8x764w/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>2020 年，98% 的权益型基金都在赚钱。然而过了个年，基民们就开始亏钱了。打开业绩排行榜，几乎全是绿的。这到底是怎么回事？基金经理对你的钱到底干了什么？
+   <ns2:title>现在品牌机比自己装电脑还便宜？？七彩虹隐星T5拆解评测【翼王】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/EDsxc3-a2LY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/EDsxc3-a2LY/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>这台是我刚花了八千块买到的品牌整机，配置是R7 9700X+RTX 5060 Ti 8G，最重点是它还有32GB的DDR5双通道内存和1TB的SSD，现在这个配置如果要自己装的话，没个一万也得九千了，这年头买品牌整机竟然比DIY还能便宜一两千块？不可思议。
 
-◆趣味科普 科技博主
-◆每週不定期更新
+BGM：
+Track: Flavour — Wataboi [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/iP-ug5RLe7w
+Free Download / Stream: https://alplus.io/flavour
 
-不要忘記訂閱這個頻道～</ns2:description>
+Song: Markvard - Vacation
+Music provided by Vlog No Copyright Music.
+Creative Commons - Attribution 3.0 Unported
+Video Link: https://youtu.be/ljryt9kQGH0
+
+Song: Peyruis - Neutral Bay (Vlog No Copyright Music)
+Music promoted by Vlog No Copyright Music.
+Video Link: https://youtu.be/CNBV015NL3U
+
+Song: LAKEY INSPIRED - Blossom
+Music provided by Vlog No Copyright Music.
+Creative Commons - Attribution-ShareAlike 3.0 Unported
+Video Link: https://youtu.be/c-HcOT3kV28
+
+Track: Doing Nothing — sakura Hz [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/o5ivAJQ_iHQ
+Free Download / Stream: https://alplus.io/Doing-nothing</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1874" average="5.00" min="1" max="5" />
-    <ns2:statistics views="91001" />
+    <ns2:starRating count="408" average="5.00" min="1" max="5" />
+    <ns2:statistics views="20069" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:AfE3dq-cpLU</ns0:id>
-  <ns1:videoId>AfE3dq-cpLU</ns1:videoId>
-  <ns1:channelId>UCUGJ-yKqQHl4FSZwUmGpiUg</ns1:channelId>
-  <ns0:title>[回形针PaperClip]Vol.169 水族馆养鱼到底有多难？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=AfE3dq-cpLU" />
+  <ns0:id>yt:video:1PiLUnxd1b8</ns0:id>
+  <ns1:videoId>1PiLUnxd1b8</ns1:videoId>
+  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
+  <ns0:title>[OpenAI]Design your dream room by shopping with ChatGPT</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=1PiLUnxd1b8" />
   <ns0:author>
-   <ns0:name>回形针PaperClip</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg</ns0:uri>
+   <ns0:name>OpenAI</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
   </ns0:author>
-  <ns0:published>2021-04-20T13:01:18+00:00</ns0:published>
-  <ns0:updated>2025-07-23T19:25:35+00:00</ns0:updated>
+  <ns0:published>2026-04-09T23:35:45+00:00</ns0:published>
+  <ns0:updated>2026-04-12T13:13:43+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Vol.169 水族馆养鱼到底有多难？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/AfE3dq-cpLU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/AfE3dq-cpLU/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>水族馆的水从哪来？怎样防止大鱼吃小鱼？对于一些难养的海洋生物，水族馆又有什么特殊设备？
-
-◆趣味科普 科技博主
-◆每週不定期更新
-
-不要忘記訂閱這個頻道～</ns2:description>
+   <ns2:title>Design your dream room by shopping with ChatGPT</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/1PiLUnxd1b8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/1PiLUnxd1b8/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Upload your design inspiration to ChatGPT and find inspiration for similar items. Make shopping easier than ever with our visually immersive shopping experiences.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2845" average="5.00" min="1" max="5" />
-    <ns2:statistics views="131651" />
+    <ns2:starRating count="251" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10473" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:3iwg621kTes</ns0:id>
-  <ns1:videoId>3iwg621kTes</ns1:videoId>
-  <ns1:channelId>UCUGJ-yKqQHl4FSZwUmGpiUg</ns1:channelId>
-  <ns0:title>[回形针PaperClip]Vol.168 夜视仪如何看透黑夜？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=3iwg621kTes" />
+  <ns0:id>yt:video:OAlHiQLsYQM</ns0:id>
+  <ns1:videoId>OAlHiQLsYQM</ns1:videoId>
+  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
+  <ns0:title>[OpenAI]ChatGPT and Cancer: How a Tech Founder Rewrote His Treatment Plan</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=OAlHiQLsYQM" />
   <ns0:author>
-   <ns0:name>回形针PaperClip</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg</ns0:uri>
+   <ns0:name>OpenAI</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
   </ns0:author>
-  <ns0:published>2021-04-13T13:00:58+00:00</ns0:published>
-  <ns0:updated>2025-06-09T10:37:02+00:00</ns0:updated>
+  <ns0:published>2026-04-09T22:44:27+00:00</ns0:published>
+  <ns0:updated>2026-04-17T02:47:35+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Vol.168 夜视仪如何看透黑夜？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/3iwg621kTes?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/3iwg621kTes/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>夜视仪都有哪些部件，又是怎么工作的？夜视技术如何步步升级，让你在黑夜看得越来越清楚？
+   <ns2:title>ChatGPT and Cancer: How a Tech Founder Rewrote His Treatment Plan</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/OAlHiQLsYQM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/OAlHiQLsYQM/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>When GitLab co-founder Sid Sijbrandij was diagnosed with a rare and aggressive cancer, he approached it like an engineering problem. In this conversation, Sid joins geneticist Jacob Stern to share how they used ChatGPT, advanced diagnostics, and real-time research to better understand his tumor and explore personalized treatment options—building a faster feedback loop between patients, doctors, and scientific literature. 
 
-◆趣味科普 科技博主
-◆每週不定期更新
-
-不要忘記訂閱這個頻道～</ns2:description>
+About OpenAI Forum:
+The OpenAI Forum is a global community that brings together leaders across industries to share how AI is being used in the real world—what’s working, what we’re learning, and how we can shape its impact together. Learn more: https://forum.openai.com/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2762" average="5.00" min="1" max="5" />
-    <ns2:statistics views="115315" />
+    <ns2:starRating count="208" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8603" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:0JqBfYwQcqg</ns0:id>
-  <ns1:videoId>0JqBfYwQcqg</ns1:videoId>
-  <ns1:channelId>UCUGJ-yKqQHl4FSZwUmGpiUg</ns1:channelId>
-  <ns0:title>[回形针PaperClip]Vol.167 可控核聚变如何制造终极能源？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=0JqBfYwQcqg" />
+  <ns0:id>yt:video:AIZ_v_Xfb2k</ns0:id>
+  <ns1:videoId>AIZ_v_Xfb2k</ns1:videoId>
+  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
+  <ns0:title>[OpenAI]What Codex Unlocks for Braintrust</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/AIZ_v_Xfb2k" />
   <ns0:author>
-   <ns0:name>回形针PaperClip</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg</ns0:uri>
+   <ns0:name>OpenAI</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
   </ns0:author>
-  <ns0:published>2021-04-09T13:00:00+00:00</ns0:published>
-  <ns0:updated>2025-06-08T20:02:03+00:00</ns0:updated>
+  <ns0:published>2026-04-09T17:09:11+00:00</ns0:published>
+  <ns0:updated>2026-04-17T07:59:18+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Vol.167 可控核聚变如何制造终极能源？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/0JqBfYwQcqg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/0JqBfYwQcqg/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>看人类如何点亮可控核聚变的「科技树」，制造终极能源、点燃人造太阳！
+   <ns2:title>What Codex Unlocks for Braintrust</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/AIZ_v_Xfb2k?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/AIZ_v_Xfb2k/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>“The really cool thing with Codex is that we get to iterate and ideate on feature requests with the customer in real time.” 
 
-本期节目特别感谢中国科学院等离子体物理研究所为我们提供的技术支持。
+Ankur Goyal, founder &amp; CEO of Braintrust dropped some builder knowledge in our latest episode of What Codex Unlocks. 
 
-◆趣味科普 科技博主
-◆每週不定期更新
+Learn more: https://openai.com/codex/
 
-不要忘記訂閱這個頻道～</ns2:description>
+#Codex #openaicodex #shorts</ns2:description>
    <ns2:community>
-    <ns2:starRating count="6129" average="5.00" min="1" max="5" />
-    <ns2:statistics views="215292" />
+    <ns2:starRating count="110" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3350567" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:pLyVlqhaieI</ns0:id>
+  <ns1:videoId>pLyVlqhaieI</ns1:videoId>
+  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
+  <ns0:title>[OpenAI]What Codex Unlocks for Braintrust</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=pLyVlqhaieI" />
+  <ns0:author>
+   <ns0:name>OpenAI</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-04-09T17:04:48+00:00</ns0:published>
+  <ns0:updated>2026-04-12T12:13:30+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>What Codex Unlocks for Braintrust</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/pLyVlqhaieI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/pLyVlqhaieI/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>"The really cool thing with Codex, is that we get to iterate and ideate on feature requests with the customer in real time.”
+
+Ankur Goyal, founder &amp; CEO of Braintrust dropped some builder knowledge in our latest episode of What Codex Unlocks. 
+
+Learn more: https://openai.com/codex/</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="247" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8539" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:ZpUKNYcgM-E</ns0:id>
+  <ns1:videoId>ZpUKNYcgM-E</ns1:videoId>
+  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
+  <ns0:title>[OpenAI]Sam Altman on Building the Future of AI</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ZpUKNYcgM-E" />
+  <ns0:author>
+   <ns0:name>OpenAI</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-04-07T20:36:27+00:00</ns0:published>
+  <ns0:updated>2026-04-11T00:49:39+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Sam Altman on Building the Future of AI</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/ZpUKNYcgM-E?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/ZpUKNYcgM-E/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>AI is advancing faster than most people realize. In this OpenAI Forum conversation, Sam Altman joins Josh Achiam and Adrien Ecoffet to talk about what’s coming next.
+
+They discuss the pace of progress toward more capable AI systems, what these tools could unlock—from scientific breakthroughs to new ways of building companies—and the challenges society needs to prepare for. The conversation also looks at who gets access to AI, how to make sure the benefits are widely shared, and what it will take for institutions and individuals to keep up.</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1223" average="5.00" min="1" max="5" />
+    <ns2:statistics views="40477" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:2g1e1QUiY8s</ns0:id>
+  <ns1:videoId>2g1e1QUiY8s</ns1:videoId>
+  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
+  <ns0:title>[OpenAI]LG Uplus Creates Next Gen AICC</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=2g1e1QUiY8s" />
+  <ns0:author>
+   <ns0:name>OpenAI</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-04-06T15:19:08+00:00</ns0:published>
+  <ns0:updated>2026-04-09T13:57:22+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>LG Uplus Creates Next Gen AICC</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/2g1e1QUiY8s?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/2g1e1QUiY8s/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>OpenAI and LG Uplus engineers collaborated to create a next-generation AICC, “Agentic AICC,” which is positioned to become a new standard for enterprise AI customer service.
+
+LG Uplus plans to introduce an agent service featuring ultra-low-latency AI customer support built on the OpenAI Realtime API, along with a Planning Agent that can resolve issues on its own using checklist-based workflows.
+
+#LGUplus #OpenAI #AICC #AIContactCenter #AgenticAICC #LLM #AgenticCallBot</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="497" average="5.00" min="1" max="5" />
+    <ns2:statistics views="22288" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:yNNTLllVbiE</ns0:id>
+  <ns1:videoId>yNNTLllVbiE</ns1:videoId>
+  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
+  <ns0:title>[OpenAI]OpenAl x Gradient Labs Founder Spotlight</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=yNNTLllVbiE" />
+  <ns0:author>
+   <ns0:name>OpenAI</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-04-01T21:12:13+00:00</ns0:published>
+  <ns0:updated>2026-04-04T00:57:19+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>OpenAl x Gradient Labs Founder Spotlight</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/yNNTLllVbiE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/yNNTLllVbiE/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Gradient Labs is giving every bank customer an AI account manager, with CSAT up to 98% and over 50% resolution on day one.
+
+In banking support, even simple issues like a declined payment can trigger multiple teams, handoffs, and delays. 
+
+Gradient Labs replaces that with a single agent that handles the full workflow. Identity checks, card actions, and follow-ups happen in one continuous conversation.
+
+Read their full story here: https://lnkd.in/emSndtkx</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="218" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10001" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:4l4rcxxDtPY</ns0:id>
+  <ns1:videoId>4l4rcxxDtPY</ns1:videoId>
+  <ns1:channelId>UCbKWv2x9t6u8yZoB3KcPtnw</ns1:channelId>
+  <ns0:title>[Alan Becker]Would you look at that...</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/4l4rcxxDtPY" />
+  <ns0:author>
+   <ns0:name>Alan Becker</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-03-21T12:00:16+00:00</ns0:published>
+  <ns0:updated>2026-03-25T02:20:50+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Would you look at that...</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/4l4rcxxDtPY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/4l4rcxxDtPY/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Crochet Kit: http://alanbecker.shop/collections/collectibles
+
+Crochet Figures and Kit designed by Heather Michael: https://www.etsy.com/shop/PocketsofWhimsy</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="85937" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1686954" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:RIjo0wHtAGY</ns0:id>
+  <ns1:videoId>RIjo0wHtAGY</ns1:videoId>
+  <ns1:channelId>UCrXHVBS1cJg7MY9krqtCSAg</ns1:channelId>
+  <ns0:title>[电影最TOP唯一官方频道]细读经典：华语最强银幕CP！拿下年度票房冠军，港式爱情片里程碑《孤男寡女》</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=RIjo0wHtAGY" />
+  <ns0:author>
+   <ns0:name>电影最TOP唯一官方频道</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCrXHVBS1cJg7MY9krqtCSAg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-03-19T08:20:29+00:00</ns0:published>
+  <ns0:updated>2026-03-23T06:44:49+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>细读经典：华语最强银幕CP！拿下年度票房冠军，港式爱情片里程碑《孤男寡女》</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/RIjo0wHtAGY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/RIjo0wHtAGY/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1017" average="5.00" min="1" max="5" />
+    <ns2:statistics views="79925" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:rStqWzA0_Yg</ns0:id>
+  <ns1:videoId>rStqWzA0_Yg</ns1:videoId>
+  <ns1:channelId>UCrXHVBS1cJg7MY9krqtCSAg</ns1:channelId>
+  <ns0:title>[电影最TOP唯一官方频道]细读经典：索马里民兵逼死美军？影史最残酷战争片《黑鹰坠落》</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=rStqWzA0_Yg" />
+  <ns0:author>
+   <ns0:name>电影最TOP唯一官方频道</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCrXHVBS1cJg7MY9krqtCSAg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-03-17T01:15:00+00:00</ns0:published>
+  <ns0:updated>2026-03-19T18:28:22+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>细读经典：索马里民兵逼死美军？影史最残酷战争片《黑鹰坠落》</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/rStqWzA0_Yg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/rStqWzA0_Yg/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="901" average="5.00" min="1" max="5" />
+    <ns2:statistics views="65885" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:6Y2Yad-vgmQ</ns0:id>
+  <ns1:videoId>6Y2Yad-vgmQ</ns1:videoId>
+  <ns1:channelId>UCrXHVBS1cJg7MY9krqtCSAg</ns1:channelId>
+  <ns0:title>[电影最TOP唯一官方频道]【米兰vlog】最聪明的人与最神仙的甲方</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=6Y2Yad-vgmQ" />
+  <ns0:author>
+   <ns0:name>电影最TOP唯一官方频道</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCrXHVBS1cJg7MY9krqtCSAg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-03-08T01:15:00+00:00</ns0:published>
+  <ns0:updated>2026-03-10T22:10:21+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>【米兰vlog】最聪明的人与最神仙的甲方</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/6Y2Yad-vgmQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/6Y2Yad-vgmQ/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="122" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7547" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:M42tOGIvDB8</ns0:id>
+  <ns1:videoId>M42tOGIvDB8</ns1:videoId>
+  <ns1:channelId>UCrXHVBS1cJg7MY9krqtCSAg</ns1:channelId>
+  <ns0:title>[电影最TOP唯一官方频道]细读经典：如何把一个狗血故事拍成一部神作《如父如子》</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=M42tOGIvDB8" />
+  <ns0:author>
+   <ns0:name>电影最TOP唯一官方频道</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCrXHVBS1cJg7MY9krqtCSAg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-03-06T01:15:00+00:00</ns0:published>
+  <ns0:updated>2026-03-08T23:42:48+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>细读经典：如何把一个狗血故事拍成一部神作《如父如子》</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/M42tOGIvDB8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/M42tOGIvDB8/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1021" average="5.00" min="1" max="5" />
+    <ns2:statistics views="46656" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:c-NjNLuX9rg</ns0:id>
+  <ns1:videoId>c-NjNLuX9rg</ns1:videoId>
+  <ns1:channelId>UCrXHVBS1cJg7MY9krqtCSAg</ns1:channelId>
+  <ns0:title>[电影最TOP唯一官方频道]细读经典：出道即巅峰！名场面扎堆，最经典的国产贺岁片非它莫属《甲方乙方》</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=c-NjNLuX9rg" />
+  <ns0:author>
+   <ns0:name>电影最TOP唯一官方频道</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCrXHVBS1cJg7MY9krqtCSAg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-02-15T01:15:00+00:00</ns0:published>
+  <ns0:updated>2026-03-02T01:39:32+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>细读经典：出道即巅峰！名场面扎堆，最经典的国产贺岁片非它莫属《甲方乙方》</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/c-NjNLuX9rg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/c-NjNLuX9rg/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="2082" average="5.00" min="1" max="5" />
+    <ns2:statistics views="146001" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:MByX5lMuoZ4</ns0:id>
+  <ns1:videoId>MByX5lMuoZ4</ns1:videoId>
+  <ns1:channelId>UCrXHVBS1cJg7MY9krqtCSAg</ns1:channelId>
+  <ns0:title>[电影最TOP唯一官方频道]【冬奥会vlog】意大利人是欧洲的中国人？</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=MByX5lMuoZ4" />
+  <ns0:author>
+   <ns0:name>电影最TOP唯一官方频道</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCrXHVBS1cJg7MY9krqtCSAg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-02-12T06:06:55+00:00</ns0:published>
+  <ns0:updated>2026-04-12T15:37:51+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>【冬奥会vlog】意大利人是欧洲的中国人？</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/MByX5lMuoZ4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/MByX5lMuoZ4/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="155" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9580" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:JadLT0x7Ef4</ns0:id>
+  <ns1:videoId>JadLT0x7Ef4</ns1:videoId>
+  <ns1:channelId>UCxcuxsAjdnQaiRwYb5CVISw</ns1:channelId>
+  <ns0:title>[翼王]高端曲屏水冷VK N360杂质添加大测试！妈妈再也不用担心我水冷堵头了【翼王】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=JadLT0x7Ef4" />
+  <ns0:author>
+   <ns0:name>翼王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-02-11T12:10:31+00:00</ns0:published>
+  <ns0:updated>2026-04-20T05:48:41+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>高端曲屏水冷VK N360杂质添加大测试！妈妈再也不用担心我水冷堵头了【翼王】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/JadLT0x7Ef4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/JadLT0x7Ef4/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>有大曲面屏、高性能散热、只卖999的VK新水冷还有独门防堵秘籍？那它能够防的住我们额外添加的各种奇怪杂质吗，这期视频就来给它上点强度试试看。
+
+BGM：
+Song: LAKEY INSPIRED - Blossom
+Music provided by Vlog No Copyright Music.
+Creative Commons - Attribution-ShareAlike 3.0 Unported
+Video Link: https://youtu.be/c-HcOT3kV28
+
+We Are One by Vexento https://www.youtube.com/user/Vexento
+https://soundcloud.com/vexento
+Music promoted by Audio Library https://youtu.be/Ssvu2yncgWU
+
+Finesse by Peyruis https://soundcloud.com/peyruis
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 
+https://creativecommons.org/licenses/by/3.0/
+Music promoted by Audio Library https://youtu.be/UaE_gaaLQYA
+
+Song: DayFox - Foxylicious
+Music provided by Vlog No Copyright Music.
+Video Link: https://youtu.be/919HIMIvoNQ</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="142" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6598" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:QpBpTXxL-fY</ns0:id>
+  <ns1:videoId>QpBpTXxL-fY</ns1:videoId>
+  <ns1:channelId>UCxcuxsAjdnQaiRwYb5CVISw</ns1:channelId>
+  <ns0:title>[翼王]联力竟然也出性价比白金电源了？！七毛一瓦的联力刃界SX1200P拆解评测【翼王】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=QpBpTXxL-fY" />
+  <ns0:author>
+   <ns0:name>翼王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-02-06T04:00:48+00:00</ns0:published>
+  <ns0:updated>2026-03-08T19:12:15+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>联力竟然也出性价比白金电源了？！七毛一瓦的联力刃界SX1200P拆解评测【翼王】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/QpBpTXxL-fY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/QpBpTXxL-fY/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>联力又有新电源了！继长脖子和转脑袋这些插线特化电源之后，联力依旧不忘初心推出了常规电源产品，就是这款刃界SX1200P，支持最新的ATX 3.1和PCIe 5.1规范，全日系电容，白金转换率，质保时间给到十年，甚至是直接换新。
+
+BGM：
+Song: Markvard - Vacation
+Music provided by Vlog No Copyright Music.
+Creative Commons - Attribution 3.0 Unported
+Video Link: https://youtu.be/ljryt9kQGH0
+
+Song: LAKEY INSPIRED - Blossom
+Music provided by Vlog No Copyright Music.
+Creative Commons - Attribution-ShareAlike 3.0 Unported
+Video Link: https://youtu.be/c-HcOT3kV28
+
+Song: Peyruis - Neutral Bay (Vlog No Copyright Music)
+Music promoted by Vlog No Copyright Music.
+Video Link: https://youtu.be/CNBV015NL3U</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="96" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2722" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:u6fwfGWBKT4</ns0:id>
+  <ns1:videoId>u6fwfGWBKT4</ns1:videoId>
+  <ns1:channelId>UCrXHVBS1cJg7MY9krqtCSAg</ns1:channelId>
+  <ns0:title>[电影最TOP唯一官方频道]细读经典：《捕风追影》的原版拍得有多好？</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=u6fwfGWBKT4" />
+  <ns0:author>
+   <ns0:name>电影最TOP唯一官方频道</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCrXHVBS1cJg7MY9krqtCSAg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-02-05T01:15:00+00:00</ns0:published>
+  <ns0:updated>2026-02-17T21:10:25+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>细读经典：《捕风追影》的原版拍得有多好？</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/u6fwfGWBKT4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/u6fwfGWBKT4/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1937" average="5.00" min="1" max="5" />
+    <ns2:statistics views="125701" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:oC1T4ehlMS0</ns0:id>
+  <ns1:videoId>oC1T4ehlMS0</ns1:videoId>
+  <ns1:channelId>UCxcuxsAjdnQaiRwYb5CVISw</ns1:channelId>
+  <ns0:title>[翼王]核显打3A+续航一整天的梦中笔电成真了？搭载第三代酷睿 Ultra 处理器的联想小新Pro 16 GT上手评测 【翼王】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=oC1T4ehlMS0" />
+  <ns0:author>
+   <ns0:name>翼王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-01-29T02:00:49+00:00</ns0:published>
+  <ns0:updated>2026-03-26T17:55:29+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>核显打3A+续航一整天的梦中笔电成真了？搭载第三代酷睿 Ultra 处理器的联想小新Pro 16 GT上手评测 【翼王】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/oC1T4ehlMS0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/oC1T4ehlMS0/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>第三代酷睿 Ultra 处理器正式发布了，基于新工艺打造的Panther Lake带来了非常多的升级，CPU、GPU性能有多强？移动端最关心的能效表现如何？这期视频就借着联想小新Pro 16 GT AI元启版一起来研究下吧。
+
+BGM：
+Song: LiQWYD - Smile
+Music provided by Vlog No Copyright Music.
+Creative Commons - Attribution 3.0 Unported
+Video Link: https://youtu.be/O9gCWOnMllg
+
+Finesse by Peyruis https://soundcloud.com/peyruis
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 
+https://creativecommons.org/licenses/by/3.0/
+Music promoted by Audio Library https://youtu.be/UaE_gaaLQYA
+
+Track: Introspection — Mona Wonderlick [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/UZzuVt7nKOA
+Free Download / Stream: http://alplus.io/Introspection
+
+Song: LAKEY INSPIRED - Blossom
+Music provided by Vlog No Copyright Music.
+Creative Commons - Attribution-ShareAlike 3.0 Unported
+Video Link: https://youtu.be/c-HcOT3kV28
+
+Track: NIVIRO ft. PollyAnna - Fast Lane [NCS Release]
+Music provided by NoCopyrightSounds.
+Watch: https://youtu.be/DqUQW3xyQ1c
+Free Download / Stream: http://ncs.io/FastLaneYO</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="163" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8821" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:8FWBws2MZf8</ns0:id>
+  <ns1:videoId>8FWBws2MZf8</ns1:videoId>
+  <ns1:channelId>UCbKWv2x9t6u8yZoB3KcPtnw</ns1:channelId>
+  <ns0:title>[Alan Becker]Trial Chamber - An Actual Short</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/8FWBws2MZf8" />
+  <ns0:author>
+   <ns0:name>Alan Becker</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-01-24T13:00:23+00:00</ns0:published>
+  <ns0:updated>2026-04-08T00:55:05+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Trial Chamber - An Actual Short</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/8FWBws2MZf8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/8FWBws2MZf8/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>💡 Idea &amp; Writer:  Krej1
+🔶 Animation: @Lunsar, @SimpleFox1, @Shuriken255, &amp; rojackie
+🔷 Sounds: @hatena360 
+🎵 Music: "Take Off" by STRLGHT</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="157191" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3958549" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:4XkapJvLDhA</ns0:id>
+  <ns1:videoId>4XkapJvLDhA</ns1:videoId>
+  <ns1:channelId>UCbKWv2x9t6u8yZoB3KcPtnw</ns1:channelId>
+  <ns0:title>[Alan Becker]An Actual Short Compilation - Season 3 (official)</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=4XkapJvLDhA" />
+  <ns0:author>
+   <ns0:name>Alan Becker</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-01-24T13:00:16+00:00</ns0:published>
+  <ns0:updated>2026-01-30T17:14:22+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>An Actual Short Compilation - Season 3 (official)</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/4XkapJvLDhA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/4XkapJvLDhA/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>An Actual Short Compilation - Season 3 (official)
+
+Our last batch of vertical shorts from last year!
+
+🖐 ASK ME ANYTHING! ► https://www.youtube.com/noogai89/join 
+
+👕 MERCH! ► https://alanbecker.shop
+
+💬DISCORD SERVER ► https://discord.gg/alanbecker 
+
+🕹️ANIMATORS VS GAMES ►  @AnimatorsVSGames 
+
+📷INSTAGRAM ► http://www.instagram.com/alanbecker 
+
+✏️TWITTER ► http://twitter.com/alanthebecker 
+
+🔹🔶IDEAS &amp; WRITERS🔶🔹
+@its_me_skim 
+@tjb7345 
+@dan_loeb 
+@hatena360 
+@n8sterAnimates 
+SC
+Krej1
+bookno255
+🔹🔶ANIMATION🔶🔹
+@SimpleFox1 
+@n8sterAnimates 
+@tjb7345 
+@mekatokwa 
+@ablerai 
+@ichasedacrow 
+@ARCpersona 
+@doumaki4501 
+@oxob3000 
+@Fordz 
+@frankyofl 
+@Lunsar 
+@its_me_skim 
+@tetr0mations 
+@Spacedoughnut 
+@effie2095 
+Exceld
+@NotSoProishNoob 
+@DonnieBoots 
+@favfaris4714 
+@Hexalhaxel 
+@hous3776 
+@kayalartwork 
+Rojackie
+@efan_04 
+@Shuriken255 
+@smoilysheep4670 
+🔹🔶SFX🔶🔹
+@dan_loeb 
+https://twitter.com/E_SoundWork 
+🔹🔶MUSIC🔶🔹
+“Allay” by Shuriken255
+"BACK2BACK" by STRLGHT, ROONIN
+"Back on Track" by Ryan James Carr 
+"Break Away" by Fox Marrow
+“Crystal Shards” by Platinum101
+"Drum Circle" by Sage Oursler
+“Electric” by Scoobadive
+“Flare” by Agst
+"From East to West" by El Falco
+“Hide and Geek” by Harry Edvino
+"Main Naruto Theme" by Toshio Masuda
+"otherside" by Lena Raine
+🔹🔶THUMBNAIL ARTIST🔶🔹
+Exceld
+🔹🔶PROJECT LEAD🔶🔹 
+@n8sterAnimates 
+🔹🔶PRODUCTION ASSISTANT🔶🔹
+Sammi Alea https://sammialea.com/ 
+🔹🔶PRODUCTION MANAGER🔶🔹 
+@hatena360</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="52288" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4594673" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:VCc4ILijMOE</ns0:id>
+  <ns1:videoId>VCc4ILijMOE</ns1:videoId>
+  <ns1:channelId>UCrXHVBS1cJg7MY9krqtCSAg</ns1:channelId>
+  <ns0:title>[电影最TOP唯一官方频道]细读经典：反转反转再反转！让片名耽误的杰作《我是谁：没有绝对安全的系统》</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=VCc4ILijMOE" />
+  <ns0:author>
+   <ns0:name>电影最TOP唯一官方频道</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCrXHVBS1cJg7MY9krqtCSAg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-01-23T00:15:00+00:00</ns0:published>
+  <ns0:updated>2026-01-28T09:00:46+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>细读经典：反转反转再反转！让片名耽误的杰作《我是谁：没有绝对安全的系统》</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/VCc4ILijMOE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/VCc4ILijMOE/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1174" average="5.00" min="1" max="5" />
+    <ns2:statistics views="78198" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:UPeuURBFYUA</ns0:id>
+  <ns1:videoId>UPeuURBFYUA</ns1:videoId>
+  <ns1:channelId>UCxcuxsAjdnQaiRwYb5CVISw</ns1:channelId>
+  <ns0:title>[翼王]千瓦白金十年保，价格却只是“入门级”？微星PRO A1000PL PCIE5电源拆解评测【翼王】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=UPeuURBFYUA" />
+  <ns0:author>
+   <ns0:name>翼王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-01-12T01:59:18+00:00</ns0:published>
+  <ns0:updated>2026-02-10T18:27:53+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>千瓦白金十年保，价格却只是“入门级”？微星PRO A1000PL PCIE5电源拆解评测【翼王】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/UPeuURBFYUA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/UPeuURBFYUA/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>PRO系列虽然是微星定位较低的产品线，但是竟然出了一款1000W白金转换率的电源PRO A1000PL PCIE5，是倒反天罡还是徒有其表，拆出来研究研究。
+
+BGM：
+Song: Peyruis - Neutral Bay (Vlog No Copyright Music)
+Music promoted by Vlog No Copyright Music.
+Video Link: https://youtu.be/CNBV015NL3U
+
+Track: Doing Nothing — sakura Hz [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/o5ivAJQ_iHQ
+Free Download / Stream: https://alplus.io/Doing-nothing
+
+Finesse by Peyruis https://soundcloud.com/peyruis
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 
+https://creativecommons.org/licenses/by/3.0/
+Music promoted by Audio Library https://youtu.be/UaE_gaaLQYA</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="117" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3708" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:ajMW2JGJh2U</ns0:id>
+  <ns1:videoId>ajMW2JGJh2U</ns1:videoId>
+  <ns1:channelId>UCbKWv2x9t6u8yZoB3KcPtnw</ns1:channelId>
+  <ns0:title>[Alan Becker]Mission Impossible - An Actual Short</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/ajMW2JGJh2U" />
+  <ns0:author>
+   <ns0:name>Alan Becker</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-01-10T13:00:03+00:00</ns0:published>
+  <ns0:updated>2026-04-12T17:24:39+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Mission Impossible - An Actual Short</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/ajMW2JGJh2U?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/ajMW2JGJh2U/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>💡 Idea: bookno255
+📝 Writer:  @tjb7345 
+🔶 Animation: @frankyofl &amp; @efan_04
+🔷 Sounds: @dan_loeb</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="281283" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6284228" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:_kgNkkGyCsM</ns0:id>
+  <ns1:videoId>_kgNkkGyCsM</ns1:videoId>
+  <ns1:channelId>UCrXHVBS1cJg7MY9krqtCSAg</ns1:channelId>
+  <ns0:title>[电影最TOP唯一官方频道]电影最TOP：辣眼睛！2025年度十大烂片盘点</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=_kgNkkGyCsM" />
+  <ns0:author>
+   <ns0:name>电影最TOP唯一官方频道</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCrXHVBS1cJg7MY9krqtCSAg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-01-09T05:51:22+00:00</ns0:published>
+  <ns0:updated>2026-01-23T22:23:45+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>电影最TOP：辣眼睛！2025年度十大烂片盘点</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/_kgNkkGyCsM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/_kgNkkGyCsM/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="3403" average="5.00" min="1" max="5" />
+    <ns2:statistics views="180429" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:TeELh3HVZaU</ns0:id>
+  <ns1:videoId>TeELh3HVZaU</ns1:videoId>
+  <ns1:channelId>UCrXHVBS1cJg7MY9krqtCSAg</ns1:channelId>
+  <ns0:title>[电影最TOP唯一官方频道]电影最TOP：年终盘点来喽！2025年度十大佳片</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=TeELh3HVZaU" />
+  <ns0:author>
+   <ns0:name>电影最TOP唯一官方频道</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCrXHVBS1cJg7MY9krqtCSAg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-01-02T01:15:02+00:00</ns0:published>
+  <ns0:updated>2026-02-08T04:46:58+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>电影最TOP：年终盘点来喽！2025年度十大佳片</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/TeELh3HVZaU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/TeELh3HVZaU/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="2264" average="5.00" min="1" max="5" />
+    <ns2:statistics views="157787" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:qzWcVlYAVAM</ns0:id>
+  <ns1:videoId>qzWcVlYAVAM</ns1:videoId>
+  <ns1:channelId>UCbKWv2x9t6u8yZoB3KcPtnw</ns1:channelId>
+  <ns0:title>[Alan Becker]How To: Survive A Fall - An Actual Short</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/qzWcVlYAVAM" />
+  <ns0:author>
+   <ns0:name>Alan Becker</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-27T13:01:46+00:00</ns0:published>
+  <ns0:updated>2026-02-17T07:01:01+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>How To: Survive A Fall - An Actual Short</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/qzWcVlYAVAM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/qzWcVlYAVAM/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>💡 Idea &amp; Writer: @its_me_skim 
+🔶 Animation: @ichasedacrow, @ARCpersona, @doumaki4501, @Shuriken255, &amp; @n8sterAnimates 
+🔷 Sounds: https://twitter.com/E_SoundWork</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="230892" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5538778" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:6NQngF1FLU8</ns0:id>
+  <ns1:videoId>6NQngF1FLU8</ns1:videoId>
+  <ns1:channelId>UCrXHVBS1cJg7MY9krqtCSAg</ns1:channelId>
+  <ns0:title>[电影最TOP唯一官方频道]涨芝士！我去某剧组里呆了三天</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=6NQngF1FLU8" />
+  <ns0:author>
+   <ns0:name>电影最TOP唯一官方频道</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCrXHVBS1cJg7MY9krqtCSAg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-27T05:44:01+00:00</ns0:published>
+  <ns0:updated>2026-03-27T22:00:17+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>涨芝士！我去某剧组里呆了三天</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/6NQngF1FLU8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/6NQngF1FLU8/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="211" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11736" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:sph73URcshs</ns0:id>
+  <ns1:videoId>sph73URcshs</ns1:videoId>
+  <ns1:channelId>UCrXHVBS1cJg7MY9krqtCSAg</ns1:channelId>
+  <ns0:title>[电影最TOP唯一官方频道]细读经典：笑不活了！上半场大骂烂片，下半场高呼神作！《摄影机不要停》</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=sph73URcshs" />
+  <ns0:author>
+   <ns0:name>电影最TOP唯一官方频道</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCrXHVBS1cJg7MY9krqtCSAg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-25T01:15:05+00:00</ns0:published>
+  <ns0:updated>2026-02-17T02:29:58+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>细读经典：笑不活了！上半场大骂烂片，下半场高呼神作！《摄影机不要停》</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/sph73URcshs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/sph73URcshs/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1865" average="5.00" min="1" max="5" />
+    <ns2:statistics views="81955" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:q_zX1UdJVcM</ns0:id>
+  <ns1:videoId>q_zX1UdJVcM</ns1:videoId>
+  <ns1:channelId>UCbKWv2x9t6u8yZoB3KcPtnw</ns1:channelId>
+  <ns0:title>[Alan Becker]The Far Lands - Animation vs. Minecraft Shorts Ep 38</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=q_zX1UdJVcM" />
+  <ns0:author>
+   <ns0:name>Alan Becker</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-20T13:00:06+00:00</ns0:published>
+  <ns0:updated>2026-03-27T08:00:12+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>The Far Lands - Animation vs. Minecraft Shorts Ep 38</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/q_zX1UdJVcM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/q_zX1UdJVcM/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Something lives here...
+
+🖐 ASK ME ANYTHING! ► https://www.youtube.com/noogai89/join 
+
+👕 MERCH! ► https://alanbecker.shop
+
+💬DISCORD SERVER ► https://discord.gg/alanbecker 
+
+🕹️ANIMATORS VS GAMES ►  @AnimatorsVSGames  
+
+📷INSTAGRAM ► http://www.instagram.com/alanbecker 
+
+✏️TWITTER ► http://twitter.com/alanthebecker 
+
+
+⭐SPECIAL THANKS⭐
+SkipTheTutorial helped with the Far Lands environment for this episode. Special thanks to the following: 
+@skipthetutorial 
+Ash
+Jonah
+Quinten
+
+🔹🔶DIRECTOR / WRITER🔶🔹
+Alan Becker
+@its_me_skim 
+🔹🔶ANIMATION🔶🔹
+🔶2D🔶
+@ARCpersona 
+@Ellis02Media 
+Exceld
+@SimpleFox1 
+@n8sterAnimates 
+@efan_04 
+@doumaki4501 
+@NotSoProishNoob 
+@MateusSilvaAnimations 
+@robby24anims62 
+@Fordz 
+@oxob3000 
+@DaSassyOwl 
+Rojackie
+@Hexalhaxel 
+@Spacedoughnut 
+@eds7236 
+@Shuriken255 
+🔶3D🔶
+https://x.com/magicalotter46 
+@Ellis02Media 
+@st4ticfilms 
+🔹🔶MINECRAFT BUILDERS🔶🔹
+SNovaRH
+The Kaemble
+StacyBluebird
+Waters
+Nikabe
+Raf
+Beef
+🔹🔶MINECRAFT SCRIPTING🔶🔹
+@Onnowhere 
+🔹🔶SFX🔶🔹
+https://twitter.com/E_SoundWork
+@dan_loeb 
+🔹🔶MUSIC🔶🔹
+@ScottBuckley 
+🔹🔶EDITORS🔶🔹
+@n8sterAnimates 
+@dan_loeb 
+🔹🔶THUMBNAIL ARTIST🔶🔹
+Exceld
+🔹🔶PRODUCTION ASSISTANT🔶🔹
+Sammi Alea https://sammialea.com/ 
+🔹🔶PRODUCTION MANAGER🔶🔹 
+@hatena360</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="287612" average="5.00" min="1" max="5" />
+    <ns2:statistics views="15273397" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:g34cRN6-DJ8</ns0:id>
+  <ns1:videoId>g34cRN6-DJ8</ns1:videoId>
+  <ns1:channelId>UCxcuxsAjdnQaiRwYb5CVISw</ns1:channelId>
+  <ns0:title>[翼王]这款电源还能变形切换方向解决插线难题？联力RS1200W电源拆解评测【翼王】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=g34cRN6-DJ8" />
+  <ns0:author>
+   <ns0:name>翼王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-14T04:00:49+00:00</ns0:published>
+  <ns0:updated>2026-02-15T09:40:00+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>这款电源还能变形切换方向解决插线难题？联力RS1200W电源拆解评测【翼王】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/g34cRN6-DJ8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/g34cRN6-DJ8/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>这次来看看联力最新款的RS系列电源，它的特色设计是可以切换市电输入插座的方向，从而改变模组接口的位置，提高在机箱内插线的便利性。
+
+BGM：
+Song: Markvard - Vacation
+Music provided by Vlog No Copyright Music.
+Creative Commons - Attribution 3.0 Unported
+Video Link: https://youtu.be/ljryt9kQGH0
+
+Song: Peyruis - Neutral Bay (Vlog No Copyright Music)
+Music promoted by Vlog No Copyright Music.
+Video Link: https://youtu.be/CNBV015NL3U
+
+Finesse by Peyruis https://soundcloud.com/peyruis
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 
+https://creativecommons.org/licenses/by/3.0/
+Music promoted by Audio Library https://youtu.be/UaE_gaaLQYA</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="298" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11231" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:VQXTekh3Dz8</ns0:id>
+  <ns1:videoId>VQXTekh3Dz8</ns1:videoId>
+  <ns1:channelId>UCbKWv2x9t6u8yZoB3KcPtnw</ns1:channelId>
+  <ns0:title>[Alan Becker]Introducing...</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/VQXTekh3Dz8" />
+  <ns0:author>
+   <ns0:name>Alan Becker</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-06T13:01:06+00:00</ns0:published>
+  <ns0:updated>2026-04-03T00:51:04+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Introducing...</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/VQXTekh3Dz8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/VQXTekh3Dz8/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Crochet Kit: https://alanbecker.shop/products/custom-crochet-figure-kit-5-characters
+
+There's also an auction to get ALL the characters: https://www.ebay.com/itm/397356776499
+
+Crochet Figures and Kit designed by Heather Michael: https://www.etsy.com/shop/PocketsofWhimsy
+
+🔉SFX:  @dan_loeb 
+🎵Music: "Just Questions" by Mac Taboel</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="359554" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7647361" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:zq4iG17gWhY</ns0:id>
+  <ns1:videoId>zq4iG17gWhY</ns1:videoId>
+  <ns1:channelId>UCrXHVBS1cJg7MY9krqtCSAg</ns1:channelId>
+  <ns0:title>[电影最TOP唯一官方频道]细读经典：全程爆梗！星爷无厘头喜剧的巅峰之作《唐伯虎点秋香》</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=zq4iG17gWhY" />
+  <ns0:author>
+   <ns0:name>电影最TOP唯一官方频道</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCrXHVBS1cJg7MY9krqtCSAg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-12-05T01:15:04+00:00</ns0:published>
+  <ns0:updated>2026-02-13T15:30:07+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>细读经典：全程爆梗！星爷无厘头喜剧的巅峰之作《唐伯虎点秋香》</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/zq4iG17gWhY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/zq4iG17gWhY/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1910" average="5.00" min="1" max="5" />
+    <ns2:statistics views="151974" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:AQF_0hMoZew</ns0:id>
+  <ns1:videoId>AQF_0hMoZew</ns1:videoId>
+  <ns1:channelId>UCrXHVBS1cJg7MY9krqtCSAg</ns1:channelId>
+  <ns0:title>[电影最TOP唯一官方频道]细读经典：丧系巅峰！在经历巨大悲痛后，人将如何与自己和解？《海边的曼彻斯特》</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=AQF_0hMoZew" />
+  <ns0:author>
+   <ns0:name>电影最TOP唯一官方频道</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCrXHVBS1cJg7MY9krqtCSAg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-11-27T01:15:01+00:00</ns0:published>
+  <ns0:updated>2026-02-12T06:32:59+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>细读经典：丧系巅峰！在经历巨大悲痛后，人将如何与自己和解？《海边的曼彻斯特》</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/AQF_0hMoZew?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/AQF_0hMoZew/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后https://universalbus.cn/r?s=dianyingzuitop 优惠码dyztop</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="542" average="5.00" min="1" max="5" />
+    <ns2:statistics views="24618" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:XyRFmWZuimk</ns0:id>
+  <ns1:videoId>XyRFmWZuimk</ns1:videoId>
+  <ns1:channelId>UCbKWv2x9t6u8yZoB3KcPtnw</ns1:channelId>
+  <ns0:title>[Alan Becker]Egg - An Actual Short</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/XyRFmWZuimk" />
+  <ns0:author>
+   <ns0:name>Alan Becker</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-11-22T13:01:17+00:00</ns0:published>
+  <ns0:updated>2026-03-27T12:55:09+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Egg - An Actual Short</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/XyRFmWZuimk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/XyRFmWZuimk/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>💡 Idea &amp; Writer: @its_me_skim 
+🔶 Animation: @its_me_skim ExcelD @ichasedacrow2 
+🔷 Sounds: https://twitter.com/E_SoundWork</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="195475" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4473988" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:dz04yXwSkQY</ns0:id>
+  <ns1:videoId>dz04yXwSkQY</ns1:videoId>
+  <ns1:channelId>UCbKWv2x9t6u8yZoB3KcPtnw</ns1:channelId>
+  <ns0:title>[Alan Becker]Animation vs. Game Design</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=dz04yXwSkQY" />
+  <ns0:author>
+   <ns0:name>Alan Becker</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-11-15T13:01:20+00:00</ns0:published>
+  <ns0:updated>2026-02-27T00:41:14+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Animation vs. Game Design</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/dz04yXwSkQY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/dz04yXwSkQY/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Get Pixicade Here:  https://www.abacusbrands.com/products/draw-your-own-games-special-animation-edition-alan-becker-pixicade 
+
+🖐 ASK ME ANYTHING! ► https://www.youtube.com/noogai89/join 
+
+👕 MERCH! ► https://alanbecker.shop
+
+💬DISCORD SERVER ► https://discord.gg/alanbecker 
+
+🕹️ANIMATORS VS GAMES ►  @AnimatorsVSGames    
+
+📷INSTAGRAM ► http://www.instagram.com/alanbecker 
+
+✏️TWITTER ► http://twitter.com/alanthebecker 
+
+🔹🔶DIRECTORS / WRITER🔶🔹
+Alan Becker
+🔹🔶ANIMATION🔶🔹
+@doumaki4501 
+@robby24anims62 
+Acely
+@MateusSilvaAnimations 
+@efan_04 
+@Tokarev_ 
+Rojackie
+@ichasedacrow 
+@Ellis02Media 
+🔹🔶SFX / EDITOR🔶🔹
+@dan_loeb 
+🔹🔶VIDEOGRAPHER🔶🔹
+https://www.instagram.com/graciebeckercam
+🔹🔶PRODUCTION ASSISTANT🔶🔹
+Sammi Alea https://sammialea.com/ 
+🔹🔶EDITOR / PROJECT LEAD / PROJECT MANAGER🔶🔹 
+@hatena360</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="170597" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8410112" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:GJ6JkTJBkOU</ns0:id>
+  <ns1:videoId>GJ6JkTJBkOU</ns1:videoId>
+  <ns1:channelId>UCxcuxsAjdnQaiRwYb5CVISw</ns1:channelId>
+  <ns0:title>[翼王]顛覆認知？0作弊可能？磁軸鍵盤延遲測試2.0上線！【翼王x肚子飽飽】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=GJ6JkTJBkOU" />
+  <ns0:author>
+   <ns0:name>翼王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-11-12T04:00:16+00:00</ns0:published>
+  <ns0:updated>2026-02-10T01:39:09+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>顛覆認知？0作弊可能？磁軸鍵盤延遲測試2.0上線！【翼王x肚子飽飽】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/GJ6JkTJBkOU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/GJ6JkTJBkOU/hqdefault.jpg" width="480" height="360" />
+   <ns2:description />
+   <ns2:community>
+    <ns2:starRating count="346" average="5.00" min="1" max="5" />
+    <ns2:statistics views="13127" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:gDOKOt9xzjs</ns0:id>
+  <ns1:videoId>gDOKOt9xzjs</ns1:videoId>
+  <ns1:channelId>UCxcuxsAjdnQaiRwYb5CVISw</ns1:channelId>
+  <ns0:title>[翼王]只卖8块8的120W超级快充有多离谱？多款山寨充电头拆解评测！！【翼王】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=gDOKOt9xzjs" />
+  <ns0:author>
+   <ns0:name>翼王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-11-04T04:00:54+00:00</ns0:published>
+  <ns0:updated>2026-02-09T10:59:13+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>只卖8块8的120W超级快充有多离谱？多款山寨充电头拆解评测！！【翼王】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/gDOKOt9xzjs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/gDOKOt9xzjs/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>有一天我在买手机的时候，某宝的顺手买一件给我推了一个神奇的充电器，120“W”快充，仅需8块8，包邮送到家。既然它自己送上门了，那我高低得给它好好地检查一下身体，看看这到底是性价比神器还是手机杀手。后来我又搜了几下，发现这类产品还挺多，就把几种型号都搞了回来，给他们凑了个团一次性看看都是什么水平。
+
+BGM：
+Song: Markvard - Vacation
+Music provided by Vlog No Copyright Music.
+Creative Commons - Attribution 3.0 Unported
+Video Link: https://youtu.be/ljryt9kQGH0
+
+Song: LAKEY INSPIRED - Blossom
+Music provided by Vlog No Copyright Music.
+Creative Commons - Attribution-ShareAlike 3.0 Unported
+Video Link: https://youtu.be/c-HcOT3kV28
+
+Song: DayFox - Foxylicious
+Music provided by Vlog No Copyright Music.
+Video Link: https://youtu.be/919HIMIvoNQ
+
+Song: Peyruis - Neutral Bay (Vlog No Copyright Music)
+Music promoted by Vlog No Copyright Music.
+Video Link: https://youtu.be/CNBV015NL3U
+
+Track: Doing Nothing — sakura Hz [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/o5ivAJQ_iHQ
+Free Download / Stream: https://alplus.io/Doing-nothing
+
+Finesse by Peyruis https://soundcloud.com/peyruis
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 
+https://creativecommons.org/licenses/by/3.0/
+Music promoted by Audio Library https://youtu.be/UaE_gaaLQYA</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1981" average="5.00" min="1" max="5" />
+    <ns2:statistics views="80923" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:xu0mrfxPhbY</ns0:id>
+  <ns1:videoId>xu0mrfxPhbY</ns1:videoId>
+  <ns1:channelId>UCbKWv2x9t6u8yZoB3KcPtnw</ns1:channelId>
+  <ns0:title>[Alan Becker]Allay - An Actual Short</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/xu0mrfxPhbY" />
+  <ns0:author>
+   <ns0:name>Alan Becker</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-11-01T12:02:03+00:00</ns0:published>
+  <ns0:updated>2026-02-09T10:49:38+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Allay - An Actual Short</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/xu0mrfxPhbY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/xu0mrfxPhbY/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>💡 Idea: @its_me_skim 
+📝Writer: @tjb7345 
+🔶 Animation: @oxob3000, @ablerai, @n8sterAnimates, &amp; @NotSoProishNoob
+🔷 Sounds: @dan_loeb
+🎵 Music: @Shuriken255</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="194764" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4616417" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:4dUr6L-dKgo</ns0:id>
+  <ns1:videoId>4dUr6L-dKgo</ns1:videoId>
+  <ns1:channelId>UCbKWv2x9t6u8yZoB3KcPtnw</ns1:channelId>
+  <ns0:title>[Alan Becker]Alan Becker lofi radio - beats to animate to</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=4dUr6L-dKgo" />
+  <ns0:author>
+   <ns0:name>Alan Becker</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-10-24T18:02:26+00:00</ns0:published>
+  <ns0:updated>2026-04-21T04:45:12+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Alan Becker lofi radio - beats to animate to</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/4dUr6L-dKgo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/4dUr6L-dKgo/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Chill out to some lofi versions of Alan Becker's animation soundtracks! 
+
+Also available on:
+Spotify: https://open.spotify.com/album/7oraFz2vY8OsOFF4sPAyKs
+Apple Music: https://music.apple.com/us/album/alan-becker-lofi/1850125813
+iTunes: https://music.apple.com/us/album/alan-becker-lofi/1850125813
+YouTube Music: https://music.youtube.com/playlist?list=OLAK5uy_kyLKoNqyovfxvS1zSpFyzwp0lbhVIgDng
+... and 19 more streaming platforms!
+
+If you want to use the music from this stream for your own videos and streams, please copy &amp; paste the credit below:
+Lofi music from Alan Becker: https://www.youtube.com/watch?v=4dUr6L-dKgo
+
+🖐 ASK ME ANYTHING! ► https://www.youtube.com/noogai89/join 
+
+👕 MERCH! ► https://alanbecker.shop
+
+💬DISCORD SERVER ► https://discord.gg/alanbecker 
+
+🕹️ANIMATORS VS GAMES ►  @AnimatorsVSGames   
+
+📷INSTAGRAM ► http://www.instagram.com/alanbecker 
+
+✏️TWITTER ► http://twitter.com/alanthebecker 
+
+🔹🔶DIRECTORS / WRITERS🔶🔹
+Alan Becker
+@its_me_skim 
+🔹🔶ANIMATION🔶🔹
+@mekatokwa 
+@n8sterAnimates 
+@doumaki4501 
+@favfaris4714 
+@oxob3000 
+@effie2095 
+@SimpleFox1 
+@frankyofl 
+@NotSoProishNoob 
+@ablerai 
+@DonnieBoots 
+@ichasedacrow 
+@Ellis02Media 
+@Spacedoughnut 
+@eds7236 
+Exceld
+@Nemo0501 
+@Lunsar 
+@tjb7345 
+@efan_04 
+🔹🔶MINECRAFT BUILDERS🔶🔹
+The Kaemble
+🔹🔶TECHNICAL DIRECTOR🔶🔹
+@Shuriken255 
+🔹🔶PRODUCTION ASSISTANTS🔶🔹
+Sammi Alea https://sammialea.com/  
+Gigi 
+🔹🔶EDITOR / PROJECT LEAD / PROJECT MANAGER🔶🔹 
+@hatena360 
+
+🎵TRACK LIST🎵
+1. “Animator vs Animation 4”
+Original by Sarah Eide
+Remixed by Avenza
+
+2. “Jazzy Note Blocks”
+Original by Aaron Grooves
+Remixed by Avenza
+
+3. “Green’s Jam”
+Original by Aaron Grooves
+Remixed by Avenza
+
+4. “Pigstep”
+Original by Lena Raine &amp; Scott Buckley
+Remixed by Avenza
+
+5. “Warden’s Song”
+Original by Scott Buckley
+Remixed by Avenza
+
+6. “Monster School”
+Original by Scott Buckley
+Remixed by Avenza
+
+7. “Zombies”
+Original by Aaron Grooves
+Remixed by Avenza
+
+8. “Villager Big Band”
+Original by Aaron Grooves
+Remixed by Avenza
+
+9. “Wandering Trader”
+Original by Aaron Grooves
+Remixed by Avenza
+
+10. “Green &amp; Purple”
+Original by Scott Buckley
+Remixed by Avenza
+
+11. “Purple’s Theme”
+Original by Scott Buckley
+Remixed by Avenza
+
+12. “Lucky Block Staff”
+Original by Scott Buckley
+Remixed by Avenza
+
+13. “The Prank”
+Original by Scott Buckley
+Remixed by Avenza
+
+14. “Animation vs Math”
+Original by Scott Buckley
+Remixed by Avenza
+
+15. “Influencer Arc”
+Original by LilDeuceDeuce
+Remixed by LilDeuceDeuce
+
+16. “Victim &amp; Mitsi”
+Original by Scott Buckley
+Remixed by Avenza
+
+17. “To Be Continued”
+Original by Kevin MacLeod
+Remixed by Avenza
+
+𝐋𝐢𝐯𝐞𝐬𝐭𝐫𝐞𝐚𝐦 𝐂𝐡𝐚𝐭 𝐑𝐮𝐥𝐞𝐬:  
+
+- 𝗡𝗼 𝗖𝗵𝗮𝗿𝗮𝗰𝘁𝗲𝗿/𝗖𝗔𝗣𝗦/𝗲𝗺𝗼𝗷𝗶 𝘀𝗽𝗮𝗺𝗺𝗶𝗻𝗴    
+- 𝗡𝗼 𝗰𝗿𝘂𝗱𝗲 𝗼𝗿 𝗽𝗿𝗼𝗳𝗮𝗻𝗲 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲    
+- 𝗗𝗼 𝗻𝗼𝘁 𝗯𝘆𝗽𝗮𝘀𝘀 𝗰𝗵𝗮𝘁 𝗳𝗶𝗹𝘁𝗲𝗿𝘀    
+- 𝗗𝗼 𝗻𝗼𝘁 𝗯𝘆𝗽𝗮𝘀𝘀 𝗺𝘂𝘁𝗲𝘀 𝗼𝗿 𝗯𝗮𝗻𝘀    
+- 𝗗𝗼 𝗻𝗼𝘁 𝗶𝗺𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝘁𝗲, 𝗔𝗹𝗮𝗻, 𝗵𝗶𝘀 𝘀𝘁𝗮𝗳𝗳 𝗼𝗿 𝗼𝘁𝗵𝗲𝗿 𝗬𝗼𝘂𝗧𝘂𝗯𝗲𝗿𝘀    
+- 𝗗𝗼 𝗻𝗼𝘁 𝗮𝗿𝗴𝘂𝗲 𝘄𝗶𝘁𝗵 𝗼𝗿 𝗱𝗶𝘀𝗽𝘂𝘁𝗲 𝗰𝗵𝗮𝘁 𝘀𝘁𝗮𝗳𝗳 𝗲𝗻𝗳𝗼𝗿𝗰𝗶𝗻𝗴 𝘁𝗵𝗲 𝗿𝘂𝗹𝗲𝘀    
+- 𝗗𝗼 𝗻𝗼𝘁 𝗽𝗼𝘀𝘁 𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝘀𝘂𝗰𝗵 𝗮𝘀 𝗮𝗴𝗲 𝗼𝗿 𝗹𝗼𝗰𝗮𝘁𝗶𝗼𝗻    
+- 𝗗𝗼 𝗻𝗼𝘁 𝗮𝗱𝘃𝗲𝗿𝘁𝗶𝘀𝗲 𝗼𝗿 𝘀𝗲𝗹𝗳 𝗽𝗿𝗼𝗺𝗼𝘁𝗲 (𝗶𝗻𝗰𝗹𝘂𝗱𝗶𝗻𝗴 𝗵𝗮𝗻𝗱𝗹𝗲𝘀 𝗼𝗿 𝗼𝘁𝗵𝗲𝗿 𝗰𝗵𝗮𝗻𝗻𝗲𝗹𝘀)    
+- 𝗞𝗲𝗲𝗽 𝗽𝗼𝗹𝗶𝘁𝗶𝗰𝘀 𝗼𝗿 𝗿𝗲𝗹𝗶𝗴𝗶𝗼𝗻 𝗼𝘂𝘁 𝗼𝗳 𝗰𝗵𝗮𝘁    
+- 𝗘𝗻𝘀𝘂𝗿𝗲 𝗰𝗵𝗮𝘁 𝗿𝗲𝗺𝗮𝗶𝗻𝘀 𝗳𝗮𝗺𝗶𝗹𝘆-𝗳𝗿𝗶𝗲𝗻𝗱𝗹𝘆 (𝗡𝗼 𝗱𝗿𝗮𝗺𝗮 𝗼𝗿 𝗳𝗹𝗶𝗿𝘁𝗶𝗻𝗴 𝗮𝗹𝗹𝗼𝘄𝗲𝗱)    
+- 𝗨𝘀𝗲 𝗰𝗼𝗺𝗺𝗼𝗻 𝘀𝗲𝗻𝘀𝗲  
+
+𝗜𝗳 𝘆𝗼𝘂 𝗿𝘂𝗻 𝗶𝗻𝘁𝗼 𝗽𝗲𝗼𝗽𝗹𝗲 𝗰𝗮𝘂𝘀𝗶𝗻𝗴 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝗶𝗻 𝗰𝗵𝗮𝘁 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗰𝗿𝗲𝗮𝘁𝗲 𝗮 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝘁𝗶𝗰𝗸𝗲𝘁 𝗼𝗻 𝘁𝗵𝗲 𝗼𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗔𝗹𝗮𝗻 𝗕𝗲𝗰𝗸𝗲𝗿 𝗱𝗶𝘀𝗰𝗼𝗿𝗱 (𝗹𝗶𝗻𝗸𝗲𝗱 𝗮𝗯𝗼𝘃𝗲) 𝗮𝗻𝗱 𝗮𝘀𝗸 𝗳𝗼𝗿 𝗮 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 𝗺𝗼𝗱𝗲𝗿𝗮𝘁𝗼𝗿. 𝗪𝗵𝗲𝗻 𝗺𝗮𝗸𝗶𝗻𝗴 𝗮 𝗿𝗲𝗽𝗼𝗿𝘁 𝗽𝗹𝗲𝗮𝘀𝗲 𝗽𝗿𝗼𝘃𝗶𝗱𝗲 𝘀𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀 &amp; 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 𝗜𝗗 𝗼𝗳 𝘁𝗵𝗲 𝗽𝗲𝗿𝘀𝗼𝗻 𝗶𝗻 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻.</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="152877" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6058476" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:39BPQh6-ZFI</ns0:id>
+  <ns1:videoId>39BPQh6-ZFI</ns1:videoId>
+  <ns1:channelId>UCbKWv2x9t6u8yZoB3KcPtnw</ns1:channelId>
+  <ns0:title>[Alan Becker]How To: Open Doors - An Actual Short</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/39BPQh6-ZFI" />
+  <ns0:author>
+   <ns0:name>Alan Becker</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-10-18T12:00:06+00:00</ns0:published>
+  <ns0:updated>2026-04-10T08:09:23+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>How To: Open Doors - An Actual Short</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/39BPQh6-ZFI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/39BPQh6-ZFI/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>💡 Idea &amp; Writer: @its_me_skim 
+🔶 Animation: @DonnieBoots, @SimpleFox1, https://www.youtube.com/@Lunsar, &amp; @doumaki4501 
+🔷 Sounds: @dan_loeb 
+🎵 Music: Hide and Geek by Harry Edvino</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="423253" average="5.00" min="1" max="5" />
+    <ns2:statistics views="13084626" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:iSFDlT43bxw</ns0:id>
+  <ns1:videoId>iSFDlT43bxw</ns1:videoId>
+  <ns1:channelId>UCbKWv2x9t6u8yZoB3KcPtnw</ns1:channelId>
+  <ns0:title>[Alan Becker]Hardcore Manhunt - Animation vs. Minecraft Shorts Ep 37</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=iSFDlT43bxw" />
+  <ns0:author>
+   <ns0:name>Alan Becker</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-10-11T12:00:06+00:00</ns0:published>
+  <ns0:updated>2026-03-30T07:51:45+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Hardcore Manhunt - Animation vs. Minecraft Shorts Ep 37</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/iSFDlT43bxw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/iSFDlT43bxw/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Good luck with the pop quiz at the end! https://brilliant.org/alanbecker 20% off annual premium subscription included with this link only.
+
+🖐 ASK ME ANYTHING! ► https://www.youtube.com/noogai89/join 
+
+👕 MERCH! ► https://alanbecker.shop
+
+💬DISCORD SERVER ► https://discord.gg/alanbecker 
+
+🕹️ANIMATORS VS GAMES ►  @AnimatorsVSGames   
+
+📷INSTAGRAM ► http://www.instagram.com/alanbecker 
+
+✏️TWITTER ► http://twitter.com/alanthebecker 
+
+
+🔹🔶DIRECTORS / WRITERS🔶🔹
+@its_me_skim 
+Alan Becker
+🔹🔶ANIMATION🔶🔹
+🔹2D🔹
+@ARCpersona 
+@n8sterAnimates 
+@Ellis02Media 
+@NotSoProishNoob 
+Exceld
+@doumaki4501 
+@Fordz 
+@efan_04 
+@SimpleFox1 
+@ichasedacrow 
+@Spacedoughnut 
+@Hexalhaxel 
+@frankyofl 
+https://x.com/magicalotter46 
+@robby24anims62 
+@ablerai 
+@effie2095 
+@hatena360 
+Terkoiz
+@oxob3000 
+rojackie
+@Nemo0501 
+@mekatokwa 
+@dan_loeb 
+@tjb7345 
+🔹3D🔹
+@Ellis02Media 
+https://x.com/magicalotter46 
+@st4ticfilms 
+🔹🔶MINECRAFT BUILDERS🔶🔹
+TheKaemble
+🔹🔶BACKGROUND EDITOR🔶🔹
+iSwimmi
+🔹🔶CONCEPT ARTIST🔶🔹 
+IMPFORHIRE
+🔹🔶ASSET CREATION🔶🔹
+@ablerai 
+@Shuriken255 
+Double Apple
+🔹🔶MINECRAFT COMMANDS🔶🔹
+@Onnowhere 
+🔹🔶SOUND DESIGN🔶🔹 
+@dan_loeb 
+https://twitter.com/E_SoundWork
+🔹🔶MUSIC🔶🔹 
+@ScottBuckley 
+🔹🔶EDITORS🔶🔹 
+@n8sterAnimates 
+@dan_loeb 
+🔹🔶THUMBNAILS🔶🔹 
+Exceld
+DJ
+🔹🔶TECHNICAL DIRECTOR🔶🔹
+@Shuriken255 
+🔹🔶PROJECT LEAD🔶🔹
+@n8sterAnimates 
+🔹🔶PRODUCTION ASSISTANTS🔶🔹
+Sammi Alea https://sammialea.com/ 
+Gigi 
+🔹🔶LINE PRODUCER / PRODUCTION MANAGER🔶🔹
+@hatena360</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="383604" average="5.00" min="1" max="5" />
+    <ns2:statistics views="24472168" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:1fyNs_modAw</ns0:id>
+  <ns1:videoId>1fyNs_modAw</ns1:videoId>
+  <ns1:channelId>UCbKWv2x9t6u8yZoB3KcPtnw</ns1:channelId>
+  <ns0:title>[Alan Becker]Walk Cycles - An Actual Short</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/1fyNs_modAw" />
+  <ns0:author>
+   <ns0:name>Alan Becker</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-10-04T12:00:07+00:00</ns0:published>
+  <ns0:updated>2025-10-11T22:37:52+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Walk Cycles - An Actual Short</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/1fyNs_modAw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/1fyNs_modAw/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>💡 Idea &amp; Writer: @its_me_skim 
+🔶 Animation: @tjb7345, @tetr0mations, &amp; @Spacedoughnut
+🔷 Sounds: https://twitter.com/E_SoundWork 
+🎵 Music: Back on Track by Ryan James Carr, Toshio Masuda - Main Naruto Theme, &amp; BACK2BACK by STRLGHT, ROONIN</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="379342" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11466279" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:kjoTHQg1fV4</ns0:id>
+  <ns1:videoId>kjoTHQg1fV4</ns1:videoId>
+  <ns1:channelId>UCxcuxsAjdnQaiRwYb5CVISw</ns1:channelId>
+  <ns0:title>[翼王]性价比白金A+系列电源加加加量！金河田白金A+2000W拆解评测【翼王】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=kjoTHQg1fV4" />
+  <ns0:author>
+   <ns0:name>翼王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-09-30T04:15:03+00:00</ns0:published>
+  <ns0:updated>2025-11-22T13:45:45+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>性价比白金A+系列电源加加加量！金河田白金A+2000W拆解评测【翼王】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/kjoTHQg1fV4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/kjoTHQg1fV4/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>人气电源白金A+系列增加了新型号，最大功率达到了2000W，全日系电容、全桥LLC，新面孔的它表现如何，这期视频就来看看。
+
+BGM：
+Song: Markvard - Vacation
+Music provided by Vlog No Copyright Music.
+Creative Commons - Attribution 3.0 Unported
+Video Link: https://youtu.be/ljryt9kQGH0
+
+Song: Peyruis - Neutral Bay (Vlog No Copyright Music)
+Music promoted by Vlog No Copyright Music.
+Video Link: https://youtu.be/CNBV015NL3U
+
+Finesse by Peyruis https://soundcloud.com/peyruis
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 
+https://creativecommons.org/licenses/by/3.0/
+Music promoted by Audio Library https://youtu.be/UaE_gaaLQYA</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="77" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2634" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:112LZcz5Hbg</ns0:id>
+  <ns1:videoId>112LZcz5Hbg</ns1:videoId>
+  <ns1:channelId>UCxcuxsAjdnQaiRwYb5CVISw</ns1:channelId>
+  <ns0:title>[翼王]12Bit 1G带宽示波器只要9999RMB？普源最新款MHO98开箱试玩拆解【开箱翼闻录 第59期】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=112LZcz5Hbg" />
+  <ns0:author>
+   <ns0:name>翼王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-09-27T08:19:30+00:00</ns0:published>
+  <ns0:updated>2025-11-27T15:05:18+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>12Bit 1G带宽示波器只要9999RMB？普源最新款MHO98开箱试玩拆解【开箱翼闻录 第59期】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/112LZcz5Hbg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/112LZcz5Hbg/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>这一次我们来开箱试玩一下普源最近推出的新款示波器，MHO900系列的加强限量特别版，MHO98，12Bit垂直分辨率1GHz带宽，所有软件选件全开，面板和旋钮加强，甚至直接附送单卖3999的逻辑分析仪探头，还有专属金标。
+
+BGM:
+Song: Peyruis - Neutral Bay (Vlog No Copyright Music)
+Music promoted by Vlog No Copyright Music.
+Video Link: https://youtu.be/CNBV015NL3U
+
+Track: Doing Nothing — sakura Hz [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/o5ivAJQ_iHQ
+Free Download / Stream: https://alplus.io/Doing-nothing
+
+We Are One by Vexento https://www.youtube.com/user/Vexento
+https://soundcloud.com/vexento
+Music promoted by Audio Library https://youtu.be/Ssvu2yncgWU
+
+Finesse by Peyruis https://soundcloud.com/peyruis
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 
+https://creativecommons.org/licenses/by/3.0/
+Music promoted by Audio Library https://youtu.be/UaE_gaaLQYA
+
+Track: NIVIRO ft. PollyAnna - Fast Lane [NCS Release]
+Music provided by NoCopyrightSounds.
+Watch: https://youtu.be/DqUQW3xyQ1c
+Free Download / Stream: http://ncs.io/FastLaneYO</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="191" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9506" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:N7M00B5d6Rk</ns0:id>
+  <ns1:videoId>N7M00B5d6Rk</ns1:videoId>
+  <ns1:channelId>UCxcuxsAjdnQaiRwYb5CVISw</ns1:channelId>
+  <ns0:title>[翼王]90G超大显存轻薄本挑战70B大模型！联想小新Pro 14 2025能否战未来？【翼王】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=N7M00B5d6Rk" />
+  <ns0:author>
+   <ns0:name>翼王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-09-20T11:02:34+00:00</ns0:published>
+  <ns0:updated>2025-11-26T14:08:41+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>90G超大显存轻薄本挑战70B大模型！联想小新Pro 14 2025能否战未来？【翼王】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/N7M00B5d6Rk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/N7M00B5d6Rk/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>英特尔新驱动增加了一个可以灵活调节共享显存的功能，轻松调出大显存，再搭配支持更换内存条的联想小新Pro 14 2025，最高90G显存有点夸张。
+
+BGM：
+Song: Peyruis - Neutral Bay (Vlog No Copyright Music)
+Music promoted by Vlog No Copyright Music.
+Video Link: https://youtu.be/CNBV015NL3U
+
+Song: LAKEY INSPIRED - Blossom
+Music provided by Vlog No Copyright Music.
+Creative Commons - Attribution-ShareAlike 3.0 Unported
+Video Link: https://youtu.be/c-HcOT3kV28
+
+Track: Doing Nothing — sakura Hz [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/o5ivAJQ_iHQ
+Free Download / Stream: https://alplus.io/Doing-nothing
+
+Daylight by Jay Someday https://soundcloud.com/jaysomeday
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 
+Free Download / Stream: https://bit.ly/daylight-jay-someday
+Music promoted by Audio Library https://youtu.be/FTTgw2cglKY
+
+We Are One by Vexento https://www.youtube.com/user/Vexento
+https://soundcloud.com/vexento
+Music promoted by Audio Library https://youtu.be/Ssvu2yncgWU
+
+Finesse by Peyruis https://soundcloud.com/peyruis
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 
+https://creativecommons.org/licenses/by/3.0/
+Music promoted by Audio Library https://youtu.be/UaE_gaaLQYA
+
+Song: DayFox - Foxylicious
+Music provided by Vlog No Copyright Music.
+Video Link: https://youtu.be/919HIMIvoNQ</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="192" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10375" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:qrWvuHhi3Go</ns0:id>
+  <ns1:videoId>qrWvuHhi3Go</ns1:videoId>
+  <ns1:channelId>UCxcuxsAjdnQaiRwYb5CVISw</ns1:channelId>
+  <ns0:title>[翼王]2025夏促轻薄全能本怎么挑？荣耀笔记本电脑盘点加推荐！【翼王】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=qrWvuHhi3Go" />
+  <ns0:author>
+   <ns0:name>翼王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-08-29T10:47:34+00:00</ns0:published>
+  <ns0:updated>2025-11-26T13:55:43+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>2025夏促轻薄全能本怎么挑？荣耀笔记本电脑盘点加推荐！【翼王】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/qrWvuHhi3Go?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/qrWvuHhi3Go/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>这期视频我们会介绍荣耀目前在售的四个笔记本系列，从入门到旗舰，从性能到轻薄，看看哪一台会适合你。
+
+视频里面提到的产品相关连接如下：
+荣耀Magic book pro16   https://item.jd.com/100101883540.html
+荣耀Magic book pro 14  https://item.m.jd.com/product/100149749549.html
+荣耀Magic book pro 16 2025  https://item.jd.com/100213047780.html
+荣耀Magic book Art 14 2025  https://item.m.jd.com/product/100245020278.html
+荣耀笔记本X16 2025  https://item.jd.com/100147681208.html
+荣耀Magic book X16 战斗版  https://item.jd.com/100074955690.html
+
+
+本期视频我们测试屏幕色彩的软件使用了ColourSpace，这是一款专业的显示器校准和色彩管理软件，除了测量色域色准，还有生成3DLUT等功能。合作用户有索尼、苹果、网飞、V社等，感兴趣的观众可以去他们官网了解一下： 
+https://lightillusion.com/
+
+BGM：
+Finesse by Peyruis https://soundcloud.com/peyruis
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 
+https://creativecommons.org/licenses/by/3.0/
+Music promoted by Audio Library https://youtu.be/UaE_gaaLQYA
+
+Track: Introspection — Mona Wonderlick [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/UZzuVt7nKOA
+Free Download / Stream: http://alplus.io/Introspection
+
+Song: LAKEY INSPIRED - Blossom
+Music provided by Vlog No Copyright Music.
+Creative Commons - Attribution-ShareAlike 3.0 Unported
+Video Link: https://youtu.be/c-HcOT3kV28</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="44" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3617" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:y75t0V91Cro</ns0:id>
+  <ns1:videoId>y75t0V91Cro</ns1:videoId>
+  <ns1:channelId>UCxcuxsAjdnQaiRwYb5CVISw</ns1:channelId>
+  <ns0:title>[翼王]16寸X2超大触摸屏双屏笔记本？下屏还能变形抬升？【开箱翼闻录 第58期】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=y75t0V91Cro" />
+  <ns0:author>
+   <ns0:name>翼王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-08-22T06:08:43+00:00</ns0:published>
+  <ns0:updated>2025-11-21T13:49:16+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>16寸X2超大触摸屏双屏笔记本？下屏还能变形抬升？【开箱翼闻录 第58期】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/y75t0V91Cro?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/y75t0V91Cro/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>欢迎来到最新一集的开箱翼闻录，我们又要来开箱双触摸屏笔记本电脑了。这次用的还是13代i7的处理器，整体看起来要正经不少。
+
+BGM：
+Song: Peyruis - Neutral Bay (Vlog No Copyright Music)
+Music promoted by Vlog No Copyright Music.
+Video Link: https://youtu.be/CNBV015NL3U
+
+Track: Doing Nothing — sakura Hz [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/o5ivAJQ_iHQ
+Free Download / Stream: https://alplus.io/Doing-nothing
+
+We Are One by Vexento https://www.youtube.com/user/Vexento
+https://soundcloud.com/vexento
+Music promoted by Audio Library https://youtu.be/Ssvu2yncgWU
+
+Finesse by Peyruis https://soundcloud.com/peyruis
+Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 
+https://creativecommons.org/licenses/by/3.0/
+Music promoted by Audio Library https://youtu.be/UaE_gaaLQYA</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="226" average="5.00" min="1" max="5" />
+    <ns2:statistics views="13018" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:GvlQ-4WhANM</ns0:id>
+  <ns1:videoId>GvlQ-4WhANM</ns1:videoId>
+  <ns1:channelId>UCxcuxsAjdnQaiRwYb5CVISw</ns1:channelId>
+  <ns0:title>[翼王]能带四张5090？能拉爆测试平台的电源有多夸张？全汉CANNON Pro 2500W拆解评测【翼王】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=GvlQ-4WhANM" />
+  <ns0:author>
+   <ns0:name>翼王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCxcuxsAjdnQaiRwYb5CVISw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2025-08-19T03:45:01+00:00</ns0:published>
+  <ns0:updated>2025-09-17T14:02:34+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>能带四张5090？能拉爆测试平台的电源有多夸张？全汉CANNON Pro 2500W拆解评测【翼王】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/GvlQ-4WhANM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/GvlQ-4WhANM/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>2500W“大钢炮”“大核弹”！这是迄今为止我们频道要测试的最大功率的电源。它是来自全汉的CANNON Pro。
+
+BGM：
+Song: Markvard - Vacation
+Music provided by Vlog No Copyright Music.
+Creative Commons - Attribution 3.0 Unported
+Video Link: https://youtu.be/ljryt9kQGH0
+
+Song: DayFox - Foxylicious
+Music provided by Vlog No Copyright Music.
+Video Link: https://youtu.be/919HIMIvoNQ
+
+Song: Peyruis - Neutral Bay (Vlog No Copyright Music)
+Music promoted by Vlog No Copyright Music.
+Video Link: https://youtu.be/CNBV015NL3U</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="300" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6738" />
    </ns2:community>
   </ns2:group>
  </ns0:entry></feed>
