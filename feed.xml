@@ -1,2428 +1,1200 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-04-22T00:00:12Z</updated><ns0:entry>
-  <ns0:id>yt:video:jeA-KBv0b68</ns0:id>
-  <ns1:videoId>jeA-KBv0b68</ns1:videoId>
-  <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
-  <ns0:title>[Fireship]Claude just got another superpower...</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=jeA-KBv0b68" />
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-04-22T03:34:46Z</updated><ns0:entry>
+  <ns0:id>yt:video:QZiDRQ_bdVI</ns0:id>
+  <ns1:videoId>QZiDRQ_bdVI</ns1:videoId>
+  <ns1:channelId>UCvoBl4rnVsetDKA_Tdk-jeA</ns1:channelId>
+  <ns0:title>[曉涵哥來了]阿爾忒彌斯2號：美國重返登月的真正原因？「曉涵哥來了」</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=QZiDRQ_bdVI" />
   <ns0:author>
-   <ns0:name>Fireship</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</ns0:uri>
+   <ns0:name>曉涵哥來了</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-04-21T17:35:43+00:00</ns0:published>
-  <ns0:updated>2026-04-21T21:20:10+00:00</ns0:updated>
+  <ns0:published>2026-04-15T12:37:46+00:00</ns0:published>
+  <ns0:updated>2026-04-19T05:50:52+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Claude just got another superpower...</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/jeA-KBv0b68?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/jeA-KBv0b68/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Run any code on Google’s world-class infrastructure - https://cloud.run. Get 2 million free requests per month
+   <ns2:title>阿爾忒彌斯2號：美國重返登月的真正原因？「曉涵哥來了」</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/QZiDRQ_bdVI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/QZiDRQ_bdVI/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>NASA為何要推進阿提米絲計畫 (Artemis program) ？當飛船被送出地球，人類文明是否迎來新坐標？
 
-Claude Design could be Anthropic's most disruptive tool since Claude Code. But can their new Opus 4.7 powered platform really turn your half-baked Figma wireframe into a production ready UI? Let's run it.
+00:00 引言
+04:50 阿爾忒彌斯計劃
+11:04 發射過程
+14:14 獵戶座飛船
 
-#coding #programming
+上集回顧👇
+https://youtu.be/yBa0ejmgiow
+https://youtu.be/0_QvZBBaGTw
 
-🔖 Topics Covered
-- What is Claude Design
-- Claude Design vs Figma vs Adobe
-- Claude Design demo
+👽點擊加入我的會員頻道
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA/join
 
-Want more Fireship?
+👽會員專屬影片已上線
+https://www.youtube.com/playlist?list=UUMOvoBl4rnVsetDKA_Tdk-jeA
 
-🗞️ Newsletter: https://bytes.dev
-🧠 Courses: https://fireship.dev</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="12555" average="5.00" min="1" max="5" />
-    <ns2:statistics views="269499" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:6VCyrdMLrcY</ns0:id>
-  <ns1:videoId>6VCyrdMLrcY</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]Engineering a $1 Cup of Lemonade #AdobePartner</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/6VCyrdMLrcY" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-04-16T16:00:10+00:00</ns0:published>
-  <ns0:updated>2026-04-19T14:13:29+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Engineering a $1 Cup of Lemonade #AdobePartner</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/6VCyrdMLrcY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/6VCyrdMLrcY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>No denying the video turned out better than the
-lemonade. @Adobe</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="118425" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4565318" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:piah4fV_o2Q</ns0:id>
-  <ns1:videoId>piah4fV_o2Q</ns1:videoId>
-  <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
-  <ns0:title>[Fireship]Millions of WordPress sites just got hacked... again</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=piah4fV_o2Q" />
-  <ns0:author>
-   <ns0:name>Fireship</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-04-16T15:29:01+00:00</ns0:published>
-  <ns0:updated>2026-04-20T01:23:49+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Millions of WordPress sites just got hacked... again</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/piah4fV_o2Q?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/piah4fV_o2Q/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Warp is the agentic development environment born out of the terminal. Download Warp for free today at → https://go.warp.dev/fireship
+👀👀  我的這些影片或許你也有興趣 👇👇
 
-Someone spent $100k buying a massive collection of WordPress plugins and planted a backdoor in all of them. Naturally, CloudFlare stepped in with EmDash: a slop-forked WP alternative that promises to fix plugin security for good.
+史上最奇葩國家👇
+https://youtu.be/xrk7qPj8yts
 
-#coding #programming #wordpress
+科馬洛夫👇
+https://youtu.be/NkuNPdxveiY
 
-🔖 Topics Covered
-- Wordpress plugin hack 
-- EmDash
+人猿混血部隊👇
+https://youtu.be/tJYVzo8tS1o
+--------------------------------------------------------------------------------------------
+🔥  這些影片在頻道最受歡迎 👇👇
 
-📚 Resources
-- https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/accordion-and-accordion-slider/accordion-and-accordion-slider-146-injected-backdoor
-- https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
+朝鮮神秘飯店👇
+https://youtu.be/cVlAxL2CXYg
 
-Want more Fireship?
+大和號戰艦👇
+https://youtu.be/AdxYuP1qbMY
 
-🗞️ Newsletter: https://bytes.dev
-🧠 Courses: https://fireship.dev</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="14093" average="5.00" min="1" max="5" />
-    <ns2:statistics views="440255" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:S7UM5lSgAg8</ns0:id>
-  <ns1:videoId>S7UM5lSgAg8</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]I Engineered The Perfect First Date</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=S7UM5lSgAg8" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-04-11T13:00:44+00:00</ns0:published>
-  <ns0:updated>2026-04-21T17:21:05+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>I Engineered The Perfect First Date</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/S7UM5lSgAg8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/S7UM5lSgAg8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>15 years and 150 videos later… I'm finally the favorite Uncle. Learn to think like an engineer while having tons of fun with CrunchLabs, now with 2 FREE boxes at: https://crunchlabs.com/DateBB
-
-Get your CrunchLabs box today:
-Creative Kit (Ages 6-10): https://crunchlabs.com/DateCK
-Build Box (Ages 8-12): https://crunchlabs.com/DateBB
-Hack Pack (Ages 14+): https://crunchlabs.com/DateHP
-
-Thanks to Sky Elements for helping me create an unforgettable drone show! https://skyelementsdrones.com/
-
-Thanks to these folks for providing some of the music in the video:
-Ponder-  @Pondermusic   
-Laura Shigihara -  @supershigi   
-Andrew Applepie - https://soundcloud.com/andrewapplepie
-Blue Wednesday - https://soundcloud.com/bluewednesday
-Danijel Zambo - https://open.spotify.com/intl-de/artist/1ZD9ri2wmZZPL4qs92sXZX?si=iI7jkn-qSY-6NKo931314Q
-
-
-PLATINUM TICKET INSTANT WIN GAME
-NO PURCHASE NECESSARY. Ends on 5/31/26 subj. to monthly entry deadlines. 50 US/DC, 18+. Unclaimed/forfeited prizes awarded via 2nd chance drawing. Visit [crunchlabs.com/sweepstakes](http://crunchlabs.com/sweepstakes) for Official Rules including full details on eligibility requirements, how to enter, free method of entry, entry limits, prize claim procedure, prize description and limitations. Void where prohibited.</ns2:description>
+秦始皇陵👇
+https://youtu.be/BGxr6AS-6-o
+
+宇宙7級文明👇
+https://youtu.be/MTCrzBVNJjc
+
+邁克爾傑克遜的另一面👇
+https://youtu.be/p7W75SHpL9E
+
+野獸專車👇
+https://youtu.be/ACmijk6deMA
+
+日本啃老族👇
+https://youtu.be/nCFLqt71dKs
+--------------------------------------------------------------------------------------
+「探索地球，發現宇宙。
+我是曉涵哥，歡迎和我一起，做這世界的探尋者。」
+點擊下方訂閱👇👇👇
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
+我的FB也開通了！歡迎大家關注，在這裡我會分享一些不一樣的生活碎片：https://www.facebook.com/xiaohange888
+--------------------------------------------------------------------------------------
+#曉涵哥來了 #宇宙 #月球 #NASA #阿提米絲計畫 #美國 #美国 #登月 #登月计划 #education #knowledge</ns2:description>
    <ns2:community>
-    <ns2:starRating count="178054" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10346895" />
+    <ns2:starRating count="5959" average="5.00" min="1" max="5" />
+    <ns2:statistics views="283566" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:d3Qq-rkp_to</ns0:id>
-  <ns1:videoId>d3Qq-rkp_to</ns1:videoId>
-  <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
-  <ns0:title>[Fireship]Claude Mythos is too dangerous for public consumption...</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=d3Qq-rkp_to" />
+  <ns0:id>yt:video:AQ-mL-2PNwg</ns0:id>
+  <ns1:videoId>AQ-mL-2PNwg</ns1:videoId>
+  <ns1:channelId>UCvoBl4rnVsetDKA_Tdk-jeA</ns1:channelId>
+  <ns0:title>[曉涵哥來了]豪門隕落！F1賽車史上最大醜聞「麥拉倫間諜門」，重罰1億美金「曉涵哥來了」</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=AQ-mL-2PNwg" />
   <ns0:author>
-   <ns0:name>Fireship</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</ns0:uri>
+   <ns0:name>曉涵哥來了</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-04-10T19:29:35+00:00</ns0:published>
-  <ns0:updated>2026-04-19T03:32:23+00:00</ns0:updated>
+  <ns0:published>2026-04-05T12:00:14+00:00</ns0:published>
+  <ns0:updated>2026-04-21T12:07:22+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Claude Mythos is too dangerous for public consumption...</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/d3Qq-rkp_to?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/d3Qq-rkp_to/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Browserbase is the simplest way to give your agents access to the whole web. Try it for free - https://browserbase.run/fireship
+   <ns2:title>豪門隕落！F1賽車史上最大醜聞「麥拉倫間諜門」，重罰1億美金「曉涵哥來了」</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/AQ-mL-2PNwg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/AQ-mL-2PNwg/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>F1從來不是一項單純的賽車運動，背後還有技術戰、情報戰、甚至是同一支車隊內部最殘酷的權力戰爭
 
-Anthropic locked down their new Mythos model because they say it's too dangerous for normies like you and me to use. Let's investigate...
+00:00 開頭
+01:44 車隊秘密
+05:56 導火索
+10:45 FIA調查
+13:36 車手之爭
 
-#mythos #ai #programming #claude 
+上集回顧👇
+https://youtu.be/xJPDOy-uVa0
+https://youtu.be/SQMYqF3drQU
 
-Resources:
-https://www.trendmicro.com/en_us/research/26/c/axios-npm-package-compromised.html
+👽點擊加入我的會員頻道
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA/join
 
-Want more Fireship?
+👽會員專屬影片已上線
+https://www.youtube.com/playlist?list=UUMOvoBl4rnVsetDKA_Tdk-jeA
 
-🗞️ Newsletter: https://bytes.dev
-🧠 Courses: https://fireship.dev</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="34994" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1024007" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:-01ZCTt-CJw</ns0:id>
-  <ns1:videoId>-01ZCTt-CJw</ns1:videoId>
-  <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
-  <ns0:title>[Fireship]Google just casually disrupted the open-source AI narrative…</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=-01ZCTt-CJw" />
-  <ns0:author>
-   <ns0:name>Fireship</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-04-08T19:00:10+00:00</ns0:published>
-  <ns0:updated>2026-04-15T20:14:09+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Google just casually disrupted the open-source AI narrative…</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/-01ZCTt-CJw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/-01ZCTt-CJw/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>CodeRabbit CLI can fix your agent’s code before it ever opens a PR - https://coderabbit.link/fireship Free forever for any open source project.
+👀👀  我的這些影片或許你也有興趣 👇👇
 
-Last week, Google surprised us all by shipping their latest micro model Gemma 4 under a truly open source license. But what's the catch? Let's run it...
+史上最奇葩國家👇
+https://youtu.be/xrk7qPj8yts
 
-#coding  #programming #programming
+科馬洛夫👇
+https://youtu.be/NkuNPdxveiY
 
-🔖 Topics Covered
--  How Gemma 4 works
--  Gemma 4 benchmarks
-- TurboQuant
+人猿混血部隊👇
+https://youtu.be/tJYVzo8tS1o
+--------------------------------------------------------------------------------------------
+🔥  這些影片在頻道最受歡迎 👇👇
 
-📌 Resources
-- https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-gemma-4
+朝鮮神秘飯店👇
+https://youtu.be/cVlAxL2CXYg
 
-Want more Fireship?
+大和號戰艦👇
+https://youtu.be/AdxYuP1qbMY
 
-🗞️ Newsletter: https://bytes.dev
-🧠 Courses: https://fireship.dev</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="43736" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1285140" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:JSuS-zXMVwE</ns0:id>
-  <ns1:videoId>JSuS-zXMVwE</ns1:videoId>
-  <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
-  <ns0:title>[Fireship]Cursor ditches VS Code, but not everyone is happy...</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=JSuS-zXMVwE" />
-  <ns0:author>
-   <ns0:name>Fireship</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-04-06T18:37:57+00:00</ns0:published>
-  <ns0:updated>2026-04-14T06:07:19+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Cursor ditches VS Code, but not everyone is happy...</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/JSuS-zXMVwE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/JSuS-zXMVwE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Try Blacksmith for free to run your GitHub Actions 2x faster - https://www.blacksmith.sh/
+秦始皇陵👇
+https://youtu.be/BGxr6AS-6-o
 
-Cursor 3 just introduced its own frontier model that's been suspiciously dominating all the trust me bro benchmarks. But it turns out there's a catch... 
+宇宙7級文明👇
+https://youtu.be/MTCrzBVNJjc
 
-#coding  #programming
+邁克爾傑克遜的另一面👇
+https://youtu.be/p7W75SHpL9E
 
-Want more Fireship?
+野獸專車👇
+https://youtu.be/ACmijk6deMA
 
-🗞️ Newsletter: https://bytes.dev
-🧠 Courses: https://fireship.dev</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="24032" average="5.00" min="1" max="5" />
-    <ns2:statistics views="838294" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:GOmQwinZKtE</ns0:id>
-  <ns1:videoId>GOmQwinZKtE</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]Testing Every Seat on a Log Ride</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/GOmQwinZKtE" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-04-03T15:48:41+00:00</ns0:published>
-  <ns0:updated>2026-04-17T12:31:07+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Testing Every Seat on a Log Ride</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/GOmQwinZKtE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/GOmQwinZKtE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
+日本啃老族👇
+https://youtu.be/nCFLqt71dKs
+--------------------------------------------------------------------------------------
+「探索地球，發現宇宙。
+我是曉涵哥，歡迎和我一起，做這世界的探尋者。」
+點擊下方訂閱👇👇👇
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
+我的FB也開通了！歡迎大家關注，在這裡我會分享一些不一樣的生活碎片：https://www.facebook.com/xiaohange888
+--------------------------------------------------------------------------------------
+#曉涵哥來了 #賽車 #邁凱倫車隊 #F1 #F1賽車 #F1比賽 #法拉利 #赛车 #education #knowledge</ns2:description>
    <ns2:community>
-    <ns2:starRating count="195344" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12150938" />
+    <ns2:starRating count="5544" average="5.00" min="1" max="5" />
+    <ns2:statistics views="276981" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:vd14EElCRvs</ns0:id>
-  <ns1:videoId>vd14EElCRvs</ns1:videoId>
-  <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
-  <ns0:title>[Fireship]He just crawled through hell to fix the browser…</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=vd14EElCRvs" />
+  <ns0:id>yt:video:SQMYqF3drQU</ns0:id>
+  <ns1:videoId>SQMYqF3drQU</ns1:videoId>
+  <ns1:channelId>UCvoBl4rnVsetDKA_Tdk-jeA</ns1:channelId>
+  <ns0:title>[曉涵哥來了]人類第一次「上傳」大腦，它竟然在虛擬世界活了過來「曉涵哥來了」</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=SQMYqF3drQU" />
   <ns0:author>
-   <ns0:name>Fireship</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</ns0:uri>
+   <ns0:name>曉涵哥來了</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-04-02T19:18:38+00:00</ns0:published>
-  <ns0:updated>2026-04-09T20:51:45+00:00</ns0:updated>
+  <ns0:published>2026-03-21T13:20:08+00:00</ns0:published>
+  <ns0:updated>2026-03-29T08:22:45+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>He just crawled through hell to fix the browser…</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/vd14EElCRvs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/vd14EElCRvs/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Try out the Junie CLI for free - https://jb.gg/fireship-junie-cli
+   <ns2:title>人類第一次「上傳」大腦，它竟然在虛擬世界活了過來「曉涵哥來了」</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/SQMYqF3drQU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/SQMYqF3drQU/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>意義並不取決於「世界是真是假」而取決於「這一刻你是否真實地活過」
 
-Cheng Lou, a former React Core team member and engineer at Midjourney says he "crawled through depths of hell" to bring us Pretext – a fast, accurate, and comprehensive text measurement library that could change UI design forever. Let's run it.
+00:00 果蝇实验
+04:13 第一层意义
+08:31 第二层意义
+12:41 第三层意义
 
-#coding #programming #typescript #javascript
+上集回顧👇
+https://youtu.be/xJPDOy-uVa0
+https://youtu.be/YYouQDVc51s
 
-🔖 Topics Covered
-- Who is Cheng Lou?
-- Intro to Pretext
-- What makes dynamic text rendering so hard?
-- Pretext demo
+👽點擊加入我的會員頻道
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA/join
 
-Want more Fireship?
+👽會員專屬影片已上線
+https://www.youtube.com/playlist?list=UUMOvoBl4rnVsetDKA_Tdk-jeA
 
-🗞️ Newsletter: https://bytes.dev
-🧠 Courses: https://fireship.dev</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="49996" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1242300" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:mBHRPeg8zPU</ns0:id>
-  <ns1:videoId>mBHRPeg8zPU</ns1:videoId>
-  <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
-  <ns0:title>[Fireship]Tragic mistake... Anthropic leaks Claude’s source code</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=mBHRPeg8zPU" />
-  <ns0:author>
-   <ns0:name>Fireship</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-04-01T17:27:05+00:00</ns0:published>
-  <ns0:updated>2026-04-16T18:11:53+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Tragic mistake... Anthropic leaks Claude’s source code</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/mBHRPeg8zPU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/mBHRPeg8zPU/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Anthropic accidentally leaked Claude Code's source code to the entire internet. Let's take a look...
-
-#coding #programming #claude #ai
-
-🔖 Topics Covered
-- Claude source code leak
-- What's in the leak?
-- Unreleased features
-- Undercover Mode
-- Frustration Detector
-
-Want more Fireship?
-
-🗞️ Newsletter: https://bytes.dev
-🧠 Courses: https://fireship.dev</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="99147" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3163155" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:o7NYXvYohYk</ns0:id>
-  <ns1:videoId>o7NYXvYohYk</ns1:videoId>
-  <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
-  <ns0:title>[Fireship]Millions of JS devs just got penetrated by a RAT…</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=o7NYXvYohYk" />
-  <ns0:author>
-   <ns0:name>Fireship</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-03-31T18:58:40+00:00</ns0:published>
-  <ns0:updated>2026-04-04T12:17:09+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Millions of JS devs just got penetrated by a RAT…</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/o7NYXvYohYk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/o7NYXvYohYk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Mux is the best video API for developers. Get $50 in free credits - https://mux.com/fireship
+👀👀  我的這些影片或許你也有興趣 👇👇
 
-Yesterday, a precision-guided remote access trojan was discovered in Axios, a JavaScript library with over 100 million downloads on npm. But this wasn't your average RAT - let's take a look at how this highly sophisticated attack was pulled off and what to do if you're compromised.
+史上最奇葩國家👇
+https://youtu.be/xrk7qPj8yts
 
-#coding #programming #hack 
+科馬洛夫👇
+https://youtu.be/NkuNPdxveiY
 
-ℹ️ More Info:
-- https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan
+人猿混血部隊👇
+https://youtu.be/tJYVzo8tS1o
+--------------------------------------------------------------------------------------------
+🔥  這些影片在頻道最受歡迎 👇👇
 
-🔖 Topics Covered
-- What is Axios
-- Axios RAT attack
-- What to do if you're compromised
+朝鮮神秘飯店👇
+https://youtu.be/cVlAxL2CXYg
 
-Want more Fireship?
+大和號戰艦👇
+https://youtu.be/AdxYuP1qbMY
 
-🗞️ Newsletter: https://bytes.dev
-🧠 Courses: https://fireship.dev</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="23830" average="5.00" min="1" max="5" />
-    <ns2:statistics views="676123" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:wfeiCZK0mNs</ns0:id>
-  <ns1:videoId>wfeiCZK0mNs</ns1:videoId>
-  <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
-  <ns0:title>[Fireship]Anthropic just released the real Claude Bot...</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=wfeiCZK0mNs" />
-  <ns0:author>
-   <ns0:name>Fireship</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-03-26T18:11:51+00:00</ns0:published>
-  <ns0:updated>2026-03-30T04:07:23+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Anthropic just released the real Claude Bot...</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/wfeiCZK0mNs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/wfeiCZK0mNs/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Try SerpApi for free to get real-time search data from a single API - https://serpapi.com/?utm_source=fireship
+秦始皇陵👇
+https://youtu.be/BGxr6AS-6-o
 
-Anthropic just dropped Claude Computer Use to try and take down OpenClaw. But is it actually a gamechanger, or just more slop hype? Let's run it.
+宇宙7級文明👇
+https://youtu.be/MTCrzBVNJjc
 
-#coding #ai #programming
+邁克爾傑克遜的另一面👇
+https://youtu.be/p7W75SHpL9E
 
-Want more Fireship?
+野獸專車👇
+https://youtu.be/ACmijk6deMA
 
-🗞️ Newsletter: https://bytes.dev
-🧠 Courses: https://fireship.dev</ns2:description>
+日本啃老族👇
+https://youtu.be/nCFLqt71dKs
+--------------------------------------------------------------------------------------
+「探索地球，發現宇宙。
+我是曉涵哥，歡迎和我一起，做這世界的探尋者。」
+點擊下方訂閱👇👇👇
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
+我的FB也開通了！歡迎大家關注，在這裡我會分享一些不一樣的生活碎片：https://www.facebook.com/xiaohange888
+--------------------------------------------------------------------------------------
+#曉涵哥來了 #果蠅實驗 #虛擬世界 #未來 #科學 #科幻 #AI #科學發展 #科普 #education #knowledge</ns2:description>
    <ns2:community>
-    <ns2:starRating count="31987" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1044899" />
+    <ns2:starRating count="5965" average="5.00" min="1" max="5" />
+    <ns2:statistics views="200982" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:nxwkn9Dt9-I</ns0:id>
-  <ns1:videoId>nxwkn9Dt9-I</ns1:videoId>
-  <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
-  <ns0:title>[Fireship]Tech bros optimized war… and it’s working</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=nxwkn9Dt9-I" />
+  <ns0:id>yt:video:xJPDOy-uVa0</ns0:id>
+  <ns1:videoId>xJPDOy-uVa0</ns1:videoId>
+  <ns1:channelId>UCvoBl4rnVsetDKA_Tdk-jeA</ns1:channelId>
+  <ns0:title>[曉涵哥來了]超越真人的AI女友，你會選擇「她」嗎？「曉涵哥來了」</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=xJPDOy-uVa0" />
   <ns0:author>
-   <ns0:name>Fireship</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</ns0:uri>
+   <ns0:name>曉涵哥來了</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-03-24T18:22:27+00:00</ns0:published>
-  <ns0:updated>2026-03-31T19:27:17+00:00</ns0:updated>
+  <ns0:published>2026-03-16T12:38:12+00:00</ns0:published>
+  <ns0:updated>2026-04-05T17:18:31+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Tech bros optimized war… and it’s working</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/nxwkn9Dt9-I?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/nxwkn9Dt9-I/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Try out Traycer’s Epic Mode so your whole team can ship better software with agents - https://traycer.ai/fireship
+   <ns2:title>超越真人的AI女友，你會選擇「她」嗎？「曉涵哥來了」</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/xJPDOy-uVa0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/xJPDOy-uVa0/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>有七情六慾，卻無血肉之軀，你會選擇人機戀嗎？
 
-The US Department of War is rolling out the Maven Smart System - an AI-driven military ops platform powered by companies like Palantir and OpenAI. But what else is it running under the hood?
+00:00 機器女友
+02:14 家用機器人
+05:46 機器伴侶的可怕之處
 
-#coding #programming #ai
+上集回顧👇
+https://youtu.be/CwUoSh183sk
+https://youtu.be/yBa0ejmgiow
 
-🔖 Topics Covered
-- What is the Maven Smart System?
-- Claude vs Pete Hegseth
-- How does the MSS actually work?
+👽點擊加入我的會員頻道
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA/join
 
-Want more Fireship?
+👽會員專屬影片已上線
+https://www.youtube.com/playlist?list=UUMOvoBl4rnVsetDKA_Tdk-jeA
 
-🗞️ Newsletter: https://bytes.dev
-🧠 Courses: https://fireship.dev</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="30260" average="5.00" min="1" max="5" />
-    <ns2:statistics views="802191" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:nkY_s9HpL9M</ns0:id>
-  <ns1:videoId>nkY_s9HpL9M</ns1:videoId>
-  <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
-  <ns0:title>[Fireship]This new Linux distro is breaking the law, by design…</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=nkY_s9HpL9M" />
-  <ns0:author>
-   <ns0:name>Fireship</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-03-20T19:32:24+00:00</ns0:published>
-  <ns0:updated>2026-03-27T20:42:28+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>This new Linux distro is breaking the law, by design…</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/nkY_s9HpL9M?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/nkY_s9HpL9M/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>CodeRabbit can automatically resolve merge conflicts in your PRs - https://coderabbit.link/fireship Free forever for any open source project.
+👀👀  我的這些影片或許你也有興趣 👇👇
 
-On January 1st, governments will start forcing users to verify their age at the operating system level on all internet-enabled devices. But one brave Linux script is daring to fight back against the mighty surveillance state…
+史上最奇葩國家👇
+https://youtu.be/xrk7qPj8yts
 
-#linux #coding #programming
+科馬洛夫👇
+https://youtu.be/NkuNPdxveiY
 
-Want more Fireship?
+人猿混血部隊👇
+https://youtu.be/tJYVzo8tS1o
+--------------------------------------------------------------------------------------------
+🔥  這些影片在頻道最受歡迎 👇👇
 
-🗞️ Newsletter: https://bytes.dev
-🧠 Courses: https://fireship.dev</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="34865" average="5.00" min="1" max="5" />
-    <ns2:statistics views="866778" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:qaB5HF4ax9M</ns0:id>
-  <ns1:videoId>qaB5HF4ax9M</ns1:videoId>
-  <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
-  <ns0:title>[Fireship]Google just changed the future of UI/UX design...</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=qaB5HF4ax9M" />
-  <ns0:author>
-   <ns0:name>Fireship</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-03-19T19:35:06+00:00</ns0:published>
-  <ns0:updated>2026-03-26T20:37:35+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Google just changed the future of UI/UX design...</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/qaB5HF4ax9M?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/qaB5HF4ax9M/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Try Clerk for free to get full stack auth and user management - https://go.clerk.com/fireship/
+朝鮮神秘飯店👇
+https://youtu.be/cVlAxL2CXYg
+
+大和號戰艦👇
+https://youtu.be/AdxYuP1qbMY
 
-Let's take a look at everything new in Google Stitch to find out if it's just more hype, or if it really is a gamechanger for UI/UX design.
+秦始皇陵👇
+https://youtu.be/BGxr6AS-6-o
 
-#coding  #programming #ai 
+宇宙7級文明👇
+https://youtu.be/MTCrzBVNJjc
 
-Want more Fireship?
+邁克爾傑克遜的另一面👇
+https://youtu.be/p7W75SHpL9E
 
-🗞️ Newsletter: https://bytes.dev
-🧠 Courses: https://fireship.dev</ns2:description>
+野獸專車👇
+https://youtu.be/ACmijk6deMA
+
+日本啃老族👇
+https://youtu.be/nCFLqt71dKs
+--------------------------------------------------------------------------------------
+「探索地球，發現宇宙。
+我是曉涵哥，歡迎和我一起，做這世界的探尋者。」
+點擊下方訂閱👇👇👇
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
+我的FB也開通了！歡迎大家關注，在這裡我會分享一些不一樣的生活碎片：https://www.facebook.com/xiaohange888
+--------------------------------------------------------------------------------------
+#曉涵哥來了 #AI #機器人 #科技 #技術 #機器女友 #社會 #未來 #科普 #科學 #education #knowledge</ns2:description>
    <ns2:community>
-    <ns2:starRating count="65008" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1833768" />
+    <ns2:starRating count="8618" average="5.00" min="1" max="5" />
+    <ns2:statistics views="273603" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:ReAnFFqvCeA</ns0:id>
-  <ns1:videoId>ReAnFFqvCeA</ns1:videoId>
-  <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
-  <ns0:title>[Fireship]How to burn $30m on a JavaScript framework...</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ReAnFFqvCeA" />
+  <ns0:id>yt:video:CwUoSh183sk</ns0:id>
+  <ns1:videoId>CwUoSh183sk</ns1:videoId>
+  <ns1:channelId>UCvoBl4rnVsetDKA_Tdk-jeA</ns1:channelId>
+  <ns0:title>[曉涵哥來了]火了40年的《變形金剛》，為何至今無可替代？「曉涵哥來了」</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=CwUoSh183sk" />
   <ns0:author>
-   <ns0:name>Fireship</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</ns0:uri>
+   <ns0:name>曉涵哥來了</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-03-18T17:56:58+00:00</ns0:published>
-  <ns0:updated>2026-03-25T04:04:37+00:00</ns0:updated>
+  <ns0:published>2026-03-10T12:49:26+00:00</ns0:published>
+  <ns0:updated>2026-04-15T00:20:50+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>How to burn $30m on a JavaScript framework...</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/ReAnFFqvCeA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/ReAnFFqvCeA/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Railway is the easiest way to deploy anything. Get $20 in free credits - https://railway.com/?referralCode=fireship
+   <ns2:title>火了40年的《變形金剛》，為何至今無可替代？「曉涵哥來了」</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/CwUoSh183sk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/CwUoSh183sk/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>不止是玩具和動畫，而是整個童年的背景音
 
-The famo.us rendering engine was supposed to change web dev forever back in 2012. But after raising $30m, that never happened. Let's take a look back in time to understand why.
+00:00 引言
+01:05 發現變形金剛
+09:05 G1動畫片
+16:15 電影時代
 
-#coding #javascript #opensource 
+上集回顧👇
+https://youtu.be/yBa0ejmgiow
+https://youtu.be/0_QvZBBaGTw
 
-🗞️ Newsletter: https://bytes.dev
-🧠 Courses: https://fireship.dev</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="13988" average="5.00" min="1" max="5" />
-    <ns2:statistics views="432568" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:wJMrk69WOdw</ns0:id>
-  <ns1:videoId>wJMrk69WOdw</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]The SECRET to Fighting Laundry Stains #TidePartner</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/wJMrk69WOdw" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-03-17T15:01:40+00:00</ns0:published>
-  <ns0:updated>2026-04-11T13:54:43+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>The SECRET to Fighting Laundry Stains #TidePartner</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/wJMrk69WOdw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/wJMrk69WOdw/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>The SECRET to Fighting Laundry Stains #TidePartner</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="264710" average="5.00" min="1" max="5" />
-    <ns2:statistics views="34231974" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:Xn-gtHDsaPY</ns0:id>
-  <ns1:videoId>Xn-gtHDsaPY</ns1:videoId>
-  <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
-  <ns0:title>[Fireship]7 new open source AI tools you need right now…</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=Xn-gtHDsaPY" />
-  <ns0:author>
-   <ns0:name>Fireship</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-03-12T17:49:19+00:00</ns0:published>
-  <ns0:updated>2026-03-19T20:41:16+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>7 new open source AI tools you need right now…</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/Xn-gtHDsaPY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/Xn-gtHDsaPY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Build meeting bots and desktop recording apps in hours - https://www.recall.ai/fireship gets you $100 in free credits
-
-In today's we'll look at 7 open source AI projects you've never heard of that will help you whip your agents into shape and build highly effective slop pipelines.
-
-#coding #programming #ai
-
-🔖 Topics Covered
-- Agency Agents
-- PropmtFoo
-- MicroFish
-- NanoChat
-- Impeccable
-- Heretic
-- OpenViking
-
-Want more Fireship?
-
-🗞️ Newsletter: https://bytes.dev
-🧠 Courses: https://fireship.dev</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="36346" average="5.00" min="1" max="5" />
-    <ns2:statistics views="803211" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:x36UmiSiEzc</ns0:id>
-  <ns1:videoId>x36UmiSiEzc</ns1:videoId>
-  <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
-  <ns0:title>[Fireship]The greatest unsolved problem in computer science...</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=x36UmiSiEzc" />
-  <ns0:author>
-   <ns0:name>Fireship</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-03-09T18:31:50+00:00</ns0:published>
-  <ns0:updated>2026-03-26T20:34:13+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>The greatest unsolved problem in computer science...</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/x36UmiSiEzc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/x36UmiSiEzc/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Try MongoDB Atlas for free - https://fandf.co/4rf61Za and simplify your AI data stack with one platform.
+👽點擊加入我的會員頻道
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA/join
 
-P vs NP is arguably the most famous unsolved problem in computer science. It asks: if you can verify a solution quickly, can you also find the solution quickly? Let's attempt to find out...
+👽會員專屬影片已上線
+https://www.youtube.com/playlist?list=UUMOvoBl4rnVsetDKA_Tdk-jeA
 
-Clay Mathematics Institute: https://www.claymath.org/millennium/p-vs-np/ 
+👀👀  我的這些影片或許你也有興趣 👇👇
 
-#coding #programming
+史上最奇葩國家👇
+https://youtu.be/xrk7qPj8yts
 
-🔖 Topics Covered
-- What is P vs NP
-- History of P vs NP
-- Why is it so hard to prove?
-- Underlying mathematical concepts
-- Uses for P vs NP
-- What if P really does equal NP?
+科馬洛夫👇
+https://youtu.be/NkuNPdxveiY
 
-Want more Fireship?
+人猿混血部隊👇
+https://youtu.be/tJYVzo8tS1o
+--------------------------------------------------------------------------------------------
+🔥  這些影片在頻道最受歡迎 👇👇
 
-🗞️ Newsletter: https://bytes.dev
-🧠 Courses: https://fireship.dev</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="26699" average="5.00" min="1" max="5" />
-    <ns2:statistics views="625630" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:VZ0oIzvzkGI</ns0:id>
-  <ns1:videoId>VZ0oIzvzkGI</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]Secret To Defusing A Soda Grenade</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/VZ0oIzvzkGI" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-03-06T16:00:46+00:00</ns0:published>
-  <ns0:updated>2026-04-17T12:31:08+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Secret To Defusing A Soda Grenade</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/VZ0oIzvzkGI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/VZ0oIzvzkGI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="284848" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11392970" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:Xg1ro-zG7AM</ns0:id>
-  <ns1:videoId>Xg1ro-zG7AM</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]Engineers vs Junkyard RC Car Death Match</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=Xg1ro-zG7AM" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-02-21T16:00:28+00:00</ns0:published>
-  <ns0:updated>2026-04-15T09:06:16+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Engineers vs Junkyard RC Car Death Match</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/Xg1ro-zG7AM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/Xg1ro-zG7AM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Never trust a lemon with a motor... Learn to embrace failure while having tons of fun with CrunchLabs, now with 2 FREE boxes at: https://crunchlabs.com/RCBattle
-
-Get your CrunchLabs box today:
-Creative Kit (Ages 6-10): https://crunchlabs.com/RCBattleCK
-Build Box (Ages 8-12): https://crunchlabs.com/RCBattle
-Hack Pack (Ages 14+): https://crunchlabs.com/RCBattleHP
-
-Thanks to these folks for providing some of the music in the video:
-Ponder-  @Pondermusic   
-Laura Shigihara -  @supershigi   
-Andrew Applepie - https://soundcloud.com/andrewapplepie
-Blue Wednesday - https://soundcloud.com/bluewednesday
-Danijel Zambo - https://open.spotify.com/intl-de/artist/1ZD9ri2wmZZPL4qs92sXZX?si=iI7jkn-qSY-6NKo931314Q
-
-
-PLATINUM TICKET INSTANT WIN GAME
-NO PURCHASE NECESSARY. Ends on 5/31/26 subj. to monthly entry deadlines. 50 US/DC, 18+. Unclaimed/forfeited prizes awarded via 2nd chance drawing. Visit [crunchlabs.com/sweepstakes](http://crunchlabs.com/sweepstakes) for Official Rules including full details on eligibility requirements, how to enter, free method of entry, entry limits, prize claim procedure, prize description and limitations. Void where prohibited.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="145763" average="5.00" min="1" max="5" />
-    <ns2:statistics views="23359405" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:YPOfYntrrcU</ns0:id>
-  <ns1:videoId>YPOfYntrrcU</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]Your fingers are actually a clock</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/YPOfYntrrcU" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-02-20T18:33:58+00:00</ns0:published>
-  <ns0:updated>2026-02-26T07:46:48+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Your fingers are actually a clock</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/YPOfYntrrcU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/YPOfYntrrcU/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="155020" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4206740" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:v3YZ-4rX4u0</ns0:id>
-  <ns1:videoId>v3YZ-4rX4u0</ns1:videoId>
-  <ns1:channelId>UCZNxe_9FQAK2Z3suwaZlwpQ</ns1:channelId>
-  <ns0:title>[冲浪普拉斯]排队10小时，黄牛炒到300元！回转寿司杀回餐厅顶流，凭什么这么赚？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=v3YZ-4rX4u0" />
-  <ns0:author>
-   <ns0:name>冲浪普拉斯</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCZNxe_9FQAK2Z3suwaZlwpQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-02-12T18:14:21+00:00</ns0:published>
-  <ns0:updated>2026-02-26T08:29:04+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>排队10小时，黄牛炒到300元！回转寿司杀回餐厅顶流，凭什么这么赚？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/v3YZ-4rX4u0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/v3YZ-4rX4u0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>如果你对创业/投资感兴趣，欢迎关注我的另一个频道：徐冲浪https://www.youtube.com/@UCjFijX0PVzNLe3YBKocGgnQ</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="130" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11497" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:9BsQpGhwVAY</ns0:id>
-  <ns1:videoId>9BsQpGhwVAY</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]pride comes before flop</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/9BsQpGhwVAY" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-02-11T19:00:04+00:00</ns0:published>
-  <ns0:updated>2026-04-03T18:10:30+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>pride comes before flop</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/9BsQpGhwVAY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/9BsQpGhwVAY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="857929" average="5.00" min="1" max="5" />
-    <ns2:statistics views="88275883" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:tU3h1KUkZoY</ns0:id>
-  <ns1:videoId>tU3h1KUkZoY</ns1:videoId>
-  <ns1:channelId>UCD5a0H5XvzCtAGc_I__r2HA</ns1:channelId>
-  <ns0:title>[老景观影-官方频道]【老景】超经典，一年又一年，看一次被触动一次...《香蕉天堂》</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=tU3h1KUkZoY" />
-  <ns0:author>
-   <ns0:name>老景观影-官方频道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCD5a0H5XvzCtAGc_I__r2HA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-02-08T15:03:12+00:00</ns0:published>
-  <ns0:updated>2026-03-28T16:51:43+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【老景】超经典，一年又一年，看一次被触动一次...《香蕉天堂》</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/tU3h1KUkZoY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/tU3h1KUkZoY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>这个男人，对着一通来自远方的电话，哭光了40年的委屈。
-因为他喊的‘爹’，是别人的爹？他用的名字，是死人的名字！
-至于这个男人为何如此，演技又为何如此逼真？
-那我们就必须回到1948年
-看看这“借”来的人生，到底藏着哪般不敢说的秘密！
-
-老景观影：没有恶搞，只有一本正经的还原。
-#电影推荐  #老景观影 #movie</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="15" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1200" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:kgSHJhX6ly0</ns0:id>
-  <ns1:videoId>kgSHJhX6ly0</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]Can You Ship A Potato Through The Mail?</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/kgSHJhX6ly0" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-02-06T17:01:15+00:00</ns0:published>
-  <ns0:updated>2026-04-17T12:31:10+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Can You Ship A Potato Through The Mail?</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/kgSHJhX6ly0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/kgSHJhX6ly0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="258984" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10308577" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:IB4RQ6ptl3g</ns0:id>
-  <ns1:videoId>IB4RQ6ptl3g</ns1:videoId>
-  <ns1:channelId>UCD5a0H5XvzCtAGc_I__r2HA</ns1:channelId>
-  <ns0:title>[老景观影-官方频道]【老景】真震撼，重看依旧会有生理反应，不愧是教科书级逃亡！《启示》</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=IB4RQ6ptl3g" />
-  <ns0:author>
-   <ns0:name>老景观影-官方频道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCD5a0H5XvzCtAGc_I__r2HA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-02-03T12:35:14+00:00</ns0:published>
-  <ns0:updated>2026-03-05T20:25:03+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【老景】真震撼，重看依旧会有生理反应，不愧是教科书级逃亡！《启示》</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/IB4RQ6ptl3g?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/IB4RQ6ptl3g/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>启示 2006
-
-老景观影：没有恶搞，只有一本正经的还原。
-#电影推荐  #老景观影 #movie</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="18" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1059" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:-RHdsw1MOEY</ns0:id>
-  <ns1:videoId>-RHdsw1MOEY</ns1:videoId>
-  <ns1:channelId>UCD5a0H5XvzCtAGc_I__r2HA</ns1:channelId>
-  <ns0:title>[老景观影-官方频道]【老景】真朴实，尤其是在战争下，不愧是金马奖三大最佳！《稻草人》</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=-RHdsw1MOEY" />
-  <ns0:author>
-   <ns0:name>老景观影-官方频道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCD5a0H5XvzCtAGc_I__r2HA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-01-29T11:00:00+00:00</ns0:published>
-  <ns0:updated>2026-02-28T21:03:16+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【老景】真朴实，尤其是在战争下，不愧是金马奖三大最佳！《稻草人》</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/-RHdsw1MOEY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/-RHdsw1MOEY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>别人田里种庄稼，这人田里却长出一颗货真价实的美军炸弹。
-对于被殖民统治下的贫困佃农来说，
-这可不是灾难，这是老天爷赏饭吃！
-他们决定毕恭毕敬地把它献给天皇，来换取奖励。
-今天要讲的，就是这群苦涩的小人物“进贡炸弹”的荒诞故事
-【王童三部曲】之《稻草人》
-电影所有的笑料都根植于深沉的悲剧
-稻草人不仅是片名，也是贯穿全片的旁观者与沉默的隐喻。
-
-老景观影：没有恶搞，只有一本正经的还原。
-#电影推荐  #老景观影 #movie</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="14" average="5.00" min="1" max="5" />
-    <ns2:statistics views="707" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:X_rh2S74UJs</ns0:id>
-  <ns1:videoId>X_rh2S74UJs</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]Why MRI Machines Are So Dangerous</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/X_rh2S74UJs" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-01-23T17:00:51+00:00</ns0:published>
-  <ns0:updated>2026-04-20T21:02:57+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Why MRI Machines Are So Dangerous</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/X_rh2S74UJs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/X_rh2S74UJs/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="574394" average="5.00" min="1" max="5" />
-    <ns2:statistics views="18546879" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:dToBD6dGJFg</ns0:id>
-  <ns1:videoId>dToBD6dGJFg</ns1:videoId>
-  <ns1:channelId>UCZNxe_9FQAK2Z3suwaZlwpQ</ns1:channelId>
-  <ns0:title>[冲浪普拉斯]洗脑、甩锅、白嫖：可口可乐百年崛起背后的资本与权力对决(下集)</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=dToBD6dGJFg" />
-  <ns0:author>
-   <ns0:name>冲浪普拉斯</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCZNxe_9FQAK2Z3suwaZlwpQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-01-21T14:20:16+00:00</ns0:published>
-  <ns0:updated>2026-04-11T17:34:03+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>洗脑、甩锅、白嫖：可口可乐百年崛起背后的资本与权力对决(下集)</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/dToBD6dGJFg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/dToBD6dGJFg/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>【美国商业史】洗脑、甩锅、白嫖：可口可乐百年崛起背后的资本与权力对决
+朝鮮神秘飯店👇
+https://youtu.be/cVlAxL2CXYg
 
-如果你对创业/投资感兴趣，欢迎关注我的另一个频道
+大和號戰艦👇
+https://youtu.be/AdxYuP1qbMY
 
-https://www.youtube.com/@UCjFijX0PVzNLe3YBKocGgnQ</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="158" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11612" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:7HHGjC0qT3U</ns0:id>
-  <ns1:videoId>7HHGjC0qT3U</ns1:videoId>
-  <ns1:channelId>UCZNxe_9FQAK2Z3suwaZlwpQ</ns1:channelId>
-  <ns0:title>[冲浪普拉斯]洗脑、甩锅、白嫖：可口可乐百年崛起背后的资本与权力对决(上集)</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=7HHGjC0qT3U" />
-  <ns0:author>
-   <ns0:name>冲浪普拉斯</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCZNxe_9FQAK2Z3suwaZlwpQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-01-21T09:56:51+00:00</ns0:published>
-  <ns0:updated>2026-02-09T01:47:31+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>洗脑、甩锅、白嫖：可口可乐百年崛起背后的资本与权力对决(上集)</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/7HHGjC0qT3U?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/7HHGjC0qT3U/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>【美国商业史】洗脑、甩锅、白嫖：可口可乐百年崛起背后的资本与权力对决
+秦始皇陵👇
+https://youtu.be/BGxr6AS-6-o
 
-如果你对创业/投资感兴趣，欢迎关注我的另一个频道
+宇宙7級文明👇
+https://youtu.be/MTCrzBVNJjc
 
-https://www.youtube.com/@UCjFijX0PVzNLe3YBKocGgnQ</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="258" average="5.00" min="1" max="5" />
-    <ns2:statistics views="26183" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:ejlcad5rGx8</ns0:id>
-  <ns1:videoId>ejlcad5rGx8</ns1:videoId>
-  <ns1:channelId>UCD5a0H5XvzCtAGc_I__r2HA</ns1:channelId>
-  <ns0:title>[老景观影-官方频道]【老景】真恐怖，哪怕心里害怕也想瞟一眼，不愧是票房黑马！《丑陋的继姐》</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ejlcad5rGx8" />
-  <ns0:author>
-   <ns0:name>老景观影-官方频道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCD5a0H5XvzCtAGc_I__r2HA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-01-17T03:00:50+00:00</ns0:published>
-  <ns0:updated>2026-02-16T18:44:39+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【老景】真恐怖，哪怕心里害怕也想瞟一眼，不愧是票房黑马！《丑陋的继姐》</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/ejlcad5rGx8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/ejlcad5rGx8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>为了穿上童话里的水晶鞋，这个女孩亲手砍下了自己的脚趾。
-更恐怖的是，她的母亲在一旁冷静地提醒：‘亲爱的，你砍错脚了。’
-今天我们要讲的，就是这场以爱为名、以血肉为代价的暗黑童话
-《丑陋的继姐》
-
-老景观影：没有恶搞，只有一本正经的还原。
-#电影推荐  #老景观影 #movie</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="28" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1317" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:YPoyYjQe6nc</ns0:id>
-  <ns1:videoId>YPoyYjQe6nc</ns1:videoId>
-  <ns1:channelId>UCD5a0H5XvzCtAGc_I__r2HA</ns1:channelId>
-  <ns0:title>[老景观影-官方频道]【老景】这电影真经典，重看依然挪不开双眼，硬盘必存之一！《本能》</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=YPoyYjQe6nc" />
-  <ns0:author>
-   <ns0:name>老景观影-官方频道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCD5a0H5XvzCtAGc_I__r2HA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-01-13T14:31:06+00:00</ns0:published>
-  <ns0:updated>2026-01-20T08:23:16+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【老景】这电影真经典，重看依然挪不开双眼，硬盘必存之一！《本能》</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/YPoyYjQe6nc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/YPoyYjQe6nc/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>这是影史上最著名的审讯之一，也是一次摄人心魄的围猎。
-当你的视线转向那双修长而灵动的美腿时，整个审讯的主动权就以彻底调转。
-因为她不是在回答问题，而是在挑选下一个猎物。
-
-今天要讲的，就是这个高智商的蛇蝎美人，如何将欲望作为武器，一步步攻陷你最原始的《本能》
-
-老景观影：没有恶搞，只有一本正经的还原。
-#电影推荐  #老景观影 #movie</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="215" average="5.00" min="1" max="5" />
-    <ns2:statistics views="22667" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:c4dH8MpXYH4</ns0:id>
-  <ns1:videoId>c4dH8MpXYH4</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]Disney’s Secret for Making Ghosts REAL</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/c4dH8MpXYH4" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-01-10T16:00:56+00:00</ns0:published>
-  <ns0:updated>2026-02-25T01:12:40+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Disney’s Secret for Making Ghosts REAL</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/c4dH8MpXYH4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/c4dH8MpXYH4/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="307011" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11365338" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:-Wq4GGPZg8I</ns0:id>
-  <ns1:videoId>-Wq4GGPZg8I</ns1:videoId>
-  <ns1:channelId>UCD5a0H5XvzCtAGc_I__r2HA</ns1:channelId>
-  <ns0:title>[老景观影-官方频道]【老景】太传奇，禁播7年仍是鼻祖，被模仿至今！《机遇之歌》</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=-Wq4GGPZg8I" />
-  <ns0:author>
-   <ns0:name>老景观影-官方频道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCD5a0H5XvzCtAGc_I__r2HA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-01-09T03:30:01+00:00</ns0:published>
-  <ns0:updated>2026-02-18T15:29:55+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【老景】太传奇，禁播7年仍是鼻祖，被模仿至今！《机遇之歌》</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/-Wq4GGPZg8I?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/-Wq4GGPZg8I/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>第二次上传（超级费时，每次用于修改的时间，都要半天...）
-《机遇之歌》上映于1987年，被誉为“时空错位电影的鼻祖”，
-对后世电影创作产生了深远影响，比如《罗拉快跑》《蝴蝶效应》
-以及每个人都有过的臆想，如果当年选了另一条路，现在的我会怎样？
-
-老景观影：没有恶搞，只有一本正经的还原。
-#电影推荐  #老景观影 #movie</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="42" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2921" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:lRe_sqDS7oY</ns0:id>
-  <ns1:videoId>lRe_sqDS7oY</ns1:videoId>
-  <ns1:channelId>UCD5a0H5XvzCtAGc_I__r2HA</ns1:channelId>
-  <ns0:title>[老景观影-官方频道]【老景】贼小众，却横扫奥斯卡与戛纳，值得反复观看！《征服者佩尔》</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=lRe_sqDS7oY" />
-  <ns0:author>
-   <ns0:name>老景观影-官方频道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCD5a0H5XvzCtAGc_I__r2HA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-01-05T14:43:48+00:00</ns0:published>
-  <ns0:updated>2026-03-03T21:26:33+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【老景】贼小众，却横扫奥斯卡与戛纳，值得反复观看！《征服者佩尔》</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/lRe_sqDS7oY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/lRe_sqDS7oY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>当你的裤子被当众扒下，
-当你的父亲在施暴者面前低下头颅，
-当你唯一的精神偶像被巨石砸碎梦想
-你要如何，在一个不给你任何尊严的世界里，活成一个‘人’？
-今天我们要讲的，就是这部让所有粉饰太平的童话都黯然失色的生存图鉴——《征服者佩尔》
-
-老景观影：没有恶搞，只有一本正经的还原。
-#电影推荐  #老景观影 #movie</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="146" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9747" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:kitXiQlubsk</ns0:id>
-  <ns1:videoId>kitXiQlubsk</ns1:videoId>
-  <ns1:channelId>UCD5a0H5XvzCtAGc_I__r2HA</ns1:channelId>
-  <ns0:title>[老景观影-官方频道]【老景】狠窒息，这工作比搬砖都累，全球缺口将达1300万！《夜班》</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=kitXiQlubsk" />
-  <ns0:author>
-   <ns0:name>老景观影-官方频道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCD5a0H5XvzCtAGc_I__r2HA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-01-05T08:30:19+00:00</ns0:published>
-  <ns0:updated>2026-02-04T16:12:47+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【老景】狠窒息，这工作比搬砖都累，全球缺口将达1300万！《夜班》</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/kitXiQlubsk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/kitXiQlubsk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>这不是医患纠纷，这是一个被逼到绝境的普通人，最本能的反抗。
-把价值四万法郎的名表扔出窗外，需要多大的勇气？
-对于这位护士来说，需要的只是最后一根稻草。
-今晚，我们就潜入这家医院，体验这个让她彻底爆发的、真实到窒息的《夜班》。
-
-老景观影：没有恶搞，只有一本正经的还原。
-#电影推荐  #老景观影 #movie</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="21" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1158" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:hlPAODqGt1M</ns0:id>
-  <ns1:videoId>hlPAODqGt1M</ns1:videoId>
-  <ns1:channelId>UCD5a0H5XvzCtAGc_I__r2HA</ns1:channelId>
-  <ns0:title>[老景观影-官方频道]【老景】奥斯卡11项大奖！看得人来不及窒息，这反转太让人委屈了！《印度之行》</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=hlPAODqGt1M" />
-  <ns0:author>
-   <ns0:name>老景观影-官方频道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCD5a0H5XvzCtAGc_I__r2HA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-29T09:31:32+00:00</ns0:published>
-  <ns0:updated>2026-02-21T19:13:50+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【老景】奥斯卡11项大奖！看得人来不及窒息，这反转太让人委屈了！《印度之行》</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/hlPAODqGt1M?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/hlPAODqGt1M/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>山洞里究竟发生了什么？只有诡异的回声知道。
-英国小姐坚称被侵犯，印度好友百口莫辩。
-而这场基于幻觉的指控，彻底点燃了殖民地的怒火。
-昔日的友谊、善意甚至是真相，皆在日不落帝国的傲慢与偏见面前，不堪一击。
-今天我们要讲的，就是这部被誉为‘最伟大的殖民叙事’——《印度之行》。”
-
-老景观影：没有恶搞，只有一本正经的还原。
-#电影推荐  #老景观影 #movie</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="246" average="5.00" min="1" max="5" />
-    <ns2:statistics views="17859" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:2tfRkW6Zkck</ns0:id>
-  <ns1:videoId>2tfRkW6Zkck</ns1:videoId>
-  <ns1:channelId>UCD5a0H5XvzCtAGc_I__r2HA</ns1:channelId>
-  <ns0:title>[老景观影-官方频道]【老景】这是影史最偏狂的电影，真实事件都没它夸张，看完都说他是疯子！《陆上行舟》</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=2tfRkW6Zkck" />
-  <ns0:author>
-   <ns0:name>老景观影-官方频道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCD5a0H5XvzCtAGc_I__r2HA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-25T15:22:08+00:00</ns0:published>
-  <ns0:updated>2026-02-17T02:30:11+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【老景】这是影史最偏狂的电影，真实事件都没它夸张，看完都说他是疯子！《陆上行舟》</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/2tfRkW6Zkck?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/2tfRkW6Zkck/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>为了拍一部电影，他们真的在亚马逊雨林里，把一艘320吨的轮船拖上了一座山！
-这不是特效，而是1982年一场玩命的实拍。
-导演赫尔佐格和“疯王”金斯基用这部作品，诠释了什么叫“有梦的人终能移山”。
-
-老景观影：没有恶搞，只有一本正经的还原。
-#电影推荐  #老景观影 #movie</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="20" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1330" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:lSDoCbQsKxY</ns0:id>
-  <ns1:videoId>lSDoCbQsKxY</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]Why The Weatherman Is Always Wrong!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/lSDoCbQsKxY" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-24T18:12:40+00:00</ns0:published>
-  <ns0:updated>2026-02-17T02:26:57+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Why The Weatherman Is Always Wrong!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/lSDoCbQsKxY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/lSDoCbQsKxY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="226647" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9378668" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:TfJrVAA3LxI</ns0:id>
-  <ns1:videoId>TfJrVAA3LxI</ns1:videoId>
-  <ns1:channelId>UCD5a0H5XvzCtAGc_I__r2HA</ns1:channelId>
-  <ns0:title>[老景观影-官方频道]【老景】一部平淡如水的普世电影，整整70年了！仍然看的我灵魂震颤！《囚徒》</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=TfJrVAA3LxI" />
-  <ns0:author>
-   <ns0:name>老景观影-官方频道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCD5a0H5XvzCtAGc_I__r2HA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-22T13:47:25+00:00</ns0:published>
-  <ns0:updated>2026-02-16T19:59:36+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【老景】一部平淡如水的普世电影，整整70年了！仍然看的我灵魂震颤！《囚徒》</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/TfJrVAA3LxI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/TfJrVAA3LxI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>1955年《阿普三部曲》，导演因此荣获奥斯卡导演终身成就奖，被黑泽明盛赞具有伟大的普世价值。
-
-老景观影：没有恶搞，只有一本正经的还原。
-#电影推荐  #老景观影 #movie</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="23" average="5.00" min="1" max="5" />
-    <ns2:statistics views="702" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:-hQHfhYNTk4</ns0:id>
-  <ns1:videoId>-hQHfhYNTk4</ns1:videoId>
-  <ns1:channelId>UCZNxe_9FQAK2Z3suwaZlwpQ</ns1:channelId>
-  <ns0:title>[冲浪普拉斯]美版贾跃亭，是怎么搞出来世界上最大的会计骗局之一的？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=-hQHfhYNTk4" />
-  <ns0:author>
-   <ns0:name>冲浪普拉斯</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCZNxe_9FQAK2Z3suwaZlwpQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-21T05:32:05+00:00</ns0:published>
-  <ns0:updated>2026-04-13T06:11:34+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>美版贾跃亭，是怎么搞出来世界上最大的会计骗局之一的？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/-hQHfhYNTk4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/-hQHfhYNTk4/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>如果你对创业/投资感兴趣，欢迎关注我的另一个频道：徐冲浪
-https://www.youtube.com/@UCjFijX0PVzNLe3YBKocGgnQ</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="474" average="5.00" min="1" max="5" />
-    <ns2:statistics views="36300" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:BjX0pmHYJX0</ns0:id>
-  <ns1:videoId>BjX0pmHYJX0</ns1:videoId>
-  <ns1:channelId>UCD5a0H5XvzCtAGc_I__r2HA</ns1:channelId>
-  <ns0:title>[老景观影-官方频道]【老景】 一部寒门求学的普世电影，整整70年了，还能令人心痛的无法呼吸！《大河之歌》</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=BjX0pmHYJX0" />
-  <ns0:author>
-   <ns0:name>老景观影-官方频道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCD5a0H5XvzCtAGc_I__r2HA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-19T14:48:45+00:00</ns0:published>
-  <ns0:updated>2026-04-14T15:02:27+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【老景】 一部寒门求学的普世电影，整整70年了，还能令人心痛的无法呼吸！《大河之歌》</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/BjX0pmHYJX0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/BjX0pmHYJX0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>【我们都坐过那列离家的火车，去成为陌生的自己...】
-如果说《大地之歌》拍的是“根”，那《大河之歌》拍的就是“离”。
-少年阿普长大了，他坐上火车离开故乡，去加尔各答求学、谋生、遇见爱情。
-这部电影最厉害的地方，是让你看清了成长的本质：
-我们拼命逃离熟悉的贫穷与束缚，却又在城市与成人世界的规则里，感到更深的孤独与彷徨。
- 你会在他身上，看到那个曾经渴望远行、最终却在他乡思念原点的自己。
-
-老景观影：没有恶搞，只有一本正经的还原。
-#电影推荐  #老景观影 #movie</ns2:description>
+邁克爾傑克遜的另一面👇
+https://youtu.be/p7W75SHpL9E
+
+野獸專車👇
+https://youtu.be/ACmijk6deMA
+
+日本啃老族👇
+https://youtu.be/nCFLqt71dKs
+--------------------------------------------------------------------------------------
+「探索地球，發現宇宙。
+我是曉涵哥，歡迎和我一起，做這世界的探尋者。」
+點擊下方訂閱👇👇👇
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
+我的FB也開通了！歡迎大家關注，在這裡我會分享一些不一樣的生活碎片：https://www.facebook.com/xiaohange888
+--------------------------------------------------------------------------------------
+#曉涵哥來了 #變形金剛 #動漫 #電影 #手辦 #童年回憶 #變形金剛系列 #transformer 
+#education #knowledge</ns2:description>
    <ns2:community>
-    <ns2:starRating count="29" average="5.00" min="1" max="5" />
-    <ns2:statistics views="918" />
+    <ns2:starRating count="5233" average="5.00" min="1" max="5" />
+    <ns2:statistics views="182064" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:2g8KB8zdFfM</ns0:id>
-  <ns1:videoId>2g8KB8zdFfM</ns1:videoId>
-  <ns1:channelId>UCD5a0H5XvzCtAGc_I__r2HA</ns1:channelId>
-  <ns0:title>[老景观影-官方频道]【老景】一部背井离乡的普世电影，整整70年了，还能让人越看越坚韧！《大地之歌》</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=2g8KB8zdFfM" />
+  <ns0:id>yt:video:yBa0ejmgiow</ns0:id>
+  <ns1:videoId>yBa0ejmgiow</ns1:videoId>
+  <ns1:channelId>UCvoBl4rnVsetDKA_Tdk-jeA</ns1:channelId>
+  <ns0:title>[曉涵哥來了]馬斯克火星移民：AI和火星的雙線戰爭 「曉涵哥來了」</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=yBa0ejmgiow" />
   <ns0:author>
-   <ns0:name>老景观影-官方频道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCD5a0H5XvzCtAGc_I__r2HA</ns0:uri>
+   <ns0:name>曉涵哥來了</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA</ns0:uri>
   </ns0:author>
-  <ns0:published>2025-12-18T15:52:35+00:00</ns0:published>
-  <ns0:updated>2026-04-06T01:50:58+00:00</ns0:updated>
+  <ns0:published>2026-03-04T12:01:38+00:00</ns0:published>
+  <ns0:updated>2026-04-05T17:16:29+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>【老景】一部背井离乡的普世电影，整整70年了，还能让人越看越坚韧！《大地之歌》</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/2g8KB8zdFfM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/2g8KB8zdFfM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>【人如野草，在石缝里也要开出花来。】
+   <ns2:title>馬斯克火星移民：AI和火星的雙線戰爭 「曉涵哥來了」</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/yBa0ejmgiow?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/yBa0ejmgiow/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>“我們不是在逃離地球，而是在確保生命能夠在多個星球上延續。”
 
-如果你觉得生活很难，建议你看看《大地之歌》。
+00:00 引言
+01:39 火星執念
+09:28 AI終極問題
+15:14 AGI軍備競賽
 
-它讲述印度最贫苦的一家人，父亲是梦想破灭的文人，母亲操持一切，孩子们在泥泞中长大。
+上集回顧👇
+https://youtu.be/0_QvZBBaGTw
+https://youtu.be/I-6X62X7G-8
 
-但电影最震撼的，不是他们有多苦，而是在无尽的匮乏中，他们依然保有对美的敏锐感知。
+👽點擊加入我的會員頻道
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA/join
 
-这部电影让你明白：真正的坚韧，不是咬牙切齿的坚持，而是在看清生活真相后，依然能发现微光的能力。
+👽會員專屬影片已上線
+https://www.youtube.com/playlist?list=UUMOvoBl4rnVsetDKA_Tdk-jeA
 
-老景观影：没有恶搞，只有一本正经的还原。
-#电影推荐  #老景观影 #movie</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="13" average="5.00" min="1" max="5" />
-    <ns2:statistics views="448" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:qsJgJjOG5tY</ns0:id>
-  <ns1:videoId>qsJgJjOG5tY</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]How Close To Beat My Goalie Robot?</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/qsJgJjOG5tY" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-16T16:49:37+00:00</ns0:published>
-  <ns0:updated>2026-04-17T12:31:11+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How Close To Beat My Goalie Robot?</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/qsJgJjOG5tY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/qsJgJjOG5tY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="149276" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9964494" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:y1s_rr4VZrI</ns0:id>
-  <ns1:videoId>y1s_rr4VZrI</ns1:videoId>
-  <ns1:channelId>UCD5a0H5XvzCtAGc_I__r2HA</ns1:channelId>
-  <ns0:title>[老景观影-官方频道]【老景】5个故事8天速成，这才叫电影源于生活，而又高于生活！《地球之夜》</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=y1s_rr4VZrI" />
-  <ns0:author>
-   <ns0:name>老景观影-官方频道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCD5a0H5XvzCtAGc_I__r2HA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-13T16:13:07+00:00</ns0:published>
-  <ns0:updated>2026-04-11T14:08:53+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【老景】5个故事8天速成，这才叫电影源于生活，而又高于生活！《地球之夜》</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/y1s_rr4VZrI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/y1s_rr4VZrI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>五个城市，五个出租车司机，五段深夜奇遇。
-它像一首关于孤独的散文诗，让你在别人的故事里，看见自己的影子。
-
-老景观影：没有恶搞，只有一本正经的还原。
-#电影推荐  #老景观影 #movie</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="16" average="5.00" min="1" max="5" />
-    <ns2:statistics views="747" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:lNOjw3KRsqg</ns0:id>
-  <ns1:videoId>lNOjw3KRsqg</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]How Superglue Actually Works</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/lNOjw3KRsqg" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-08T21:53:15+00:00</ns0:published>
-  <ns0:updated>2026-04-17T12:31:09+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How Superglue Actually Works</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/lNOjw3KRsqg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/lNOjw3KRsqg/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="260969" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9447028" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:dSBX_-wZiHA</ns0:id>
-  <ns1:videoId>dSBX_-wZiHA</ns1:videoId>
-  <ns1:channelId>UCD5a0H5XvzCtAGc_I__r2HA</ns1:channelId>
-  <ns0:title>[老景观影-官方频道]【老景】这是我看过最长的电影，7个小时，却仿佛看到了自己的人性！《撒旦的探戈·下》</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=dSBX_-wZiHA" />
-  <ns0:author>
-   <ns0:name>老景观影-官方频道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCD5a0H5XvzCtAGc_I__r2HA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-07T14:53:08+00:00</ns0:published>
-  <ns0:updated>2026-02-14T17:22:56+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【老景】这是我看过最长的电影，7个小时，却仿佛看到了自己的人性！《撒旦的探戈·下》</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/dSBX_-wZiHA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/dSBX_-wZiHA/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>《撒旦探戈·下》【农庄的没落与先知的骗局！】
-
-老景观影：没有恶搞，只有一本正经的还原。
-#电影推荐  #老景观影 #movie</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="23" average="5.00" min="1" max="5" />
-    <ns2:statistics views="987" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:oZOCmEDROHY</ns0:id>
-  <ns1:videoId>oZOCmEDROHY</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]Help Me Pass Ronaldo in Subscribers!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/oZOCmEDROHY" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-12-05T16:02:26+00:00</ns0:published>
-  <ns0:updated>2026-02-14T03:01:18+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Help Me Pass Ronaldo in Subscribers!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/oZOCmEDROHY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/oZOCmEDROHY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="281956" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11213040" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:_YgmQvJsbTI</ns0:id>
-  <ns1:videoId>_YgmQvJsbTI</ns1:videoId>
-  <ns1:channelId>UCZNxe_9FQAK2Z3suwaZlwpQ</ns1:channelId>
-  <ns0:title>[冲浪普拉斯]迪斯尼往事，你不知道到资本操纵暗战</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=_YgmQvJsbTI" />
-  <ns0:author>
-   <ns0:name>冲浪普拉斯</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCZNxe_9FQAK2Z3suwaZlwpQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-11-16T11:36:30+00:00</ns0:published>
-  <ns0:updated>2026-04-13T17:49:44+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>迪斯尼往事，你不知道到资本操纵暗战</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/_YgmQvJsbTI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/_YgmQvJsbTI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>如果你对创业/投资感兴趣，欢迎关注我的另一个频道：徐冲浪https://www.youtube.com/@UCjFijX0PVzNLe3YBKocGgnQ</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="225" average="5.00" min="1" max="5" />
-    <ns2:statistics views="18982" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:yiFdXHI1Bm4</ns0:id>
-  <ns1:videoId>yiFdXHI1Bm4</ns1:videoId>
-  <ns1:channelId>UCZNxe_9FQAK2Z3suwaZlwpQ</ns1:channelId>
-  <ns0:title>[冲浪普拉斯]沃尔玛发展史，消费行业龙头何去何从？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=yiFdXHI1Bm4" />
-  <ns0:author>
-   <ns0:name>冲浪普拉斯</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCZNxe_9FQAK2Z3suwaZlwpQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-10-04T09:58:51+00:00</ns0:published>
-  <ns0:updated>2026-02-07T17:02:56+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>沃尔玛发展史，消费行业龙头何去何从？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/yiFdXHI1Bm4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/yiFdXHI1Bm4/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>如果你对创业/投资感兴趣，欢迎关注我的另一个频道：徐冲浪
-
-https://www.youtube.com/@UCjFijX0PVzNLe3YBKocGgnQ</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="139" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12523" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:9r16G8lLrJA</ns0:id>
-  <ns1:videoId>9r16G8lLrJA</ns1:videoId>
-  <ns1:channelId>UCZNxe_9FQAK2Z3suwaZlwpQ</ns1:channelId>
-  <ns0:title>[冲浪普拉斯]美国人超市只去沃尔玛，为什么中国人却在退卡？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=9r16G8lLrJA" />
-  <ns0:author>
-   <ns0:name>冲浪普拉斯</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCZNxe_9FQAK2Z3suwaZlwpQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-10-01T08:23:54+00:00</ns0:published>
-  <ns0:updated>2026-02-07T17:03:11+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>美国人超市只去沃尔玛，为什么中国人却在退卡？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/9r16G8lLrJA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/9r16G8lLrJA/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>【美国商业史】沃尔玛
-如果你对创业/投资感兴趣，欢迎关注我的另一个频道
-https://www.youtube.com/@UCjFijX0PVzNLe3YBKocGgnQ</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="277" average="5.00" min="1" max="5" />
-    <ns2:statistics views="26075" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:64XvpStZsyI</ns0:id>
-  <ns1:videoId>64XvpStZsyI</ns1:videoId>
-  <ns1:channelId>UCZNxe_9FQAK2Z3suwaZlwpQ</ns1:channelId>
-  <ns0:title>[冲浪普拉斯]东北街边摊干成全球6000家店？张亮麻辣烫是怎么做到的，复盘麻辣烫行业的江湖往事</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=64XvpStZsyI" />
-  <ns0:author>
-   <ns0:name>冲浪普拉斯</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCZNxe_9FQAK2Z3suwaZlwpQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-09-29T09:51:32+00:00</ns0:published>
-  <ns0:updated>2026-02-06T23:19:18+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>东北街边摊干成全球6000家店？张亮麻辣烫是怎么做到的，复盘麻辣烫行业的江湖往事</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/64XvpStZsyI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/64XvpStZsyI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>如果你对创业/投资感兴趣，欢迎关注我的另一个频道：徐冲浪
-
-https://www.youtube.com/@UCjFijX0PVzNLe3YBKocGgnQ</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="232" average="5.00" min="1" max="5" />
-    <ns2:statistics views="25525" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:0d4wso32kcA</ns0:id>
-  <ns1:videoId>0d4wso32kcA</ns1:videoId>
-  <ns1:channelId>UCZNxe_9FQAK2Z3suwaZlwpQ</ns1:channelId>
-  <ns0:title>[冲浪普拉斯]新能源车“剧本杀”：从销售话术到高管下场，处处都是套路</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=0d4wso32kcA" />
-  <ns0:author>
-   <ns0:name>冲浪普拉斯</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCZNxe_9FQAK2Z3suwaZlwpQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-09-26T05:42:18+00:00</ns0:published>
-  <ns0:updated>2026-04-21T05:48:24+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>新能源车“剧本杀”：从销售话术到高管下场，处处都是套路</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/0d4wso32kcA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/0d4wso32kcA/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>【浪眼睛】新能源车“剧本杀”：从销售话术到高管下场，处处都是套路
+👀👀  我的這些影片或許你也有興趣 👇👇
 
-如果你对创业/投资感兴趣，欢迎关注我的另一个频道
+史上最奇葩國家👇
+https://youtu.be/xrk7qPj8yts
 
-https://www.youtube.com/@UCjFijX0PVzNLe3YBKocGgnQ</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="450" average="5.00" min="1" max="5" />
-    <ns2:statistics views="43262" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:hxLbI2Qg5lQ</ns0:id>
-  <ns1:videoId>hxLbI2Qg5lQ</ns1:videoId>
-  <ns1:channelId>UCZNxe_9FQAK2Z3suwaZlwpQ</ns1:channelId>
-  <ns0:title>[冲浪普拉斯]房地产东风已逝，为什么家居行业的老板最后都选了跳楼？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=hxLbI2Qg5lQ" />
-  <ns0:author>
-   <ns0:name>冲浪普拉斯</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCZNxe_9FQAK2Z3suwaZlwpQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-09-11T03:23:29+00:00</ns0:published>
-  <ns0:updated>2026-02-06T23:20:06+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>房地产东风已逝，为什么家居行业的老板最后都选了跳楼？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/hxLbI2Qg5lQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/hxLbI2Qg5lQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>【浪眼睛】下集：CEO跳楼最密集的行业，家居行业为什么老板最后的终点都是跳楼？
+科馬洛夫👇
+https://youtu.be/NkuNPdxveiY
 
-如果你对创业/投资感兴趣，欢迎关注我的另一个频道
+人猿混血部隊👇
+https://youtu.be/tJYVzo8tS1o
+--------------------------------------------------------------------------------------------
+🔥  這些影片在頻道最受歡迎 👇👇
 
-https://www.youtube.com/@UCjFijX0PVzNLe3YBKocGgnQ</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="497" average="5.00" min="1" max="5" />
-    <ns2:statistics views="46227" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:es8l8Ecv9-M</ns0:id>
-  <ns1:videoId>es8l8Ecv9-M</ns1:videoId>
-  <ns1:channelId>UCZNxe_9FQAK2Z3suwaZlwpQ</ns1:channelId>
-  <ns0:title>[冲浪普拉斯]CEO跳楼最密集的行业，家居行业为什么老板最后的终点都是跳楼？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=es8l8Ecv9-M" />
-  <ns0:author>
-   <ns0:name>冲浪普拉斯</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCZNxe_9FQAK2Z3suwaZlwpQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-09-10T10:51:19+00:00</ns0:published>
-  <ns0:updated>2026-02-03T14:35:36+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>CEO跳楼最密集的行业，家居行业为什么老板最后的终点都是跳楼？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/es8l8Ecv9-M?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/es8l8Ecv9-M/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>【浪眼睛】上集：CEO跳楼最密集的行业，家居行业为什么老板最后的终点都是跳楼？
+朝鮮神秘飯店👇
+https://youtu.be/cVlAxL2CXYg
 
-如果你对创业/投资感兴趣，欢迎关注我的另一个频道
+大和號戰艦👇
+https://youtu.be/AdxYuP1qbMY
 
-https://www.youtube.com/@UCjFijX0PVzNLe3YBKocGgnQ</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="355" average="5.00" min="1" max="5" />
-    <ns2:statistics views="35488" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:5S8XzLKgiws</ns0:id>
-  <ns1:videoId>5S8XzLKgiws</ns1:videoId>
-  <ns1:channelId>UCZNxe_9FQAK2Z3suwaZlwpQ</ns1:channelId>
-  <ns0:title>[冲浪普拉斯]美股、港股、加密货币都是赌场？这个硅谷新平台，再给普通人一次新的机会</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=5S8XzLKgiws" />
-  <ns0:author>
-   <ns0:name>冲浪普拉斯</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCZNxe_9FQAK2Z3suwaZlwpQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-09-09T09:59:34+00:00</ns0:published>
-  <ns0:updated>2025-12-21T08:15:29+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>美股、港股、加密货币都是赌场？这个硅谷新平台，再给普通人一次新的机会</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/5S8XzLKgiws?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/5S8XzLKgiws/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Jarsy的注册链接：https://app.jarsy.com/?invite_code=von5ob</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="329" average="5.00" min="1" max="5" />
-    <ns2:statistics views="20630" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:oC_yzohVbM8</ns0:id>
-  <ns1:videoId>oC_yzohVbM8</ns1:videoId>
-  <ns1:channelId>UCZNxe_9FQAK2Z3suwaZlwpQ</ns1:channelId>
-  <ns0:title>[冲浪普拉斯]佛门净地变身商业帝国？释永信商场失足，揭秘少林寺袈裟下的黑幕</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=oC_yzohVbM8" />
-  <ns0:author>
-   <ns0:name>冲浪普拉斯</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCZNxe_9FQAK2Z3suwaZlwpQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-08-25T09:06:10+00:00</ns0:published>
-  <ns0:updated>2025-12-21T08:12:15+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>佛门净地变身商业帝国？释永信商场失足，揭秘少林寺袈裟下的黑幕</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/oC_yzohVbM8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/oC_yzohVbM8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>【浪眼睛】佛门净地变身商业帝国？释永信商场失足，揭秘少林寺袈裟下的黑幕
+秦始皇陵👇
+https://youtu.be/BGxr6AS-6-o
 
-如果你对创业/投资感兴趣，欢迎关注我的另一个频道
+宇宙7級文明👇
+https://youtu.be/MTCrzBVNJjc
 
-https://www.youtube.com/@UCjFijX0PVzNLe3YBKocGgnQ</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="350" average="5.00" min="1" max="5" />
-    <ns2:statistics views="26511" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:PNpJpdeshMU</ns0:id>
-  <ns1:videoId>PNpJpdeshMU</ns1:videoId>
-  <ns1:channelId>UCZNxe_9FQAK2Z3suwaZlwpQ</ns1:channelId>
-  <ns0:title>[冲浪普拉斯]从幕后金主到公开对手：马斯克和川普的关系，怎么变得比美剧还狗血？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=PNpJpdeshMU" />
-  <ns0:author>
-   <ns0:name>冲浪普拉斯</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCZNxe_9FQAK2Z3suwaZlwpQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2025-08-17T07:12:01+00:00</ns0:published>
-  <ns0:updated>2026-02-09T14:40:09+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>从幕后金主到公开对手：马斯克和川普的关系，怎么变得比美剧还狗血？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/PNpJpdeshMU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/PNpJpdeshMU/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>【浪眼睛】从幕后金主到公开对手：马斯克和川普的关系，怎么变得比美剧还狗血？
+邁克爾傑克遜的另一面👇
+https://youtu.be/p7W75SHpL9E
 
-如果你对创业/投资感兴趣，欢迎关注我的另一个频道
+野獸專車👇
+https://youtu.be/ACmijk6deMA
 
-https://www.youtube.com/@UCjFijX0PVzNLe3YBKocGgnQ</ns2:description>
+日本啃老族👇
+https://youtu.be/nCFLqt71dKs
+--------------------------------------------------------------------------------------
+「探索地球，發現宇宙。
+我是曉涵哥，歡迎和我一起，做這世界的探尋者。」
+點擊下方訂閱👇👇👇
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
+我的FB也開通了！歡迎大家關注，在這裡我會分享一些不一樣的生活碎片：https://www.facebook.com/xiaohange888
+--------------------------------------------------------------------------------------
+#曉涵哥來了 #火星移民計劃 #馬斯克 #宇宙 #科技 #未來 #人工智能
+#education #knowledge #ElonMusk #NASA</ns2:description>
    <ns2:community>
-    <ns2:starRating count="425" average="5.00" min="1" max="5" />
-    <ns2:statistics views="34678" />
+    <ns2:starRating count="7595" average="5.00" min="1" max="5" />
+    <ns2:statistics views="343491" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:uWQItMTfrVQ</ns0:id>
-  <ns1:videoId>uWQItMTfrVQ</ns1:videoId>
-  <ns1:channelId>UCZNxe_9FQAK2Z3suwaZlwpQ</ns1:channelId>
-  <ns0:title>[冲浪普拉斯]1850万美元罚款只是零花钱？Tether的暗箱操作与金融世界的灰色地带</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=uWQItMTfrVQ" />
+  <ns0:id>yt:video:0_QvZBBaGTw</ns0:id>
+  <ns1:videoId>0_QvZBBaGTw</ns1:videoId>
+  <ns1:channelId>UCvoBl4rnVsetDKA_Tdk-jeA</ns1:channelId>
+  <ns0:title>[曉涵哥來了]奧巴馬承認外星人存在，卻被禁止接觸核心機密？揭開美國政府真正的幕后黑手「曉涵哥來了」</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=0_QvZBBaGTw" />
   <ns0:author>
-   <ns0:name>冲浪普拉斯</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCZNxe_9FQAK2Z3suwaZlwpQ</ns0:uri>
+   <ns0:name>曉涵哥來了</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA</ns0:uri>
   </ns0:author>
-  <ns0:published>2025-08-09T12:06:41+00:00</ns0:published>
-  <ns0:updated>2026-04-13T17:39:10+00:00</ns0:updated>
+  <ns0:published>2026-02-24T12:00:01+00:00</ns0:published>
+  <ns0:updated>2026-02-28T07:53:28+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>1850万美元罚款只是零花钱？Tether的暗箱操作与金融世界的灰色地带</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/uWQItMTfrVQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/uWQItMTfrVQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>【浪眼睛12】下集：1850万美元罚款只是零花钱？Tether的暗箱操作与金融世界的灰色地带
+   <ns2:title>奧巴馬承認外星人存在，卻被禁止接觸核心機密？揭開美國政府真正的幕后黑手「曉涵哥來了」</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/0_QvZBBaGTw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/0_QvZBBaGTw/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>即使總統擁有聯邦政府賦予的最高權力，也難以突破美國既有的保密體系
 
-如果你对创业/投资感兴趣，欢迎关注我的另一个频道
+00:00 引言
+02:09 最高機密
+10:45 MJ-12
+14:18 黑色預算
+16:53 深層政府
 
-https://www.youtube.com/@UCjFijX0PVzNLe3YBKocGgnQ</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="277" average="5.00" min="1" max="5" />
-    <ns2:statistics views="18797" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:KCdJALjDp-A</ns0:id>
-  <ns1:videoId>KCdJALjDp-A</ns1:videoId>
-  <ns1:channelId>UCMtovPdEt_pwJuJ8MwVyS0g</ns1:channelId>
-  <ns0:title>[REAL LIFE HEROES]Real Life Heroes #48 2019 Good People Still Exist Compilation</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=KCdJALjDp-A" />
-  <ns0:author>
-   <ns0:name>REAL LIFE HEROES</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCMtovPdEt_pwJuJ8MwVyS0g</ns0:uri>
-  </ns0:author>
-  <ns0:published>2019-01-29T17:30:00+00:00</ns0:published>
-  <ns0:updated>2025-06-13T11:47:13+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Real Life Heroes #48 2019 Good People Still Exist Compilation</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/KCdJALjDp-A?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/KCdJALjDp-A/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Hello heroes!! We are celebrating 5 years on YouTube with a brand new episode of Real Life Heroes. Thanks for all your Love &amp; Support! I read your letters, emails, PMs... gosh, it makes me cry happy tears. I'm glad that you love this channel as much as I do. Hugs!
-
-🔔Subscribe (if you haven't already)
-❤️ Support ▶︎ https://patreon.com/RealLifeHeroes
-👍 Hope you like it!
-
-Watch all episodes of "Police Heroes"
-https://www.youtube.com/playlist?list=PLZ588ZQMvJsB-LTp_nrHOoTrGCwOxlsDl
-
-▶︎ In this episode:
-00:12 USA
-Dog Rescued by Firefighters from a house fire
-00:56 Daytona Beach, USA
-Police rescue freezing puppy.
-01:27 Dakar, Senegal
-During a Dakar Rally, a Belarusian racer helped his competitor from Lithuania Benediktas Vanagas
-01:52 Southern California, USA
-Fabricio Werdum, former UFC Heavyweight Champion, rescues teen from drowning.
-02:05 Shanxi province, China
-Golden retriever leads ambulance to spot where the injured owner collapsed. 
-02:36 Pennsylvania, USA
-Deer found in a frigid lake, taken to a garage for warmth. The rescuer now faces $800 in fines for intervention in wildlife. According to the local law, it is forbidden to retain a wild animal.
-03:16 Petrozavodsk, Russia
-Man's quick reaction saved a woman's life
-03:40 Gujarat, India
-Indian truck driver noticed a cow on the road and decided to save the sacred animal from certain death. The truck did not turn over by a miracle. 
-04:02 Nikolaev, Ukraine
-Oleg Semendyaev rescued a dog that fell through the ice.
-04:40 Ust-Kut, Russia
-Cat frozen to the icy ground gets rescued by a schoolboy and his mom. Rescued cat has a new home and owners.
-05:00 South Africa
-Brave cops save man from drowning. 
-05: 15 Chonburi Province, Thailand
-Mother dog and puppy are rescued from abandoned well after crying for help for 3 days.
-05:56 Chongqing, China
-On January 18th, a woman fell into the river. The woman was rescued by good Samaritans.
-06:19 Shandong Province, China
-Villagers save a man trapped in a car that fell into the icy river. 
-06:58 Australia 
-Bikers Help Awesome Old Man! MyRandomLife247: https://www.youtube.com/channel/UCZOHuiRJ4KpJpiaul7amprQ
-07:36 Perm, Russia
-Rescue of a pregnant woman from a burning office building in Russia. 
-08:22 Wuxi, China
-The nine-month-old baby saved from falling on an escalator at a mall in China by Wang Hao, the 22-year-old soldier. The baby did not sustain any serious injuries. 
-09:13 Vitória, Brazil 
-Toddler saved by a security guard in a pool. The child did not need medical attention but was scared.
-
-Real Life Heroes Restoring Faith in Humanity 2019 #48
-https://youtu.be/KCdJALjDp-A
-
-SUBSCRIBE ▶︎ https://www.youtube.com/user/reallifeheroestv?sub_confirmation=1</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="9524" average="5.00" min="1" max="5" />
-    <ns2:statistics views="679907" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:H375Te4q6fg</ns0:id>
-  <ns1:videoId>H375Te4q6fg</ns1:videoId>
-  <ns1:channelId>UCMtovPdEt_pwJuJ8MwVyS0g</ns1:channelId>
-  <ns0:title>[REAL LIFE HEROES]Rescue Heroes Save Baby from the Rubble of a 10-story Building</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=H375Te4q6fg" />
-  <ns0:author>
-   <ns0:name>REAL LIFE HEROES</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCMtovPdEt_pwJuJ8MwVyS0g</ns0:uri>
-  </ns0:author>
-  <ns0:published>2019-01-02T10:45:01+00:00</ns0:published>
-  <ns0:updated>2025-06-12T11:58:09+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Rescue Heroes Save Baby from the Rubble of a 10-story Building</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/H375Te4q6fg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/H375Te4q6fg/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Please watch: "Real Life Heroes 2019 Part 48 Faith In Humanity Restored" 
-https://youtu.be/KCdJALjDp-A
-‘Miracle baby’ found alive against all odds after 36 hours in frozen rubble of a 10-story building in #Magnitogorsk 🔔 Subscribe to Restore Your Faith in Humanity ▶︎ https://youtube.com/user/RealLifeHeroesTV?sub_confirmation=1  
-A New Year's Eve gas explosion ripped through a 10-story building. On 31st of December, laboring in temperatures around minus 20 degrees Celsius (minus 4 degrees Fahrenheit), Russian rescue workers were digging into a rubble from a collapsed apartment building when one heard the faintest sound.
+上集回顧👇
+https://youtu.be/e6sF55ilE9g
+https://youtu.be/h0oLS08v_ww
 
-Rescue worker Pyotr Gritsenko said on Russian television that baby's discovery came after one of the crew heard faint cries. It was the sound of life. "We stopped all the equipment. He began to cry louder," but the crew couldn't find him, he said. A search dog was brought in 
-and they pulled a baby boy out of the rubble alive nearly 36 hours after the disaster that blew apart his home. The boy, an 11-month-old named Ivan Fokin, was in extremely serious condition, with fractures, a head injury and suffering from hypothermia. He was flown to Moscow in a desperate attempt to save his life. More than 30 people who lived in the building have are still missing. Although Ivan's prospects for survival appeared dire, His father called it "a #NewYearMiracle". Let’s pray for his recovery. #PrayForIvan
+👽點擊加入我的會員頻道
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA/join
 
+👽會員專屬影片已上線
+https://www.youtube.com/playlist?list=UUMOvoBl4rnVsetDKA_Tdk-jeA
 
-Music: George Tsaliagos - When everything ends
+👀👀  我的這些影片或許你也有興趣 👇👇
 
-⇩ Watch Next ⇩
+羅斯威爾事件👇
+https://youtu.be/nDzB2lfsFHw
 
-Latest episodes of Real Life Heroes Restoring Faith in Humanity
-https://www.youtube.com/watch?v=KCdJALjDp-A&amp;index=1&amp;list=PLZ588ZQMvJsC1Mddyjt61XlmpuwWTOw88
+科馬洛夫👇
+https://youtu.be/NkuNPdxveiY
 
-[Short] True Stories That'll Restore Your Faith in Humanity 
-https://www.youtube.com/watch?v=C9PwNNew31c&amp;list=PLZ588ZQMvJsDMJ_bcKV9X7y0ztKYl87Ly
+人猿混血部隊👇
+https://youtu.be/tJYVzo8tS1o
+--------------------------------------------------------------------------------------------
+🔥  這些影片在頻道最受歡迎 👇👇
 
-Latest episodes of Police Heroes (Where Police Meets Humanity) 
-https://www.youtube.com/watch?v=bP3OqK_4yN4&amp;list=PLZ588ZQMvJsB-LTp_nrHOoTrGCwOxlsDl&amp;index=2
+朝鮮神秘飯店👇
+https://youtu.be/cVlAxL2CXYg
 
-Latest episodes of Animal Heroes 
-https://www.youtube.com/watch?v=KhcyjE0AoZg&amp;list=PLZ588ZQMvJsD5XxuaeSPPD3GkhGsz3LDO
+大和號戰艦👇
+https://youtu.be/AdxYuP1qbMY
 
-‘Miracle baby’ found alive after 36 hours in frozen rubble of a 10-storey Russian building: https://youtu.be/H375Te4q6fg</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1509" average="5.00" min="1" max="5" />
-    <ns2:statistics views="126657" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:lirmpg_fVRQ</ns0:id>
-  <ns1:videoId>lirmpg_fVRQ</ns1:videoId>
-  <ns1:channelId>UCMtovPdEt_pwJuJ8MwVyS0g</ns1:channelId>
-  <ns0:title>[REAL LIFE HEROES]Real Life Heroes #47 2019 Good People Still Exist Compilation</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=lirmpg_fVRQ" />
-  <ns0:author>
-   <ns0:name>REAL LIFE HEROES</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCMtovPdEt_pwJuJ8MwVyS0g</ns0:uri>
-  </ns0:author>
-  <ns0:published>2018-12-29T17:45:00+00:00</ns0:published>
-  <ns0:updated>2026-04-13T20:45:18+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Real Life Heroes #47 2019 Good People Still Exist Compilation</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/lirmpg_fVRQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/lirmpg_fVRQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Please watch: "Real Life Heroes 2019 Part 48 Faith In Humanity Restored" 
-https://youtu.be/KCdJALjDp-A
-If you Like 👍 this video ▶︎ Subscribe and turn on the '🔔' notifications
-❤️ Support our channel: https://patreon.com/RealLifeHeroes
-
-⬇ Watch Next ⬇ 
-
-Latest episodes of Real Life Heroes
-https://www.youtube.com/watch?v=KCdJALjDp-A&amp;index=1&amp;list=PLZ588ZQMvJsC1Mddyjt61XlmpuwWTOw88
-
-Stories That'll Restore Your Faith in Humanity 
-https://www.youtube.com/watch?v=cdGPmO_5vF0&amp;list=PLZ588ZQMvJsDMJ_bcKV9X7y0ztKYl87Ly&amp;index=1
-
-Latest episodes of Police Heroes
-https://www.youtube.com/watch?v=bP3OqK_4yN4&amp;list=PLZ588ZQMvJsB-LTp_nrHOoTrGCwOxlsDl&amp;index=2
-
-(Video strictly for news/educational purposes)
-#Heroes #RealLifeHeroes #RealLifeHeroes2019
-
-In this episode:
-Police Officer Chops Through Ice to Save Puppy on Frozen Lake
-Neighborhood residents helping a bus on Meridian St in East Boston
-Good Samaritans return Christmas gifts that fell from the back of SUV on Long Island
-Tom Hanks Gets Into The Holiday Spirit And Buys Fans Lunch
-Police officer rescues a Four-year-old girl
-Renault driver saves a pedestrian from being hit by another car
-Body Cam Footage Shows Police Officer Saving Clucking Chicken From a Burning Shed
-Dog falling into a ditch and rescued by a man in Vietnam
-Sheep snow rescue
-A man shouts to his colleagues seconds before a huge rock comes straight towards them, Spantik Base Camp, Pakistan
-"Russian family rescues a cat after all 4 paws got 
-frozen in ice at -35C (-26 Fahrenheit)"
-Presenter Iain Lee saved a man's life on air after he called 
-Milwaukee Bus Driver Helps Homeless Man Find Housing
-
-Real Life Heroes Restoring Faith in Humanity 2019 #47
-https://www.youtube.com/watch?v=lirmpg_fVRQ
-
-SUBSCRIBE ▶︎ https://www.youtube.com/user/reallifeheroestv?sub_confirmation=1</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="6518" average="5.00" min="1" max="5" />
-    <ns2:statistics views="559722" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:7Pl1BHfaPoU</ns0:id>
-  <ns1:videoId>7Pl1BHfaPoU</ns1:videoId>
-  <ns1:channelId>UCMtovPdEt_pwJuJ8MwVyS0g</ns1:channelId>
-  <ns0:title>[REAL LIFE HEROES]Police Heroes #5 Cops Meet Humanity, Heroism and Respect</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=7Pl1BHfaPoU" />
-  <ns0:author>
-   <ns0:name>REAL LIFE HEROES</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCMtovPdEt_pwJuJ8MwVyS0g</ns0:uri>
-  </ns0:author>
-  <ns0:published>2018-12-18T12:15:00+00:00</ns0:published>
-  <ns0:updated>2026-03-03T16:12:38+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Police Heroes #5 Cops Meet Humanity, Heroism and Respect</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/7Pl1BHfaPoU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/7Pl1BHfaPoU/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Episode 5 of "Where Police Meet Humanity Heroism and Respect". Tribute to Real Life Heroes: Police Officers 🔴⚪🔵 Turn on the '🔔' to get notifications for new uploads!
+秦始皇陵👇
+https://youtu.be/BGxr6AS-6-o
 
-This video presents the documentation of law enforcement officials not only going way out of their line to serve humanity but also doing it without the expectation of any reward. 
+宇宙7級文明👇
+https://youtu.be/MTCrzBVNJjc
 
-⇩ Watch Next ⇩ 
-Previous episodes of Police Heroes
-https://www.youtube.com/watch?v=bP3OqK_4yN4&amp;list=PLZ588ZQMvJsB-LTp_nrHOoTrGCwOxlsDl&amp;index=2
+邁克爾傑克遜的另一面👇
+https://youtu.be/p7W75SHpL9E
 
-#PoliceHeroes #PoliceHumanity #PoliceRespect
-REAL LIFE HEROES is the world's leading source of inspirational, motivational and faith-restoring content. We create high-quality videos filled with amazing rescues and heroic moments surrounding people, animals, society, humanity, sports and much more. Currently updating every week! 
+野獸專車👇
+https://youtu.be/ACmijk6deMA
 
-Subscribe to never miss a video: http://bit.ly/RLHYouTube</ns2:description>
+日本啃老族👇
+https://youtu.be/nCFLqt71dKs
+--------------------------------------------------------------------------------------
+「探索地球，發現宇宙。
+我是曉涵哥，歡迎和我一起，做這世界的探尋者。」
+點擊下方訂閱👇👇👇
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
+我的FB也開通了！歡迎大家關注，在這裡我會分享一些不一樣的生活碎片：https://www.facebook.com/xiaohange888
+--------------------------------------------------------------------------------------
+#曉涵哥來了 #奧巴馬 #外星人 #美國 #神秘 #外星生物 #CIA #深層政府
+#education #knowledge</ns2:description>
    <ns2:community>
-    <ns2:starRating count="8019" average="5.00" min="1" max="5" />
-    <ns2:statistics views="428936" />
+    <ns2:starRating count="7496" average="5.00" min="1" max="5" />
+    <ns2:statistics views="499697" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:cdGPmO_5vF0</ns0:id>
-  <ns1:videoId>cdGPmO_5vF0</ns1:videoId>
-  <ns1:channelId>UCMtovPdEt_pwJuJ8MwVyS0g</ns1:channelId>
-  <ns0:title>[REAL LIFE HEROES]Close Call: Puppies Rescued from the Ashes</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=cdGPmO_5vF0" />
+  <ns0:id>yt:video:h0oLS08v_ww</ns0:id>
+  <ns1:videoId>h0oLS08v_ww</ns1:videoId>
+  <ns1:channelId>UCvoBl4rnVsetDKA_Tdk-jeA</ns1:channelId>
+  <ns0:title>[曉涵哥來了]人類偉大的文物遷移史：1933年-1945年故宮文物南迁史「曉涵哥來了」</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=h0oLS08v_ww" />
   <ns0:author>
-   <ns0:name>REAL LIFE HEROES</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCMtovPdEt_pwJuJ8MwVyS0g</ns0:uri>
+   <ns0:name>曉涵哥來了</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA</ns0:uri>
   </ns0:author>
-  <ns0:published>2018-10-21T08:13:39+00:00</ns0:published>
-  <ns0:updated>2026-04-13T16:35:18+00:00</ns0:updated>
+  <ns0:published>2026-02-14T12:01:11+00:00</ns0:published>
+  <ns0:updated>2026-04-05T17:22:09+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Close Call: Puppies Rescued from the Ashes</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/cdGPmO_5vF0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/cdGPmO_5vF0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Please watch: "Real Life Heroes 2019 Part 48 Faith In Humanity Restored" 
-https://youtu.be/KCdJALjDp-A
-RAW: Fireman saved seven puppies from a house fire in Russia two days ago. He is our subscriber and decided to share this amazing video with us.
-👍 Share this story with your friends and make sure to Subscribe &amp; hit that Bell icon 🔔
+   <ns2:title>人類偉大的文物遷移史：1933年-1945年故宮文物南迁史「曉涵哥來了」</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/h0oLS08v_ww?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/h0oLS08v_ww/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>百年風雨過後，故宮紅牆依舊，歷史如在眼前。
 
-Fireman: Maksim Gurianov
-https://www.instagram.com/_angel__evil/
+00:00 引言
+01:58 挑選文物
+06:27 如何打包
+08:05 起運上海
+11:42 故宮盜寶案
+15:43 西遷：向西，再向西！
+23:38 搬遷西南
+29:27 文物遷台
 
-⇩ Watch Next ⇩
-Latest episodes of Real Life Heroes Restoring Faith in Humanity
-https://www.youtube.com/watch?v=KCdJALjDp-A&amp;index=1&amp;list=PLZ588ZQMvJsC1Mddyjt61XlmpuwWTOw88
+上集回顧👇
+https://youtu.be/YYouQDVc51s
+https://youtu.be/uiEKnFGgthE
 
-[Short] True Stories That'll Restore Your Faith in Humanity 
-https://www.youtube.com/watch?v=C9PwNNew31c&amp;list=PLZ588ZQMvJsDMJ_bcKV9X7y0ztKYl87Ly
+👽點擊加入我的會員頻道
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA/join
 
-Latest episodes of Police Heroes (Where Police Meets Humanity) 
-https://www.youtube.com/watch?v=bP3OqK_4yN4&amp;list=PLZ588ZQMvJsB-LTp_nrHOoTrGCwOxlsDl&amp;index=2
+👽會員專屬影片已上線
+https://www.youtube.com/playlist?list=UUMOvoBl4rnVsetDKA_Tdk-jeA
 
-Latest episodes of Animal Heroes 
-https://www.youtube.com/watch?v=KhcyjE0AoZg&amp;list=PLZ588ZQMvJsD5XxuaeSPPD3GkhGsz3LDO
+👀👀  我的這些影片或許你也有興趣 👇👇
 
-Latest episodes of Bikers For Humanity 
-https://www.youtube.com/watch?v=8Znj6liZESA&amp;index=2&amp;list=PLZ588ZQMvJsDS0nO3zdVVV-3tEDQ9XP1n
+傳國玉璽之謎👇
+https://youtu.be/LcPtuqmWNf0
 
-#TRЕNDING #RealLifeHeroes2019 #FiremanSavedPuppies</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1007" average="5.00" min="1" max="5" />
-    <ns2:statistics views="28915" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:C9PwNNew31c</ns0:id>
-  <ns1:videoId>C9PwNNew31c</ns1:videoId>
-  <ns1:channelId>UCMtovPdEt_pwJuJ8MwVyS0g</ns1:channelId>
-  <ns0:title>[REAL LIFE HEROES]The World Has Lost a Hero. Saved Thousands of Lives!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=C9PwNNew31c" />
-  <ns0:author>
-   <ns0:name>REAL LIFE HEROES</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCMtovPdEt_pwJuJ8MwVyS0g</ns0:uri>
-  </ns0:author>
-  <ns0:published>2018-10-13T08:45:00+00:00</ns0:published>
-  <ns0:updated>2025-06-14T09:03:35+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>The World Has Lost a Hero. Saved Thousands of Lives!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/C9PwNNew31c?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/C9PwNNew31c/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Please watch: "Real Life Heroes 2019 Part 48 Faith In Humanity Restored" 
-https://youtu.be/KCdJALjDp-A
-The World has lost a Real Life Hero who saved 5 thousand people between Greece &amp; Turkey. Kyriakos Papadopoulos “the Hero of the Aegean Sea” ▶︎ Watch a Film (it's free): https://rlhtv.com/41Miles
-👍 Share this story with your friends and make sure to Subscribe 🔔for more heart touching videos!
- 
-Music by George Tsaliagos "Colourful memories"
-Bandcamp: https://georgetsaliagos.bandcamp.com/
+慈禧私生活👇
+https://youtu.be/zA3AjHEbfy0
+
+慈禧西逃事件👇
+https://youtu.be/QJgSWz4BJnw
 
-⬇ Watch Next ⬇
+光緒之死👇
+https://youtu.be/3sGP5rXyrPM
+--------------------------------------------------------------------------------------------
+🔥  這些影片在頻道最受歡迎 👇👇
 
-[Playlist] Real Life Heroes 2019 - Faith in Humanity Restored
-https://www.youtube.com/watch?v=KCdJALjDp-A&amp;index=1&amp;list=PLZ588ZQMvJsC1Mddyjt61XlmpuwWTOw88
+朝鮮神秘飯店👇
+https://youtu.be/cVlAxL2CXYg
 
-[Playlist] Police Heroes  - Where Police Meets Humanity &amp; Heroism 
-https://www.youtube.com/watch?v=bP3OqK_4yN4&amp;list=PLZ588ZQMvJsB-LTp_nrHOoTrGCwOxlsDl&amp;index=2
+大和號戰艦👇
+https://youtu.be/AdxYuP1qbMY
 
-[Playlist] Animal Heroes - When People Rescue Animals
-https://www.youtube.com/watch?v=KhcyjE0AoZg&amp;list=PLZ588ZQMvJsD5XxuaeSPPD3GkhGsz3LDO
+秦始皇陵👇
+https://youtu.be/BGxr6AS-6-o
 
-Real Life Heroes Compilation 2019 Part 48 Restoring Faith in Humanity [ Good People ]
-https://youtu.be/KCdJALjDp-A
+宇宙7級文明👇
+https://youtu.be/MTCrzBVNJjc
 
-#Hero #RealLifeHeroes2019 #GoodPeople
+邁克爾傑克遜的另一面👇
+https://youtu.be/p7W75SHpL9E
 
-(Video strictly for news/educational purposes)
+野獸專車👇
+https://youtu.be/ACmijk6deMA
 
-Real Life Hero Who Saved Thousands of People
-https://youtu.be/C9PwNNew31c</ns2:description>
+日本啃老族👇
+https://youtu.be/nCFLqt71dKs
+--------------------------------------------------------------------------------------
+「探索地球，發現宇宙。
+我是曉涵哥，歡迎和我一起，做這世界的探尋者。」
+點擊下方訂閱👇👇👇
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
+我的FB也開通了！歡迎大家關注，在這裡我會分享一些不一樣的生活碎片：https://www.facebook.com/xiaohange888
+--------------------------------------------------------------------------------------
+#曉涵哥來了 #歷史 #中國歷史 #故宮 #故宮文物南遷 #文化 #文物 #科普 #國寶 
+#history #education #knowledge</ns2:description>
    <ns2:community>
-    <ns2:starRating count="956" average="5.00" min="1" max="5" />
-    <ns2:statistics views="38666" />
+    <ns2:starRating count="3897" average="5.00" min="1" max="5" />
+    <ns2:statistics views="175025" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:KhcyjE0AoZg</ns0:id>
-  <ns1:videoId>KhcyjE0AoZg</ns1:videoId>
-  <ns1:channelId>UCMtovPdEt_pwJuJ8MwVyS0g</ns1:channelId>
-  <ns0:title>[REAL LIFE HEROES]Real Life Hero Saving a Terrified Abandoned Dog</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=KhcyjE0AoZg" />
+  <ns0:id>yt:video:YYouQDVc51s</ns0:id>
+  <ns1:videoId>YYouQDVc51s</ns1:videoId>
+  <ns1:channelId>UCvoBl4rnVsetDKA_Tdk-jeA</ns1:channelId>
+  <ns0:title>[曉涵哥來了]從「腦機接口」到「缸中之腦」，人類離造神還有多遠？「曉涵哥來了」</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=YYouQDVc51s" />
   <ns0:author>
-   <ns0:name>REAL LIFE HEROES</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCMtovPdEt_pwJuJ8MwVyS0g</ns0:uri>
+   <ns0:name>曉涵哥來了</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA</ns0:uri>
   </ns0:author>
-  <ns0:published>2018-10-11T11:00:02+00:00</ns0:published>
-  <ns0:updated>2026-04-14T20:03:57+00:00</ns0:updated>
+  <ns0:published>2026-02-08T13:03:30+00:00</ns0:published>
+  <ns0:updated>2026-02-24T08:32:58+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Real Life Hero Saving a Terrified Abandoned Dog</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/KhcyjE0AoZg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/KhcyjE0AoZg/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Please watch: "Real Life Heroes 2019 Part 48 Faith In Humanity Restored" 
-https://youtu.be/KCdJALjDp-A
-Real Life Heroes saving a terrified abandoned dog! I can't even imagine what this poor thing had to go through until she met her rescuers. Special thanks to our friends at www.HopeForPaws.org
-▶︎Please Share this story with your friends and make sure to Subscribe 🔔for more heart touching videos! 👍
+   <ns2:title>從「腦機接口」到「缸中之腦」，人類離造神還有多遠？「曉涵哥來了」</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/YYouQDVc51s?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/YYouQDVc51s/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>肉體消亡、上載新生，我又將是誰？
+
+00:00 引言
+02:34 腦機接口
+05:49 手術機器人
+10:38 優生學問題
+12:08 缸中之腦
+
+上集回顧👇
+https://youtu.be/uiEKnFGgthE
+https://youtu.be/adckItFriPk
+
+👽點擊加入我的會員頻道
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA/join
+
+👽會員專屬影片已上線
+https://www.youtube.com/playlist?list=UUMOvoBl4rnVsetDKA_Tdk-jeA
 
-Music by Epidemic Sound
-www.epidemicsound.com
+👀👀  我的這些影片或許你也有興趣 👇👇
 
-That little dog didn't really trust anyone. She was living on the streets for a long time. Once she was safe &amp; couldn’t escape, the rescuers started to work on gaining her trust. 20 minutes later the frightened dog was feeling safe in the arms of her rescuer. Three weeks later in a loving family: her transformation is amazing!
+史上最奇葩國家👇
+https://youtu.be/xrk7qPj8yts
 
-⬇ Watch Next ⬇
+科馬洛夫👇
+https://youtu.be/NkuNPdxveiY
 
-[Playlist] Real Life Heroes 2019 - Faith in Humanity Restored
-https://www.youtube.com/watch?v=KCdJALjDp-A&amp;index=1&amp;list=PLZ588ZQMvJsC1Mddyjt61XlmpuwWTOw88
+人猿混血部隊👇
+https://youtu.be/tJYVzo8tS1o
+--------------------------------------------------------------------------------------------
+🔥  這些影片在頻道最受歡迎 👇👇
 
-[Playlist] Police Heroes  - Where Police Meets Humanity &amp; Heroism 
-https://www.youtube.com/watch?v=bP3OqK_4yN4&amp;list=PLZ588ZQMvJsB-LTp_nrHOoTrGCwOxlsDl&amp;index=2
+朝鮮神秘飯店👇
+https://youtu.be/cVlAxL2CXYg
 
-[Playlist] Animal Heroes - When People Rescue Animals
-https://www.youtube.com/watch?v=KhcyjE0AoZg&amp;list=PLZ588ZQMvJsD5XxuaeSPPD3GkhGsz3LDO
+大和號戰艦👇
+https://youtu.be/AdxYuP1qbMY
 
-Real Life Heroes Compilation 2019 Part 48 Restoring Faith in Humanity [ Good People ]
-https://youtu.be/KCdJALjDp-A
+秦始皇陵👇
+https://youtu.be/BGxr6AS-6-o
 
-Credits to our friends:
-www.hopeforpaws.org
-www.youtube.com/user/eldad75
+宇宙7級文明👇
+https://youtu.be/MTCrzBVNJjc
 
-(Video strictly for news/educational purposes)
+邁克爾傑克遜的另一面👇
+https://youtu.be/p7W75SHpL9E
 
-#DogRescue #DogVideos #RealLifeHeroes #CreatorsForChange #RealLifeHeroes2019 #DogHero</ns2:description>
+野獸專車👇
+https://youtu.be/ACmijk6deMA
+
+日本啃老族👇
+https://youtu.be/nCFLqt71dKs
+--------------------------------------------------------------------------------------
+「探索地球，發現宇宙。
+我是曉涵哥，歡迎和我一起，做這世界的探尋者。」
+點擊下方訂閱👇👇👇
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
+我的FB也開通了！歡迎大家關注，在這裡我會分享一些不一樣的生活碎片：https://www.facebook.com/xiaohange888
+--------------------------------------------------------------------------------------
+#曉涵哥來了 #脑机接口  #腦機接口 #科學 #馬斯克 #未來 #AI #科普 #education #knowledge</ns2:description>
    <ns2:community>
-    <ns2:starRating count="893" average="5.00" min="1" max="5" />
-    <ns2:statistics views="21402" />
+    <ns2:starRating count="4025" average="5.00" min="1" max="5" />
+    <ns2:statistics views="151083" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:nt5x-GUEdg4</ns0:id>
-  <ns1:videoId>nt5x-GUEdg4</ns1:videoId>
-  <ns1:channelId>UCMtovPdEt_pwJuJ8MwVyS0g</ns1:channelId>
-  <ns0:title>[REAL LIFE HEROES]Real Life Hero Saved 60 Lives After His Own Death</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=nt5x-GUEdg4" />
+  <ns0:id>yt:video:uiEKnFGgthE</ns0:id>
+  <ns1:videoId>uiEKnFGgthE</ns1:videoId>
+  <ns1:channelId>UCvoBl4rnVsetDKA_Tdk-jeA</ns1:channelId>
+  <ns0:title>[曉涵哥來了]抓捕馬杜羅的美軍「三角洲部隊」，史上最強特種部隊？「曉涵哥來了」</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=uiEKnFGgthE" />
   <ns0:author>
-   <ns0:name>REAL LIFE HEROES</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCMtovPdEt_pwJuJ8MwVyS0g</ns0:uri>
+   <ns0:name>曉涵哥來了</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA</ns0:uri>
   </ns0:author>
-  <ns0:published>2018-09-13T14:45:00+00:00</ns0:published>
-  <ns0:updated>2025-11-05T09:33:18+00:00</ns0:updated>
+  <ns0:published>2026-01-18T12:01:38+00:00</ns0:published>
+  <ns0:updated>2026-02-24T08:35:13+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Real Life Hero Saved 60 Lives After His Own Death</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/nt5x-GUEdg4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/nt5x-GUEdg4/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Please watch: "Real Life Heroes 2019 Part 48 Faith In Humanity Restored" 
-https://youtu.be/KCdJALjDp-A
-Story that'll restore your faith in humanity: mother hears the heartbeat of her son who happens to be a real life hero by saving lives after his own death. This boy donated his organs, in total saving close to 60 people.
-▶︎ Please Share this story with your friends and make sure to Subscribe 🔔for more faith-restoring videos!
+   <ns2:title>抓捕馬杜羅的美軍「三角洲部隊」，史上最強特種部隊？「曉涵哥來了」</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/uiEKnFGgthE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/uiEKnFGgthE/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>影片內容以公開資料與軍事研究觀點為基礎，主要目的是科普與教育，幫助觀眾理解現代特種部隊在軍事體系中的角色與運作方式。影片不鼓勵任何形式的衝突，旨在以客觀的角度介紹軍事知識。
 
-⬇ Watch Next ⬇
+上集回顧👇
+https://youtu.be/I-6X62X7G-8
+https://youtu.be/ogeEq0DGxwI
 
-[Playlist] Real Life Heroes 2019 - Faith in Humanity Restored
-https://www.youtube.com/watch?v=KCdJALjDp-A&amp;index=1&amp;list=PLZ588ZQMvJsC1Mddyjt61XlmpuwWTOw88
+👽點擊加入我的會員頻道
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA/join
 
-[Playlist] Police Heroes  - Where Police Meets Humanity &amp; Heroism 
-https://www.youtube.com/watch?v=bP3OqK_4yN4&amp;list=PLZ588ZQMvJsB-LTp_nrHOoTrGCwOxlsDl&amp;index=2
+👽會員專屬影片已上線
+https://www.youtube.com/playlist?list=UUMOvoBl4rnVsetDKA_Tdk-jeA
 
-[Playlist] Animal Heroes - When People Rescue Animals
-https://www.youtube.com/watch?v=KhcyjE0AoZg&amp;list=PLZ588ZQMvJsD5XxuaeSPPD3GkhGsz3LDO
+👀👀  我的這些影片或許你也有興趣 👇👇
 
-Real Life Heroes Compilation 2019 Part 48 Restoring Faith in Humanity [ Good People ]
-https://youtu.be/KCdJALjDp-A
+史上最奇葩國家👇
+https://youtu.be/xrk7qPj8yts
 
-(Video strictly for news/educational purposes)
+科馬洛夫👇
+https://youtu.be/NkuNPdxveiY
 
-#RealLifeHeroes2019 #RealLifeHero #CreatorsforChange</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="842" average="5.00" min="1" max="5" />
-    <ns2:statistics views="28725" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:VH6MC5HCauE</ns0:id>
-  <ns1:videoId>VH6MC5HCauE</ns1:videoId>
-  <ns1:channelId>UCMtovPdEt_pwJuJ8MwVyS0g</ns1:channelId>
-  <ns0:title>[REAL LIFE HEROES]Heroes of Kerala | The worst India flood in recent history</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=VH6MC5HCauE" />
-  <ns0:author>
-   <ns0:name>REAL LIFE HEROES</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCMtovPdEt_pwJuJ8MwVyS0g</ns0:uri>
-  </ns0:author>
-  <ns0:published>2018-09-08T17:30:00+00:00</ns0:published>
-  <ns0:updated>2026-04-13T16:00:16+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Heroes of Kerala | The worst India flood in recent history</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/VH6MC5HCauE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/VH6MC5HCauE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>In August 2019, a million people were saved by unsung real life heroes from Kerala, India during the worst flooding in 100 years! There were thousands of amazing heroes among fishermen, locals citizens, the Naval ALH and special troops. They risked their lives to save people and animals in danger.
+人猿混血部隊👇
+https://youtu.be/tJYVzo8tS1o
+--------------------------------------------------------------------------------------------
+🔥  這些影片在頻道最受歡迎 👇👇
 
-(Video strictly for news/educational purposes)
+朝鮮神秘飯店👇
+https://youtu.be/cVlAxL2CXYg
 
-Sources: https://rlhtv.com/2Qgs6X2
-Real Life Heroes of Kerala, India Restoring Faith in Humanity https://youtu.be/VH6MC5HCauE
- 
-⬇ Watch Next ⬇
+大和號戰艦👇
+https://youtu.be/AdxYuP1qbMY
 
-[Playlist] Real Life Heroes 2019 - Faith in Humanity Restored
-https://www.youtube.com/watch?v=KCdJALjDp-A&amp;index=1&amp;list=PLZ588ZQMvJsC1Mddyjt61XlmpuwWTOw88
+秦始皇陵👇
+https://youtu.be/BGxr6AS-6-o
 
-[Playlist] Police Heroes  - Where Police Meets Humanity &amp; Heroism 
-https://www.youtube.com/watch?v=bP3OqK_4yN4&amp;list=PLZ588ZQMvJsB-LTp_nrHOoTrGCwOxlsDl&amp;index=2
+宇宙7級文明👇
+https://youtu.be/MTCrzBVNJjc
 
-[Playlist] Animal Heroes - When People Rescue Animals
-https://www.youtube.com/watch?v=KhcyjE0AoZg&amp;list=PLZ588ZQMvJsD5XxuaeSPPD3GkhGsz3LDO
+邁克爾傑克遜的另一面👇
+https://youtu.be/p7W75SHpL9E
 
-Real Life Heroes Compilation 2019 Part 48 Restoring Faith in Humanity [ Good People ]
-https://youtu.be/KCdJALjDp-A
+野獸專車👇
+https://youtu.be/ACmijk6deMA
 
-#RealLifeHeroes2019 #KeralaHeroes #CreatorsforChange</ns2:description>
+日本啃老族👇
+https://youtu.be/nCFLqt71dKs
+--------------------------------------------------------------------------------------
+「探索地球，發現宇宙。
+我是曉涵哥，歡迎和我一起，做這世界的探尋者。」
+點擊下方訂閱👇👇👇
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
+我的FB也開通了！歡迎大家關注，在這裡我會分享一些不一樣的生活碎片：https://www.facebook.com/xiaohange888
+--------------------------------------------------------------------------------------
+#曉涵哥來了 #科普 #教育 #军事 #知识 #科普 #紀錄片 #美國 #education #knowledge</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2466" average="5.00" min="1" max="5" />
-    <ns2:statistics views="73080" />
+    <ns2:starRating count="9387" average="5.00" min="1" max="5" />
+    <ns2:statistics views="522294" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:HdTKefTj0-o</ns0:id>
-  <ns1:videoId>HdTKefTj0-o</ns1:videoId>
-  <ns1:channelId>UCMtovPdEt_pwJuJ8MwVyS0g</ns1:channelId>
-  <ns0:title>[REAL LIFE HEROES]Real Life Heroes 46 Faith in Humanity Restored - Good People Compilation 2018</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=HdTKefTj0-o" />
+  <ns0:id>yt:video:adckItFriPk</ns0:id>
+  <ns1:videoId>adckItFriPk</ns1:videoId>
+  <ns1:channelId>UCvoBl4rnVsetDKA_Tdk-jeA</ns1:channelId>
+  <ns0:title>[曉涵哥來了]20分鐘看完北極「因紐特人」生存方式：冷凍鮭魚當零食，捕獵海豹蓋雪屋，交換妻子「曉涵哥來了」</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=adckItFriPk" />
   <ns0:author>
-   <ns0:name>REAL LIFE HEROES</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCMtovPdEt_pwJuJ8MwVyS0g</ns0:uri>
+   <ns0:name>曉涵哥來了</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA</ns0:uri>
   </ns0:author>
-  <ns0:published>2018-05-20T12:00:03+00:00</ns0:published>
-  <ns0:updated>2025-06-12T08:50:46+00:00</ns0:updated>
+  <ns0:published>2026-01-09T12:00:04+00:00</ns0:published>
+  <ns0:updated>2026-01-20T08:23:20+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Real Life Heroes 46 Faith in Humanity Restored - Good People Compilation 2018</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/HdTKefTj0-o?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/HdTKefTj0-o/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Please watch: "Real Life Heroes 2019 Part 48 Faith In Humanity Restored" 
-https://youtu.be/KCdJALjDp-A
-▶︎ Subscribe 🔔and leave a Like 👍 to show your support ❤️
-⬇ Watch Next ⬇
+   <ns2:title>20分鐘看完北極「因紐特人」生存方式：冷凍鮭魚當零食，捕獵海豹蓋雪屋，交換妻子「曉涵哥來了」</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/adckItFriPk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/adckItFriPk/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>在北極地區生存的「因紐特人」，如何度過嚴寒？
+
+00:00 引言
+00:50 愛斯基摩人
+02:12 獲取食物
+07:53 醃海雀
+10:16 建造雪屋
+16:17 因紐特女人
+19:09 最後的因紐特人
+
+上集回顧👇
+https://youtu.be/I-6X62X7G-8
+https://youtu.be/ogeEq0DGxwI
 
-[Playlist] Real Life Heroes 2019 - Faith in Humanity Restored
-https://www.youtube.com/watch?v=KCdJALjDp-A&amp;index=1&amp;list=PLZ588ZQMvJsC1Mddyjt61XlmpuwWTOw88
+👽點擊加入我的會員頻道
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA/join
 
-[Playlist] Police Heroes  - Where Police Meets Humanity &amp; Heroism 
-https://www.youtube.com/watch?v=bP3OqK_4yN4&amp;list=PLZ588ZQMvJsB-LTp_nrHOoTrGCwOxlsDl&amp;index=2
+👽會員專屬影片已上線
+https://www.youtube.com/playlist?list=UUMOvoBl4rnVsetDKA_Tdk-jeA
 
-[Playlist] Animal Heroes - When People Rescue Animals
-https://www.youtube.com/watch?v=KhcyjE0AoZg&amp;list=PLZ588ZQMvJsD5XxuaeSPPD3GkhGsz3LDO
+👀👀  我的這些影片或許你也有興趣 👇👇
 
-Real Life Heroes Compilation 2019 Part 48 Restoring Faith in Humanity [ Good People ]
-https://youtu.be/KCdJALjDp-A
+史上最奇葩國家👇
+https://youtu.be/xrk7qPj8yts
 
-#Heroes #RealLifeHeroes #RealLifeHeroes2019
+科馬洛夫👇
+https://youtu.be/NkuNPdxveiY
 
-Licensed Music (in order of appearance)
-George Tsaliagos 
-Bandcamp: https://georgetsaliagos.bandcamp.com/
-The gate (Album trailer)
-Let me there
-The Cage
-Prologue (Main theme)
+人猿混血部隊👇
+https://youtu.be/tJYVzo8tS1o
+--------------------------------------------------------------------------------------------
+🔥  這些影片在頻道最受歡迎 👇👇
 
-Ross Bugden - Interstellar
-YouTube channel: https://www.youtube.com/channel/UCQKGLOK2FqmVgVwYferltKQ
-SoundCloud: https://soundcloud.com/rossbugden
+朝鮮神秘飯店👇
+https://youtu.be/cVlAxL2CXYg
 
-(Video strictly for news/educational purposes)
+大和號戰艦👇
+https://youtu.be/AdxYuP1qbMY
 
-REAL LIFE HEROES is YouTube's Most Popular Faith-Restoring Channel. 
-Powered by fan submissions and feedback from our subscribers we inspire and motivate millions of fans across digital platforms. We create high-quality videos filled with amazing rescues and heroic moments surrounding people, animals, society, humanity, sports and much more! 
+秦始皇陵👇
+https://youtu.be/BGxr6AS-6-o
 
-SUPPORT ▶︎ https://patreon.com/RealLifeHeroes
-SUBSCRIBE ▶︎ https://www.youtube.com/user/reallifeheroestv?sub_confirmation=1
-SUBMIT VIDEOS ▶︎ http://rlhtv.com/RLH_Submit
+宇宙7級文明👇
+https://youtu.be/MTCrzBVNJjc
 
-Faith in Humanity Restored 2019 REAL LIFE HEROES | Part 46 https://youtu.be/HdTKefTj0-o</ns2:description>
+邁克爾傑克遜的另一面👇
+https://youtu.be/p7W75SHpL9E
+
+野獸專車👇
+https://youtu.be/ACmijk6deMA
+
+日本啃老族👇
+https://youtu.be/nCFLqt71dKs
+--------------------------------------------------------------------------------------
+「探索地球，發現宇宙。
+我是曉涵哥，歡迎和我一起，做這世界的探尋者。」
+點擊下方訂閱👇👇👇
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
+我的FB也開通了！歡迎大家關注，在這裡我會分享一些不一樣的生活碎片：https://www.facebook.com/xiaohange888
+--------------------------------------------------------------------------------------
+#曉涵哥來了 #因紐特人 #文化 #社會 #知識 #科普 #紀錄片 #北極 #education #knowledge</ns2:description>
    <ns2:community>
-    <ns2:starRating count="11586" average="5.00" min="1" max="5" />
-    <ns2:statistics views="880275" />
+    <ns2:starRating count="7728" average="5.00" min="1" max="5" />
+    <ns2:statistics views="569285" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:TU328hJZiLk</ns0:id>
-  <ns1:videoId>TU328hJZiLk</ns1:videoId>
-  <ns1:channelId>UCMtovPdEt_pwJuJ8MwVyS0g</ns1:channelId>
-  <ns0:title>[REAL LIFE HEROES]Heroes of Stockholm Attack / 7 April 2017</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=TU328hJZiLk" />
+  <ns0:id>yt:video:OhVlRUDkmkk</ns0:id>
+  <ns1:videoId>OhVlRUDkmkk</ns1:videoId>
+  <ns1:channelId>UCvoBl4rnVsetDKA_Tdk-jeA</ns1:channelId>
+  <ns0:title>[曉涵哥來了]「原創科幻短片」地球曾經有一個月亮「曉涵哥來了」</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=OhVlRUDkmkk" />
   <ns0:author>
-   <ns0:name>REAL LIFE HEROES</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCMtovPdEt_pwJuJ8MwVyS0g</ns0:uri>
+   <ns0:name>曉涵哥來了</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA</ns0:uri>
   </ns0:author>
-  <ns0:published>2018-04-07T10:33:21+00:00</ns0:published>
-  <ns0:updated>2026-03-03T16:58:45+00:00</ns0:updated>
+  <ns0:published>2025-12-25T11:39:19+00:00</ns0:published>
+  <ns0:updated>2026-03-17T09:41:12+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Heroes of Stockholm Attack / 7 April 2017</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/TU328hJZiLk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/TU328hJZiLk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>A year ago, on 7 April 2017, my hometown Stockholm was attacked by a terrorist. Here are some of the stories of courage, heroism and humanity! 
-⬇ Watch Next ⬇
+   <ns2:title>「原創科幻短片」地球曾經有一個月亮「曉涵哥來了」</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/OhVlRUDkmkk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/OhVlRUDkmkk/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>AI製作原創科幻短片，祝大家聖誕快樂
+
+👇觀看上集
+https://youtu.be/ogeEq0DGxwI
+https://youtu.be/I-6X62X7G-8
+
+👽點擊加入我的會員頻道
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA/join
 
-[Playlist] Real Life Heroes 2019 - Faith in Humanity Restored
-https://www.youtube.com/watch?v=KCdJALjDp-A&amp;index=1&amp;list=PLZ588ZQMvJsC1Mddyjt61XlmpuwWTOw88
+👽會員專屬影片已上線
+https://www.youtube.com/playlist?list=UUMOvoBl4rnVsetDKA_Tdk-jeA
 
-[Playlist] Police Heroes  - Where Police Meets Humanity &amp; Heroism 
-https://www.youtube.com/watch?v=bP3OqK_4yN4&amp;list=PLZ588ZQMvJsB-LTp_nrHOoTrGCwOxlsDl&amp;index=2
+👀👀  我的這些影片或許你也有興趣 👇👇
 
-[Playlist] Animal Heroes - When People Rescue Animals
-https://www.youtube.com/watch?v=KhcyjE0AoZg&amp;list=PLZ588ZQMvJsD5XxuaeSPPD3GkhGsz3LDO
+史上最奇葩國家👇
+https://youtu.be/xrk7qPj8yts
 
-Real Life Heroes Compilation 2019 Part 48 Restoring Faith in Humanity [ Good People ]
-https://youtu.be/KCdJALjDp-A
+科馬洛夫👇
+https://youtu.be/NkuNPdxveiY
 
-The terror attack in Stockholm, Sweden left five people (and about 14 injured) and one dog dead. These real life heroes ignored danger &amp; saved lives of co-citizens: by alarming pedestrians about dangerous truck deliberately driven into crowds, helping those who are injured &amp; launching a twitter-campaign to help people find a safe place in a city that for a day became overfull of fear and chaos.
+人猿混血部隊👇
+https://youtu.be/tJYVzo8tS1o
+--------------------------------------------------------------------------------------------
+🔥  這些影片在頻道最受歡迎 👇👇
 
-This video was definitely the most difficult to make. Not because of the editing, research &amp; finding video sources or figuring out a way to tell this story (through the eyes of Sweden's biggest hero Zlatan Ibrahimović)... But because of the fact that I was forced to relive that day again and again until this video was finally done. Remembering how I felt when I found out that one of my hometowns is attacked - while I'm being so close to the place where the terror attack took place. 
+朝鮮神秘飯店👇
+https://youtu.be/cVlAxL2CXYg
 
-I've made this video in order to share the stories of brave men and women who did their best to protect the citizens; who saved injured people by being in the right place at the right time; who offered their homes to strangers in need of a safe place.
+大和號戰艦👇
+https://youtu.be/AdxYuP1qbMY
 
-You are my HEROES. Thank you!
+秦始皇陵👇
+https://youtu.be/BGxr6AS-6-o
 
--~-~~-~~~-~~-~-
-The video is strictly for news/educational purposes. No advertising or any other form of monetization. The rights owners of video/footage/music are described and credited at the end of this video. If you have a question, feel free to contact by e-mail at media@rlhtv.com
--~-~~-~~~-~~-~-</ns2:description>
+宇宙7級文明👇
+https://youtu.be/MTCrzBVNJjc
+
+邁克爾傑克遜的另一面👇
+https://youtu.be/p7W75SHpL9E
+
+野獸專車👇
+https://youtu.be/ACmijk6deMA
+
+日本啃老族👇
+https://youtu.be/nCFLqt71dKs
+--------------------------------------------------------------------------------------
+「探索地球，發現宇宙。
+我是曉涵哥，歡迎和我一起，做這世界的探尋者。」
+點擊下方訂閱👇👇👇
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
+我的FB也開通了！歡迎大家關注，在這裡我會分享一些不一樣的生活碎片：https://www.facebook.com/xiaohange888
+--------------------------------------------------------------------------------------
+#曉涵哥來了 #科幻 #電影 #ai #ai短片 #宇宙 #人工智能 #月球 #education #knowledge</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1554" average="5.00" min="1" max="5" />
-    <ns2:statistics views="41453" />
+    <ns2:starRating count="1713" average="5.00" min="1" max="5" />
+    <ns2:statistics views="51920" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:r6htTVez2uw</ns0:id>
-  <ns1:videoId>r6htTVez2uw</ns1:videoId>
-  <ns1:channelId>UCMtovPdEt_pwJuJ8MwVyS0g</ns1:channelId>
-  <ns0:title>[REAL LIFE HEROES]Where Police Meets Humanity &amp; Heroism 4 REAL LIFE HEROES</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=r6htTVez2uw" />
+  <ns0:id>yt:video:I-6X62X7G-8</ns0:id>
+  <ns1:videoId>I-6X62X7G-8</ns1:videoId>
+  <ns1:channelId>UCvoBl4rnVsetDKA_Tdk-jeA</ns1:channelId>
+  <ns0:title>[曉涵哥來了]火星移民有去無回？馬斯克最新的火星移民計劃「曉涵哥來了」</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=I-6X62X7G-8" />
   <ns0:author>
-   <ns0:name>REAL LIFE HEROES</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCMtovPdEt_pwJuJ8MwVyS0g</ns0:uri>
+   <ns0:name>曉涵哥來了</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA</ns0:uri>
   </ns0:author>
-  <ns0:published>2017-06-17T20:30:00+00:00</ns0:published>
-  <ns0:updated>2026-03-07T05:25:18+00:00</ns0:updated>
+  <ns0:published>2025-12-22T12:00:38+00:00</ns0:published>
+  <ns0:updated>2026-02-24T08:35:45+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Where Police Meets Humanity &amp; Heroism 4 REAL LIFE HEROES</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/r6htTVez2uw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/r6htTVez2uw/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Watch episode 5 of "Police Humanity, Heroism, and Respect" 
-https://youtu.be/7Pl1BHfaPoU 
-A tribute to real life heroes who happen to be cops 👍 Subscribe 🔔
+   <ns2:title>火星移民有去無回？馬斯克最新的火星移民計劃「曉涵哥來了」</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/I-6X62X7G-8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/I-6X62X7G-8/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>近在咫尺的將來，人類是否真的能跨越行星的邊界？馬斯克的火星移民計劃如果成功，我們也將成為真正意義上的「跨星際物種」
 
-This video presents the documentation of law enforcement officials not only going way out of their line to serve humanity but also doing it without the expectation of any reward. 
+00:00 引言
+01:49 火星萌芽
+10:41 殘酷火星
 
-⇩ Watch Next ⇩ 
-Previous episodes of Police Heroes
-https://www.youtube.com/watch?v=7Pl1BHfaPoU&amp;index=1&amp;list=PLZ588ZQMvJsB-LTp_nrHOoTrGCwOxlsDl
+🎄聖誕驚喜小短片
+https://youtu.be/OhVlRUDkmkk?si=d0A72c1FCX2wOEzW
 
-(Video strictly for news/educational purposes). 
+👇觀看上集
+https://youtu.be/ogeEq0DGxwI
+https://youtu.be/0bFI-ou3v_w
 
-00:51 - 1:05 Stockholm footage: https://twitter.com/HermanCaroan/status/851081809504894976
+👽點擊加入我的會員頻道
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA/join
 
-MUSIC ▶︎ http://rlhtv.com/2sBzPFI
-SUBMIT VIDEOS ▶︎ http://rlhtv.com/RLH_Submit
-SUBSCRIBE ▶︎ http://rlhtv.com/RLH_Subscribe
+👽會員專屬影片已上線
+https://www.youtube.com/playlist?list=UUMOvoBl4rnVsetDKA_Tdk-jeA
 
-⬇ Watch Next ⬇
+👀👀  我的這些影片或許你也有興趣 👇👇
 
-[Playlist] Real Life Heroes 2019 - Faith in Humanity Restored
-https://www.youtube.com/watch?v=KCdJALjDp-A&amp;index=1&amp;list=PLZ588ZQMvJsC1Mddyjt61XlmpuwWTOw88
+史上最奇葩國家👇
+https://youtu.be/xrk7qPj8yts
 
-[Playlist] Police Heroes  - Where Police Meets Humanity &amp; Heroism 
-https://www.youtube.com/watch?v=bP3OqK_4yN4&amp;list=PLZ588ZQMvJsB-LTp_nrHOoTrGCwOxlsDl&amp;index=2
+科馬洛夫👇
+https://youtu.be/NkuNPdxveiY
 
-[Playlist] Animal Heroes - When People Rescue Animals
-https://www.youtube.com/watch?v=KhcyjE0AoZg&amp;list=PLZ588ZQMvJsD5XxuaeSPPD3GkhGsz3LDO
+人猿混血部隊👇
+https://youtu.be/tJYVzo8tS1o
+--------------------------------------------------------------------------------------------
+🔥  這些影片在頻道最受歡迎 👇👇
 
-Real Life Heroes Compilation 2019 Part 48 Restoring Faith in Humanity [ Good People ]
-https://youtu.be/KCdJALjDp-A
+朝鮮神秘飯店👇
+https://youtu.be/cVlAxL2CXYg
 
+大和號戰艦👇
+https://youtu.be/AdxYuP1qbMY
 
-We continue to honor all those silent heroes who happen to be really nice police officers 👍 
-Police officers are one of the most vigilant members of a community and they serve their duty more dutifully than any other profession because the safety and order is before anything else. They do not even think before acting in order to protect what is in the interest of the state and the safety of their citizens. But lately, the concept of police officers and the fact that they have something to do with the service of humanity has become distorted. But in reality, there is no such thing because cops are just as human as any other member of the society. 
+秦始皇陵👇
+https://youtu.be/BGxr6AS-6-o
 
-REAL LIFE HEROES is YouTube's Most Popular Faith-Restoring Channel.
-Powered by fan submissions and feedback from our subscribers we inspire and motivate millions of fans across digital platforms. 
-Subscribe for more videos ▶︎ http://rlhtv.com/RLH_Subscribe
+宇宙7級文明👇
+https://youtu.be/MTCrzBVNJjc
 
-REAL LIFE HEROES 2019: Where Police Meets Humanity &amp; Heroism #4 https://youtu.be/r6htTVez2uw</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="11258" average="5.00" min="1" max="5" />
-    <ns2:statistics views="694249" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:vyoikIDPTag</ns0:id>
-  <ns1:videoId>vyoikIDPTag</ns1:videoId>
-  <ns1:channelId>UCMtovPdEt_pwJuJ8MwVyS0g</ns1:channelId>
-  <ns0:title>[REAL LIFE HEROES]REAL LIFE HEROES Live Stream</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=vyoikIDPTag" />
-  <ns0:author>
-   <ns0:name>REAL LIFE HEROES</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCMtovPdEt_pwJuJ8MwVyS0g</ns0:uri>
-  </ns0:author>
-  <ns0:published>2017-03-15T09:36:29+00:00</ns0:published>
-  <ns0:updated>2025-06-07T15:34:03+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>REAL LIFE HEROES Live Stream</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/vyoikIDPTag?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/vyoikIDPTag/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Please watch: "REAL LIFE HEROES 2019 Restoring Faith in Humanity"
--~-~~-~~~-~~-~-</ns2:description>
+邁克爾傑克遜的另一面👇
+https://youtu.be/p7W75SHpL9E
+
+野獸專車👇
+https://youtu.be/ACmijk6deMA
+
+日本啃老族👇
+https://youtu.be/nCFLqt71dKs
+--------------------------------------------------------------------------------------
+「探索地球，發現宇宙。
+我是曉涵哥，歡迎和我一起，做這世界的探尋者。」
+點擊下方訂閱👇👇👇
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
+我的FB也開通了！歡迎大家關注，在這裡我會分享一些不一樣的生活碎片：https://www.facebook.com/xiaohange888
+--------------------------------------------------------------------------------------
+#曉涵哥來了 #宇宙 #科普 #馬斯克 #火星 #火星移民計劃 #外星人
+#elonmusk #education #knowledge</ns2:description>
    <ns2:community>
-    <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="0" />
+    <ns2:starRating count="9362" average="5.00" min="1" max="5" />
+    <ns2:statistics views="519706" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:m43Olbdu-sk</ns0:id>
-  <ns1:videoId>m43Olbdu-sk</ns1:videoId>
-  <ns1:channelId>UCMtovPdEt_pwJuJ8MwVyS0g</ns1:channelId>
-  <ns0:title>[REAL LIFE HEROES]Street Hero Helping Homeless 🏍 Bikers For Humanity 3</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=m43Olbdu-sk" />
+  <ns0:id>yt:video:ogeEq0DGxwI</ns0:id>
+  <ns1:videoId>ogeEq0DGxwI</ns1:videoId>
+  <ns1:channelId>UCvoBl4rnVsetDKA_Tdk-jeA</ns1:channelId>
+  <ns0:title>[曉涵哥來了]從拳打耐克到敗走街頭，传奇运动品牌AND1為何消失了？「曉涵哥來了」</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ogeEq0DGxwI" />
   <ns0:author>
-   <ns0:name>REAL LIFE HEROES</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCMtovPdEt_pwJuJ8MwVyS0g</ns0:uri>
+   <ns0:name>曉涵哥來了</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA</ns0:uri>
   </ns0:author>
-  <ns0:published>2017-03-09T19:00:06+00:00</ns0:published>
-  <ns0:updated>2025-05-29T01:23:47+00:00</ns0:updated>
+  <ns0:published>2025-12-16T12:01:43+00:00</ns0:published>
+  <ns0:updated>2026-02-15T23:47:05+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Street Hero Helping Homeless 🏍 Bikers For Humanity 3</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/m43Olbdu-sk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/m43Olbdu-sk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Please watch: "Bikers Restoring Faith in Humanity #1" ▶︎ https://youtu.be/zn7ZGyhC9bY
--~-~~-~~~-~~-~-
-Bikers Are the Street Heroes! Check out Ride By Ben, a motorcycle enthusiast from Sydney Australia, for more awesome videos: https://www.youtube.com/channel/UCkhlSSbF2mG6_JueRq1WWLg
+   <ns2:title>從拳打耐克到敗走街頭，传奇运动品牌AND1為何消失了？「曉涵哥來了」</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/ogeEq0DGxwI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/ogeEq0DGxwI/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>它曾改變籃球的表達方式，成為街頭球手的發聲工具，但沒能改變自己被時代更替的命運。這就是AND1的故事。
+
+00:00 引言
+01:24 垃圾話
+06:12 神奇的DVD
+12:09 驚世一扣
+15:42 奧本山宮殿事件
+
+上集回顧👇
+https://youtu.be/0bFI-ou3v_w
+https://youtu.be/6C3ZAVlmIc8
 
-⬇ Watch Next ⬇
+👽點擊加入我的會員頻道
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA/join
 
-[Playlist] Real Life Heroes 2019 - Faith in Humanity Restored
-https://www.youtube.com/watch?v=KCdJALjDp-A&amp;index=1&amp;list=PLZ588ZQMvJsC1Mddyjt61XlmpuwWTOw88
+👽會員專屬影片已上線
+https://www.youtube.com/playlist?list=UUMOvoBl4rnVsetDKA_Tdk-jeA
 
-[Playlist] Police Heroes  - Where Police Meets Humanity &amp; Heroism 
-https://www.youtube.com/watch?v=bP3OqK_4yN4&amp;list=PLZ588ZQMvJsB-LTp_nrHOoTrGCwOxlsDl&amp;index=2
+👀👀  我的這些影片或許你也有興趣 👇👇
 
-[Playlist] Animal Heroes - When People Rescue Animals
-https://www.youtube.com/watch?v=KhcyjE0AoZg&amp;list=PLZ588ZQMvJsD5XxuaeSPPD3GkhGsz3LDO
+史上最奇葩國家👇
+https://youtu.be/xrk7qPj8yts
 
-Real Life Heroes Compilation 2019 Part 48 Restoring Faith in Humanity [ Good People ]
-https://youtu.be/KCdJALjDp-A
+科馬洛夫👇
+https://youtu.be/NkuNPdxveiY
 
+人猿混血部隊👇
+https://youtu.be/tJYVzo8tS1o
+--------------------------------------------------------------------------------------------
+🔥  這些影片在頻道最受歡迎 👇👇
 
-ORIGINAL VIDEO LINK: 
-https://www.youtube.com/watch?v=DdfsoGuDCoo
+朝鮮神秘飯店👇
+https://youtu.be/cVlAxL2CXYg
 
-SUBMIT VIDEOS ▶︎ http://rlhtv.com/RLH_Submit
+大和號戰艦👇
+https://youtu.be/AdxYuP1qbMY
 
-REAL LIFE HEROES is YouTube's Most Popular Faith-Restoring Channel. 
-Powered by fan submissions and feedback from our subscribers we inspire and motivate millions of fans across digital platforms. We create high quality videos filled with amazing rescues and heroic moments surrounding people, animals, society, humanity, sports and much more! 
+秦始皇陵👇
+https://youtu.be/BGxr6AS-6-o
 
-BIKER HELPING HOMELESS | Bikers For Humanity | Part 3 | REAL LIFE HEROES 2019 https://youtu.be/m43Olbdu-sk</ns2:description>
+宇宙7級文明👇
+https://youtu.be/MTCrzBVNJjc
+
+邁克爾傑克遜的另一面👇
+https://youtu.be/p7W75SHpL9E
+
+野獸專車👇
+https://youtu.be/ACmijk6deMA
+
+日本啃老族👇
+https://youtu.be/nCFLqt71dKs
+--------------------------------------------------------------------------------------
+「探索地球，發現宇宙。
+我是曉涵哥，歡迎和我一起，做這世界的探尋者。」
+點擊下方訂閱👇👇👇
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
+我的FB也開通了！歡迎大家關注，在這裡我會分享一些不一樣的生活碎片：https://www.facebook.com/xiaohange888
+--------------------------------------------------------------------------------------
+#曉涵哥來了 #運動 #籃球 #品牌 #故事 #NBA #街頭籃球 #球星 #时尚 #education #knowledge</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1185" average="5.00" min="1" max="5" />
-    <ns2:statistics views="73407" />
+    <ns2:starRating count="3086" average="5.00" min="1" max="5" />
+    <ns2:statistics views="151519" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:1fQB01P0Yd8</ns0:id>
-  <ns1:videoId>1fQB01P0Yd8</ns1:videoId>
-  <ns1:channelId>UCMtovPdEt_pwJuJ8MwVyS0g</ns1:channelId>
-  <ns0:title>[REAL LIFE HEROES]Real Life Heroes Restoring Faith in Humanity #44 Good People Compilation</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=1fQB01P0Yd8" />
+  <ns0:id>yt:video:0bFI-ou3v_w</ns0:id>
+  <ns1:videoId>0bFI-ou3v_w</ns1:videoId>
+  <ns1:channelId>UCvoBl4rnVsetDKA_Tdk-jeA</ns1:channelId>
+  <ns0:title>[曉涵哥來了]朝鮮神秘的互聯網「光明網」，裡面到底隱藏著什麼秘密？「曉涵哥來了」</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=0bFI-ou3v_w" />
   <ns0:author>
-   <ns0:name>REAL LIFE HEROES</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCMtovPdEt_pwJuJ8MwVyS0g</ns0:uri>
+   <ns0:name>曉涵哥來了</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA</ns0:uri>
   </ns0:author>
-  <ns0:published>2017-03-04T21:00:00+00:00</ns0:published>
-  <ns0:updated>2026-03-08T11:06:06+00:00</ns0:updated>
+  <ns0:published>2025-11-24T12:36:32+00:00</ns0:published>
+  <ns0:updated>2026-04-14T22:13:02+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Real Life Heroes Restoring Faith in Humanity #44 Good People Compilation</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/1fQB01P0Yd8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/1fQB01P0Yd8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Please watch: "Real Life Heroes 2019 Part 48 Faith In Humanity Restored" 
-https://youtu.be/KCdJALjDp-A
-Please Subscribe 🔔and leave a Like 👍 to show your support ❤️
-⬇ Watch Next ⬇
+   <ns2:title>朝鮮神秘的互聯網「光明網」，裡面到底隱藏著什麼秘密？「曉涵哥來了」</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/0bFI-ou3v_w?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/0bFI-ou3v_w/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>封閉隔絕，權力邊界，朝鮮的互聯網究竟為何而建？
+金正恩和NBA球星竟有絕密之交？會員影片揭秘
+https://youtu.be/xDFXBXVTDZA
+
+00:00 引言
+01:19 光明網
+08:57 紅星OS
+13:45 將軍賬號事件
+
+👇觀看上集
+https://youtu.be/6C3ZAVlmIc8
+https://youtu.be/YKmbxrH5Tpc
+
+👽點擊加入我的會員頻道
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA/join
+
+👽會員專屬影片已上線
+https://www.youtube.com/playlist?list=UUMOvoBl4rnVsetDKA_Tdk-jeA
+
+👀👀  我的這些影片或許你也有興趣 👇👇
 
-[Playlist] Real Life Heroes 2019 - Faith in Humanity Restored
-https://www.youtube.com/watch?v=KCdJALjDp-A&amp;index=1&amp;list=PLZ588ZQMvJsC1Mddyjt61XlmpuwWTOw88
+史上最奇葩國家👇
+https://youtu.be/xrk7qPj8yts
 
-[Playlist] Police Heroes  - Where Police Meets Humanity &amp; Heroism 
-https://www.youtube.com/watch?v=bP3OqK_4yN4&amp;list=PLZ588ZQMvJsB-LTp_nrHOoTrGCwOxlsDl&amp;index=2
+科馬洛夫👇
+https://youtu.be/NkuNPdxveiY
 
-[Playlist] Animal Heroes - When People Rescue Animals
-https://www.youtube.com/watch?v=KhcyjE0AoZg&amp;list=PLZ588ZQMvJsD5XxuaeSPPD3GkhGsz3LDO
+人猿混血部隊👇
+https://youtu.be/tJYVzo8tS1o
+--------------------------------------------------------------------------------------------
+🔥  這些影片在頻道最受歡迎 👇👇
 
-Real Life Heroes Compilation 2019 Part 48 Restoring Faith in Humanity [ Good People ]
-https://youtu.be/KCdJALjDp-A
+朝鮮神秘飯店👇
+https://youtu.be/cVlAxL2CXYg
 
-We honor everyday heroes and their remarkable contributions to the society. In every episode of REAL LIFE HEROES we recognize and appreciate unsung heroes from diverse fields across the world. 
+大和號戰艦👇
+https://youtu.be/AdxYuP1qbMY
 
+秦始皇陵👇
+https://youtu.be/BGxr6AS-6-o
 
-Music: George Tsaliagos - Under Attack
-https://georgetsaliagos.bandcamp.com/track/under-attack
-https://www.facebook.com/George-Tsaliagos-363632370488442
+宇宙7級文明👇
+https://youtu.be/MTCrzBVNJjc
 
-REAL LIFE HEROES is YouTube's Most Popular Faith-Restoring Channel. 
-Powered by fan submissions and feedback from our subscribers we inspire and motivate millions of fans across digital platforms. We create high quality videos filled with amazing rescues and heroic moments surrounding people, animals, society, humanity, sports and much more! 
+邁克爾傑克遜的另一面👇
+https://youtu.be/p7W75SHpL9E
 
-This video is fair use under U.S. copyright law because it is transformative in nature, uses no more of the original than necessary, has no negative effect on the market for the original work. Furthermore, this video is protected speech as outlined by the first amendment of the United States Constitution.
+野獸專車👇
+https://youtu.be/ACmijk6deMA
 
-Faith in Humanity Restored 2019 REAL LIFE HEROES | Part 44 https://youtu.be/1fQB01P0Yd8</ns2:description>
+日本啃老族👇
+https://youtu.be/nCFLqt71dKs
+--------------------------------------------------------------------------------------
+「探索地球，發現宇宙。
+我是曉涵哥，歡迎和我一起，做這世界的探尋者。」
+點擊下方訂閱👇👇👇
+https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA
+我的FB也開通了！歡迎大家關注，在這裡我會分享一些不一樣的生活碎片：https://www.facebook.com/xiaohange888
+--------------------------------------------------------------------------------------
+#曉涵哥來了 #朝鮮互聯網 #光明網 #Steam朝鮮賬號 #朝鮮網絡 #紅星OS 
+#education #knowledge</ns2:description>
    <ns2:community>
-    <ns2:starRating count="8663" average="5.00" min="1" max="5" />
-    <ns2:statistics views="943103" />
+    <ns2:starRating count="4874" average="5.00" min="1" max="5" />
+    <ns2:statistics views="344983" />
    </ns2:community>
   </ns2:group>
  </ns0:entry></feed>
