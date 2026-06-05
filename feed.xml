@@ -1,5 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-06-05T18:58:49Z</updated><ns0:entry>
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-06-05T20:50:03Z</updated><ns0:entry>
+  <ns0:id>yt:video:mIoApPA3pcE</ns0:id>
+  <ns1:videoId>mIoApPA3pcE</ns1:videoId>
+  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
+  <ns0:title>[TED]30 is not the new 20 — here’s what you should do right now #TEDTalks</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/mIoApPA3pcE" />
+  <ns0:author>
+   <ns0:name>TED</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-05T19:00:29+00:00</ns0:published>
+  <ns0:updated>2026-06-05T19:00:50+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>30 is not the new 20 — here’s what you should do right now #TEDTalks</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/mIoApPA3pcE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/mIoApPA3pcE/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Clinical psychologist Meg Jay has a bold message for twentysomethings: Contrary to popular belief, your 20s are not a throwaway decade. In this provocative talk, Jay says that just because marriage, work and kids are happening later in life, doesn’t mean you can’t start planning now. She gives 3 pieces of advice for how twentysomethings can re-claim adulthood in the defining decade of their lives.</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="49" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1828" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
   <ns0:id>yt:video:H-l5tzsyhns</ns0:id>
   <ns1:videoId>H-l5tzsyhns</ns1:videoId>
   <ns1:channelId>UCejVlAl2kUwBgSHtQeBoKhQ</ns1:channelId>
@@ -10,7 +32,7 @@
    <ns0:uri>https://www.youtube.com/channel/UCejVlAl2kUwBgSHtQeBoKhQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-06-05T18:18:31+00:00</ns0:published>
-  <ns0:updated>2026-06-05T18:41:13+00:00</ns0:updated>
+  <ns0:updated>2026-06-05T20:27:38+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>🔴 FUEGO FRIDAY 🔴 OWWC BACK TOMORROW 🔴</ns2:title>
    <ns2:content url="https://www.youtube.com/v/H-l5tzsyhns?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -36,8 +58,8 @@
 
  #gaming #OVERWATCH</ns2:description>
    <ns2:community>
-    <ns2:starRating count="29" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1276" />
+    <ns2:starRating count="31" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1657" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -79,8 +101,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="7" average="5.00" min="1" max="5" />
-    <ns2:statistics views="307" />
+    <ns2:starRating count="15" average="5.00" min="1" max="5" />
+    <ns2:statistics views="577" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -122,7 +144,7 @@ Subscribe to The Verge: https://bit.ly/3FT6n5S
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1" average="5.00" min="1" max="5" />
+    <ns2:starRating count="3" average="5.00" min="1" max="5" />
     <ns2:statistics views="0" />
    </ns2:community>
   </ns2:group>
@@ -146,8 +168,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
 
 See how teams can use Sites to prepare for executive business reviews, upcoming events, and internal investment decisions, and more and then share and refine those apps across their workspace.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="340" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4446" />
+    <ns2:starRating count="706" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8358" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -161,7 +183,7 @@ See how teams can use Sites to prepare for executive business reviews, upcoming 
    <ns0:uri>https://www.youtube.com/channel/UCy2aOVSWiF_ivcb0ilhGaXQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-06-05T17:08:53+00:00</ns0:published>
-  <ns0:updated>2026-06-05T18:38:56+00:00</ns0:updated>
+  <ns0:updated>2026-06-05T19:09:47+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>如何通过肢体语言看穿一个人，读懂3个最诚实的身体部位，解读《FBI教你读心术》</ns2:title>
    <ns2:content url="https://www.youtube.com/v/UX6q0Iocr5Y?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -212,7 +234,7 @@ See how teams can use Sites to prepare for executive business reviews, upcoming 
 请注意，本视频完全符合YouTube社区准则，没有任何违规行为。</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="2" />
+    <ns2:statistics views="3" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -233,8 +255,8 @@ See how teams can use Sites to prepare for executive business reviews, upcoming 
    <ns2:thumbnail url="https://i1.ytimg.com/vi/0yd4iB9rFHc/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="563" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4548" />
+    <ns2:starRating count="932" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8175" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -276,8 +298,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="60" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1497" />
+    <ns2:starRating count="174" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3029" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -358,8 +380,8 @@ Subscribe to The Verge: https://bit.ly/3FT6n5S
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="118" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2293" />
+    <ns2:starRating count="198" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4342" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -424,8 +446,8 @@ Welcome to MacRumors, your ultimate destination for in-depth and insightful Mac 
 
 Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:community>
-    <ns2:starRating count="381" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6185" />
+    <ns2:starRating count="592" average="5.00" min="1" max="5" />
+    <ns2:statistics views="12184" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -446,8 +468,8 @@ Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:thumbnail url="https://i1.ytimg.com/vi/0cAcJbCyAzU/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Source: https://www.instagram.com/reels/DX4kG5rtWB4/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="536" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11592" />
+    <ns2:starRating count="887" average="5.00" min="1" max="5" />
+    <ns2:statistics views="22625" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -472,8 +494,8 @@ Subscribe now and join our community of Mac enthusiasts!</ns2:description>
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2113" average="5.00" min="1" max="5" />
-    <ns2:statistics views="17591" />
+    <ns2:starRating count="2456" average="5.00" min="1" max="5" />
+    <ns2:statistics views="25503" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -515,8 +537,8 @@ TED videos may be used for non-commercial purposes under a Creative Commons Lice
 
 #TED #TEDTalks #Leadership</ns2:description>
    <ns2:community>
-    <ns2:starRating count="165" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3088" />
+    <ns2:starRating count="195" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4143" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -543,8 +565,8 @@ The 1Password team is going from idea to prototype in one shot. 💥
 
 ☑️ Check out Codex for every role: https://lnkd.in/dnxrM282</ns2:description>
    <ns2:community>
-    <ns2:starRating count="123" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3884" />
+    <ns2:starRating count="141" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5067" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -565,8 +587,8 @@ The 1Password team is going from idea to prototype in one shot. 💥
    <ns2:thumbnail url="https://i4.ytimg.com/vi/c8JIjy52Egs/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="259" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4553" />
+    <ns2:starRating count="308" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6358" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -592,8 +614,8 @@ The 1Password team is going from idea to prototype in one shot. 💥
 
 ※貼心提醒：留言請保持禮貌運動、理性討論，違反社群規範或人身攻擊可能會遭檢舉</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3" average="5.00" min="1" max="5" />
-    <ns2:statistics views="216" />
+    <ns2:starRating count="4" average="5.00" min="1" max="5" />
+    <ns2:statistics views="272" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -655,8 +677,8 @@ The 1Password team is going from idea to prototype in one shot. 💥
 
 菲律宾作为全亚洲贫富差距最极端的国家，在它的首都马尼拉，有一个十分抽象的地方。富人死了住别墅，穷人活着住坟墓。在马尼拉的北部公墓生活着几万人，号称是世界上最大的活死人墓，也是全世界有名的墓地贫民窟，当地人直接在坟头做饭，棺材当床，完全不像是阴森的墓地，今天我们就一起去探访这个魔幻的地方。</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1467" average="5.00" min="1" max="5" />
-    <ns2:statistics views="55462" />
+    <ns2:starRating count="1562" average="5.00" min="1" max="5" />
+    <ns2:statistics views="64683" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -687,8 +709,8 @@ The 1Password team is going from idea to prototype in one shot. 💥
 
 #东南亚电诈内幕 #妙瓦底KK园区 #缅甸电诈真相 #柬埔寨太子集团 #陈志 #AI诈骗 #地缘政治 #张狗剩</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1653" average="5.00" min="1" max="5" />
-    <ns2:statistics views="78057" />
+    <ns2:starRating count="1699" average="5.00" min="1" max="5" />
+    <ns2:statistics views="92479" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -724,8 +746,8 @@ https://www.facebook.com/shougonggeng
 
 #手工耿 #手工 #耿帥 #中國發明 #廢柴愛迪生 #搞笑發明 #handygeng #UselessEdison #ChineseEdison #handicraft #diy</ns2:description>
    <ns2:community>
-    <ns2:starRating count="59" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1275" />
+    <ns2:starRating count="62" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1480" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -767,8 +789,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="237" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7648" />
+    <ns2:starRating count="253" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9430" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -789,8 +811,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
    <ns2:thumbnail url="https://i4.ytimg.com/vi/3B6Xmu-avlA/hqdefault.jpg" width="480" height="360" />
    <ns2:description>托普利亚为什么成为传奇？这就是原因！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="26" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1566" />
+    <ns2:starRating count="28" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1773" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -812,8 +834,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
    <ns2:description>https://youtu.be/fji7Wo7IUVQ
 頻道裡還有更詳細的遊戲報導喔!</ns2:description>
    <ns2:community>
-    <ns2:starRating count="69" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2401" />
+    <ns2:starRating count="74" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2728" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -851,8 +873,8 @@ AI is unfazed by human questions—unless…you ask something you shouldn't 🤐
 一起在知识的海洋里狗刨吧~Let's play together in the ocean of knowledge~
 #柴知道 #ChaiKnows #AI #人工智能 #越狱攻击 #大模型</ns2:description>
    <ns2:community>
-    <ns2:starRating count="145" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4079" />
+    <ns2:starRating count="147" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4400" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -873,8 +895,8 @@ AI is unfazed by human questions—unless…you ask something you shouldn't 🤐
    <ns2:thumbnail url="https://i1.ytimg.com/vi/p1yDSfMjpJw/hqdefault.jpg" width="480" height="360" />
    <ns2:description>陶渊明的《桃花源记》流传至今，最近在网上有一种说法：桃花源并非人间仙境，而是让人细思极恐的阴间。老梁结合历史背景，解读真实的桃花源，让你真正读懂陶渊明背后的想法</ns2:description>
    <ns2:community>
-    <ns2:starRating count="846" average="5.00" min="1" max="5" />
-    <ns2:statistics views="40701" />
+    <ns2:starRating count="933" average="5.00" min="1" max="5" />
+    <ns2:statistics views="47836" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -896,7 +918,7 @@ AI is unfazed by human questions—unless…you ask something you shouldn't 🤐
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="24" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1164" />
+    <ns2:statistics views="1231" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -982,8 +1004,8 @@ AI is unfazed by human questions—unless…you ask something you shouldn't 🤐
    <ns2:thumbnail url="https://i4.ytimg.com/vi/7oF-JqEtWDU/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="1979" average="5.00" min="1" max="5" />
-    <ns2:statistics views="71583" />
+    <ns2:starRating count="2092" average="5.00" min="1" max="5" />
+    <ns2:statistics views="78913" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1004,8 +1026,8 @@ AI is unfazed by human questions—unless…you ask something you shouldn't 🤐
    <ns2:thumbnail url="https://i2.ytimg.com/vi/Myu8nqQBh4Y/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="45" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1117" />
+    <ns2:starRating count="46" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1207" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1026,8 +1048,8 @@ AI is unfazed by human questions—unless…you ask something you shouldn't 🤐
    <ns2:thumbnail url="https://i1.ytimg.com/vi/HPHEujQs0CQ/hqdefault.jpg" width="480" height="360" />
    <ns2:description>你可能很难想象，一场沙尘暴能把腾格里沙漠的沙子带到2000公里外的杭州。而在沙漠边缘，风沙也在吞没道路、农田和绿洲。这次我们走近了一个团队，他们在沙漠里花了23年种下了1800万棵树，只为了让风沙留在沙漠里，守护来之不易的绿色。如果这期视频对你有所启发，请多多支持我们，并把视频分享给更多的朋友们一起看看！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1534" average="5.00" min="1" max="5" />
-    <ns2:statistics views="37752" />
+    <ns2:starRating count="1570" average="5.00" min="1" max="5" />
+    <ns2:statistics views="40589" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1052,8 +1074,8 @@ His message to fans?
 “You have to buy a new GPU. I need money.” 
 #jensenhuang #nvidia #faker #t1 #leagueoflegends</ns2:description>
    <ns2:community>
-    <ns2:starRating count="12" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1389" />
+    <ns2:starRating count="15" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1526" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1171,8 +1193,8 @@ His message to fans?
 成為這個頻道的會員並獲得福利：
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
-    <ns2:starRating count="19" average="5.00" min="1" max="5" />
-    <ns2:statistics views="232" />
+    <ns2:starRating count="20" average="5.00" min="1" max="5" />
+    <ns2:statistics views="248" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1204,8 +1226,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="233" average="5.00" min="1" max="5" />
-    <ns2:statistics views="34714" />
+    <ns2:starRating count="243" average="5.00" min="1" max="5" />
+    <ns2:statistics views="36876" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1226,8 +1248,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:thumbnail url="https://i3.ytimg.com/vi/vzSygKOhDg8/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Source: https://www.instagram.com/reels/DYDjxRjP0W4/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="23046" average="5.00" min="1" max="5" />
-    <ns2:statistics views="509126" />
+    <ns2:starRating count="26320" average="5.00" min="1" max="5" />
+    <ns2:statistics views="595256" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1248,8 +1270,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:thumbnail url="https://i2.ytimg.com/vi/qw1wbJunNnU/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="219" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9676" />
+    <ns2:starRating count="230" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10726" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1271,7 +1293,7 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="31" average="5.00" min="1" max="5" />
-    <ns2:statistics views="962" />
+    <ns2:statistics views="993" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1351,7 +1373,7 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 #甲狀腺 #柏格醫生 #減肥 #雌激素 #膽汁 #生酮飲食 #斷食 #間歇性斷食 #柏格醫生中文 #胰島素 #肝功能 #脂肪肝 #碘  # 胰島素阻抗 #糖尿病 #掉髮</ns2:description>
    <ns2:community>
     <ns2:starRating count="105" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1611" />
+    <ns2:statistics views="1714" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1376,8 +1398,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 TESTV不接受厂家业配，专注表达真实、独立的产品使用体验。
 如果我们的内容能够帮助到你，不妨加入频道会员，帮助我们做出更优质的节目！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="543" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14646" />
+    <ns2:starRating count="553" average="5.00" min="1" max="5" />
+    <ns2:statistics views="15031" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1469,8 +1491,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 #柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #dr berg
 掉髮、年紀大掉髮、男性禿頭、女性頭髮稀疏、雄性禿、掉髮原因、掉髮自然療法、掉髮治療、掉髮預防、掉髮飲食、掉髮補充劑、柏格醫生、Dr Berg、毛囊健康、頭髮生長、頭髮健康、頭髮養生、頭髮抗炎、頭髮自然療法、睪固酮、二氫睪固酮、DHT、DHT抑制、胰島素阻抗、胰島素阻抗飲食、胰島素阻抗自然療法、微針療法、microneedling、頭皮刺激、紅光療法、近紅外光療法、NIR light、迷迭香精油、rosemary oil、天然落健、Rogaine、鋸棕櫚、saw palmetto、南瓜籽油、兒茶素、EGCG、薄荷油、鋅補充、鋅30毫克、鋅40毫克、維生素D、維生素D3、維生素D1萬單位、5α-還原酶抑制劑、頭髮生長食物、肝臟食物、洋蔥、酸菜、南瓜籽、頭髮健康飲食、頭髮養生飲食、頭髮抗炎飲食、頭髮自然療法飲食、頭髮健康計畫、頭髮養生計畫、頭髮抗炎計畫、頭髮自然療法計畫、頭髮健康食譜、頭髮養生食譜、頭髮抗炎食譜、頭髮自然療法食譜、頭髮健康指南、頭髮養生指南、頭髮抗炎指南、頭髮自然療法指南、頭髮健康搭配、頭髮養生搭配、頭髮抗炎搭配、頭髮自然療法搭配、頭髮健康生活、頭髮養生生活、頭髮抗炎生活、頭髮自然療法生活、頭髮健康飲食文化、頭髮養生飲食文化、頭髮抗炎飲食文化、頭髮自然療法飲食文化、頭髮健康教育、頭髮養生教育、頭髮抗炎教育、頭髮自然療法教育、頭髮健康生活方式、頭髮養生生活方式、頭髮抗炎生活方式、頭髮自然療法生活方式、頭皮健康、頭皮按摩、頭皮血液循環、頭皮發炎、毛囊氧氣、粒線體健康、掉髮遺傳、掉髮老化、掉髮壓力、掉髮荷爾蒙、掉髮腸道健康、掉髮益生菌、羅伊氏菌、L. reuteri、掉髮低碳水飲食、掉髮生酮飲食、掉髮間歇性斷食、掉髮抗炎食物、掉髮維生素D、掉髮鋅補充、掉髮Omega-3、掉髮蛋白質、掉髮膠原蛋白、掉髮抗氧化、掉髮中醫、掉髮針灸、掉髮草本、當歸、何首烏、掉髮食療、掉髮五行飲食、掉髮陰陽平衡、掉髮寒熱食物、掉髮溫補飲食、掉髮清熱飲食、掉髮季節飲食、掉髮地域飲食、掉髮地中海飲食、掉髮日式飲食、掉髮北歐飲食、掉髮植物基飲食、掉髮素食營養、掉髮純素飲食、掉髮運動營養、掉髮植物蛋白、掉髮動物蛋白、掉髮健康油脂、掉髮單不飽和脂肪、掉髮多元不飽和脂肪、掉髮抗氧化食物、掉髮健康零食、掉髮堅果營養、掉髮種子營養、奇亞籽、亞麻籽、葵花籽、掉髮有機飲食、掉髮永續飲食、掉髮慢食運動、掉髮食品安全、掉髮營養標籤、掉髮添加物風險、掉髮人工甜味劑、掉髮基因改造食品、掉髮農藥殘留、掉髮有機認證、掉髮公平貿易、掉髮飲食心理、掉髮食物成癮、掉髮情緒進食、掉髮行為改變、掉髮21天戒糖、掉髮7天排毒、掉髮健康挑戰、掉髮慢煮料理、掉髮生食飲食、掉髮低溫烹調、掉髮餐前準備、掉髮餐後消化、掉髮健康烹飪、掉髮健康旅遊、掉髮養生旅遊、掉髮抗炎旅遊、掉髮自然療法旅遊、掉髮療法、養髮液、生髮水、頭皮水、育髮精華、頭髮再生、頭皮護理、頭皮去角質、頭皮按摩、頭皮微循環、頭皮活血、頭皮修復、頭皮抗炎、頭皮益生菌、頭皮精油、迷迭香精油、薰衣草精油、薄荷油、頭皮去屑、頭皮油脂平衡、頭皮血液循環、頭皮按摩器、頭皮滾輪、微針滾輪、微針療法、microneedling、頭皮雷射、頭皮紅光療法、頭皮近紅外光療法、NIR light、頭皮低能量雷射、LLLT、頭皮光療法、頭皮LED燈、頭皮按摩梳、頭皮按摩刷、頭皮按摩油、頭皮護理套組、頭皮護理儀、頭皮清潔器、頭皮去油、頭皮保濕、頭皮滋養、頭皮生髮、頭皮防脫、頭皮養護、頭皮養生、頭皮抗炎、頭皮自然療法、頭皮健康飲食、頭皮養生飲食、頭皮抗炎飲食、頭皮自然療法飲食、頭皮健康計畫、頭皮養生計畫、頭皮抗炎計畫、頭皮自然療法計畫、頭皮健康食譜、頭皮養生食譜、頭皮抗炎食譜、頭皮自然療法食譜、頭皮健康指南、頭皮養生指南、頭皮抗炎指南、頭皮自然療法指南、頭皮健康搭配、頭皮養生搭配</ns2:description>
    <ns2:community>
-    <ns2:starRating count="166" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2641" />
+    <ns2:starRating count="168" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2733" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1491,8 +1513,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
    <ns2:thumbnail url="https://i3.ytimg.com/vi/NY0fwxxNPmU/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="238" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4431" />
+    <ns2:starRating count="247" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4654" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1513,8 +1535,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
    <ns2:thumbnail url="https://i1.ytimg.com/vi/L-IM_PlS86Y/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="1272" average="5.00" min="1" max="5" />
-    <ns2:statistics views="57936" />
+    <ns2:starRating count="1288" average="5.00" min="1" max="5" />
+    <ns2:statistics views="59471" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1541,8 +1563,8 @@ Tim Cook recently announced he’d be resigning as Apple’s CEO, with John Tern
 
 Tim Cook didn’t throw out Steve Jobs’ playbook and turn Apple into a completely different company. What he did instead was optimize their existing strengths. Like great design, seamless hardware and software integration, and convenient services. While utilizing new financial strategies to transform Apple into a company twenty-times the size.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1128" average="5.00" min="1" max="5" />
-    <ns2:statistics views="20858" />
+    <ns2:starRating count="1170" average="5.00" min="1" max="5" />
+    <ns2:statistics views="22224" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1563,8 +1585,8 @@ Tim Cook didn’t throw out Steve Jobs’ playbook and turn Apple into a complet
    <ns2:thumbnail url="https://i2.ytimg.com/vi/I2C9p30J-gU/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="85" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3875" />
+    <ns2:starRating count="91" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4097" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1629,7 +1651,7 @@ Tim Cook didn’t throw out Steve Jobs’ playbook and turn Apple into a complet
 请注意，本视频完全符合YouTube社区准则，没有任何违规行为。</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="7" />
+    <ns2:statistics views="10" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1672,7 +1694,7 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
     <ns2:starRating count="110" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3875" />
+    <ns2:statistics views="4108" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1761,8 +1783,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #柏格醫生 #減肥 #斷食減肥 #快速減肥 #不飢餓減肥#脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #dr berg</ns2:description>
    <ns2:community>
-    <ns2:starRating count="298" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7891" />
+    <ns2:starRating count="302" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8500" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1893,8 +1915,8 @@ https://thisisyourdailydose.com/
 14:08 Dodging water
 14:13 Serene mountain lake in Norway at sunset</ns2:description>
    <ns2:community>
-    <ns2:starRating count="26820" average="5.00" min="1" max="5" />
-    <ns2:statistics views="544913" />
+    <ns2:starRating count="27605" average="5.00" min="1" max="5" />
+    <ns2:statistics views="568438" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1917,8 +1939,8 @@ https://thisisyourdailydose.com/
 
 ➡️ https://lnkd.in/dnxrM282</ns2:description>
    <ns2:community>
-    <ns2:starRating count="53" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2900" />
+    <ns2:starRating count="54" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3106" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1943,8 +1965,8 @@ The headline: Codex is your BFF when things are everything, everywhere, all at o
 
 ➡️ https://lnkd.in/dnxrM282</ns2:description>
    <ns2:community>
-    <ns2:starRating count="140" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6957" />
+    <ns2:starRating count="142" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7172" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1986,8 +2008,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="173" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3824" />
+    <ns2:starRating count="175" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4296" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2039,8 +2061,8 @@ Subscribe to The Verge: https://bit.ly/3FT6n5S
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="292" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13507" />
+    <ns2:starRating count="297" average="5.00" min="1" max="5" />
+    <ns2:statistics views="13758" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2061,8 +2083,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
    <ns2:thumbnail url="https://i3.ytimg.com/vi/n3V3LZh_r40/hqdefault.jpg" width="480" height="360" />
    <ns2:description>yet</ns2:description>
    <ns2:community>
-    <ns2:starRating count="47945" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1072808" />
+    <ns2:starRating count="50272" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1150930" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2104,8 +2126,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="656" average="5.00" min="1" max="5" />
-    <ns2:statistics views="43252" />
+    <ns2:starRating count="677" average="5.00" min="1" max="5" />
+    <ns2:statistics views="47437" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2133,8 +2155,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
 
 Codex is for every role, tool and workflow: https://lnkd.in/dnxrM282</ns2:description>
    <ns2:community>
-    <ns2:starRating count="135" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4021" />
+    <ns2:starRating count="140" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4159" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2157,8 +2179,8 @@ Codex is for every role, tool and workflow: https://lnkd.in/dnxrM282</ns2:descri
 
 go bigmode https://bigmode.com/shop</ns2:description>
    <ns2:community>
-    <ns2:starRating count="23782" average="5.00" min="1" max="5" />
-    <ns2:statistics views="491463" />
+    <ns2:starRating count="24372" average="5.00" min="1" max="5" />
+    <ns2:statistics views="510925" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2184,8 +2206,8 @@ With a single install, Codex becomes more useful for product design work, helpin
 Learn more: https://openai.com/index/codex-for-every-role-tool-workflow/
 Try the plugin today: https://chatgpt.com/plugins/share/37f657dbc41f408d9b05b52d30b8b527</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1492" average="5.00" min="1" max="5" />
-    <ns2:statistics views="39072" />
+    <ns2:starRating count="1512" average="5.00" min="1" max="5" />
+    <ns2:statistics views="40215" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2244,8 +2266,8 @@ Support us on Patreon: https://www.patreon.com/Commonrealm
 Subscribe to Commonwealth Realm:
 http://bit.ly/Commonrealm</ns2:description>
    <ns2:community>
-    <ns2:starRating count="359" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14039" />
+    <ns2:starRating count="363" average="5.00" min="1" max="5" />
+    <ns2:statistics views="14416" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2280,8 +2302,8 @@ Chapters
 27:24 What comes next for math and AI research
 37:30 Cryptography, quantum computing, and the future</ns2:description>
    <ns2:community>
-    <ns2:starRating count="328" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9112" />
+    <ns2:starRating count="332" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9375" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2302,8 +2324,8 @@ Chapters
    <ns2:thumbnail url="https://i4.ytimg.com/vi/73VQ3luZZAA/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="2921" average="5.00" min="1" max="5" />
-    <ns2:statistics views="38849" />
+    <ns2:starRating count="2941" average="5.00" min="1" max="5" />
+    <ns2:statistics views="39391" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2327,7 +2349,7 @@ Chapters
 ➡️ https://lnkd.in/dnxrM282</ns2:description>
    <ns2:community>
     <ns2:starRating count="138" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3013" />
+    <ns2:statistics views="3087" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2352,8 +2374,8 @@ Chapters
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4665" average="5.00" min="1" max="5" />
-    <ns2:statistics views="58118" />
+    <ns2:starRating count="4674" average="5.00" min="1" max="5" />
+    <ns2:statistics views="58583" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2395,8 +2417,8 @@ TED videos may be used for non-commercial purposes under a Creative Commons Lice
 
 #TED #TEDTalks #Parenting #AI</ns2:description>
    <ns2:community>
-    <ns2:starRating count="626" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14166" />
+    <ns2:starRating count="647" average="5.00" min="1" max="5" />
+    <ns2:statistics views="14669" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2421,8 +2443,8 @@ TED videos may be used for non-commercial purposes under a Creative Commons Lice
 06:45 攔截洲際運輸機 
 10:05 結語</ns2:description>
    <ns2:community>
-    <ns2:starRating count="388" average="5.00" min="1" max="5" />
-    <ns2:statistics views="19079" />
+    <ns2:starRating count="391" average="5.00" min="1" max="5" />
+    <ns2:statistics views="19762" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2490,8 +2512,8 @@ TED videos may be used for non-commercial purposes under a Creative Commons Lice
 
 ※貼心提醒：留言請保持禮貌運動、理性討論，違反社群規範或人身攻擊可能會遭檢舉</ns2:description>
    <ns2:community>
-    <ns2:starRating count="48" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1401" />
+    <ns2:starRating count="49" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1424" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2519,8 +2541,8 @@ https://youtu.be/xcSE-xRXJms
 Real American English Conversations for 4 Hours: Listening Practice
 https://youtu.be/bZNTY2YEsrk</ns2:description>
    <ns2:community>
-    <ns2:starRating count="58" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1707" />
+    <ns2:starRating count="59" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1788" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2534,7 +2556,7 @@ https://youtu.be/bZNTY2YEsrk</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA</ns0:uri>
   </ns0:author>
   <ns0:published>2026-06-04T12:00:17+00:00</ns0:published>
-  <ns0:updated>2026-06-04T12:00:18+00:00</ns0:updated>
+  <ns0:updated>2026-06-05T19:18:10+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>讓情緒瞬間降溫的心理技巧！#朋友 #人際關係 #溝通 #認知 #成長 #松明</ns2:title>
    <ns2:content url="https://www.youtube.com/v/jUpdh5xcOtU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2648,8 +2670,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="249" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5403" />
+    <ns2:starRating count="251" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5492" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2709,8 +2731,8 @@ Copyright © 腦洞烏托邦™️ All Rights Reserved.
 ☆
 #腦洞烏托邦 # Xiaowu # 小烏 # ndwtb # 驚掉下巴 #未解之謎 #真實事件 #神秘事件 #都市傳說 #歷史懸案 #科學無法解釋 #人類未解之謎 #被隱藏的真相 #真實恐怖事件 #深度解析</ns2:description>
    <ns2:community>
-    <ns2:starRating count="692" average="5.00" min="1" max="5" />
-    <ns2:statistics views="53584" />
+    <ns2:starRating count="701" average="5.00" min="1" max="5" />
+    <ns2:statistics views="55135" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2732,7 +2754,7 @@ Copyright © 腦洞烏托邦™️ All Rights Reserved.
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="39" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1432" />
+    <ns2:statistics views="1491" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2753,8 +2775,8 @@ Copyright © 腦洞烏托邦™️ All Rights Reserved.
    <ns2:thumbnail url="https://i3.ytimg.com/vi/R6F_fbPN6Nc/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="37291" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1187057" />
+    <ns2:starRating count="39152" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1258537" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2780,8 +2802,8 @@ Copyright © 腦洞烏托邦™️ All Rights Reserved.
 本期《格鬥大視野》帶你深度拆解「嘴砲」康納·麥格雷戈！看他如何從絕望泥沼中生生劈出一把逆天改命的血刃，又是如何被自己親手打造的金錢帝國徹底吞噬靈魂！去你的命中注定！只要敢死死握緊拳頭，哪怕是不可戰勝的真神，也一樣會被踩在腳底！
 #格鬥 #mma #ufc #格斗</ns2:description>
    <ns2:community>
-    <ns2:starRating count="321" average="5.00" min="1" max="5" />
-    <ns2:statistics views="23440" />
+    <ns2:starRating count="329" average="5.00" min="1" max="5" />
+    <ns2:statistics views="24247" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2803,8 +2825,8 @@ Copyright © 腦洞烏托邦™️ All Rights Reserved.
    <ns2:description>今天我们来到了南非的开普敦，这里被称为是全球最佳城市，号称是非洲最宜居的地方！是公认的非洲城市天花板！当然这里的经济水平也非常高，当地人的月收入中位数约1500美元，合人民币就是10000块，这个水平在非洲可以说是很高了！
 那今天呢就跟着小钟的镜头，咱们一起来看一下100元人民币在南非都能买多少东西？看一下当地人的真实生活究竟怎么样？</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2441" average="5.00" min="1" max="5" />
-    <ns2:statistics views="116108" />
+    <ns2:starRating count="2451" average="5.00" min="1" max="5" />
+    <ns2:statistics views="117569" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2826,7 +2848,7 @@ Copyright © 腦洞烏托邦™️ All Rights Reserved.
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="55" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1640" />
+    <ns2:statistics views="1689" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2851,8 +2873,8 @@ Humanoid robots from Unitree just helped a Chinese dance team earn a standing ov
 
 #AGT #Unitree #HumanoidRobot #ChinaTech #Robotics</ns2:description>
    <ns2:community>
-    <ns2:starRating count="62" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6126" />
+    <ns2:starRating count="65" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6434" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2971,7 +2993,7 @@ Humanoid robots from Unitree just helped a Chinese dance team earn a standing ov
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
     <ns2:starRating count="6" average="5.00" min="1" max="5" />
-    <ns2:statistics views="546" />
+    <ns2:statistics views="544" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3003,8 +3025,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="421" average="5.00" min="1" max="5" />
-    <ns2:statistics views="77554" />
+    <ns2:starRating count="422" average="5.00" min="1" max="5" />
+    <ns2:statistics views="78207" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3025,8 +3047,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:thumbnail url="https://i1.ytimg.com/vi/l6QmuJHouOQ/hqdefault.jpg" width="480" height="360" />
    <ns2:description>老梁来到呼和浩特的昭君墓，对昭君出塞高度肯定，和亲换来的和平弥足珍贵</ns2:description>
    <ns2:community>
-    <ns2:starRating count="197" average="5.00" min="1" max="5" />
-    <ns2:statistics views="17783" />
+    <ns2:starRating count="198" average="5.00" min="1" max="5" />
+    <ns2:statistics views="18059" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3040,7 +3062,7 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns0:uri>https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg</ns0:uri>
   </ns0:author>
   <ns0:published>2026-06-04T05:54:26+00:00</ns0:published>
-  <ns0:updated>2026-06-05T18:44:01+00:00</ns0:updated>
+  <ns0:updated>2026-06-05T20:28:58+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>1989年6月4日镇压前后——北京街头影像实录｜新闻特写20260604</ns2:title>
    <ns2:content url="https://www.youtube.com/v/ZSh_eQPA7f8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -3058,8 +3080,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3142" average="5.00" min="1" max="5" />
-    <ns2:statistics views="261899" />
+    <ns2:starRating count="3164" average="5.00" min="1" max="5" />
+    <ns2:statistics views="265826" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3080,8 +3102,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:thumbnail url="https://i3.ytimg.com/vi/ZVNoL4p_HX8/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="3188" average="5.00" min="1" max="5" />
-    <ns2:statistics views="145925" />
+    <ns2:starRating count="3223" average="5.00" min="1" max="5" />
+    <ns2:statistics views="150417" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3102,8 +3124,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:thumbnail url="https://i4.ytimg.com/vi/3WkAVDXNToQ/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="323" average="5.00" min="1" max="5" />
-    <ns2:statistics views="21596" />
+    <ns2:starRating count="333" average="5.00" min="1" max="5" />
+    <ns2:statistics views="23489" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3124,8 +3146,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:thumbnail url="https://i2.ytimg.com/vi/uwi2M2h9ArM/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="112" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4755" />
+    <ns2:starRating count="113" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4786" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3152,8 +3174,8 @@ Weibo: @大狸子切切里
 Bilibili: https://space.bilibili.com/471303350
 #數碼 #外設 #遊戲 #鍵盤</ns2:description>
    <ns2:community>
-    <ns2:starRating count="36" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1643" />
+    <ns2:starRating count="37" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1707" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3247,8 +3269,8 @@ B12 在動物食品中含量最高，儘管某些微生物也可以產生 B12 �
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #健忘 #痴呆 #記憶力 #柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝</ns2:description>
    <ns2:community>
-    <ns2:starRating count="332" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5954" />
+    <ns2:starRating count="335" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6067" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3275,8 +3297,8 @@ Learn more about Privacy on iPhone at https://apple.co/43ftPCR
 
 Welcome to the official Apple YouTube channel. Here you'll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3811" average="5.00" min="1" max="5" />
-    <ns2:statistics views="74749" />
+    <ns2:starRating count="3849" average="5.00" min="1" max="5" />
+    <ns2:statistics views="76356" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3318,8 +3340,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="76" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3204" />
+    <ns2:starRating count="78" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3267" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3361,8 +3383,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="252" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7575" />
+    <ns2:starRating count="255" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7607" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3424,8 +3446,8 @@ Subscribe to The Verge: https://bit.ly/3FT6n5S
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="221" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8251" />
+    <ns2:starRating count="222" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8271" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3446,8 +3468,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
    <ns2:thumbnail url="https://i2.ytimg.com/vi/i-iQr3gj5XA/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="458" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13152" />
+    <ns2:starRating count="462" average="5.00" min="1" max="5" />
+    <ns2:statistics views="13277" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3473,8 +3495,8 @@ Take on more tasks, move effortlessly across projects, and ship faster.
 Try Codex for free today:
 https://openai.com/codex/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3372" average="5.00" min="1" max="5" />
-    <ns2:statistics views="74140" />
+    <ns2:starRating count="3392" average="5.00" min="1" max="5" />
+    <ns2:statistics views="75201" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3488,7 +3510,7 @@ https://openai.com/codex/</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A</ns0:uri>
   </ns0:author>
   <ns0:published>2026-06-03T18:31:35+00:00</ns0:published>
-  <ns0:updated>2026-06-04T11:12:50+00:00</ns0:updated>
+  <ns0:updated>2026-06-05T19:38:59+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Most Advanced Headphones of 2026? Sony 1000X THE COLLEXION!</ns2:title>
    <ns2:content url="https://www.youtube.com/v/_8Nl0la8Ruk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -3514,7 +3536,7 @@ Snapchat: https://www.snapchat.com/p/be55f780-7701-4eb1-8f88-61ebef171af6/310521
 E-mail: UrAvgConsumer@gmail.com</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="20579" />
+    <ns2:statistics views="21362" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3535,8 +3557,8 @@ E-mail: UrAvgConsumer@gmail.com</ns2:description>
    <ns2:thumbnail url="https://i2.ytimg.com/vi/AerZs5UvJnU/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="54" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2348" />
+    <ns2:starRating count="55" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2398" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3561,8 +3583,8 @@ Learn more: https://apple.co/Explore-WWDC26
 
 #WWDC26 #AppleDeveloper</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1738" average="5.00" min="1" max="5" />
-    <ns2:statistics views="27008" />
+    <ns2:starRating count="1766" average="5.00" min="1" max="5" />
+    <ns2:statistics views="27728" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3583,8 +3605,8 @@ Learn more: https://apple.co/Explore-WWDC26
    <ns2:thumbnail url="https://i1.ytimg.com/vi/DDom-9b3kR0/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="4401" average="5.00" min="1" max="5" />
-    <ns2:statistics views="54804" />
+    <ns2:starRating count="4414" average="5.00" min="1" max="5" />
+    <ns2:statistics views="55035" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3627,7 +3649,7 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
     <ns2:starRating count="232" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11409" />
+    <ns2:statistics views="11536" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3648,8 +3670,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
    <ns2:thumbnail url="https://i3.ytimg.com/vi/vxM19uhfZXA/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Source: https://www.instagram.com/reels/DYIHzrBSDj4/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="30217" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1058152" />
+    <ns2:starRating count="30530" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1068938" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3670,8 +3692,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
    <ns2:thumbnail url="https://i1.ytimg.com/vi/p1A48m10BOM/hqdefault.jpg" width="480" height="360" />
    <ns2:description>They never see it coming 👀</ns2:description>
    <ns2:community>
-    <ns2:starRating count="880" average="5.00" min="1" max="5" />
-    <ns2:statistics views="64607" />
+    <ns2:starRating count="888" average="5.00" min="1" max="5" />
+    <ns2:statistics views="65576" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3696,8 +3718,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="5589" average="5.00" min="1" max="5" />
-    <ns2:statistics views="78523" />
+    <ns2:starRating count="5592" average="5.00" min="1" max="5" />
+    <ns2:statistics views="78695" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3719,7 +3741,7 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="30" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1113" />
+    <ns2:statistics views="1138" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3780,8 +3802,8 @@ Welcome to MacRumors, your ultimate destination for in-depth and insightful Mac 
 
 Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1672" average="5.00" min="1" max="5" />
-    <ns2:statistics views="56849" />
+    <ns2:starRating count="1677" average="5.00" min="1" max="5" />
+    <ns2:statistics views="57231" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3806,30 +3828,8 @@ In this video, I share why having fewer resources is not the end of the story. F
 
 #wisdom #lifelesson #personalgrowth #richmindset #englishspeaking</ns2:description>
    <ns2:community>
-    <ns2:starRating count="170" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3870" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:17V-HvtqP1Y</ns0:id>
-  <ns1:videoId>17V-HvtqP1Y</ns1:videoId>
-  <ns1:channelId>UC4c-wTOqEID-_vH4MhNs06w</ns1:channelId>
-  <ns0:title>[巴哈姆特電玩瘋]【直播】新舊一閃差在哪?PS5《鬼武者 Way of the Sword》最新體驗版試玩!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=17V-HvtqP1Y" />
-  <ns0:author>
-   <ns0:name>巴哈姆特電玩瘋</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC4c-wTOqEID-_vH4MhNs06w</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-03T13:47:36+00:00</ns0:published>
-  <ns0:updated>2026-06-04T12:04:20+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【直播】新舊一閃差在哪?PS5《鬼武者 Way of the Sword》最新體驗版試玩!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/17V-HvtqP1Y?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/17V-HvtqP1Y/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>6/3 的直播由編輯小鈺 與特約 科多獸試玩，體驗宮本武藏追求力量與真理的開始旅程；在清水寺關卡內體驗招架、彈開、一閃、鬼之武具和吸收靈魂等劍鬥動作外，還能享受與宿敵「佐佐木巖流」的激烈對決。雖然體驗版的遊玩進度無法繼承到正式版，但若是玩家持有體驗版的保存資料，就可獲得能在正式版遊戲中使用的御守「首燈」</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="110" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7325" />
+    <ns2:starRating count="174" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3941" />
    </ns2:community>
   </ns2:group>
  </ns0:entry></feed>
