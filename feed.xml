@@ -1,5 +1,1029 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-06-08T19:20:23Z</updated><ns0:entry>
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-06-08T21:20:33Z</updated><ns0:entry>
+  <ns0:id>yt:video:skch01qhxDw</ns0:id>
+  <ns1:videoId>skch01qhxDw</ns1:videoId>
+  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
+  <ns0:title>[Apple Developer]WWDC26: Create high quality images using Image Playground | Apple</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=skch01qhxDw" />
+  <ns0:author>
+   <ns0:name>Apple Developer</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:19:03+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:19:03+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>WWDC26: Create high quality images using Image Playground | Apple</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/skch01qhxDw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/skch01qhxDw/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Enable high-quality image creation in your app using Image Playground. With a new generative model that runs on Private Cloud Compute, users can make images in virtually any style, including photorealistic, in your app. You can also specify dimensions for use in even more places, and allow people to modify images using natural language descriptions and touch. Explore how to adopt Image Playground, generate images from descriptions and photos, and manage feature availability in your app.
+
+00:00 - Introduction
+02:03 - Capabilities
+05:02 - Adopt Image Playground
+08:29 - Options
+12:15 - Availability
+
+More Apple Developer resources:
+Video sessions: https://apple.co/VideoSessions
+Documentation: https://apple.co/DeveloperDocs
+Forums: https://apple.co/DeveloperForums
+App: https://apple.co/DeveloperApp</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="0" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:toO9j5NKg0c</ns0:id>
+  <ns1:videoId>toO9j5NKg0c</ns1:videoId>
+  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
+  <ns0:title>[Apple Developer]WWDC26: Optimize custom machine learning operations with Metal tensors | Apple</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=toO9j5NKg0c" />
+  <ns0:author>
+   <ns0:name>Apple Developer</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:19:03+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:19:03+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>WWDC26: Optimize custom machine learning operations with Metal tensors | Apple</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/toO9j5NKg0c?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/toO9j5NKg0c/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Unlock powerful machine learning performance with the Metal Tensor API and Metal Performance Primitives (MPP) Tensor Ops library. Discover how to create portable operations that take advantage of Neural Accelerators in Apple M5 and A19 GPUs. Learn to build custom machine learning kernels for your Core AI applications, and find out how to work effectively with quantized data formats and GPU memory optimization.
+
+Explore related documentation, sample code, and more:
+Machine learning passes: https://developer.apple.com/documentation/Metal/machine-learning-passes
+Metal Performance Shaders: https://developer.apple.com/documentation/MetalPerformanceShaders
+Download the Metal Performance Primitives (MPP) Programming Guide: https://developer.apple.com/download/files/Metal-Performance-Primitives-Programming-Guide.pdf
+Running inline ML operations in a shader with Metal 4: https://developer.apple.com/documentation/Metal/running-inline-ml-operations-in-a-shader-with-metal-4
+Accelerate your machine learning workloads with the M5 and A19 GPUs: https://developer.apple.com/videos/play/tech-talks/111432
+Combine Metal 4 machine learning and graphics: https://developer.apple.com/videos/play/wwdc2025/262
+
+00:00 - Introduction
+00:21 - Apple's ML software stack
+02:25 - Managing quantized data
+04:23 - Multi-plane tensors
+05:17 - Quantized matrix multiplication
+09:31 - Building advanced ops
+13:35 - Integrating custom ops into Core AI
+15:25 - Next steps
+
+More Apple Developer resources:
+Video sessions: https://apple.co/VideoSessions
+Documentation: https://apple.co/DeveloperDocs
+Forums: https://apple.co/DeveloperForums
+App: https://apple.co/DeveloperApp</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="0" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:u06ZVpSl0J4</ns0:id>
+  <ns1:videoId>u06ZVpSl0J4</ns1:videoId>
+  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
+  <ns0:title>[Apple Developer]WWDC26: Bring an LLM provider to the Foundation Models framework | Apple</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=u06ZVpSl0J4" />
+  <ns0:author>
+   <ns0:name>Apple Developer</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:19:03+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:19:03+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>WWDC26: Bring an LLM provider to the Foundation Models framework | Apple</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/u06ZVpSl0J4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/u06ZVpSl0J4/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Extend the Foundation Models framework by implementing a LanguageModelExecutor for new models. Explore how to interface with the LanguageModelSession’s transcript, manage session state effectively, and optimize KV cache utilization. Find out how to support custom segment types and unlock advanced capabilities for your generative AI features.
+
+Explore related documentation, sample code, and more:
+Foundation Models: https://developer.apple.com/documentation/FoundationModels
+Core AI Models: https://github.com/apple/coreai-models
+MLX Swift LM on GitHub: https://github.com/ml-explore/mlx-swift-lm
+Build AI-powered scripts with the fm CLI and Python SDK: https://developer.apple.com/videos/play/wwdc2026/334
+Build with the new Apple Foundation Model on Private Cloud Compute: https://developer.apple.com/videos/play/wwdc2026/319
+What’s new in the Foundation Models framework: https://developer.apple.com/videos/play/wwdc2026/241
+Build agentic app experiences with the Foundation Models framework: https://developer.apple.com/videos/play/wwdc2026/242
+
+00:00 - Introduction
+03:37 - Packaging
+04:48 - Protocol
+14:50 - Authentication
+15:51 - Customization
+19:47 - Next steps
+
+More Apple Developer resources:
+Video sessions: https://apple.co/VideoSessions
+Documentation: https://apple.co/DeveloperDocs
+Forums: https://apple.co/DeveloperForums
+App: https://apple.co/DeveloperApp</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="0" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:yPMGqbAU-ZI</ns0:id>
+  <ns1:videoId>yPMGqbAU-ZI</ns1:videoId>
+  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
+  <ns0:title>[Apple Developer]WWDC26: Use foveated streaming to bring immersive content to visionOS | Apple</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=yPMGqbAU-ZI" />
+  <ns0:author>
+   <ns0:name>Apple Developer</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:19:03+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:19:03+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>WWDC26: Use foveated streaming to bring immersive content to visionOS | Apple</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/yPMGqbAU-ZI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/yPMGqbAU-ZI/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Find out how foveated streaming delivers remotely rendered scenes to Apple Vision Pro in full fidelity. Explore how this framework combines native visionOS capabilities with third-party streaming technologies completely wirelessly, demonstrated using an OpenXR scene and NVIDIA CloudXR. Learn about the FoveatedStreaming framework, integration with the NVIDIA CloudXR SDK, and how dynamically foveated streaming provides benefits while still preserving privacy.
+
+Explore related documentation, sample code, and more:
+Analyzing the performance of a foveated streaming session: https://developer.apple.com/documentation/FoveatedStreaming/analyzing-the-performance-of-a-foveated-streaming-session
+Establishing foveated streaming sessions with Apple Vision Pro: https://developer.apple.com/documentation/FoveatedStreaming/establishing-foveated-streaming-sessions-with-apple-vision-pro
+Streaming a CloudXR application to Apple Vision Pro with foveation: https://developer.apple.com/documentation/FoveatedStreaming/streaming-a-cloudxr-application-to-apple-vision-pro-with-foveation
+Creating a foveated streaming client on visionOS: https://developer.apple.com/documentation/FoveatedStreaming/creating-a-foveated-streaming-client-on-visionos
+Foveated Streaming: https://developer.apple.com/documentation/FoveatedStreaming
+StreamingSession: Streaming immersive content from a CloudXR™ application to visionOS and iOS: https://github.com/apple/StreamingSession
+Build next-generation experiences with visionOS 27: https://developer.apple.com/videos/play/wwdc2026/287
+
+00:00 - Introduction
+04:08 - How Foveated Streaming works
+04:46 - Set up the streaming endpoint
+05:18 - Create a visionOS receiver app
+08:02 - Integrate with the streaming endpoint
+11:28 - Measure performance
+11:56 - Enhance with visionOS features
+13:56 - Next steps
+
+More Apple Developer resources:
+Video sessions: https://apple.co/VideoSessions
+Documentation: https://apple.co/DeveloperDocs
+Forums: https://apple.co/DeveloperForums
+App: https://apple.co/DeveloperApp</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="0" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:ye_iMRAvQ1c</ns0:id>
+  <ns1:videoId>ye_iMRAvQ1c</ns1:videoId>
+  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
+  <ns0:title>[Apple Developer]WWDC26: Make your game great with touch | Apple</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ye_iMRAvQ1c" />
+  <ns0:author>
+   <ns0:name>Apple Developer</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:19:03+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:19:03+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>WWDC26: Make your game great with touch | Apple</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/ye_iMRAvQ1c?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/ye_iMRAvQ1c/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Dive deeper into the techniques you can use to create compelling touch experiences for your games. We’ll share expert insights from indie to AAA game development, explore best practices for intuitive touch controls, and show you how to take advantage of Apple technologies like Touch Controller framework and Metal for great performance. 
+
+00:00 - Introduction
+01:42 - Set up a touch controller
+04:52 - Design flexible layouts
+10:17 - Design fluid interactions
+21:16 - Provide rich feedback
+23:49 - Next steps
+
+More Apple Developer resources:
+Video sessions: https://apple.co/VideoSessions
+Documentation: https://apple.co/DeveloperDocs
+Forums: https://apple.co/DeveloperForums
+App: https://apple.co/DeveloperApp</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="0" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:ykwG0I8UGjg</ns0:id>
+  <ns1:videoId>ykwG0I8UGjg</ns1:videoId>
+  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
+  <ns0:title>[Apple Developer]WWDC26: Rev up your CarPlay app | Apple</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ykwG0I8UGjg" />
+  <ns0:author>
+   <ns0:name>Apple Developer</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:19:03+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:19:03+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>WWDC26: Rev up your CarPlay app | Apple</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/ykwG0I8UGjg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/ykwG0I8UGjg/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Explore new features for your CarPlay audio, navigation, voice-based conversational apps, and more. Discover how to create CarPlay video apps so people can browse and watch their favorite videos in supported vehicles when parked. Learn how to integrate thumbnails, media information, and voice controls in your CarPlay app.
+
+Explore related documentation, sample code, and more:
+CarPlay for developers: https://developer.apple.com/carplay
+Turbocharge your app for CarPlay: https://developer.apple.com/videos/play/wwdc2025/216
+
+00:00 - Introduction
+00:42 - Apps in CarPlay
+02:51 - CarPlay framework
+11:54 - Navigation apps
+15:19 - CarPlay Simulator
+
+More Apple Developer resources:
+Video sessions: https://apple.co/VideoSessions
+Documentation: https://apple.co/DeveloperDocs
+Forums: https://apple.co/DeveloperForums
+App: https://apple.co/DeveloperApp</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="0" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:zEyH34eLRlw</ns0:id>
+  <ns1:videoId>zEyH34eLRlw</ns1:videoId>
+  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
+  <ns0:title>[Apple Developer]WWDC26: Collaborate on structured 3D models in visionOS | Apple</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=zEyH34eLRlw" />
+  <ns0:author>
+   <ns0:name>Apple Developer</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:19:03+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:19:03+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>WWDC26: Collaborate on structured 3D models in visionOS | Apple</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/zEyH34eLRlw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/zEyH34eLRlw/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Learn how to bring structured 3D models to life in visionOS. We’ll cover USDZ preparation, show you how to manipulate individual entities within hierarchical assemblies, and inspect the internal components within a model with a cross-sectional plane. Create stunning exploded-view animations for design review and collaboration experiences on Apple Vision Pro.
+
+Explore related documentation, sample code, and more:
+Manipulating models with RealityKit: https://developer.apple.com/documentation/realitykit/manipulating-models-with-realitykit
+Share visionOS experiences with nearby people: https://developer.apple.com/videos/play/wwdc2025/318
+Better together: SwiftUI and RealityKit: https://developer.apple.com/videos/play/wwdc2025/274
+What’s new in RealityKit: https://developer.apple.com/videos/play/wwdc2025/287
+Discover the Spatial Preview framework: https://developer.apple.com/videos/play/wwdc2026/282
+Explore enhancements to visionOS object tracking: https://developer.apple.com/videos/play/wwdc2026/283
+Optimize your 3D assets for spatial computing: https://developer.apple.com/videos/play/wwdc2024/10186
+
+00:00 - Introduction
+02:55 - Asset preparation
+05:05 - Manipulating the hierarchy
+08:15 - Interactive clipping
+18:16 - Autoexpansion
+24:10 - Next steps
+
+More Apple Developer resources:
+Video sessions: https://apple.co/VideoSessions
+Documentation: https://apple.co/DeveloperDocs
+Forums: https://apple.co/DeveloperForums
+App: https://apple.co/DeveloperApp</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1" average="5.00" min="1" max="5" />
+    <ns2:statistics views="0" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:zRdN66ieSuc</ns0:id>
+  <ns1:videoId>zRdN66ieSuc</ns1:videoId>
+  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
+  <ns0:title>[Apple Developer]WWDC26: Support the Center Stage front camera in your iOS app | Apple</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=zRdN66ieSuc" />
+  <ns0:author>
+   <ns0:name>Apple Developer</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:19:03+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:19:03+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>WWDC26: Support the Center Stage front camera in your iOS app | Apple</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/zRdN66ieSuc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/zRdN66ieSuc/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Supercharge your iOS camera app with Center Stage using AVCapture APIs with the front camera on iPhone 17, iPhone 17 Pro and iPhone Air. Explore how APIs enable zoom and rotate options, for more flexible ways to frame selfies and videos and to automatically get everyone in a group shot. Integrate Center Stage for video calls to automatically adjust the framing, so you’re front and center for virtual meetings and FaceTime calls. And learn how to stabilize your video for real-time video conferencing.
+
+Explore related documentation, sample code, and more:
+AVFoundation: https://developer.apple.com/documentation/AVFoundation
+Capture setup: https://developer.apple.com/documentation/AVFoundation/capture-setup
+Supporting center stage front camera in your iOS app: https://developer.apple.com/documentation/avfoundation/supporting-center-stage-front-camera-in-your-ios-app
+AVCam: Building a camera app: https://developer.apple.com/documentation/AVFoundation/avcam-building-a-camera-app
+Implement high resolution photo capture: https://developer.apple.com/videos/play/wwdc2026/304
+Support external cameras in your iPadOS app : https://developer.apple.com/videos/play/wwdc2023/10106
+What’s new in camera capture: https://developer.apple.com/videos/play/wwdc2021/10047
+
+00:00 - Introduction
+01:07 - Center Stage front camera
+02:09 - Center Stage for photos
+03:09 - Capture session setup
+03:56 - Dynamic aspect ratio
+06:47 - Smart framing monitor
+09:24 - Sensor orientation compensation
+11:53 - Center Stage for video recordings
+13:16 - Center Stage for video calls
+
+More Apple Developer resources:
+Video sessions: https://apple.co/VideoSessions
+Documentation: https://apple.co/DeveloperDocs
+Forums: https://apple.co/DeveloperForums
+App: https://apple.co/DeveloperApp</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="0" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:sij24ohbRSg</ns0:id>
+  <ns1:videoId>sij24ohbRSg</ns1:videoId>
+  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
+  <ns0:title>[Apple Developer]WWDC26: LLM search using Core Spotlight | Apple</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=sij24ohbRSg" />
+  <ns0:author>
+   <ns0:name>Apple Developer</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:19:02+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:19:03+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>WWDC26: LLM search using Core Spotlight | Apple</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/sij24ohbRSg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/sij24ohbRSg/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Level up basic search into a retrieval-augmented system using SpotlightSearchTool and LanguageModelSession. Explore Core Spotlight integration, delegate-based hydration patterns, and how metadata quality impacts your search results. Learn how to use custom PipelineStages for tasks like sentiment analysis. Discover best practices for indexing and building flexible, context-rich search experiences in your app.
+
+Explore related documentation, sample code, and more:
+Spotlight search tool: https://developer.apple.com/documentation/corespotlight/spotlight-search-tool
+Making your indexed content available to Foundation Models: https://developer.apple.com/documentation/corespotlight/making-your-indexed-content-available-to-foundation-models
+
+More Apple Developer resources:
+Video sessions: https://apple.co/VideoSessions
+Documentation: https://apple.co/DeveloperDocs
+Forums: https://apple.co/DeveloperForums
+App: https://apple.co/DeveloperApp</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="0" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:vyfRyVCVsiY</ns0:id>
+  <ns1:videoId>vyfRyVCVsiY</ns1:videoId>
+  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
+  <ns0:title>[Apple Developer]WWDC26: Explore advanced App Intents features for Siri and Apple Intelligence | Apple</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=vyfRyVCVsiY" />
+  <ns0:author>
+   <ns0:name>Apple Developer</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:19:02+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:19:03+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>WWDC26: Explore advanced App Intents features for Siri and Apple Intelligence | Apple</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/vyfRyVCVsiY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/vyfRyVCVsiY/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Polish how your app works with Siri using advanced App Intents APIs. Learn techniques that let people accomplish more with just their voice, help Apple Intelligence find your content, and provide context for on-screen awareness so Siri understands what’s happening in your app. 
+
+Explore related documentation, sample code, and more:
+App Intents Testing: https://developer.apple.com/documentation/appintentstesting
+Donating your app's data and actions to the system: https://developer.apple.com/documentation/appintents/donating-your-apps-data-and-actions-to-the-system
+Donations and discovery: https://developer.apple.com/documentation/appintents/donations-and-discovery
+Making app entities available in Spotlight: https://developer.apple.com/documentation/AppIntents/making-app-entities-available-in-spotlight
+Making actions and content discoverable by Apple Intelligence: https://developer.apple.com/documentation/appintents/making-actions-and-content-discoverable-by-apple-intelligence
+Providing contextual cues to Apple Intelligence and Siri: https://developer.apple.com/documentation/appintents/providing-contextual-cues-to-apple-intelligence-and-siri
+Apple Intelligence and Siri AI: https://developer.apple.com/documentation/appintents/apple-intelligence-and-siri-ai
+Build intelligent Siri experiences with App Schemas: https://developer.apple.com/videos/play/wwdc2026/240
+Code-along: Make your app available to Siri: https://developer.apple.com/videos/play/wwdc2026/344
+
+00:00 - Introduction
+01:59 - Customize how Siri responds
+04:20 - Visual responses
+06:22 - Interaction donations
+09:46 - Confirmations and entity ownership
+11:59 - Semantic index with IndexedEntity
+13:32 - Structured search with IntentValueQuery
+15:27 - In-app search
+16:22 - Onscreen awareness
+20:51 - Leverage existing integrations
+23:30 - Next steps
+
+More Apple Developer resources:
+Video sessions: https://apple.co/VideoSessions
+Documentation: https://apple.co/DeveloperDocs
+Forums: https://apple.co/DeveloperForums
+App: https://apple.co/DeveloperApp</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="0" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:jY-_rqz_VEM</ns0:id>
+  <ns1:videoId>jY-_rqz_VEM</ns1:videoId>
+  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
+  <ns0:title>[Apple Developer]WWDC26: Meet Trust Insights | Apple</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=jY-_rqz_VEM" />
+  <ns0:author>
+   <ns0:name>Apple Developer</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:19:00+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:19:00+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>WWDC26: Meet Trust Insights | Apple</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/jY-_rqz_VEM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/jY-_rqz_VEM/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Uncover how Trust Insights can help protect people from social scams and coercion. Explore how this new framework uses privacy-preserving machine learning to detect when someone may be coached into risky actions. Find out how to integrate Trust Insights into your app, interpret its signals, and design thoughtful interventions that safeguard people while respecting their privacy.
+
+Explore related documentation, sample code, and more:
+Trust Insights: https://developer.apple.com/documentation/trustinsights
+Secure your apps with App Attest: https://developer.apple.com/videos/play/wwdc2026/201
+
+00:00 - Introduction
+02:35 - Generating insights
+06:50 - Feedback requirements
+09:25 - Privacy
+10:34 - Best practices
+12:48 - Next steps
+
+More Apple Developer resources:
+Video sessions: https://apple.co/VideoSessions
+Documentation: https://apple.co/DeveloperDocs
+Forums: https://apple.co/DeveloperForums
+App: https://apple.co/DeveloperApp</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1" average="5.00" min="1" max="5" />
+    <ns2:statistics views="0" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:mUoWMlZXQ28</ns0:id>
+  <ns1:videoId>mUoWMlZXQ28</ns1:videoId>
+  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
+  <ns0:title>[Apple Developer]WWDC26: What’s new in Shortcuts | Apple</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=mUoWMlZXQ28" />
+  <ns0:author>
+   <ns0:name>Apple Developer</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:19:00+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:19:00+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>WWDC26: What’s new in Shortcuts | Apple</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/mUoWMlZXQ28?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/mUoWMlZXQ28/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Explore techniques to build powerful shortcuts using your app’s content. New automations unlock additional ways to integrate your app with the system. Refine how your App Entity is presented to LLMs using the new “Use Model” transcript feature. Store rich information from your app inside shortcuts that is synced across devices. Learn how to combine these features to create intelligent, powerful automations that integrate seamlessly with content and features from your app.
+
+Explore related documentation, sample code, and more:
+Shortcuts: https://developer.apple.com/shortcuts/
+Notifications: https://developer.apple.com/design/Human-Interface-Guidelines/notifications
+Develop for Shortcuts and Spotlight with App Intents: https://developer.apple.com/videos/play/wwdc2025/260
+
+More Apple Developer resources:
+Video sessions: https://apple.co/VideoSessions
+Documentation: https://apple.co/DeveloperDocs
+Forums: https://apple.co/DeveloperForums
+App: https://apple.co/DeveloperApp</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="0" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:nXUsStRc7Tc</ns0:id>
+  <ns1:videoId>nXUsStRc7Tc</ns1:videoId>
+  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
+  <ns0:title>[Apple Developer]WWDC26: Build a responsive camera app that launches quickly | Apple</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=nXUsStRc7Tc" />
+  <ns0:author>
+   <ns0:name>Apple Developer</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:19:00+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:19:00+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>WWDC26: Build a responsive camera app that launches quickly | Apple</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/nXUsStRc7Tc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/nXUsStRc7Tc/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Discover how to build a camera app that launches instantly so people never miss the perfect shot. Explore how to optimize the entire camera launch sequence — from app startup to first preview frame. Ensure your app has a polished camera experience by learning about new API’s that deliver faster launches, and best practices for smooth preview rendering and maintaining sustainable performance.
+
+Explore related documentation, sample code, and more:
+Performance and metrics: https://developer.apple.com/documentation/Xcode/performance-and-metrics
+AVCam: Building a camera app: https://developer.apple.com/documentation/AVFoundation/avcam-building-a-camera-app
+Implement high resolution photo capture: https://developer.apple.com/videos/play/wwdc2026/304
+Create a more responsive camera experience: https://developer.apple.com/videos/play/wwdc2023/10105
+
+00:00 - Introduction
+02:02 - Fast Launch
+06:52 - Adopt deferred start
+15:06 - Steady preview
+18:04 - Sustained performance
+21:14 - Deterministic file writing
+
+More Apple Developer resources:
+Video sessions: https://apple.co/VideoSessions
+Documentation: https://apple.co/DeveloperDocs
+Forums: https://apple.co/DeveloperForums
+App: https://apple.co/DeveloperApp</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="0" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:nxW29TKIL0w</ns0:id>
+  <ns1:videoId>nxW29TKIL0w</ns1:videoId>
+  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
+  <ns0:title>[Apple Developer]WWDC26: Build agentic app experiences with the Foundation Models framework | Apple</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=nxW29TKIL0w" />
+  <ns0:author>
+   <ns0:name>Apple Developer</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:19:00+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:19:00+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>WWDC26: Build agentic app experiences with the Foundation Models framework | Apple</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/nxW29TKIL0w?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/nxW29TKIL0w/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Learn how to take your intelligence features further with Foundation Models framework primitives for dynamic context and agentic workflows. We’ll walk through engineering shared context, setting up privacy boundaries, and managing key value caching. Discover how to orchestrate smooth handoffs between local and server models.
+
+
+Explore related documentation, sample code, and more:
+Composing dynamic sessions with instructions and profiles: https://developer.apple.com/documentation/foundationmodels/composing-dynamic-sessions-with-instructions-and-profiles
+
+00:00 - Introduction
+02:47 - The example app and agents
+03:47 - Declaring a dynamic profile
+04:45 - Dynamic instructions
+05:36 - Configuring models per phase
+07:21 - Transcript management and history transforms
+08:50 - Custom modifiers
+09:39 - Lifecycle modifiers and session properties
+12:52 - Orchestration: baton-pass
+14:06 - Orchestration: phone-a-friend and skills
+15:18 - Tool calling mode
+17:12 - Transcript error handling
+18:27 - Performance, accuracy, and evaluations
+21:24 - Next steps
+
+More Apple Developer resources:
+Video sessions: https://apple.co/VideoSessions
+Documentation: https://apple.co/DeveloperDocs
+Forums: https://apple.co/DeveloperForums
+App: https://apple.co/DeveloperApp</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1" average="5.00" min="1" max="5" />
+    <ns2:statistics views="0" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:pMDBJxJ0SNQ</ns0:id>
+  <ns1:videoId>pMDBJxJ0SNQ</ns1:videoId>
+  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
+  <ns0:title>[Apple Developer]WWDC26: Find your accessory with Bluetooth Channel Sounding | Apple</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=pMDBJxJ0SNQ" />
+  <ns0:author>
+   <ns0:name>Apple Developer</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:19:00+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:19:00+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>WWDC26: Find your accessory with Bluetooth Channel Sounding | Apple</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/pMDBJxJ0SNQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/pMDBJxJ0SNQ/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Get started with Channel Sounding to bring distance and direction awareness to your Bluetooth accessories. Dive into the new Nearby Interaction and Core Bluetooth APIs, and walk through the accessory-side changes you’ll need. Optimize power consumption while ensuring a smooth, responsive experience.
+
+Explore related documentation, sample code, and more:
+AccessorySetupKit: https://developer.apple.com/documentation/AccessorySetupKit
+Nearby Interaction: https://developer.apple.com/documentation/NearbyInteraction
+Core Bluetooth: https://developer.apple.com/documentation/CoreBluetooth
+Measuring distance between devices using Channel Sounding: https://developer.apple.com/documentation/corebluetooth/measuring-distance-between-devices-using-channel-sounding
+Meet AccessorySetupKit: https://developer.apple.com/videos/play/wwdc2024/10203
+Explore Nearby Interaction with third-party accessories: https://developer.apple.com/videos/play/wwdc2021/10165
+
+More Apple Developer resources:
+Video sessions: https://apple.co/VideoSessions
+Documentation: https://apple.co/DeveloperDocs
+Forums: https://apple.co/DeveloperForums
+App: https://apple.co/DeveloperApp</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="0" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:qLw4eeQqFAE</ns0:id>
+  <ns1:videoId>qLw4eeQqFAE</ns1:videoId>
+  <ns1:channelId>UCUXi5mmqbvIithAs9AaxEtw</ns1:channelId>
+  <ns0:title>[柏格醫生中文 健康知識]🛑 長期喉嚨卡痰、一直清喉嚨？柏格醫生揭開「無聲型逆流」的真相！</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=qLw4eeQqFAE" />
+  <ns0:author>
+   <ns0:name>柏格醫生中文 健康知識</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCUXi5mmqbvIithAs9AaxEtw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:00:38+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:08:47+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>🛑 長期喉嚨卡痰、一直清喉嚨？柏格醫生揭開「無聲型逆流」的真相！</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/qLw4eeQqFAE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/qLw4eeQqFAE/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>🌹🌹全球 柏格醫生多語頻道共4,440萬（含俄語720萬、阿拉伯語700萬)訂閱.
+(官方購買最安心!! 小心假貨！)
+🌹Ｄr Berg 亞洲  小編諮詢 官耐：https://lin.ee/FSgW71d
+🌹Dr Berg 亞洲購物網: https://www.drberg.asia
+🌹台灣 小編諮詢 官耐LINE : https://page.line.me/keto168
+🌹台灣 柏格醫生商店: https://ketogoods.com.tw
+
+0:00 長期痰很多、黏液堆積
+0:18 鼻涕倒流、鼻竇分泌物流入喉嚨
+0:30 無聲型逆流造成喉嚨黏液
+1:34 痰多背後的隱藏原因
+3:10 迷走神經與長期黏液問題
+3:34 其他黏液過多原因
+4:27 如何判斷長期黏液的真正原因
+5:00 化痰的天然方法
+5:20 甜菜鹼鹽酸鹽 (Betaine hydrochloride)
+
+總是不停清喉嚨，吃了鼻塞藥、抗組織胺卻都沒效？真正的問題可能不是感冒或鼻涕倒流，也不是肺部感染，而是容易被忽略的「無聲型逆流」！
+
+如果您長期受喉嚨卡痰、黏液過多所苦，這支影片將為您解答如何從根本改善，徹底終結一直需要清喉嚨的困擾。👇
+
+🔍 為什麼喉嚨總是充滿黏液？
+很多長期痰多、經常清喉嚨的情況，其實是身體的「保護機制」。當胃消化酶（例如胃蛋白酶）逆流到喉嚨時，會刺激微血管、喉部與聲帶。為了抵抗這些刺激，身體會分泌大量的發炎性黏液。
+
+⚠️ 造成「無聲型逆流」的 3 大主因：
+
+胃酸不足（最常見的原因）： 胃酸不足或胃部環境太鹼時，胃上方的閥門會無法接收到緊閉的訊號，導致胃酸與消化酶往上逆流。
+
+小腸細菌過度生長： 腸道菌群失衡產生氣體，向上推擠造成逆流。
+
+胃部閥門功能不佳： 無法有效阻擋胃部物質上行。
+
+💡 改善逆流，您必須知道的關鍵：
+
+制酸劑的陷阱： 依賴反酸劑或許能暫時舒緩喉嚨刺痛，但它會進一步減弱胃酸，長期下來反而使逆流問題變得更嚴重。
+
+迷走神經與壓力的影響： 胃部閥門的開關與整個消化過程，深受「迷走神經」影響。迷走神經負責調節身體的「休息與消化」（副交感神經系統）。長期壓力會嚴重干擾這個系統，進而引發無聲型逆流。
+
+飲食與年紀： 習慣少量多餐會持續削弱胃酸的強度；此外，隨著年紀增長，胃酸分泌減少，這類問題也會更加常見。
+
+⚠️ 免責聲明 (Disclaimer)：
+本影片與貼文內容僅供健康資訊分享與教育目的，並非旨在取代專業的醫療建議、診斷或治療。每個人體質與健康狀況不同，若您有長期的健康問題、慢性疾病或身體不適，請務必親自尋求專業醫師或醫療人員的協助。
+
+#喉嚨卡痰 #清喉嚨 #無聲型逆流 #胃食道逆流 #柏格醫生 #DrBerg #胃酸不足 #迷走神經 #鼻涕倒流 #健康科普 #自然療法
+
+柏格醫生中文 健康知識：
+生酮飲食入門（中文）：https://youtu.be/VVZQIMKUWvU
+第2步,吃的內容（中文）：https://youtu.be/Nd1RNTymyvM
+斷食的方法（中文）:  https://youtu.be/VVZQIMKUWvU
+斷食的體內變化(中文) :  https://youtu.be/SlzBMJvtGHo
+柏格醫生臉書(中文): https://www.facebook.com/柏格醫生中文-健康知識-101906848408734/
+
+艾瑞克柏格(Dr Eric Berg)醫生介紹：
+他是弗吉尼亞州、加利福尼亞州和路易斯安那州的3州的脊椎科醫生，￼執照一直維持有效。他是全球最知名的健康生酮飲食和斷食專家，也是《新體型指南》和KB Publishing出版書作者。
+他曾在霍華德大學（Howard University）擔任兼職教授，教授學生營養學。 近年忙於媒體教育，他無暇親自看診病人￼。
+
+英文柏格醫生社群媒體:
+Facebook:  https://bit.ly/FB-DrBerg
+Instagram:  https://bit.ly/IG-DrBerg
+Anchor:  https://bit.ly/Anchor-DrBerg
+TikTok:  https://bit.ly/TikTok-DrBerg
+Anchor:  https://bit.ly/Anchor-DrBerg
+https://drbrg.co/DrBerg-Spotify
+英文柏格醫生網店DR. BERG'S SHOP: http://shop.drberg.com/
+ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
+
+免責聲明：￼
+柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
+#柏格醫生 #減肥 #斷食減肥 #快速減肥 #不飢餓減肥#脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #dr berg</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="17" average="5.00" min="1" max="5" />
+    <ns2:statistics views="118" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:tJK2B35b3jg</ns0:id>
+  <ns1:videoId>tJK2B35b3jg</ns1:videoId>
+  <ns1:channelId>UCdC0An4ZPNr_YiFiYoVbwaw</ns1:channelId>
+  <ns0:title>[Daily Dose Of Internet]Trying To Find Biggest Forehead 📏</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/tJK2B35b3jg" />
+  <ns0:author>
+   <ns0:name>Daily Dose Of Internet</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCdC0An4ZPNr_YiFiYoVbwaw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:00:30+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:00:30+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Trying To Find Biggest Forehead 📏</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/tJK2B35b3jg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/tJK2B35b3jg/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Source: https://www.instagram.com/reel/DYu6JcYvvts/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="742" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7957" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:oUJ4AY_tn0M</ns0:id>
+  <ns1:videoId>oUJ4AY_tn0M</ns1:videoId>
+  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
+  <ns0:title>[TED]And you thought human dating was complicated! #TEDTalks</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/oUJ4AY_tn0M" />
+  <ns0:author>
+   <ns0:name>TED</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T21:00:14+00:00</ns0:published>
+  <ns0:updated>2026-06-08T21:00:31+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>And you thought human dating was complicated! #TEDTalks</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/oUJ4AY_tn0M?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/oUJ4AY_tn0M/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Octopus, squid and cuttlefish -- collectively known as cephalopods -- have strange, massive, distributed brains. What do they do with all that neural power? Dive into the ocean with marine biologist Roger Hanlon, who shares astonishing footage of the camouflaging abilities of cephalopods, which can change their skin color and texture in a flash. Learn how their smart skin, and their ability to deploy it in sophisticated ways, could be evidence of an alternative form of intelligence -- and how it could lead to breakthroughs in AI, fabrics, cosmetics and beyond.</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="8" average="5.00" min="1" max="5" />
+    <ns2:statistics views="475" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:2TEeQjoY05c</ns0:id>
+  <ns1:videoId>2TEeQjoY05c</ns1:videoId>
+  <ns1:channelId>UCddiUEpeqJcYeBxX1IVBKvQ</ns1:channelId>
+  <ns0:title>[The Verge]Apple WWDC 2026 keynote in 25 minutes</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=2TEeQjoY05c" />
+  <ns0:author>
+   <ns0:name>The Verge</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T20:34:32+00:00</ns0:published>
+  <ns0:updated>2026-06-08T20:54:16+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Apple WWDC 2026 keynote in 25 minutes</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/2TEeQjoY05c?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/2TEeQjoY05c/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Apple just wrapped WWDC 2026 and packed a bunch of major updates into its annual Worldwide Developer Conference keynote. The major announcements include Apple’s next generation of Apple Intelligence and their introduction of Siri AI. We also got details on the new iOS 27, iPadOS 27, and macOS 27 Golden Gate, the next version of its desktop operating system, which brings a global slider to adjust the opacity of Liquid Glass UI effects. Here’s what you missed. #Apple #WWDC #Technology
+
+New merch has arrived! Get yours here: https://bit.ly/3RCikCY 
+
+0:00 - MacOS Golden Gate name drop
+0:11 - Liquid Glass updates
+1:28 - Optimizing responsiveness in iOS
+2:14 - CPU scheduler in iPhone 11
+2:55 - Network Transitions
+3:20 - Search updates
+4:01 - Photo Shared Albums updates
+4:19 - Menopause &amp; Perimenopause tracking in Health app
+4:30 - AirPods custom EQ
+4:43 - VisionPro Photos to Panorama
+4:52 - Maps Flyover updates
+5:10 - Child Accounts
+5:45 - Ask To Browse &amp; Ask To Approve
+6:18 - Communication Safety updates
+6:40 - Time Allowances &amp; Screen Time Scheduling
+7:20 - New Apple Intelligence Foundation Models
+09:04 - On-screen awareness and privacy
+09:22 - Siri AI
+09:46 - Siri AI demos on iPhone
+11:13 - Siri AI in Photos app demo
+11:46 Siri AI new voice and customization
+12:36 - Improvements to dictation
+13:03 - Siri AI to plan a dinner party
+14:27 - Siri AI on macOS to write an email
+15:46 - Siri app
+16:15 - Siri AI in visionOS
+16:57 - Visual Intelligence to macOS and visionOS
+17:46 - Write, get feedback, and proofread with Siri
+18:44 - Safari and Apple Intelligence
+19:53 - Messages and Apple Intelligence
+20:04 - New mail and calendar suggestions uses AI
+20:29 - Call Context
+20:41 - Home app using AI to analyze recordings
+21:12 - New AI for Shortcuts
+21:41 - AI photo updates (what is a photo?)
+22:39 - Clean up tool upgrades
+23:08 - Spatial reframing
+24:02 - Languages supported
+24:07 - Limitations and iCloud+
+24:28 - Availability
+
+Subscribe: http://goo.gl/G5RXGs
+Like The Verge on Facebook: https://goo.gl/2P1aGc
+Follow on Twitter: https://goo.gl/XTWX61
+Follow on Instagram: https://goo.gl/7ZeLv
+
+Watch The Vergecast on YouTube: https://bit.ly/40RFRkg
+The Vergecast Podcast: https://bit.ly/3WQDexZ
+Decoder with Nilay Patel: http://apple.co/3v29nDc 
+More about our podcasts: https://www.theverge.com/podcasts
+
+Read More: http://www.theverge.com
+Community guidelines: http://bit.ly/2D0hlAv
+Wallpapers from The Verge: https://bit.ly/2xQXYJr
+Shop our Verge merch store here: https://bit.ly/4kPCmEc
+
+Subscribe to The Verge: https://bit.ly/3FT6n5S 
+
+If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="107" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3811" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:R7YaEaIaW8A</ns0:id>
+  <ns1:videoId>R7YaEaIaW8A</ns1:videoId>
+  <ns1:channelId>UCddiUEpeqJcYeBxX1IVBKvQ</ns1:channelId>
+  <ns0:title>[The Verge]Siri AI, Screen Time, and the rest of WWDC 2026: The Vergecast Livestream</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=R7YaEaIaW8A" />
+  <ns0:author>
+   <ns0:name>The Verge</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T20:11:08+00:00</ns0:published>
+  <ns0:updated>2026-06-08T20:46:06+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Siri AI, Screen Time, and the rest of WWDC 2026: The Vergecast Livestream</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/R7YaEaIaW8A?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/R7YaEaIaW8A/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Apple's annual developer conference keynote was a strange one this year. The company breezed by its normal slew of operating system upgrades, and talked instead about helping people manage their relationships with their devices, and AI. Lots and lots of AI. On this post-keynote livestream, David Pierce, Hayden Field, and Jake Kastrenakes give their first takes on Siri AI, the Apple Intelligence features coming this fall, Apple's new Screen Time design, and everything else we liked and disliked from the keynote. Including the corner radii.
+
+New merch has arrived! Get yours here: https://bit.ly/3RCikCY 
+
+Subscribe: http://goo.gl/G5RXGs
+Like The Verge on Facebook: https://goo.gl/2P1aGc
+Follow on Twitter: https://goo.gl/XTWX61
+Follow on Instagram: https://goo.gl/7ZeLv
+
+Watch The Vergecast on YouTube: https://bit.ly/40RFRkg
+The Vergecast Podcast: https://bit.ly/3WQDexZ
+Decoder with Nilay Patel: http://apple.co/3v29nDc 
+More about our podcasts: https://www.theverge.com/podcasts
+
+Read More: http://www.theverge.com
+Community guidelines: http://bit.ly/2D0hlAv
+Wallpapers from The Verge: https://bit.ly/2xQXYJr
+Shop our Verge merch store here: https://bit.ly/4kPCmEc
+
+Subscribe to The Verge: https://bit.ly/3FT6n5S 
+
+If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="288" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8581" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:cV-Tz7x_NxU</ns0:id>
+  <ns1:videoId>cV-Tz7x_NxU</ns1:videoId>
+  <ns1:channelId>UCddiUEpeqJcYeBxX1IVBKvQ</ns1:channelId>
+  <ns0:title>[The Verge]Apple is playing catch up #Vergecast</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/cV-Tz7x_NxU" />
+  <ns0:author>
+   <ns0:name>The Verge</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T20:03:07+00:00</ns0:published>
+  <ns0:updated>2026-06-08T20:16:02+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Apple is playing catch up #Vergecast</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/cV-Tz7x_NxU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/cV-Tz7x_NxU/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Apple's WWDC opening keynote just ended and all their AI updates seem like they're just catching up to other industry leaders.
+
+Subscribe: http://goo.gl/G5RXGs
+Like The Verge on Facebook: https://goo.gl/2P1aGc
+Follow on Twitter: https://goo.gl/XTWX61
+Follow on Instagram: https://goo.gl/7ZeLv
+
+Watch The Vergecast on YouTube: https://bit.ly/40RFRkg
+The Vergecast Podcast: https://bit.ly/3WQDexZ
+Decoder with Nilay Patel: http://apple.co/3v29nDc 
+More about our podcasts: https://www.theverge.com/podcasts
+
+Read More: http://www.theverge.com
+Community guidelines: http://bit.ly/2D0hlAv
+Wallpapers from The Verge: https://bit.ly/2xQXYJr
+Shop our Verge merch store here: https://bit.ly/4kPCmEc
+
+Subscribe to The Verge: https://bit.ly/3FT6n5S 
+
+Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https://bit.ly/3I6nJtz
+
+If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="18" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1034" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:JEKBWBmXmaw</ns0:id>
+  <ns1:videoId>JEKBWBmXmaw</ns1:videoId>
+  <ns1:channelId>UCddiUEpeqJcYeBxX1IVBKvQ</ns1:channelId>
+  <ns0:title>[The Verge]Apple’s new photo editing tool #Vergecast</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/JEKBWBmXmaw" />
+  <ns0:author>
+   <ns0:name>The Verge</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T19:59:25+00:00</ns0:published>
+  <ns0:updated>2026-06-08T20:04:00+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Apple’s new photo editing tool #Vergecast</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/JEKBWBmXmaw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/JEKBWBmXmaw/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>What is a photo? Apple’s new photo editing tool lets you reframe a photo by dragging to move the “camera,” changing the angle of a photo or the framing of its subject.
+
+Subscribe: http://goo.gl/G5RXGs
+Like The Verge on Facebook: https://goo.gl/2P1aGc
+Follow on Twitter: https://goo.gl/XTWX61
+Follow on Instagram: https://goo.gl/7ZeLv
+
+Watch The Vergecast on YouTube: https://bit.ly/40RFRkg
+The Vergecast Podcast: https://bit.ly/3WQDexZ
+Decoder with Nilay Patel: http://apple.co/3v29nDc 
+More about our podcasts: https://www.theverge.com/podcasts
+
+Read More: http://www.theverge.com
+Community guidelines: http://bit.ly/2D0hlAv
+Wallpapers from The Verge: https://bit.ly/2xQXYJr
+Shop our Verge merch store here: https://bit.ly/4kPCmEc
+
+Subscribe to The Verge: https://bit.ly/3FT6n5S 
+
+Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https://bit.ly/3I6nJtz
+
+If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="59" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3056" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:TScO5F6k-HY</ns0:id>
+  <ns1:videoId>TScO5F6k-HY</ns1:videoId>
+  <ns1:channelId>UCddiUEpeqJcYeBxX1IVBKvQ</ns1:channelId>
+  <ns0:title>[The Verge]Tim Cook says "it's been an honor"</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/TScO5F6k-HY" />
+  <ns0:author>
+   <ns0:name>The Verge</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T19:44:15+00:00</ns0:published>
+  <ns0:updated>2026-06-08T19:46:25+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Tim Cook says "it's been an honor"</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/TScO5F6k-HY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/TScO5F6k-HY/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Tim Cook joined Apple in 1998 and quickly earned a reputation as a quiet, calculating supply chain wizard. Cook may not have been a Jobs-level product innovator, but he did figure out how to sell a hell of a lot of iPhones. Under Cook, Apple began targeting different market segments with model variants, experimenting with Plus, Mini, and R versions on its way to the five current models it sells today: the 17, 17E, 17 Pro, 17 Pro Max, and Air. Come this Fall, John Ternus will take over as Apple CEO which makes this Tim Cook's final WWDC.
+
+Subscribe: http://goo.gl/G5RXGs
+Like The Verge on Facebook: https://goo.gl/2P1aGc
+Follow on Twitter: https://goo.gl/XTWX61
+Follow on Instagram: https://goo.gl/7ZeLv
+
+Watch The Vergecast on YouTube: https://bit.ly/40RFRkg
+The Vergecast Podcast: https://bit.ly/3WQDexZ
+Decoder with Nilay Patel: http://apple.co/3v29nDc 
+More about our podcasts: https://www.theverge.com/podcasts
+
+Read More: http://www.theverge.com
+Community guidelines: http://bit.ly/2D0hlAv
+Wallpapers from The Verge: https://bit.ly/2xQXYJr
+Shop our Verge merch store here: https://bit.ly/4kPCmEc
+
+Subscribe to The Verge: https://bit.ly/3FT6n5S 
+
+Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https://bit.ly/3I6nJtz
+
+If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="64" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1849" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:Tea5JttfTP0</ns0:id>
+  <ns1:videoId>Tea5JttfTP0</ns1:videoId>
+  <ns1:channelId>UCejVlAl2kUwBgSHtQeBoKhQ</ns1:channelId>
+  <ns0:title>[mL7]Mexico 🇲🇽 vs Chile 🇨🇱 Overwatch World Cup 2026 Qualifier Highlights #overwatch #gaming</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/Tea5JttfTP0" />
+  <ns0:author>
+   <ns0:name>mL7</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCejVlAl2kUwBgSHtQeBoKhQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-08T19:28:09+00:00</ns0:published>
+  <ns0:updated>2026-06-08T19:29:02+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Mexico 🇲🇽 vs Chile 🇨🇱 Overwatch World Cup 2026 Qualifier Highlights #overwatch #gaming</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/Tea5JttfTP0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/Tea5JttfTP0/hqdefault.jpg" width="480" height="360" />
+   <ns2:description />
+   <ns2:community>
+    <ns2:starRating count="11" average="5.00" min="1" max="5" />
+    <ns2:statistics views="261" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
   <ns0:id>yt:video:3CckDAupAtk</ns0:id>
   <ns1:videoId>3CckDAupAtk</ns1:videoId>
   <ns1:channelId>UCfw2hvuj40AChU7n-N-PRHA</ns1:channelId>
@@ -20,8 +1044,8 @@ ______
 
 All over the country, young people have been vocal about their disdain for artificial intelligence. Recent college graduation ceremonies made this very clear. Many had speakers who urged students to embrace AI. One college even had an AI system read graduates names, but any mention of AI was met with loud groans or boos from the audience. Young adults are rejecting AI, and their reasons are not only justified, but pretty unsettling.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="89" average="5.00" min="1" max="5" />
-    <ns2:statistics views="849" />
+    <ns2:starRating count="430" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3299" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -63,8 +1087,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="14" average="5.00" min="1" max="5" />
-    <ns2:statistics views="383" />
+    <ns2:starRating count="65" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2825" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -106,8 +1130,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="5" average="5.00" min="1" max="5" />
-    <ns2:statistics views="237" />
+    <ns2:starRating count="31" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1305" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -149,8 +1173,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="35" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1201" />
+    <ns2:starRating count="120" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5592" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -173,8 +1197,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
 
 #iPhone #SiriAI #Privacy #WWDC26</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2987" average="5.00" min="1" max="5" />
-    <ns2:statistics views="19845" />
+    <ns2:starRating count="5523" average="5.00" min="1" max="5" />
+    <ns2:statistics views="42235" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -216,8 +1240,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="16" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1108" />
+    <ns2:starRating count="31" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2297" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -259,8 +1283,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="16" average="5.00" min="1" max="5" />
-    <ns2:statistics views="893" />
+    <ns2:starRating count="28" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1850" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -287,8 +1311,8 @@ Learn more at https://apple.co/4urFedQ
 
 Welcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="5803" average="5.00" min="1" max="5" />
-    <ns2:statistics views="62264" />
+    <ns2:starRating count="9081" average="5.00" min="1" max="5" />
+    <ns2:statistics views="123539" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -330,8 +1354,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="36" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1837" />
+    <ns2:starRating count="77" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3128" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -345,7 +1369,7 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
    <ns0:uri>https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw</ns0:uri>
   </ns0:author>
   <ns0:published>2026-06-08T18:23:18+00:00</ns0:published>
-  <ns0:updated>2026-06-08T19:10:59+00:00</ns0:updated>
+  <ns0:updated>2026-06-08T21:03:03+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Apple WWDC 2026 June 8: Introducing Siri AI and more</ns2:title>
    <ns2:content url="https://www.youtube.com/v/hF8swzNR1-o?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -374,38 +1398,8 @@ Subscribe to the Apple Developer channel to stay up to date on the latest Apple 
 
 Welcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="123023" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2456406" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:hx-JzOCNBbM</ns0:id>
-  <ns1:videoId>hx-JzOCNBbM</ns1:videoId>
-  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
-  <ns0:title>[Apple Developer]WWDC26: Appreciation starring Erick the Architect</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=hx-JzOCNBbM" />
-  <ns0:author>
-   <ns0:name>Apple Developer</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-08T18:19:07+00:00</ns0:published>
-  <ns0:updated>2026-06-08T18:19:21+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>WWDC26: Appreciation starring Erick the Architect</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/hx-JzOCNBbM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/hx-JzOCNBbM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>A little thank you to developers, made of apps from the App Store.
-
-“Appreciation” performed by Erick the Architect
-
-Watch the full keynote here: https://www.youtube.com/watch?v=hF8swzNR1-o
-
-Learn more about developing for Apple platforms: https://developer.apple.com
-
-#WWDC26 #AppleEvent #AppleKeynote</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="266" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2683" />
+    <ns2:starRating count="134021" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3517283" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -419,7 +1413,7 @@ Learn more about developing for Apple platforms: https://developer.apple.com
    <ns0:uri>https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-06-08T18:08:53+00:00</ns0:published>
-  <ns0:updated>2026-06-08T18:48:44+00:00</ns0:updated>
+  <ns0:updated>2026-06-08T20:09:38+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Apple's new search infrastructure</ns2:title>
    <ns2:content url="https://www.youtube.com/v/rvnX3FjkNkE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -447,8 +1441,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="24" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1704" />
+    <ns2:starRating count="38" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2364" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -474,8 +1468,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
 
 Codex is for every role, tool and workflow. Check it out ➡️ https://lnkd.in/dnxrM282</ns2:description>
    <ns2:community>
-    <ns2:starRating count="18" average="5.00" min="1" max="5" />
-    <ns2:statistics views="357" />
+    <ns2:starRating count="30" average="5.00" min="1" max="5" />
+    <ns2:statistics views="773" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -517,8 +1511,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="74" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4486" />
+    <ns2:starRating count="129" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9508" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -604,8 +1598,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="55" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1401" />
+    <ns2:starRating count="73" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2086" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -647,8 +1641,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="83" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2562" />
+    <ns2:starRating count="111" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3910" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -690,92 +1684,6 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
     <ns2:statistics views="0" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:3i_9jyelylA</ns0:id>
-  <ns1:videoId>3i_9jyelylA</ns1:videoId>
-  <ns1:channelId>UCddiUEpeqJcYeBxX1IVBKvQ</ns1:channelId>
-  <ns0:title>[The Verge]Liquid Glass visibility is now adjustable</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/3i_9jyelylA" />
-  <ns0:author>
-   <ns0:name>The Verge</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-08T17:26:48+00:00</ns0:published>
-  <ns0:updated>2026-06-08T18:28:00+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Liquid Glass visibility is now adjustable</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/3i_9jyelylA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/3i_9jyelylA/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Apple announces at WWDC 2026 that Liquid Glass visibility is now adjustable.
-
-Subscribe: http://goo.gl/G5RXGs
-Like The Verge on Facebook: https://goo.gl/2P1aGc
-Follow on Twitter: https://goo.gl/XTWX61
-Follow on Instagram: https://goo.gl/7ZeLv
-
-Watch The Vergecast on YouTube: https://bit.ly/40RFRkg
-The Vergecast Podcast: https://bit.ly/3WQDexZ
-Decoder with Nilay Patel: http://apple.co/3v29nDc 
-More about our podcasts: https://www.theverge.com/podcasts
-
-Read More: http://www.theverge.com
-Community guidelines: http://bit.ly/2D0hlAv
-Wallpapers from The Verge: https://bit.ly/2xQXYJr
-Shop our Verge merch store here: https://bit.ly/4kPCmEc
-
-Subscribe to The Verge: https://bit.ly/3FT6n5S 
-
-Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https://bit.ly/3I6nJtz
-
-If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="123" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2920" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:U8Ft9lpI-H8</ns0:id>
-  <ns1:videoId>U8Ft9lpI-H8</ns1:videoId>
-  <ns1:channelId>UCddiUEpeqJcYeBxX1IVBKvQ</ns1:channelId>
-  <ns0:title>[The Verge]Apple announces macOS 27 Golden Gate</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/U8Ft9lpI-H8" />
-  <ns0:author>
-   <ns0:name>The Verge</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-08T17:17:13+00:00</ns0:published>
-  <ns0:updated>2026-06-08T17:17:31+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Apple announces macOS 27 Golden Gate</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/U8Ft9lpI-H8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/U8Ft9lpI-H8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Apple has announced macOS 27 Golden Gate, the next version of its desktop operating system. The new OS for MacBooks and Mac desktops is the follow-up to last year’s macOS Tahoe 26. Tahoe added some handy features, like a revised Spotlight search and a Phone app, but was controversial due to its bold (and often disliked) Liquid Glass redesign.
-
-Subscribe: http://goo.gl/G5RXGs
-Like The Verge on Facebook: https://goo.gl/2P1aGc
-Follow on Twitter: https://goo.gl/XTWX61
-Follow on Instagram: https://goo.gl/7ZeLv
-
-Watch The Vergecast on YouTube: https://bit.ly/40RFRkg
-The Vergecast Podcast: https://bit.ly/3WQDexZ
-Decoder with Nilay Patel: http://apple.co/3v29nDc 
-More about our podcasts: https://www.theverge.com/podcasts
-
-Read More: http://www.theverge.com
-Community guidelines: http://bit.ly/2D0hlAv
-Wallpapers from The Verge: https://bit.ly/2xQXYJr
-Shop our Verge merch store here: https://bit.ly/4kPCmEc
-
-Subscribe to The Verge: https://bit.ly/3FT6n5S 
-
-Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https://bit.ly/3I6nJtz
-
-If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="188" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5267" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -840,7 +1748,7 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
 请注意，本视频完全符合YouTube社区准则，没有任何违规行为。</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="0" />
+    <ns2:statistics views="1" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -861,8 +1769,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
    <ns2:thumbnail url="https://i1.ytimg.com/vi/ldJYFN4yhx0/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="1033" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8579" />
+    <ns2:starRating count="1686" average="5.00" min="1" max="5" />
+    <ns2:statistics views="16470" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -906,51 +1814,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="269" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2555" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:o28ft_m4dmU</ns0:id>
-  <ns1:videoId>o28ft_m4dmU</ns1:videoId>
-  <ns1:channelId>UCddiUEpeqJcYeBxX1IVBKvQ</ns1:channelId>
-  <ns0:title>[The Verge]Protesters at Apple's WWDC</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/o28ft_m4dmU" />
-  <ns0:author>
-   <ns0:name>The Verge</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-08T16:28:10+00:00</ns0:published>
-  <ns0:updated>2026-06-08T17:10:56+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Protesters at Apple's WWDC</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/o28ft_m4dmU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/o28ft_m4dmU/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Protesters from UltraViolet Action set up outside Apple’s Worldwide Developers Conference to call for Apple to take child sexual abuse imagery more seriously. Their flyers ask for the removal of Grok, X, and other nudify technology as well as to crack down on child sexual abuse material in iCloud.
-
-Subscribe: http://goo.gl/G5RXGs
-Like The Verge on Facebook: https://goo.gl/2P1aGc
-Follow on Twitter: https://goo.gl/XTWX61
-Follow on Instagram: https://goo.gl/7ZeLv
-
-Watch The Vergecast on YouTube: https://bit.ly/40RFRkg
-The Vergecast Podcast: https://bit.ly/3WQDexZ
-Decoder with Nilay Patel: http://apple.co/3v29nDc 
-More about our podcasts: https://www.theverge.com/podcasts
-
-Read More: http://www.theverge.com
-Community guidelines: http://bit.ly/2D0hlAv
-Wallpapers from The Verge: https://bit.ly/2xQXYJr
-Shop our Verge merch store here: https://bit.ly/4kPCmEc
-
-Subscribe to The Verge: https://bit.ly/3FT6n5S 
-
-Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https://bit.ly/3I6nJtz
-
-If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="129" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4693" />
+    <ns2:starRating count="347" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4441" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -993,8 +1858,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4240" average="5.00" min="1" max="5" />
-    <ns2:statistics views="82631" />
+    <ns2:starRating count="4324" average="5.00" min="1" max="5" />
+    <ns2:statistics views="85590" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1030,8 +1895,8 @@ Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
 ► Check out our Help Center: https://goo.gl/fBzr7
 ► Check out the Creator Insider channel: https://www.youtube.com/@creatorinsider</ns2:description>
    <ns2:community>
-    <ns2:starRating count="21" average="5.00" min="1" max="5" />
-    <ns2:statistics views="137" />
+    <ns2:starRating count="32" average="5.00" min="1" max="5" />
+    <ns2:statistics views="233" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1052,8 +1917,8 @@ Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
    <ns2:thumbnail url="https://i3.ytimg.com/vi/bVJ-xC2a8bA/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Source: https://www.instagram.com/reel/DVRl3nDEkcb/?igsh=MTZtYTQxenltYmV2NA==</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4439" average="5.00" min="1" max="5" />
-    <ns2:statistics views="74615" />
+    <ns2:starRating count="6983" average="5.00" min="1" max="5" />
+    <ns2:statistics views="128079" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1095,8 +1960,8 @@ P/C Riot Games 2026
 League of Legends - Play Free Now:
 https://signup.leagueoflegends.com/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="882" average="5.00" min="1" max="5" />
-    <ns2:statistics views="23679" />
+    <ns2:starRating count="1111" average="5.00" min="1" max="5" />
+    <ns2:statistics views="36537" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1138,8 +2003,8 @@ TED videos may be used for non-commercial purposes under a Creative Commons Lice
 
 #TED #TEDTalks #Ocean</ns2:description>
    <ns2:community>
-    <ns2:starRating count="132" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2719" />
+    <ns2:starRating count="143" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3585" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1153,7 +2018,7 @@ TED videos may be used for non-commercial purposes under a Creative Commons Lice
    <ns0:uri>https://www.youtube.com/channel/UC2t5bjwHdUX4vM2g8TRDq5g</ns0:uri>
   </ns0:author>
   <ns0:published>2026-06-08T15:00:14+00:00</ns0:published>
-  <ns0:updated>2026-06-08T16:38:33+00:00</ns0:updated>
+  <ns0:updated>2026-06-08T20:57:16+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Back from the Brink | Locke Champion Cinematic - League of Legends</ns2:title>
    <ns2:content url="https://www.youtube.com/v/1UZGkOzRlws?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -1167,6 +2032,9 @@ LISTEN NOW: https://league.ffm.to/locke
 PRODUCTION CREDITS:
 
 “Back from the Brink” 
+
+Video created in partnership with WIZZ.
+
 Music by: Pressure Cooker
 Composed by: Elben Schutte
 Additional Composition: Cobus Schutte
@@ -1181,8 +2049,8 @@ P/C Riot Games 2026
 League of Legends - Play Free Now:
 https://signup.leagueoflegends.com/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="28743" average="5.00" min="1" max="5" />
-    <ns2:statistics views="284670" />
+    <ns2:starRating count="34302" average="5.00" min="1" max="5" />
+    <ns2:statistics views="432063" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1204,7 +2072,7 @@ https://signup.leagueoflegends.com/</ns2:description>
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="16" average="5.00" min="1" max="5" />
-    <ns2:statistics views="826" />
+    <ns2:statistics views="831" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1233,8 +2101,8 @@ Balyasny Asset Management L.P. has 97% of the firm using their internal AI platf
 
 The investment firm operates at the frontier, embracing 2026 as the year their workflows are enabled by the Codex harness.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="54" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1454" />
+    <ns2:starRating count="61" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1892" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1257,8 +2125,8 @@ The investment firm operates at the frontier, embracing 2026 as the year their w
 
 #zelda #nintendoswitch2 #ocarinaoftime</ns2:description>
    <ns2:community>
-    <ns2:starRating count="585" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14371" />
+    <ns2:starRating count="648" average="5.00" min="1" max="5" />
+    <ns2:statistics views="17895" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1279,8 +2147,8 @@ The investment firm operates at the frontier, embracing 2026 as the year their w
    <ns2:thumbnail url="https://i2.ytimg.com/vi/-hIWf3Jqbyw/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="14906" average="5.00" min="1" max="5" />
-    <ns2:statistics views="302970" />
+    <ns2:starRating count="18188" average="5.00" min="1" max="5" />
+    <ns2:statistics views="470431" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1307,7 +2175,7 @@ The investment firm operates at the frontier, embracing 2026 as the year their w
 ※貼心提醒：留言請保持禮貌運動、理性討論，違反社群規範或人身攻擊可能會遭檢舉</ns2:description>
    <ns2:community>
     <ns2:starRating count="25" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1547" />
+    <ns2:statistics views="1566" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1328,8 +2196,8 @@ The investment firm operates at the frontier, embracing 2026 as the year their w
    <ns2:thumbnail url="https://i3.ytimg.com/vi/VrPr4YYQ-D0/hqdefault.jpg" width="480" height="360" />
    <ns2:description>最近私信关于Switch 2的问题越来越多，我整理了下常见问题结合自己用下来的经验，干脆做一期汇总，希望能帮到正准备或刚入坑Switch 2的朋友们少走一些弯路，也请大家多交流你的使用心得、踩/避坑经验或任何想补充的内容哦~</ns2:description>
    <ns2:community>
-    <ns2:starRating count="61" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2240" />
+    <ns2:starRating count="65" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2591" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1350,8 +2218,8 @@ The investment firm operates at the frontier, embracing 2026 as the year their w
    <ns2:thumbnail url="https://i1.ytimg.com/vi/47vRaPViE-0/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="25" average="5.00" min="1" max="5" />
-    <ns2:statistics views="683" />
+    <ns2:starRating count="27" average="5.00" min="1" max="5" />
+    <ns2:statistics views="829" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1376,8 +2244,8 @@ The investment firm operates at the frontier, embracing 2026 as the year their w
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3854" average="5.00" min="1" max="5" />
-    <ns2:statistics views="40109" />
+    <ns2:starRating count="4167" average="5.00" min="1" max="5" />
+    <ns2:statistics views="46157" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1398,8 +2266,8 @@ The investment firm operates at the frontier, embracing 2026 as the year their w
    <ns2:thumbnail url="https://i1.ytimg.com/vi/4HV2mVv6HJU/hqdefault.jpg" width="480" height="360" />
    <ns2:description>成为此频道的会员即可获享以下福利：https://www.youtube.com/channel/UCr_F4Y9iboUKlg_ZPm4jkVQ/join</ns2:description>
    <ns2:community>
-    <ns2:starRating count="123" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8562" />
+    <ns2:starRating count="132" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10027" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1431,8 +2299,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="813" average="5.00" min="1" max="5" />
-    <ns2:statistics views="81577" />
+    <ns2:starRating count="882" average="5.00" min="1" max="5" />
+    <ns2:statistics views="93894" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1464,8 +2332,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1605" average="5.00" min="1" max="5" />
-    <ns2:statistics views="133209" />
+    <ns2:starRating count="1694" average="5.00" min="1" max="5" />
+    <ns2:statistics views="150145" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1492,8 +2360,8 @@ Weibo: @大狸子切切里
 Bilibili: https://space.bilibili.com/471303350
 #微信 #通訊軟體 #數碼 #電腦技巧</ns2:description>
    <ns2:community>
-    <ns2:starRating count="25" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1683" />
+    <ns2:starRating count="26" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1957" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1621,8 +2489,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="225" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3936" />
+    <ns2:starRating count="239" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4421" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1651,8 +2519,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 
 #格鬥 #格鬥大視野 #mma #ufc #格斗 #iliatopuria</ns2:description>
    <ns2:community>
-    <ns2:starRating count="119" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5938" />
+    <ns2:starRating count="123" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6306" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1673,8 +2541,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
    <ns2:thumbnail url="https://i1.ytimg.com/vi/8zgjdOM1HBk/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="30" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1182" />
+    <ns2:starRating count="29" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1240" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1699,7 +2567,7 @@ The creator, Dahu L5, later said the road itself was not that difficult. The rea
 #tesla #fsd #elonmusk #autonomousdriving #china</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="56" />
+    <ns2:statistics views="78" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1720,8 +2588,8 @@ The creator, Dahu L5, later said the road itself was not that difficult. The rea
    <ns2:thumbnail url="https://i1.ytimg.com/vi/Tjyh6bouAQI/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="69" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3455" />
+    <ns2:starRating count="70" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3673" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1767,8 +2635,8 @@ Local weather authorities said the extreme forecast was caused by an error in th
    <ns2:thumbnail url="https://i1.ytimg.com/vi/dNzqGRzJvsU/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="1239" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14311" />
+    <ns2:starRating count="1336" average="5.00" min="1" max="5" />
+    <ns2:statistics views="16528" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1789,8 +2657,8 @@ Local weather authorities said the extreme forecast was caused by an error in th
    <ns2:thumbnail url="https://i2.ytimg.com/vi/QQWIp7vPFNM/hqdefault.jpg" width="480" height="360" />
    <ns2:description>【《極限競速：地平線 6》泡麵碗造型 Xbox 無線控制器底座】做得太逼真啦！！日式泡麵碗造型設計，收藏感滿點！還可以穩固展示 Xbox Series X|S 無線控制器（產品內不含無線控制器），音效聽得都餓了，還有那個香氛濕紙巾誰捨得用～？</ns2:description>
    <ns2:community>
-    <ns2:starRating count="32" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1292" />
+    <ns2:starRating count="31" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1370" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1811,8 +2679,8 @@ Local weather authorities said the extreme forecast was caused by an error in th
    <ns2:thumbnail url="https://i2.ytimg.com/vi/1NtS2KdnDok/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Showcasing how OpenAI’s own finance organization is using AI tools like ChatGPT, ChatGPT for Excel, Codex, and custom agents to re-design finance operations.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="72" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2574" />
+    <ns2:starRating count="75" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2788" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1833,8 +2701,8 @@ Local weather authorities said the extreme forecast was caused by an error in th
    <ns2:thumbnail url="https://i3.ytimg.com/vi/fAxlEcXiSts/hqdefault.jpg" width="480" height="360" />
    <ns2:description>How OpenAI’s newest enterprise products, including Workspace Agents and Codex - can operationalize AI across financial services organizations.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="89" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3333" />
+    <ns2:starRating count="95" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3673" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1856,7 +2724,7 @@ Local weather authorities said the extreme forecast was caused by an error in th
    <ns2:description>OpenAI’s vision for how financial services firms can use AI across three pillars: transforming workflows, amplifying workforce productivity, and building AI-native customer products.</ns2:description>
    <ns2:community>
     <ns2:starRating count="18" average="5.00" min="1" max="5" />
-    <ns2:statistics views="690" />
+    <ns2:statistics views="753" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1877,8 +2745,8 @@ Local weather authorities said the extreme forecast was caused by an error in th
    <ns2:thumbnail url="https://i4.ytimg.com/vi/gli3gNI2saU/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="13" average="5.00" min="1" max="5" />
-    <ns2:statistics views="456" />
+    <ns2:starRating count="15" average="5.00" min="1" max="5" />
+    <ns2:statistics views="522" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1900,7 +2768,7 @@ Local weather authorities said the extreme forecast was caused by an error in th
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="13" average="5.00" min="1" max="5" />
-    <ns2:statistics views="464" />
+    <ns2:statistics views="482" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1921,8 +2789,8 @@ Local weather authorities said the extreme forecast was caused by an error in th
    <ns2:thumbnail url="https://i3.ytimg.com/vi/re-18gil_ec/hqdefault.jpg" width="480" height="360" />
    <ns2:description>How financial institutions can use AI as a competitive differentiator in customer-facing products and digital experiences.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="96" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1968" />
+    <ns2:starRating count="101" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2214" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1943,8 +2811,8 @@ Local weather authorities said the extreme forecast was caused by an error in th
    <ns2:thumbnail url="https://i2.ytimg.com/vi/m2TV8slGQKc/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Deployment strategy and organizational transformation: how financial institutions can partner with OpenAI to embed AI into daily workflows, accelerate customer-facing innovation, and scale trusted AI systems across regulated environments.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="48" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1180" />
+    <ns2:starRating count="50" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1285" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1965,8 +2833,8 @@ Local weather authorities said the extreme forecast was caused by an error in th
    <ns2:thumbnail url="https://i1.ytimg.com/vi/pcAtJDBO3hw/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="27" average="5.00" min="1" max="5" />
-    <ns2:statistics views="700" />
+    <ns2:starRating count="28" average="5.00" min="1" max="5" />
+    <ns2:statistics views="768" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1993,8 +2861,8 @@ Weibo: @大狸子切切里
 Bilibili: https://space.bilibili.com/471303350
  #iphone #ios #手機技巧</ns2:description>
    <ns2:community>
-    <ns2:starRating count="70" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3720" />
+    <ns2:starRating count="71" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4104" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2015,8 +2883,8 @@ Bilibili: https://space.bilibili.com/471303350
    <ns2:thumbnail url="https://i1.ytimg.com/vi/ls9WsYsEsMM/hqdefault.jpg" width="480" height="360" />
    <ns2:description>#社会观察 #婚姻</ns2:description>
    <ns2:community>
-    <ns2:starRating count="62" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2555" />
+    <ns2:starRating count="63" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2753" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2067,7 +2935,7 @@ Bilibili: https://space.bilibili.com/471303350
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
     <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="31" />
+    <ns2:statistics views="39" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2099,8 +2967,8 @@ https://reurl.cc/3jGmxV
 Spotify：
 https://reurl.cc/9OMyRX</ns2:description>
    <ns2:community>
-    <ns2:starRating count="157" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6357" />
+    <ns2:starRating count="159" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6673" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2229,7 +3097,7 @@ Osmo 360不是讓你拍“漂亮照片”，而是：
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
     <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="32" />
+    <ns2:statistics views="36" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2251,7 +3119,7 @@ https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="21" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1244" />
+    <ns2:statistics views="1296" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2273,8 +3141,8 @@ https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:description>成為這個頻道的會員並獲得福利：
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
-    <ns2:starRating count="144" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1699" />
+    <ns2:starRating count="156" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1905" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2299,8 +3167,8 @@ https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
 股市财经分析公众号：风控专家磊哥
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="593" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7713" />
+    <ns2:starRating count="603" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7947" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2344,8 +3212,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="862" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14323" />
+    <ns2:starRating count="868" average="5.00" min="1" max="5" />
+    <ns2:statistics views="14504" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2366,8 +3234,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
    <ns2:thumbnail url="https://i3.ytimg.com/vi/ZOhmV9hWZeM/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="853" average="5.00" min="1" max="5" />
-    <ns2:statistics views="18262" />
+    <ns2:starRating count="902" average="5.00" min="1" max="5" />
+    <ns2:statistics views="19907" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2388,8 +3256,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
    <ns2:thumbnail url="https://i2.ytimg.com/vi/-RxPMEllsjE/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="74" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2595" />
+    <ns2:starRating count="81" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2970" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2426,8 +3294,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
 
 #overwatch #froggerow</ns2:description>
    <ns2:community>
-    <ns2:starRating count="7231" average="5.00" min="1" max="5" />
-    <ns2:statistics views="109478" />
+    <ns2:starRating count="7502" average="5.00" min="1" max="5" />
+    <ns2:statistics views="115547" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2469,8 +3337,8 @@ https://youtu.be/2wtsJFJXzSY
 英語の脳を作る・シャドーイング練習300 – 上級編
 https://youtu.be/Mzv9dt6oXnM</ns2:description>
    <ns2:community>
-    <ns2:starRating count="60" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2299" />
+    <ns2:starRating count="61" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2375" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2535,23 +3403,23 @@ https://youtu.be/Mzv9dt6oXnM</ns2:description>
 请注意，本视频完全符合YouTube社区准则，没有任何违规行为。</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="11" />
+    <ns2:statistics views="13" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
   <ns0:id>yt:video:O_yg_Eadoso</ns0:id>
   <ns1:videoId>O_yg_Eadoso</ns1:videoId>
   <ns1:channelId>UCUXi5mmqbvIithAs9AaxEtw</ns1:channelId>
-  <ns0:title>[柏格醫生中文 健康知識]柏格醫生呼籲：別再吃毒了！除草劑新配方毒性竟增200倍？避開這幾種食物保護腸道菌！</ns0:title>
+  <ns0:title>[柏格醫生中文 健康知識]柏格醫生呼籲：別再吃毒素了！除草劑新配方毒性竟增200倍？避開這幾種食物保護腸道菌！</ns0:title>
   <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=O_yg_Eadoso" />
   <ns0:author>
    <ns0:name>柏格醫生中文 健康知識</ns0:name>
    <ns0:uri>https://www.youtube.com/channel/UCUXi5mmqbvIithAs9AaxEtw</ns0:uri>
   </ns0:author>
   <ns0:published>2026-06-07T21:00:08+00:00</ns0:published>
-  <ns0:updated>2026-06-08T06:39:26+00:00</ns0:updated>
+  <ns0:updated>2026-06-08T19:41:22+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>柏格醫生呼籲：別再吃毒了！除草劑新配方毒性竟增200倍？避開這幾種食物保護腸道菌！</ns2:title>
+   <ns2:title>柏格醫生呼籲：別再吃毒素了！除草劑新配方毒性竟增200倍？避開這幾種食物保護腸道菌！</ns2:title>
    <ns2:content url="https://www.youtube.com/v/O_yg_Eadoso?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i4.ytimg.com/vi/O_yg_Eadoso/hqdefault.jpg" width="480" height="360" />
    <ns2:description>🌹🌹柏格醫生多語頻道共4,440萬（含俄語720萬、阿拉伯語700萬)訂閱.
@@ -2629,8 +3497,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #柏格醫生 #減肥 #斷食減肥 #快速減肥 #不飢餓減肥#脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #dr berg</ns2:description>
    <ns2:community>
-    <ns2:starRating count="117" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2050" />
+    <ns2:starRating count="119" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2088" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2707,8 +3575,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #柏格醫生 #減肥 #斷食減肥 #快速減肥 #不飢餓減肥#脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #dr berg</ns2:description>
    <ns2:community>
-    <ns2:starRating count="378" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8817" />
+    <ns2:starRating count="387" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9148" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2722,7 +3590,7 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
    <ns0:uri>https://www.youtube.com/channel/UCejVlAl2kUwBgSHtQeBoKhQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-06-07T20:59:35+00:00</ns0:published>
-  <ns0:updated>2026-06-08T07:15:11+00:00</ns0:updated>
+  <ns0:updated>2026-06-08T20:01:05+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>🔴 !OWCSDROPS ON ON TWITCH 🔴 !OWWC BACK &amp; NEW DROPS SOON 🔴</ns2:title>
    <ns2:content url="https://www.youtube.com/v/nEf38HbS1Ec?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2748,8 +3616,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 
  #gaming #OVERWATCH</ns2:description>
    <ns2:community>
-    <ns2:starRating count="52" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4022" />
+    <ns2:starRating count="51" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4089" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2771,7 +3639,7 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="67" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1910" />
+    <ns2:statistics views="2046" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2801,7 +3669,7 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 02:12:31 心得總結與最終好禮抽獎</ns2:description>
    <ns2:community>
     <ns2:starRating count="222" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14429" />
+    <ns2:statistics views="14508" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2835,8 +3703,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
 
 #overwatch #froggerow</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2410" average="5.00" min="1" max="5" />
-    <ns2:statistics views="43674" />
+    <ns2:starRating count="2432" average="5.00" min="1" max="5" />
+    <ns2:statistics views="44573" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2879,30 +3747,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4861" average="5.00" min="1" max="5" />
-    <ns2:statistics views="107222" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:ezS8pC_oQto</ns0:id>
-  <ns1:videoId>ezS8pC_oQto</ns1:videoId>
-  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]And you thought human dating was complicated! #TEDTalks</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/ezS8pC_oQto" />
-  <ns0:author>
-   <ns0:name>TED</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T16:00:35+00:00</ns0:published>
-  <ns0:updated>2026-06-07T16:00:55+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>And you thought human dating was complicated! #TEDTalks</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/ezS8pC_oQto?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/ezS8pC_oQto/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Octopus, squid and cuttlefish -- collectively known as cephalopods -- have strange, massive, distributed brains. What do they do with all that neural power? Dive into the ocean with marine biologist Roger Hanlon, who shares astonishing footage of the camouflaging abilities of cephalopods, which can change their skin color and texture in a flash. Learn how their smart skin, and their ability to deploy it in sophisticated ways, could be evidence of an alternative form of intelligence -- and how it could lead to breakthroughs in AI, fabrics, cosmetics and beyond.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="449" average="5.00" min="1" max="5" />
-    <ns2:statistics views="34192" />
+    <ns2:starRating count="4866" average="5.00" min="1" max="5" />
+    <ns2:statistics views="107513" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2923,814 +3769,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
    <ns2:thumbnail url="https://i3.ytimg.com/vi/Vi7LFmpRBUw/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Source: https://www.tiktok.com/@hhhhvbb78/video/7640551956754255126?is_from_webapp=1&amp;web_id=7524647383818159630</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3367" average="5.00" min="1" max="5" />
-    <ns2:statistics views="169596" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:_Uxse-HmkWI</ns0:id>
-  <ns1:videoId>_Uxse-HmkWI</ns1:videoId>
-  <ns1:channelId>UCD_gy8DWV_DhjJ-bQXF5dGQ</ns1:channelId>
-  <ns0:title>[磊哥聊政经]新加坡怒了！引用法律严打批评印度裔的网络帖子！屏蔽相关内容！新加坡内政次长称：中文网络内容嘲笑新加坡的多元化！禁止批评印度裔成新加坡政治正确？那可太好了</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=_Uxse-HmkWI" />
-  <ns0:author>
-   <ns0:name>磊哥聊政经</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCD_gy8DWV_DhjJ-bQXF5dGQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T15:55:08+00:00</ns0:published>
-  <ns0:updated>2026-06-08T07:07:43+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>新加坡怒了！引用法律严打批评印度裔的网络帖子！屏蔽相关内容！新加坡内政次长称：中文网络内容嘲笑新加坡的多元化！禁止批评印度裔成新加坡政治正确？那可太好了</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/_Uxse-HmkWI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/_Uxse-HmkWI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>欢迎大家点赞留言，记得打开小铃铛~~
-请大家关注我的抖音账号：正直的磊哥
-微博：正直的磊哥
-股市财经分析公众号：风控专家磊哥
-感谢大家的支持~~~爱你们</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="6199" average="5.00" min="1" max="5" />
-    <ns2:statistics views="97269" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:kmsSdB9jvr8</ns0:id>
-  <ns1:videoId>kmsSdB9jvr8</ns1:videoId>
-  <ns1:channelId>UCgFvT6pUq9HLOvKBYERzXSQ</ns1:channelId>
-  <ns0:title>[Davie504]The Bassline That Broke the Internet for 7 Years</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=kmsSdB9jvr8" />
-  <ns0:author>
-   <ns0:name>Davie504</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCgFvT6pUq9HLOvKBYERzXSQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T15:54:40+00:00</ns0:published>
-  <ns0:updated>2026-06-08T17:27:21+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>The Bassline That Broke the Internet for 7 Years</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/kmsSdB9jvr8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/kmsSdB9jvr8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>the mystery has been solved
-
-Patreon: https://www.patreon.com/davie504
-TABS: https://paidtabs.com/u/Davie504
-Subscribe for more videos: https://goo.gl/G9As1e
-Reddit: https://www.reddit.com/r/Davie504/
-Twitter: https://twitter.com/Davie504bass
-Instagram: https://www.instagram.com/davie504/
-Facebook: http://www.facebook.com/Davie504
-
-My music:
-Spotify: https://open.spotify.com/album/5m7SFVMTfNvv7dyqfa00G3
-iTunes: http://itunes.apple.com/album/id1122291881?ls=1&amp;app=itunes</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="7041" average="5.00" min="1" max="5" />
-    <ns2:statistics views="84654" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:6tC4NLu20Cc</ns0:id>
-  <ns1:videoId>6tC4NLu20Cc</ns1:videoId>
-  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]How to Google Your Symptoms Without Freaking Out | John Whyte | TED</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=6tC4NLu20Cc" />
-  <ns0:author>
-   <ns0:name>TED</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T15:00:07+00:00</ns0:published>
-  <ns0:updated>2026-06-07T15:04:09+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How to Google Your Symptoms Without Freaking Out | John Whyte | TED</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/6tC4NLu20Cc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/6tC4NLu20Cc/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Why does searching your symptoms online always leave you more frightened than before? As former chief medical officer of WebMD, physician John Whyte spent years believing more information meant better health — until he saw how too much of it was making people spiral. In a world of health influencers, algorithms and AI tools designed to keep you clicking, he reveals why clarity and context is a better prescription.  (Recorded at TEDxNashville on October 19, 2025)
-
-Join us in person at a TED conference: https://tedtalks.social/events
-Become a TED Member to support our mission: https://ted.com/membership
-Subscribe to a TED newsletter: https://ted.com/newsletters
-
-Follow TED! 
-Instagram: https://www.instagram.com/ted
-LinkedIn: https://www.linkedin.com/company/ted-conferences
-TikTok: https://www.tiktok.com/@tedtoks
-Facebook: https://facebook.com/TED
-X: https://www.twitter.com/TEDTalks
-
-The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.
-
-Watch more: https://go.ted.com/johnwhyte
-
-https://youtu.be/6tC4NLu20Cc
-
-TED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com
-
-#TED #TEDTalks #Health</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="321" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12523" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:lAVO6um5bKM</ns0:id>
-  <ns1:videoId>lAVO6um5bKM</ns1:videoId>
-  <ns1:channelId>UC1SoWqy3HPfvE1nt89iV10Q</ns1:channelId>
-  <ns0:title>[Zushi Ai COS]有時候不是風景變美了，而是換個角度後，看見了不一樣的世界。#治癒 #感覺 #情感 #晚霞 #風景 #攝影 #生活記錄 #浪漫 #自然 #溫柔 #落日餘暉 #氛圍感 #治癒風景 #人間值得 #美好瞬間</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/lAVO6um5bKM" />
-  <ns0:author>
-   <ns0:name>Zushi Ai COS</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T13:17:11+00:00</ns0:published>
-  <ns0:updated>2026-06-08T06:37:44+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>有時候不是風景變美了，而是換個角度後，看見了不一樣的世界。#治癒 #感覺 #情感 #晚霞 #風景 #攝影 #生活記錄 #浪漫 #自然 #溫柔 #落日餘暉 #氛圍感 #治癒風景 #人間值得 #美好瞬間</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/lAVO6um5bKM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/lAVO6um5bKM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="3" average="5.00" min="1" max="5" />
-    <ns2:statistics views="151" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:hHP5Zetln0I</ns0:id>
-  <ns1:videoId>hHP5Zetln0I</ns1:videoId>
-  <ns1:channelId>UCr_F4Y9iboUKlg_ZPm4jkVQ</ns1:channelId>
-  <ns0:title>[老梁]老梁：你的学生质疑你 你的教育就成功了</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/hHP5Zetln0I" />
-  <ns0:author>
-   <ns0:name>老梁</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCr_F4Y9iboUKlg_ZPm4jkVQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T13:02:10+00:00</ns0:published>
-  <ns0:updated>2026-06-08T06:16:36+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>老梁：你的学生质疑你 你的教育就成功了</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/hHP5Zetln0I?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/hHP5Zetln0I/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="123" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9981" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:TJr6b5JdbLg</ns0:id>
-  <ns1:videoId>TJr6b5JdbLg</ns1:videoId>
-  <ns1:channelId>UC2tQpW0dPiyWPebwBSksJ_g</ns1:channelId>
-  <ns0:title>[脑洞乌托邦]6個月內，這個國家可能從地球被抹除！曾是"西半球男人的樂園"，川普在26年前就預言了它的結局…人口驟降30%、斷水斷電斷糧，古巴到底經歷了什麼？@EmmaSleepTaiwan</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=TJr6b5JdbLg" />
-  <ns0:author>
-   <ns0:name>脑洞乌托邦</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC2tQpW0dPiyWPebwBSksJ_g</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T13:00:34+00:00</ns0:published>
-  <ns0:updated>2026-06-08T03:18:27+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>6個月內，這個國家可能從地球被抹除！曾是"西半球男人的樂園"，川普在26年前就預言了它的結局…人口驟降30%、斷水斷電斷糧，古巴到底經歷了什麼？@EmmaSleepTaiwan</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/TJr6b5JdbLg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/TJr6b5JdbLg/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>現在點擊專屬連結：https://links.emma-sleep.com.tw/ytNDWTB2606
-獲得618優惠，最低55折！
-輸入我的專屬屬9折優惠碼：NDWTB2026，還可獲得粉絲專屬全品項9折優惠，不限金額與品項，可搭配官網的折扣活動一起使用！
-另外，官網購買床墊/組合，獲贈英國皇室愛用品牌NYR薰衣草安睡枕頭噴霧一瓶 ，像新垣結衣、Jennifer Aniston 等國際明星都在用 (3000瓶，送完即止。)
-德國Emma Zero Gravity全新零重力床墊床墊，但我本身已經睡了超過一年了，AirGrid網狀凝膠層設計，提供最佳釋壓！瞬間回彈、動態支撐、不陷床、不黏身！還有加固床沿，睡起來軟硬度適中，太空般零重力的懸浮睡感，讓我一覺好眠！德國Emma官網还提供100天免費試睡床墊、全台免運送到府安裝、提供十年保固。
-
-00:00 川普的預言
-05:32 2026更大的危機
-10:49 曾經的“男人天堂”
-15:28 古巴革命
-18:24 人類距離死神最近的時刻
-25:05 餡餅制度
-30:47 經濟奇觀
-35:00 人口暴跌
-😚 請訂閱 https://goo.gl/B3gKwP 
-Ⓜ️ 腦洞烏托邦 VIP Membership https://www.youtube.com/channel/UC2tQpW0dPiyWPebwBSksJ_g/join
-♾️ 國內觀眾會員購買渠道 https://afdian.com/a/ndwtb
-==================================
-✅ Top 10 Most Watched Videos
-深扒：馬雲突然消失，又突然出現，支付寶變更控制人，這背後究竟意味着什麼？阿里巴巴崛起與墜落的真相 [She's Xiaowu 小烏]
-https://youtu.be/2dP47tZEEZM
-從頂流到階下囚！深扒吳亦凡背後資本，是誰讓他爆火，又讓他瞬間跌落神壇？一口氣看完吳亦凡事件始末 [She's Xiaowu @ndwtb]
-https://youtu.be/gPQjAoqiACc
-信徒超過18億，伊斯蘭教為何會讓全世界感到恐懼？被禁止入內的「神的天房」，裡面究竟有什麼？只有極少數人知道的伊斯蘭教的真相…[She's Xiaowu @ndwtb]
-https://youtu.be/R2CV6EBfqS8
-貧窮的國家，養着全球最富的王！脫衣舞女當王妃，修憲、露臍、給狗封軍銜，泰國王室究竟有多魔幻？為什麼說「十世而亡」的詛咒恐將應驗？ [She's Xiaowu @ndwtb]
-https://youtu.be/5dSHW5y80VU
-500萬粉絲女主播被送監，深扒抖音一哥塌房真相，為何中國帶貨頂流們都逃不過「翻車詛咒」？賣假貨、與對手互撕，內幕震碎三觀…[She's Xiaowu 小烏]
-https://youtu.be/GWfLKh50cUw
-霸屏13年，一檔風靡全國的節目如何毀了無數家庭？16歲少女整容33次，富二代詐騙粉絲，深度揭秘變形記骯髒內幕 [Unsolved Mystery Stories | Xiaowu]
-https://youtu.be/ixHYWNg0WAM
-【小乌说案】知名美食网红被胁迫拍视频？？与一年前失踪女孩巧合撞脸 影片中暗藏的求救信号是真是假？？Kate Yup [脑洞乌托邦 | 小乌 TV]
-https://youtu.be/m7u6ZtIyrM4
-屢次遭封殺，內幕太震驚！曾大膽揭露演藝圈最骯髒潛規則，如今毒舌變啞巴，金星到底得罪了誰？[She's Xiaowu @ndwtb]
-https://youtu.be/v3BhFYRVVNQ
-霍金晚年究竟發現了什麼？為什麼他堅信上帝不存在？臨終遺作揭曉一切答案，預言人類未來，破解宇宙誕生的真相 [She's Xiaowu @ndwtb]
-https://youtu.be/25wj2ZPhmyk
-揚言“國級以下的官員審不了我”！保護傘手眼通天，事件敏感到至今無人敢提！中國最囂張的黑社會老大，四川教父劉漢的崛起與墜落 [She's Xiaowu @ndwtb]
-https://youtu.be/u9avVH0xlf8
-==================================
-🔔 Credit
-John_Stockton_Slow_Drag | Chris Zabriskie | http://chriszabriskie.com/uvp/
-Background Music Case Files 1 | CO.AG Music | https://www.youtube.com/watch?v=EkOE_PqAJlI&amp;list=RDEkOE_PqAJlI&amp;start_radio=1
-Instrumental Background suspense Music 5 case files | CO.AG Music | https://www.youtube.com/watch?v=eccmMMFpZyU&amp;list=RDeccmMMFpZyU&amp;start_radio=1
-Gymnopedie No 2 | Kevin MacLeod | http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100786
-==================================
-Re-production, re-upload, re-broadcast, and distribution of our copyrighted videos are prohibited.
-Copyright © 腦洞烏托邦™️ All Rights Reserved.
-==================================
-歡迎點贊，評論和轉發 💗 💗 💗  
-┊　　┊　　┊　　┊ 
-┊　　┊　　┊　　★ 
-┊　　┊　　☆ 
-┊　　★ 
-☆
-#腦洞烏托邦 # Xiaowu # 小烏 # ndwtb # 驚掉下巴 #未解之謎 #真實事件 #神秘事件 #都市傳說 #歷史懸案 #科學無法解釋 #人類未解之謎 #被隱藏的真相 #真實恐怖事件 #深度解析</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="6107" average="5.00" min="1" max="5" />
-    <ns2:statistics views="345936" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:ov7ywpvhlFs</ns0:id>
-  <ns1:videoId>ov7ywpvhlFs</ns1:videoId>
-  <ns1:channelId>UCejVlAl2kUwBgSHtQeBoKhQ</ns1:channelId>
-  <ns0:title>[mL7]Spain 🇪🇸 vs Poland 🇵🇱 Overwatch World Cup 2026 Qualifier Highlights #overwatch #gaming</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/ov7ywpvhlFs" />
-  <ns0:author>
-   <ns0:name>mL7</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCejVlAl2kUwBgSHtQeBoKhQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T12:46:50+00:00</ns0:published>
-  <ns0:updated>2026-06-08T07:18:37+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Spain 🇪🇸 vs Poland 🇵🇱 Overwatch World Cup 2026 Qualifier Highlights #overwatch #gaming</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/ov7ywpvhlFs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/ov7ywpvhlFs/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="37" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1522" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:FgG4xM3QGkM</ns0:id>
-  <ns1:videoId>FgG4xM3QGkM</ns1:videoId>
-  <ns1:channelId>UCFhKqw9UUe2neKk04eo4RRQ</ns1:channelId>
-  <ns0:title>[樊登讀書]拚命贏過別人又怎樣？「放過自己」才有好命運 #自我成長 #快樂</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/FgG4xM3QGkM" />
-  <ns0:author>
-   <ns0:name>樊登讀書</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCFhKqw9UUe2neKk04eo4RRQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T12:00:20+00:00</ns0:published>
-  <ns0:updated>2026-06-07T12:00:42+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>拚命贏過別人又怎樣？「放過自己」才有好命運 #自我成長 #快樂</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/FgG4xM3QGkM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/FgG4xM3QGkM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>解鎖無條件的快樂，才是你該享有的人生！當你覺得工作卡關、生活迷茫，「樊登說書APP」用閱讀的力量幫你解惑、找回好運氣👉https://cmy.tw/00D0Sp
-
-#精神內耗 #拒絕焦慮 #情緒價值 #心靈雞湯 #心態調整 #人生哲理 #思維認知 #成長智慧 #人生感悟 #樊登 #閱讀
-
-※貼心提醒：留言請保持禮貌運動、理性討論，違反社群規範或人身攻擊可能會遭檢舉</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="61" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2391" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:xHN1yhZGp5U</ns0:id>
-  <ns1:videoId>xHN1yhZGp5U</ns1:videoId>
-  <ns1:channelId>UCCbYWuRvD2q_3qSla1gNHtg</ns1:channelId>
-  <ns0:title>[大象放映室]高考背后的“隐形巨型系统”：一场千万人参与的“国家级精密运维”【大国之治·高考运行系统】</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=xHN1yhZGp5U" />
-  <ns0:author>
-   <ns0:name>大象放映室</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCCbYWuRvD2q_3qSla1gNHtg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T11:55:34+00:00</ns0:published>
-  <ns0:updated>2026-06-07T11:55:34+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>高考背后的“隐形巨型系统”：一场千万人参与的“国家级精密运维”【大国之治·高考运行系统】</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/xHN1yhZGp5U?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/xHN1yhZGp5U/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>高考，到底是怎么运行的？它背后，藏着一个怎样的隐形巨型系统？
- 
-你以为高考只是一场考试？不，高考是一场“战争”。
- 
-它要在两到四天内，让全国超过1300万人，在同一天的同一个时刻，按照同一套标准，完成一场决定命运的突围。
- 
-这件事没有弹性，没有余量，非极特殊情况下不能延期，更不能重来，容错率几乎为零。
- 
-这场由国家机器全力运转、精密到令人发指的超大规模系统工程，可能是中国每年组织的规模最大、保密等级最高、参与人数最多、容错率最低的“物流与人事管理项目”。
- 
-这一期，我们就来聊聊国家是如何让这个项目连续几十年每年一次稳步有序运行的。
-
-More content welcome：
-微信公众号WeChat public account：daxiangshuapian 【大象放映室】
-
-Weibo微博：https://weibo.com/u/1844937292?is_all=1
-
-bilibiliB站：https://space.bilibili.com/49246269
-
-如果你喜欢这期的作品，别忘了点个「赞」「评论」并分享，让更多人看到我们视频。
-也欢迎大家点小铃铛订阅，第一时间收到我的更新啦~</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="135" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5560" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:BSR26flzYb0</ns0:id>
-  <ns1:videoId>BSR26flzYb0</ns1:videoId>
-  <ns1:channelId>UC-lepqi1Wrt78Pbuldn49_Q</ns1:channelId>
-  <ns0:title>[蘭林漢的粉絲 - 猴哥專屬精華頻道]【猴哥】韓服單排之旅！讓韓國路人見識「國服超硬蒙多」打我血條沒動過！這香菇只打我30滴血~ 後期無敵的存在！4761HP直接扛四人總輸出，想去哪就去哪！打不動略略略！</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=BSR26flzYb0" />
-  <ns0:author>
-   <ns0:name>蘭林漢的粉絲 - 猴哥專屬精華頻道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC-lepqi1Wrt78Pbuldn49_Q</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T11:00:12+00:00</ns0:published>
-  <ns0:updated>2026-06-07T11:03:46+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【猴哥】韓服單排之旅！讓韓國路人見識「國服超硬蒙多」打我血條沒動過！這香菇只打我30滴血~ 後期無敵的存在！4761HP直接扛四人總輸出，想去哪就去哪！打不動略略略！</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/BSR26flzYb0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/BSR26flzYb0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>猴哥剪輯團隊！沒有之一！
-大家喜歡的話 幫忙點個讚，剪輯君的雞腿靠你們了 (❍ᴥ❍ʋ)
-- 精華頻道：https://www.youtube.com/@TheMonkeyKinglol
-- 速看頻道：https://www.youtube.com/@TheMonkeyKingRush
-🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗
-英雄聯盟斗魚主播 孫悟空 兰林汉：https://www.douyu.com/475252
-BiliBili：兰林汉的粉丝
-Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
-新浪微博：孙悟空kingking
-🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖🍖
-
-#猴哥 #猴哥精華 #猴哥韓服</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="222" average="5.00" min="1" max="5" />
-    <ns2:statistics views="16137" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:3L7_3Lc2TVk</ns0:id>
-  <ns1:videoId>3L7_3Lc2TVk</ns1:videoId>
-  <ns1:channelId>UCUXi5mmqbvIithAs9AaxEtw</ns1:channelId>
-  <ns0:title>[柏格醫生中文 健康知識]🌟 膠原蛋白只對皮膚好？柏格醫生揭開你不知道的健康真相！</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=3L7_3Lc2TVk" />
-  <ns0:author>
-   <ns0:name>柏格醫生中文 健康知識</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCUXi5mmqbvIithAs9AaxEtw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T10:59:59+00:00</ns0:published>
-  <ns0:updated>2026-06-08T06:37:20+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>🌟 膠原蛋白只對皮膚好？柏格醫生揭開你不知道的健康真相！</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/3L7_3Lc2TVk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/3L7_3Lc2TVk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>🌹🌹全球 柏格醫生多語頻道共4,440萬（含俄語720萬、阿拉伯語700萬)訂閱.
-(官方購買最安心!! 小心假貨！)
-🌹Ｄr Berg 亞洲  小編諮詢 官耐：https://lin.ee/FSgW71d
-🌹Dr Berg 亞洲購物網: https://www.drberg.asia
-🌹台灣 小編諮詢 官耐LINE : https://page.line.me/keto168
-🌹台灣 柏格醫生商店: https://ketogoods.com.tw
-
-說到「膠原蛋白」，你是不是只想到養顏美容？其實，它的作用遠比你想得還要強大！💪
-
-知名健康專家 柏格醫生 (Dr. Berg) 詳細解釋了為什麼膠原蛋白不只關乎外表，更是維持心臟、腸道、關節、血管及整體健康的關鍵基石。
-
-💡 為什麼膠原蛋白這麼重要？
-人體內約有 30% 的蛋白質是膠原蛋白！當身體缺乏膠原蛋白時，它會「優先」把僅存的量供應給維持生命最重要的核心功能。這意味著，如果攝取不足，你的骨骼、心臟、腸道內壁、皮膚、牙齒和牙齦，就會開始拉警報！🚨
-
-📉 為什麼現代人嚴重缺乏膠原蛋白？
-隨著年紀增長，膠原蛋白確實會自然下降，但現代人體內膠原蛋白含量遠低於我們的祖先，很大一部分是「現代生活與飲食習慣」造成的！
-
-小心你可能踩中了以下 4 大流失地雷：
-🥩 只吃去骨去皮的瘦肉：捨棄了動物皮、軟骨等豐富的膠原蛋白來源。
-🍰 高糖飲食：過多的糖分會破壞體內的膠原蛋白結構。
-🤯 長期壓力：壓力荷爾蒙會加速膠原蛋白的消耗。
-🛌 睡眠不足：剝奪了身體在夜間修復與合成膠原蛋白的黃金時間。
-💬 你中了上述哪幾個膠原蛋白流失地雷呢？在底下留言告訴我們！
-
-⚠️ 【免責聲明】
-本影片與貼文內容（包含柏格醫生之觀點）僅供一般健康資訊分享與教育目的，並非針對個人狀況的專業醫療建議。任何飲食調整或營養補充，無法取代專業醫師的診斷與治療。若您有任何潛在疾病、健康問題或正在服藥，請在改變飲食或服用補充劑前，務必諮詢您的主治醫師或專業醫療人員。
-
-#膠原蛋白 #DrBerg #柏格醫生 #抗老化 #健康飲食 #心臟健康 #腸道健康 #關節保養 #膠原蛋白流失 #保健知識 #健康科普 #保養秘訣
-
-柏格醫生中文 健康知識：
-生酮飲食入門（中文）：https://youtu.be/VVZQIMKUWvU
-第2步,吃的內容（中文）：https://youtu.be/Nd1RNTymyvM
-斷食的方法（中文）:  https://youtu.be/VVZQIMKUWvU
-斷食的體內變化(中文) :  https://youtu.be/SlzBMJvtGHo
-柏格醫生臉書(中文): https://www.facebook.com/柏格醫生中文-健康知識-101906848408734/
-
-艾瑞克柏格(Dr Eric Berg)醫生介紹：
-他是弗吉尼亞州、加利福尼亞州和路易斯安那州的3州的脊椎科醫生，￼執照一直維持有效。他是全球最知名的健康生酮飲食和斷食專家，也是《新體型指南》和KB Publishing出版書作者。
-他曾在霍華德大學（Howard University）擔任兼職教授，教授學生營養學。 近年忙於媒體教育，他無暇親自看診病人￼。
-
-英文柏格醫生社群媒體:
-Facebook:  https://bit.ly/FB-DrBerg
-Instagram:  https://bit.ly/IG-DrBerg
-Anchor:  https://bit.ly/Anchor-DrBerg
-TikTok:  https://bit.ly/TikTok-DrBerg
-Anchor:  https://bit.ly/Anchor-DrBerg
-https://drbrg.co/DrBerg-Spotify
-英文柏格醫生網店DR. BERG'S SHOP: http://shop.drberg.com/
-ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
-
-免責聲明：￼
-柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
-#柏格醫生 #減肥 #斷食減肥 #快速減肥 #不飢餓減肥#脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #dr berg</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="224" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3817" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:cxEx23EW-k8</ns0:id>
-  <ns1:videoId>cxEx23EW-k8</ns1:videoId>
-  <ns1:channelId>UCHNDk7584Q5g7RQCAFj7RFA</ns1:channelId>
-  <ns0:title>[松明講心理]一分鐘的智慧！#人生 #心理學 #煩惱 #認知 #智慧 #松明</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/cxEx23EW-k8" />
-  <ns0:author>
-   <ns0:name>松明講心理</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T10:30:37+00:00</ns0:published>
-  <ns0:updated>2026-06-07T10:30:38+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>一分鐘的智慧！#人生 #心理學 #煩惱 #認知 #智慧 #松明</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/cxEx23EW-k8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/cxEx23EW-k8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>電腦端點擊鏈接、加入松明老師頻道會員、即可看課
-https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
-
-
-初級會員福利介紹：
-一、搶先看新影片
-二、會員專屬直播答疑
-三、會員專屬影片
-四、評論區優先回復
-五、忠實粉絲徽章、表情符號
-
-
-中級會員福利介紹：
-一、包含所有初級會員福利
-二、五天特訓營第一期 高敏感變天賦
-三、五天特训营第二期 喚醒“心”自我
-課程介紹影片：https://youtu.be/Gh26QfiMfcU
-四、三天認知重構課程（2026年中上線）
-五、高級學員試聽課程
-
-
-高級會員福利介紹：
-一、包含初級、中級會員所有課程
-五天特訓營第1、2期、3天認知重構課程
-二、十大能力系统课
-1、《高敏感變優勢的能力》
-2、《修復討好的能力》
-3、《自卑變自信的能力》
-4、《將壓力變為動力》
-5、《提高效率“專注力”》
-6、《睡好覺的能力》
-7、《運用情緒的力量》
-8、《讀懂人心的能力》
-9、《不說話的影響力》
-10、《會賺錢的能力》
-課程介紹影片：https://youtu.be/0yT6FxFbAjo
-三、NLP零基礎、潛能覺醒課程
-課程介紹影片：https://youtu.be/gfew-LOXQAs
-
-
-
-
-鑽石VIP會員福利介紹：
-一、包含初級、中級、高級會員所有課程
-五天特訓營第1、2期、3天認知重構課程、十大能力系统课、NLP零基礎、潛能覺醒課程
-二、決策力『多維度選擇力』
-課程介紹影片：https://youtu.be/IxVwX17H3dQ
-三、沟通课基礎課  『高情商溝通課』 
-課程介紹影片：https://youtu.be/7p-iA8Bcuio
-四、『如何把愛好變現』課程
-課程介紹影片：https://youtu.be/46pOvstcXxM
-五、松明有聲書系列 『向內的旅程』 第1、2季度
-
-
-
-黑金荣耀會員福利介紹：
-一、包含初級、中級、高級、鑽石VIP學員所有課程
-二、NLP沟通實戰系列課程  ：
-包含『家庭關係、溝通核心、親子教育、兩性關係、職場合作課程』 
-課程介紹影片：https://youtu.be/qHTN89PPkug
-三、情感课『親密關係幸福密碼』
-課程介紹影片：https://youtu.be/iRtELURTaDM
-四、親子課 『如何挽救和孩子的關係』
-課程介紹影片：https://youtu.be/YUXKEjDrdGk
-五、『21節告別討好型人格』課程
-六、『21節轉換壞情緒』課程
-七、（新）『剛剛好的安靜』能量重建音頻療愈課
-
-
-心理學導師班會員福利介紹：
-一、包含初級、中級、高級、黃金、鑽石會員所有課程
-二、『心理學八大流派課程』
-課程介紹影片：https://youtu.be/Lg7ZzYgAztU
-三、『21天行動計劃』課程
-四、（新）NLP心智重塑系統精講課程
-課程介紹影片：https://youtu.be/VNpRQ7yiCSw
-五、（新）NLP心智重塑21天踐行營（2026年中上線）
-六、（新）NLP潛意識修復力課程（2026年中上線）
-
-
-會員級別變更方法
-1. 用電腦或筆電開啟yt 找到老師頻道的主頁，然後在首頁、影片 那一列的最右手邊會看到一個“齒輪”，點進去會看到“更變級別”
-2. 用手機開啟瀏覽器 然後瀏覽器要設定是以電腦視窗顯示，此時顯示畫面會變很小 因為是以電腦的螢幕大小做的排版，然後收尋yt 長壓後點擊以新視窗開啟，之後的動作一樣 找到老師頻道主頁 然後在右手邊找到齒輪 點擊後找到更變級別。
-
-
-
-不一樣的心理療愈，做一位價值發現者！
-👍喜歡我的影片請按贊，分享
-🔔歡迎訂閱我的YouTube頻道，並打開小鈴鐺
-🪄為你帶來更多精彩心理學影片
-🎭亞洲人氣心理導師、分享根正苗紅的心理學
-🎭對決華人神探李昌鈺、成功操縱日本導演北野武
-🎭與吴京、古天樂、黃百鳴、吴尊出演電影【開心魔法】
-🎭香港TVB【讀心專家】 、【破解讀心理】
-🎭內地綜藝 【挑戰不可能】、【 王牌對王牌】
-🎭日本綜藝 【世界まる見え】、【人間観察モニターニング】
-🎭發售書籍【成功を掴むマインドハック】、【松明教你心理術】、【六大係統解決高敏感】
-
-#心理學 #松明  #情感 #育兒 #育儿 #心理学
- #創傷 #抑鬱 #焦慮 #壓力 #失眠 #壓抑 
-#育兒 #家庭 #教育 #家庭教育 #意識 #潛意識 
-#投射 #缺愛 #心理創傷 #原生家庭 #養育 
-#關係 #週期 #冷暴力 #嫉妒 #心智模式 
-#本我 #自我 #超我 #安全感 #價值感 #歸屬感 #完美主義
-#親子 #決策 #溝通 #兩性關係 #厭學 #反芻 #吸引力 #抑鬱 #賺錢
-#金錢 #自閉症 #人際關係 #操縱 #叛逆 #自殺 #厭世 #悔恨 #消極清晰
-#積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
-#情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="996" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11538" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:xvf9gp7CnWc</ns0:id>
-  <ns1:videoId>xvf9gp7CnWc</ns1:videoId>
-  <ns1:channelId>UCBKDRq35-L8xev4O7ZqBeLg</ns1:channelId>
-  <ns0:title>[王志安]电诈园区背后的真正筹码：中缅油气管道</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/xvf9gp7CnWc" />
-  <ns0:author>
-   <ns0:name>王志安 </ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T09:30:10+00:00</ns0:published>
-  <ns0:updated>2026-06-07T09:30:10+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>电诈园区背后的真正筹码：中缅油气管道</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/xvf9gp7CnWc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/xvf9gp7CnWc/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>面对猖獗的缅北边境乱象，为什么我们曾出奇地克制 ？原来，缅甸的大山里埋着一条关系到中国能源安全的命根子——中缅油气管道 ！它全长770多公里，能让我们直接绕开危机四伏的“马六甲困境”，省下3000公里海运航程 。但也正因如此，这条管子曾一度成为电诈保护伞手里捏着的“人质” ……直到2023年10月，明氏家族在园区公然开枪，彻底踩碎了中方的致命红线 ！  
-坑钱是经济账，但动了中国人性质就变了 ！看完这期，彻底懂了什么叫大国落子。你在评论区怎么看这次雷霆出击？   #大国博弈 #地缘政治 #中缅油气管道 #硬核科普 #缅北真相</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="82" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8630" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:-yQHNHch3EU</ns0:id>
-  <ns1:videoId>-yQHNHch3EU</ns1:videoId>
-  <ns1:channelId>UCi2GvcaxZCN-61a0co8Smnw</ns1:channelId>
-  <ns0:title>[館長惡名昭彰]阿館川渝行航拍特寫</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/-yQHNHch3EU" />
-  <ns0:author>
-   <ns0:name>館長惡名昭彰</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCi2GvcaxZCN-61a0co8Smnw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T07:01:54+00:00</ns0:published>
-  <ns0:updated>2026-06-08T06:27:30+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>阿館川渝行航拍特寫</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/-yQHNHch3EU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/-yQHNHch3EU/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>💐5/1-5/31𝓜𝓐𝓨夢成真｜滿$2,000免運，滿$3,000送光影香水＋下單再送乳清隨手包👉https://utm.to/8zrvt2
-🌧️換季之選｜梅雨季來臨~你需要一件會防水的外套，任選2件以上75折👉https://utm.to/8zrvsy
-💗媽咪逆齡亮妍組｜膠原蛋白＋益生菌，漂亮這件事，媽咪不能輸👉https://utm.to/8zrvst
-💙媽咪全效守護組｜膠原蛋白＋魚油，幫你照顧最愛的媽咪👉https://utm.to/8zrvsr
-🐔滴雞精直接下殺｜單入$1500，看了雞都要害怕了👉https://utm.to/8zrvsw
-🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
-館長陳之漢 官方IG👉🏽https://www.instagram.com/power3067830678/
-館長陳之漢 飆捍FB👉🏽https://www.facebook.com/profile.php?id=100044226139684
-館長陳之漢 Podcast👉🏽https://open.firstory.me/user/power30678
-惡名昭彰 官方網站👉🏽https://www.notorious-2019.com/
-會員制度與規章👉🏽https://www.notorious-2019.com/size_color
-惡名昭彰 官方Line👉🏽https://lin.ee/yKmjHZQ
-惡名昭彰 官方IG👉🏽https://www.instagram.com/notorious_taiwan/
-惡名昭彰 官方FB👉🏽https://www.facebook.com/notorious.taiwan
-True飯  官方LINE👉🏽https://lin.ee/sPaW15Y
-True飯  官方IG👉🏽https://www.instagram.com/truefun_tw/
-True飯  官方FB👉🏽https://www.facebook.com/truefun2023
-成吉思汗健身俱樂部 官方FB👉🏽https://www.facebook.com/mmagym.tw
-🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
-💗加入頻道會員享有徽章/特殊貼圖符號💗
-🙋🏻‍♀️社群按讚搶先看獲取最新消息🙋🏻
-
-#館長 #館長直播 #完整直播</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1421" average="5.00" min="1" max="5" />
-    <ns2:statistics views="20742" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:xaT91wcAxHY</ns0:id>
-  <ns1:videoId>xaT91wcAxHY</ns1:videoId>
-  <ns1:channelId>UC1SoWqy3HPfvE1nt89iV10Q</ns1:channelId>
-  <ns0:title>[Zushi Ai COS]新疆封神路線！8天伊犁環線自駕攻略！</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=xaT91wcAxHY" />
-  <ns0:author>
-   <ns0:name>Zushi Ai COS</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T07:00:23+00:00</ns0:published>
-  <ns0:updated>2026-06-07T07:00:23+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>新疆封神路線！8天伊犁環線自駕攻略！</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/xaT91wcAxHY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/xaT91wcAxHY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>如果說國內旅行有「天花板」，那一定是新疆。
-而新疆夏季的天花板，毫無疑問是——伊犁。
-
-這次用8天時間，完整走了一圈伊犁環線，從草原、雪山到花海，一路像是穿越不同季節。
-
-
-一路回看整個環線：
-
-👉 你會發現伊犁真正的美，是「連續變化」
-
----
-
-## 📷 拍攝設備解析
-
-### 🎥 Sony ZV-E1
-
-✔ 輕量全畫幅
-✔ 非常適合旅拍 + vlog
-
-### 🔍 50-150 f2.0
-
-✔ 壓縮感強
-✔ 適合草原人像 + 雪山特寫
-
-### 🔍 24-70 f2.8
-
-✔ 全能焦段
-✔ 環境 + 人像 + 記錄都能拍
-
-### 🚁 DJI Mavic 4 Pro
-
-✔ 空中視角決定這條路線的上限
-✔ 草原 + 河流 + 城市格局必備
-
----
-
-## 💡 核心建議
-
-伊犁環線拍得好不好，不取決於景點，而是：
-
-👉 光線 + 路線節奏 + 航拍視角
-
----
-
-## 🎯 一句話總結：
-
-**伊犁的震撼，不是某一個點，而是你一路開過去的每一段變化。**
-
-
-#新疆旅行 #伊犁環線 #自駕遊 #旅行攻略 #風景攝影 #航拍 #旅拍vlog #草原風光 #賽里木湖 #那拉提 #巴音布魯克 #攝影旅行 #旅行乾貨 #中國旅行 #自駕攻略
-
-成為這個頻道的會員並獲得福利：
-https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="3" average="5.00" min="1" max="5" />
-    <ns2:statistics views="118" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:hgBkGm46rEs</ns0:id>
-  <ns1:videoId>hgBkGm46rEs</ns1:videoId>
-  <ns1:channelId>UCNJTPOFN-13sb5JGrY1mNQg</ns1:channelId>
-  <ns0:title>[How to DAD]Couldn’t believe it 🤯 #rugby #timpayne #shorts</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/hgBkGm46rEs" />
-  <ns0:author>
-   <ns0:name>How to DAD</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCNJTPOFN-13sb5JGrY1mNQg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T06:17:32+00:00</ns0:published>
-  <ns0:updated>2026-06-08T06:32:54+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Couldn’t believe it 🤯 #rugby #timpayne #shorts</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/hgBkGm46rEs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/hgBkGm46rEs/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="350" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10043" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:ALqMQPtrzZo</ns0:id>
-  <ns1:videoId>ALqMQPtrzZo</ns1:videoId>
-  <ns1:channelId>UCdC0An4ZPNr_YiFiYoVbwaw</ns1:channelId>
-  <ns0:title>[Daily Dose Of Internet]I'll Have Whatever He's Having 🫧</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/ALqMQPtrzZo" />
-  <ns0:author>
-   <ns0:name>Daily Dose Of Internet</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCdC0An4ZPNr_YiFiYoVbwaw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T05:00:03+00:00</ns0:published>
-  <ns0:updated>2026-06-07T05:00:07+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>I'll Have Whatever He's Having 🫧</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/ALqMQPtrzZo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/ALqMQPtrzZo/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Source: https://www.tiktok.com/@broccolirob1000/video/7638349847589834006?is_from_webapp=1&amp;web_id=7524647383818159630</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="7797" average="5.00" min="1" max="5" />
-    <ns2:statistics views="503903" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:zbt5ejL_jjY</ns0:id>
-  <ns1:videoId>zbt5ejL_jjY</ns1:videoId>
-  <ns1:channelId>UCi2GvcaxZCN-61a0co8Smnw</ns1:channelId>
-  <ns0:title>[館長惡名昭彰]【館長精華】綠媒政論節目持續造謠抹黑！大街罵人小巷道歉！以為發篇聲明就沒事了？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=zbt5ejL_jjY" />
-  <ns0:author>
-   <ns0:name>館長惡名昭彰</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCi2GvcaxZCN-61a0co8Smnw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T03:00:31+00:00</ns0:published>
-  <ns0:updated>2026-06-07T07:23:06+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【館長精華】綠媒政論節目持續造謠抹黑！大街罵人小巷道歉！以為發篇聲明就沒事了？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/zbt5ejL_jjY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/zbt5ejL_jjY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>完整版直播👉🏽https://youtube.com/live/c7Ky2kmUG2Q
-💐5/1-5/31𝓜𝓐𝓨夢成真｜滿$2,000免運，滿$3,000送光影香水＋下單再送乳清隨手包👉https://utm.to/8zrvt2
-🌧️換季之選｜梅雨季來臨~你需要一件會防水的外套，任選2件以上75折👉https://utm.to/8zrvsy
-💗媽咪逆齡亮妍組｜膠原蛋白＋益生菌，漂亮這件事，媽咪不能輸👉https://utm.to/8zrvst
-💙媽咪全效守護組｜膠原蛋白＋魚油，幫你照顧最愛的媽咪👉https://utm.to/8zrvsr
-🐔滴雞精直接下殺｜單入$1500，看了雞都要害怕了👉https://utm.to/8zrvsw
-🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
-館長陳之漢 官方IG👉🏽https://www.instagram.com/power3067830678/
-館長陳之漢 飆捍FB👉🏽https://www.facebook.com/profile.php?id=100044226139684
-館長陳之漢 Podcast👉🏽https://open.firstory.me/user/power30678
-惡名昭彰 官方網站👉🏽https://www.notorious-2019.com/
-會員制度與規章👉🏽https://www.notorious-2019.com/size_color
-惡名昭彰 官方Line👉🏽https://lin.ee/yKmjHZQ
-惡名昭彰 官方IG👉🏽https://www.instagram.com/notorious_taiwan/
-惡名昭彰 官方FB👉🏽https://www.facebook.com/notorious.taiwan
-True飯  官方LINE👉🏽https://lin.ee/sPaW15Y
-True飯  官方IG👉🏽https://www.instagram.com/truefun_tw/
-True飯  官方FB👉🏽https://www.facebook.com/truefun2023
-成吉思汗健身俱樂部 官方FB👉🏽https://www.facebook.com/mmagym.tw
-🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
-💗加入頻道會員享有徽章/特殊貼圖符號💗
-🙋🏻‍♀️社群按讚搶先看獲取最新消息🙋🏻
-
-#館長 #館長直播 #完整直播</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1563" average="5.00" min="1" max="5" />
-    <ns2:statistics views="27745" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:OtjcVkTi8a4</ns0:id>
-  <ns1:videoId>OtjcVkTi8a4</ns1:videoId>
-  <ns1:channelId>UC2cRwTuSWxxEtrRnT4lrlQA</ns1:channelId>
-  <ns0:title>[Mediastorm影视飓风]AI还是真的？连特效师也看不出来？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=OtjcVkTi8a4" />
-  <ns0:author>
-   <ns0:name>Mediastorm影视飓风</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC2cRwTuSWxxEtrRnT4lrlQA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-07T03:00:18+00:00</ns0:published>
-  <ns0:updated>2026-06-07T07:21:21+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>AI还是真的？连特效师也看不出来？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/OtjcVkTi8a4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/OtjcVkTi8a4/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>网上那些真假难辨的视频，你一定刷到过很多。想一眼分清实拍还是AI，真没那么简单。这次，我们请来了资深特效师008，和你一起看看这些视频。如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看～
-
-🌍 飓风商店现已支持全球发货！
-极简服饰👕｜实用包袋🎒｜日常科技配件⚙️
-首单享9折优惠👉 https://stormcrew.store/</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="2318" average="5.00" min="1" max="5" />
-    <ns2:statistics views="100286" />
+    <ns2:starRating count="3453" average="5.00" min="1" max="5" />
+    <ns2:statistics views="173231" />
    </ns2:community>
   </ns2:group>
  </ns0:entry></feed>
