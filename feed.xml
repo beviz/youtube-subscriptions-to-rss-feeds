@@ -1,5 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-07-22T22:58:43Z</updated><ns0:entry>
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-07-23T00:04:43Z</updated><ns0:entry>
+  <ns0:id>yt:video:Phf4hkJyyEI</ns0:id>
+  <ns1:videoId>Phf4hkJyyEI</ns1:videoId>
+  <ns1:channelId>UCwrVwiJllwhJUKXKmjLcckQ</ns1:channelId>
+  <ns0:title>[Apple Developer]New ways to build for visionOS 27</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/Phf4hkJyyEI" />
+  <ns0:author>
+   <ns0:name>Apple Developer</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwrVwiJllwhJUKXKmjLcckQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-07-22T23:18:36+00:00</ns0:published>
+  <ns0:updated>2026-07-22T23:18:37+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>New ways to build for visionOS 27</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/Phf4hkJyyEI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/Phf4hkJyyEI/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Build native apps, leverage third-party engines, stream from a Mac or PC and even track real-world objects and custom accessories — visionOS 27 opens new development pathways and opportunites for every kind of developer. 
+
+Watch "Build next-generation experiences with visionOS 27" from WWDC26 to learn more.
+
+ #visionOS #WWDC26 #SpatialComputing #Xcode</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="16" average="5.00" min="1" max="5" />
+    <ns2:statistics views="328" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:R6ZGgA2yKuY</ns0:id>
+  <ns1:videoId>R6ZGgA2yKuY</ns1:videoId>
+  <ns1:channelId>UC4c-wTOqEID-_vH4MhNs06w</ns1:channelId>
+  <ns0:title>[巴哈姆特電玩瘋]PS5《快打旋風 6》Y4新角色「亞思閔」 實機試玩</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=R6ZGgA2yKuY" />
+  <ns0:author>
+   <ns0:name>巴哈姆特電玩瘋</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UC4c-wTOqEID-_vH4MhNs06w</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-07-22T23:00:07+00:00</ns0:published>
+  <ns0:updated>2026-07-22T23:00:07+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>PS5《快打旋風 6》Y4新角色「亞思閔」 實機試玩</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/R6ZGgA2yKuY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/R6ZGgA2yKuY/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>精通菲律賓傳統武術「菲律賓短棍術」的亞思閔，擅長敏捷靈活的動作
+配合好搭檔「爪刀」，她可以從任何距離出其不意地偷襲和擾亂對手
+為了尋找失蹤的哥哥，並證明自己是個戰士，她走上了街頭！</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="17" average="5.00" min="1" max="5" />
+    <ns2:statistics views="324" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
   <ns0:id>yt:video:74Zyw1JcXsI</ns0:id>
   <ns1:videoId>74Zyw1JcXsI</ns1:videoId>
   <ns1:channelId>UCejVlAl2kUwBgSHtQeBoKhQ</ns1:channelId>
@@ -17,8 +67,8 @@
    <ns2:thumbnail url="https://i4.ytimg.com/vi/74Zyw1JcXsI/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="32" average="5.00" min="1" max="5" />
-    <ns2:statistics views="317" />
+    <ns2:starRating count="119" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1273" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -90,8 +140,8 @@ https://www.madesafe.org/
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #有毒化妝品 #有毒女性用品 #柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝</ns2:description>
    <ns2:community>
-    <ns2:starRating count="15" average="5.00" min="1" max="5" />
-    <ns2:statistics views="168" />
+    <ns2:starRating count="29" average="5.00" min="1" max="5" />
+    <ns2:statistics views="315" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -183,8 +233,8 @@ https://www.youtube.com/watch?v=hJajkK2PuMg&amp;t=0s
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #失眠營養素  #血糖 # 減肥 #睡眠 #失眠 #生酮飲食 #斷食 #柏格醫生中文 #柏格醫生 #胰島素 #肝功能</ns2:description>
    <ns2:community>
-    <ns2:starRating count="13" average="5.00" min="1" max="5" />
-    <ns2:statistics views="116" />
+    <ns2:starRating count="21" average="5.00" min="1" max="5" />
+    <ns2:statistics views="202" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -244,8 +294,8 @@ https://www.youtube.com/watch?v=hJajkK2PuMg&amp;t=0s
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #斷食錯誤 #柏格醫生 #減肥 #生酮飲食 #斷食 #間歇性斷食 #柏格醫生中文 #胰島素 #肝功能 #糖尿病 #胰島素阻抗 #脂肪肝 #減重 #體脂肪 #燃燒脂肪 #快速減肥 #keto</ns2:description>
    <ns2:community>
-    <ns2:starRating count="29" average="5.00" min="1" max="5" />
-    <ns2:statistics views="223" />
+    <ns2:starRating count="44" average="5.00" min="1" max="5" />
+    <ns2:statistics views="352" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -335,8 +385,8 @@ https://www.youtube.com/watch?v=hJajkK2PuMg&amp;t=0s
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #義大利麵 #柏格醫生 #減肥  #長壽 #麵食 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #藍色寶地 #義大利餐</ns2:description>
    <ns2:community>
-    <ns2:starRating count="25" average="5.00" min="1" max="5" />
-    <ns2:statistics views="257" />
+    <ns2:starRating count="43" average="5.00" min="1" max="5" />
+    <ns2:statistics views="421" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -359,8 +409,8 @@ https://www.youtube.com/watch?v=hJajkK2PuMg&amp;t=0s
 
 SMEs represent 99% of European businesses. Expanding their access to practical AI skills will be critical to Europe’s innovation, competitiveness, and prosperity.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="46" average="5.00" min="1" max="5" />
-    <ns2:statistics views="687" />
+    <ns2:starRating count="55" average="5.00" min="1" max="5" />
+    <ns2:statistics views="968" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -383,8 +433,8 @@ SMEs represent 99% of European businesses. Expanding their access to practical A
 
 San Diego was the second stop in a statewide OpenAI Academy series designed to expand access to practical AI skills.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="34" average="5.00" min="1" max="5" />
-    <ns2:statistics views="570" />
+    <ns2:starRating count="44" average="5.00" min="1" max="5" />
+    <ns2:statistics views="796" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -426,8 +476,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="26" average="5.00" min="1" max="5" />
-    <ns2:statistics views="840" />
+    <ns2:starRating count="27" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1005" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -457,8 +507,8 @@ Want more Fireship?
 🗞️ Newsletter: https://bytes.dev
 🧠 Courses: https://fireship.dev</ns2:description>
    <ns2:community>
-    <ns2:starRating count="12166" average="5.00" min="1" max="5" />
-    <ns2:statistics views="244528" />
+    <ns2:starRating count="13014" average="5.00" min="1" max="5" />
+    <ns2:statistics views="285874" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -479,8 +529,8 @@ Want more Fireship?
    <ns2:thumbnail url="https://i3.ytimg.com/vi/JzcS4dLOxko/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="1887" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12311" />
+    <ns2:starRating count="2042" average="5.00" min="1" max="5" />
+    <ns2:statistics views="14094" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -522,8 +572,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="56" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1727" />
+    <ns2:starRating count="67" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2133" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -554,7 +604,7 @@ Snapchat: https://www.snapchat.com/p/be55f780-7701-4eb1-8f88-61ebef171af6/310521
 E-mail: UrAvgConsumer@gmail.com</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="10414" />
+    <ns2:statistics views="12970" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -597,8 +647,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3153" average="5.00" min="1" max="5" />
-    <ns2:statistics views="59344" />
+    <ns2:starRating count="3201" average="5.00" min="1" max="5" />
+    <ns2:statistics views="60038" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -624,8 +674,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 公众号：honor22
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2613" average="5.00" min="1" max="5" />
-    <ns2:statistics views="29601" />
+    <ns2:starRating count="3099" average="5.00" min="1" max="5" />
+    <ns2:statistics views="34307" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -646,8 +696,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
    <ns2:thumbnail url="https://i4.ytimg.com/vi/C9HcXeaIpfw/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="57" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1705" />
+    <ns2:starRating count="64" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2046" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -668,8 +718,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
    <ns2:thumbnail url="https://i2.ytimg.com/vi/UFdRLH0v2Cc/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Source: https://www.instagram.com/reels/Danh0eEoD-T/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1324" average="5.00" min="1" max="5" />
-    <ns2:statistics views="15747" />
+    <ns2:starRating count="1401" average="5.00" min="1" max="5" />
+    <ns2:statistics views="17707" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -711,8 +761,8 @@ Subscribe to The Verge: https://bit.ly/3FT6n5S
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="202" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6350" />
+    <ns2:starRating count="213" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7140" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -779,8 +829,8 @@ Subscribe to The Verge: https://bit.ly/3FT6n5S
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="328" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14248" />
+    <ns2:starRating count="373" average="5.00" min="1" max="5" />
+    <ns2:statistics views="17973" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -801,8 +851,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
    <ns2:thumbnail url="https://i4.ytimg.com/vi/W9sc9dIZN5g/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="467" average="5.00" min="1" max="5" />
-    <ns2:statistics views="15219" />
+    <ns2:starRating count="536" average="5.00" min="1" max="5" />
+    <ns2:statistics views="16715" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -844,8 +894,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="109" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4434" />
+    <ns2:starRating count="123" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5078" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -866,8 +916,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
    <ns2:thumbnail url="https://i2.ytimg.com/vi/I2yS8dA2hP4/hqdefault.jpg" width="480" height="360" />
    <ns2:description>我们频道应该有将近六年的时间没有做索尼相机的长评了，今天这台叫做索尼FX5的设备，让我们有了久违的兴奋感，如果你也喜欢影像，希望这期视频也能让你体会到这种心情。如果这期节目对你有帮助，请多多支持我们，并把视频分享给你的朋友们一起看看！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2206" average="5.00" min="1" max="5" />
-    <ns2:statistics views="38293" />
+    <ns2:starRating count="2326" average="5.00" min="1" max="5" />
+    <ns2:statistics views="40022" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -909,8 +959,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="40" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2142" />
+    <ns2:starRating count="42" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2395" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -953,7 +1003,7 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
     <ns2:starRating count="21" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1087" />
+    <ns2:statistics views="1194" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -995,8 +1045,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="107" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4452" />
+    <ns2:starRating count="113" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4737" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1038,8 +1088,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="33" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2360" />
+    <ns2:starRating count="36" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2571" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1081,8 +1131,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="29" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2135" />
+    <ns2:starRating count="30" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2370" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1124,8 +1174,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="151" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14085" />
+    <ns2:starRating count="161" average="5.00" min="1" max="5" />
+    <ns2:statistics views="15982" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1157,8 +1207,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2761" average="5.00" min="1" max="5" />
-    <ns2:statistics views="193099" />
+    <ns2:starRating count="3011" average="5.00" min="1" max="5" />
+    <ns2:statistics views="207993" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1179,8 +1229,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:thumbnail url="https://i4.ytimg.com/vi/KVhj1mHjH5U/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Did Samsung just reveal what the iPhone Ultra will look like? The new Galaxy Z Fold8’s wider passport-style design feels exactly like what the rumors have been describing for Apple’s first foldable. Here’s why I think Samsung may have given us our best preview yet.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="129" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3902" />
+    <ns2:starRating count="135" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4246" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1201,8 +1251,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns2:thumbnail url="https://i4.ytimg.com/vi/sXScHQIXGNA/hqdefault.jpg" width="480" height="360" />
    <ns2:description>The New Galaxy Z Fold 8 from Samsung is short and wide this year. Do you like the size?</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1441" average="5.00" min="1" max="5" />
-    <ns2:statistics views="84242" />
+    <ns2:starRating count="1524" average="5.00" min="1" max="5" />
+    <ns2:statistics views="91017" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1216,7 +1266,7 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
    <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-07-22T13:01:05+00:00</ns0:published>
-  <ns0:updated>2026-07-22T22:36:01+00:00</ns0:updated>
+  <ns0:updated>2026-07-22T23:52:12+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!</ns2:title>
    <ns2:content url="https://www.youtube.com/v/8Hx2yvWSgs0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -1239,8 +1289,8 @@ http://twitter.com/MKBHD
 http://instagram.com/MKBHD
 http://facebook.com/MKBHD</ns2:description>
    <ns2:community>
-    <ns2:starRating count="60936" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1558295" />
+    <ns2:starRating count="63571" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1661969" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1298,8 +1348,8 @@ Welcome to MacRumors, your ultimate destination for in-depth and insightful Mac 
 
 Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:community>
-    <ns2:starRating count="203" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8436" />
+    <ns2:starRating count="215" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9149" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1341,8 +1391,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="307" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10251" />
+    <ns2:starRating count="328" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11218" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1384,8 +1434,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="141" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2589" />
+    <ns2:starRating count="145" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2715" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1427,8 +1477,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="200" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8280" />
+    <ns2:starRating count="210" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9505" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1455,8 +1505,8 @@ http://twitter.com/Dave2D
 http://www.instagram.com/Dave2D
 https://discord.gg/Dave2D</ns2:description>
    <ns2:community>
-    <ns2:starRating count="5081" average="5.00" min="1" max="5" />
-    <ns2:statistics views="136696" />
+    <ns2:starRating count="5368" average="5.00" min="1" max="5" />
+    <ns2:statistics views="148223" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1481,7 +1531,7 @@ https://discord.gg/Dave2D</ns2:description>
 ※貼心提醒：留言請保持禮貌運動、理性討論，違反社群規範或人身攻擊可能會遭檢舉</ns2:description>
    <ns2:community>
     <ns2:starRating count="26" average="5.00" min="1" max="5" />
-    <ns2:statistics views="669" />
+    <ns2:statistics views="672" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1495,7 +1545,7 @@ https://discord.gg/Dave2D</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-07-22T12:23:34+00:00</ns0:published>
-  <ns0:updated>2026-07-22T22:35:18+00:00</ns0:updated>
+  <ns0:updated>2026-07-22T23:53:39+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>科学禁地 | 老高與小茉 Mr &amp; Mrs Gao</ns2:title>
    <ns2:content url="https://www.youtube.com/v/SHWjQrGb3MQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -1729,8 +1779,8 @@ https://www.youtube.com/watch?v=2FLYgFa2ZyI
 
 【奇趣】https://goo.gl/Tbpiuj</ns2:description>
    <ns2:community>
-    <ns2:starRating count="12940" average="5.00" min="1" max="5" />
-    <ns2:statistics views="408600" />
+    <ns2:starRating count="13512" average="5.00" min="1" max="5" />
+    <ns2:statistics views="423758" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1859,8 +1909,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="222" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3340" />
+    <ns2:starRating count="237" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3448" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1902,8 +1952,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 
 ※貼心提醒：留言請保持禮貌運動、理性討論，違反社群規範或人身攻擊可能會遭檢舉</ns2:description>
    <ns2:community>
-    <ns2:starRating count="12" average="5.00" min="1" max="5" />
-    <ns2:statistics views="330" />
+    <ns2:starRating count="13" average="5.00" min="1" max="5" />
+    <ns2:statistics views="359" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1953,8 +2003,8 @@ https://youtu.be/roVuBCNtplo
 2-Hour Background English Listening: Native Speed Dialogues for Daily Immersion
 https://youtu.be/LicD5i_jYdo</ns2:description>
    <ns2:community>
-    <ns2:starRating count="55" average="5.00" min="1" max="5" />
-    <ns2:statistics views="733" />
+    <ns2:starRating count="58" average="5.00" min="1" max="5" />
+    <ns2:statistics views="877" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1988,7 +2038,7 @@ https://lin.ee/VFYRknp
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
     <ns2:starRating count="6" average="5.00" min="1" max="5" />
-    <ns2:statistics views="616" />
+    <ns2:statistics views="617" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2010,7 +2060,7 @@ https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:description>7/23 18:00 電玩瘋直播《斯普拉遁 塗擊隊》，由編輯 小鈺 與 特約 電波比比 主持。
 在充滿謎團的島嶼上，暴打鮭魚、尋找寶藏！《斯普拉遁 塗擊隊》是人氣對戰遊戲《斯普拉遁》系列首款衍生作品，主打冒險與探索元素。玩家將扮演「機械師」，在全新的舞台上展開與「魚漿幫」爭奪寶藏的大冒險。</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3" average="5.00" min="1" max="5" />
+    <ns2:starRating count="4" average="5.00" min="1" max="5" />
     <ns2:statistics views="0" />
    </ns2:community>
   </ns2:group>
@@ -2037,7 +2087,7 @@ She said the operator, Golden Island Cruises, had initially promised to cover pa
 #komodoisland #indonesia #boat #rescue #cruise #sea #trip</ns2:description>
    <ns2:community>
     <ns2:starRating count="2" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1046" />
+    <ns2:statistics views="1043" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2067,7 +2117,7 @@ Finding the right project management tool helped Pacifico Biolabs teammates free
 👉 Todoist is a team task manager. Organize your work &amp; life, finally (and for free) at https://bit.ly/4pfAHKr</ns2:description>
    <ns2:community>
     <ns2:starRating count="7" average="5.00" min="1" max="5" />
-    <ns2:statistics views="279" />
+    <ns2:statistics views="318" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2104,8 +2154,8 @@ https://lin.ee/VFYRknp
 成為這個頻道的會員並獲得福利：
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
-    <ns2:starRating count="6" average="5.00" min="1" max="5" />
-    <ns2:statistics views="287" />
+    <ns2:starRating count="7" average="5.00" min="1" max="5" />
+    <ns2:statistics views="296" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2133,8 +2183,8 @@ Bilibili: https://space.bilibili.com/471303350
 
 #數碼 #電腦 #電腦技巧 #廣告 #win11</ns2:description>
    <ns2:community>
-    <ns2:starRating count="912" average="5.00" min="1" max="5" />
-    <ns2:statistics views="22968" />
+    <ns2:starRating count="971" average="5.00" min="1" max="5" />
+    <ns2:statistics views="23833" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2177,8 +2227,8 @@ True飯  官方FB👉🏽  / truefun2023
 
 #館長 #館長直播 #完整直播part2</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2074" average="5.00" min="1" max="5" />
-    <ns2:statistics views="29211" />
+    <ns2:starRating count="2090" average="5.00" min="1" max="5" />
+    <ns2:statistics views="29279" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2199,8 +2249,8 @@ True飯  官方FB👉🏽  / truefun2023
    <ns2:thumbnail url="https://i2.ytimg.com/vi/5lggl_sCkcY/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="39" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1066" />
+    <ns2:starRating count="41" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1088" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2222,7 +2272,7 @@ True飯  官方FB👉🏽  / truefun2023
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="28" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1418" />
+    <ns2:statistics views="1442" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2265,8 +2315,8 @@ True飯  官方FB👉🏽  / truefun2023
    <ns2:thumbnail url="https://i2.ytimg.com/vi/QMGD_I3foGU/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="198" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4799" />
+    <ns2:starRating count="207" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4971" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2395,8 +2445,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="377" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6561" />
+    <ns2:starRating count="396" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6830" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2471,8 +2521,8 @@ https://bit.ly/3PaC4Jj
 
 #教學 #VSCode #程式 #開發 #網頁 #AI #Git #GitHub</ns2:description>
    <ns2:community>
-    <ns2:starRating count="741" average="5.00" min="1" max="5" />
-    <ns2:statistics views="16680" />
+    <ns2:starRating count="757" average="5.00" min="1" max="5" />
+    <ns2:statistics views="16782" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2516,8 +2566,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="636" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11151" />
+    <ns2:starRating count="643" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11235" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2540,8 +2590,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 
 Una micronovela filmada con iPhone 17 Pro. Durante el funeral de Don Cristóbal, Renata, Catalina, Beatriz y Emiliano despiden al patriarca entre lágrimas falsas, pensamientos venenosos y una misteriosa mujer observando desde lejos. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="406" average="5.00" min="1" max="5" />
-    <ns2:statistics views="19858" />
+    <ns2:starRating count="420" average="5.00" min="1" max="5" />
+    <ns2:statistics views="20793" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2564,8 +2614,8 @@ Una micronovela filmada con iPhone 17 Pro. Durante el funeral de Don Cristóbal,
 
 La familia se reúne tras el funeral para honrar a don Cristóbal con su postre favorito, pero la dulzura se vuelve peligrosa. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="324" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10187" />
+    <ns2:starRating count="341" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10624" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2588,8 +2638,8 @@ La familia se reúne tras el funeral para honrar a don Cristóbal con su postre 
 
 Emiliano colapsa tras comer el postre, mientras que Renata, Catalina y Beatriz se acusan entre sí. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="261" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7256" />
+    <ns2:starRating count="270" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7551" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2612,8 +2662,8 @@ Emiliano colapsa tras comer el postre, mientras que Renata, Catalina y Beatriz s
 
 Beatriz presiona a Armando para manipular el testamento y Catalina suelta una bomba. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="209" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5637" />
+    <ns2:starRating count="215" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5890" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2636,8 +2686,8 @@ Beatriz presiona a Armando para manipular el testamento y Catalina suelta una bo
 
 Tomás y Lupita descubren que él podría ser heredero de los Iturribiaga, pero una intrusa escucha la conversación y pone en jaque su plan. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="208" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8608" />
+    <ns2:starRating count="212" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8882" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2660,8 +2710,8 @@ Tomás y Lupita descubren que él podría ser heredero de los Iturribiaga, pero 
 
 Emiliano es secuestrado y Beatriz usa sus encantos para convencer al oficial Ulises Ferriz de incriminar a Tomás. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="177" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5945" />
+    <ns2:starRating count="183" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6188" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2684,8 +2734,8 @@ Emiliano es secuestrado y Beatriz usa sus encantos para convencer al oficial Uli
 
 Tomás termina en la cárcel acusado del secuestro de Emiliano, mientras que Catalina descubre quién alteró el postre. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="164" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4586" />
+    <ns2:starRating count="170" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4798" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2708,8 +2758,8 @@ Tomás termina en la cárcel acusado del secuestro de Emiliano, mientras que Cat
 
 La muerte de Tomás desata una guerra abierta entre Renata y Catalina mientras Beatriz aparece misteriosamente en una casa abandonada. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="171" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8802" />
+    <ns2:starRating count="182" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9038" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2732,8 +2782,8 @@ La muerte de Tomás desata una guerra abierta entre Renata y Catalina mientras B
 
 Renata finge amistad con Lupita para manipularla, pero su juego termina en tragedia. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="165" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9594" />
+    <ns2:starRating count="173" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10238" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2756,8 +2806,8 @@ Renata finge amistad con Lupita para manipularla, pero su juego termina en trage
 
 La tensión crece tras la muerte de Lupita cuando Renata y Catalina se acusan mutuamente y Beatriz reaparece de manera triunfal. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="177" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6633" />
+    <ns2:starRating count="180" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6833" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2780,8 +2830,8 @@ La tensión crece tras la muerte de Lupita cuando Renata y Catalina se acusan mu
 
 Beatriz reclama la fortuna como suya, Renata y Catalina negocian una tregua y una visitante inesperada lo pone todo en riesgo. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="180" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9196" />
+    <ns2:starRating count="188" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9433" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2804,8 +2854,8 @@ Beatriz reclama la fortuna como suya, Renata y Catalina negocian una tregua y un
 
 Elena revela que ha manipulado todo desde las sombras. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="173" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5492" />
+    <ns2:starRating count="177" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5701" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2828,8 +2878,8 @@ Elena revela que ha manipulado todo desde las sombras. Protagonizada por Itatí 
 
 Renata, Catalina y Beatriz llegan a una confrontación final dentro de la mansión. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="207" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8295" />
+    <ns2:starRating count="211" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8566" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2852,8 +2902,8 @@ Renata, Catalina y Beatriz llegan a una confrontación final dentro de la mansi�
 
 Se descubre la verdad final. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="671" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14132" />
+    <ns2:starRating count="674" average="5.00" min="1" max="5" />
+    <ns2:statistics views="14398" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2878,8 +2928,8 @@ Nido de Villanas, filmada con iPhone 17 Pro, es una micronovela llena de ambici�
 
 Welcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="791" average="5.00" min="1" max="5" />
-    <ns2:statistics views="19446" />
+    <ns2:starRating count="809" average="5.00" min="1" max="5" />
+    <ns2:statistics views="20032" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2900,8 +2950,8 @@ Welcome to the official Apple YouTube channel. Here you’ll find news about pro
    <ns2:thumbnail url="https://i3.ytimg.com/vi/6uY43Bz6hyI/hqdefault.jpg" width="480" height="360" />
    <ns2:description>成为此频道的会员即可获享以下福利：https://www.youtube.com/channel/UCr_F4Y9iboUKlg_ZPm4jkVQ/join</ns2:description>
    <ns2:community>
-    <ns2:starRating count="105" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8338" />
+    <ns2:starRating count="108" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8572" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2922,8 +2972,8 @@ Welcome to the official Apple YouTube channel. Here you’ll find news about pro
    <ns2:thumbnail url="https://i3.ytimg.com/vi/fTIOUCZvO5w/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="3876" average="5.00" min="1" max="5" />
-    <ns2:statistics views="56059" />
+    <ns2:starRating count="3903" average="5.00" min="1" max="5" />
+    <ns2:statistics views="57584" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3048,8 +3098,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #dr berg</ns2:description>
    <ns2:community>
-    <ns2:starRating count="99" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2281" />
+    <ns2:starRating count="102" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2306" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3070,8 +3120,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
    <ns2:thumbnail url="https://i4.ytimg.com/vi/koM7SorAMzE/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="179" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5087" />
+    <ns2:starRating count="182" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5175" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3144,8 +3194,8 @@ https://www.sciencedirect.com/science/article/pii/S1550413118304467
 #肝臟排毒 #柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝
 肝臟排毒飲食、Dr Berg柏格醫生、肝臟清潔無效、自然排毒有益、支持肝臟解毒、固定飲食最佳、每天吃肝臟食物、短期排毒無用、肝臟自然清潔、煮雞蛋洋蔥大蒜、海鹽煮蛋益處、十字花科蔬菜解毒、克菲爾益生菌、核桃低碳巧克力、百里香鼠尾草牛至、辣椒薑黃迷迭香、香草支持肝臟、肝臟排毒食物清單、自然解毒過程、肝臟健康飲食、避免肝臟清潔、固定飲食解毒法、洋蔥大蒜抗氧化、海鹽礦物質益處、煮蛋蛋白質來源、十字花科解毒酶、克菲爾發酵乳、核桃Omega3脂肪、無糖巧克力黃酮、百里香抗菌作用、鼠尾草消炎效果、牛至抗氧化劑、辣椒辣椒素解毒、薑黃薑黃素肝護、迷迭香記憶提升、肝臟解毒最佳餐、Dr Berg肝臟建議、自然排毒飲食指南、肝清潔迷思破除、支持肝臟每日食譜、雞蛋煮法解毒秘訣、十字花科如花椰菜、克菲爾優格替代、核桃堅果益處、低碳飲食巧克力、香草調味肝健康、薑黃茶排毒飲、迷迭香烤菜配方、肝臟固定飲食益、短期清潔危害揭、解毒過程生理機、肝臟食物支持清、洋蔥硫化合物益、大蒜大蒜素解毒、海鹽電解質平衡、煮蛋去皮技巧、十字花科西蘭花、克菲爾自製方法、核桃沙拉配、無糖黑巧克力片、百里香精油用、鼠尾草茶飲方、牛至披薩香料、辣椒紅椒益處、薑黃咖哩菜、迷迭香雞肉烤、肝排毒Dr Berg視頻、自然解毒食物組、肝清潔無科學依、固定飲食長期效、每天肝臟護理食、雞蛋洋蔥湯、十字花科蒸煮法、克菲爾smoothie、無糖巧克力堅果、香草混合調味、薑黃根粉使用、迷迭香葉茶、肝臟解毒迷思、支持肝臟排毒餐、煮蛋海鹽簡單食、十字花科解毒菜、克菲爾核桃優格、牛至抗真菌效、辣椒熱量低解毒、薑黃抗炎肝護、迷迭香認知益、Dr Berg飲食原則、自然排毒非清潔、肝臟健康固定食、短期排毒營養失、解毒酶誘導食物、洋蔥淚腺益處、大蒜生食解毒、海鹽無碘選擇、煮蛋全蛋營養、十字花科芥藍菜、克菲爾益菌株、核桃維生素E、無糖可可粉片、百里香料理用、鼠尾草口腔護、牛至義大利菜、辣椒維生素C、薑黃生物利用、迷迭香抗氧化、肝排毒最佳組合、Dr Berg肝臟講座、固定飲食解毒證、自然清潔過程解、肝食物每日推薦、雞蛋大蒜炒洋蔥、十字花科沙拉、克菲爾巧克力dip、香草薑黃湯、迷迭香馬鈴薯、肝臟排毒神話破、支持解毒固定法、煮蛋解毒秘方、十字花科蒸菜、克菲爾堅果混、無糖巧克力低卡、百里香茶解毒、鼠尾草燉肉、牛至沙拉醬、辣椒炒菜益、薑黃奶黃金乳、迷迭香麵包香、肝自然排毒食譜、Dr Berg推薦食材、肝清潔無益證據、固定飲食肝護效、每天吃解毒菜、洋蔥大蒜煮蛋法、海鹽鹹蛋製作、十字花科花菜湯、克菲爾優格碗、核桃黑巧克力、無糖片低碳甜、百里香抗菌茶、鼠尾草解毒草、牛至精油肝用、辣椒辣度選擇、薑黃補充劑劑量、迷迭香記憶食、肝臟解毒飲食書、自然排毒指南Dr、肝固定食支持清、短期清潔水分失、解毒食物科學依、洋蔥抗癌硫化、大蒜心血管益、海鹽礦物來源、煮蛋去膽固醇、十字花科解毒菜、克菲爾腸道健康、核桃腦部Omega、無糖巧克力心情、百里香呼吸道護、鼠尾草荷爾蒙調、牛至免疫提升、辣椒代謝加速、薑黃關節抗炎、迷迭香循環改善、肝排毒最佳菜單、Dr Berg視頻解說、自然解毒非速效、肝清潔商業騙、固定飲食長期解、每天肝臟食物清、雞蛋洋蔥大蒜、海鹽煮蛋簡單、十字花科西蘭花、克菲爾核桃配、無糖巧克力片脆、百里香料理秘、鼠尾草茶方、牛至披薩自製、辣椒紅辣椒、薑黃薑片泡茶、迷迭香烤雞、肝臟排毒飲食法、支持肝解毒固定、煮蛋解毒蛋白、十字花科綠花菜、克菲爾發酵益、核桃堅果沙拉、低碳無糖甜點、香草混合薑黃、迷迭香葉子用、肝自然清潔食、Dr Berg肝健康、肝清潔無效真相、固定飲食排毒王、短期排毒副作用、解毒過程肝酶、洋蔥淚水好處、大蒜蒜素抗菌、海鹽海水礦、煮蛋全營養蛋、十字花科菜花、克菲爾自製家、核桃維E抗氧、無糖可可健康、百里香香料茶、鼠尾草草本護、牛至抗菌草、辣椒維C解毒、薑黃黃素肝神、迷迭香羅勒配、肝排毒Dr建議、自然解毒食物名、肝固定飲食指南、清潔迷思科學破、支持肝每日餐、雞蛋煮洋蔥湯、大蒜海鹽蛋、十字花科蒸西蘭、克菲爾巧克力核、香草辣椒薑黃、迷迭香牛至鼠尾、肝臟解毒最佳食、煮蛋大蒜洋蔥、海鹽解毒鹽、十字花科芥菜、克菲爾低碳優、無糖黑巧片、百里香薑黃混、鼠尾草迷迭香、牛至辣椒茶、肝自然排毒菜、Dr Berg飲食書、固定食肝護法、短期清潔無科、每天解毒食材、洋蔥大蒜硫、海鹽礦電解質、煮蛋去黃技巧、十字花科解酶菜、克菲爾益生元、核桃Omega腦、無糖巧克力低糖、百里香抗炎草、鼠尾草消腫效、牛至義大利香、辣椒熱辣益、薑黃咖哩解、迷迭香記憶茶、肝排毒固定飲食、自然清潔支持食、肝清潔騙局揭、解毒食物清單Dr、雞蛋洋蔥大蒜煮、海鹽蛋簡單食、十字花科花椰、克菲爾核桃smooth、無糖片堅果配、百里香料理用法、鼠尾草燉湯、牛至沙拉調、辣椒炒解毒、薑黃根粉茶、迷迭香烤菜、肝臟排毒秘訣、支持解毒每天吃、煮蛋解毒法、海鹽無添加、十字花科綠菜、克菲爾發酵飲、核桃黑巧克力、低碳甜無糖、香草薑黃辣椒、迷迭香百里香牛、肝自然解毒指南、Dr Berg肝講座、肝固定飲食益處、清潔無幫助事實、短期排毒營養空、解毒酶誘導香草、洋蔥抗過敏、大蒜血管護、海鹽平衡鈉鉀、煮蛋蛋白消化、十字花科卷心菜、克菲爾腸肝軸、核桃心臟益、無糖可可心情好、百里香呼吸清、鼠尾草荷爾蒙穩、牛至免疫強、辣椒代謝燒、薑黃肝解毒王、迷迭香血流順、肝排毒最佳食材、自然排毒非清潔、肝健康固定法、每天肝食物推薦、雞蛋大蒜洋蔥、海鹽煮蛋秘、十字花科蒸菜法、克菲爾優格核、無糖巧克力片脆、百里香茶抗菌、鼠尾草草藥用、牛至披薩香、辣椒維生素解、薑黃黃金奶、迷迭香雞湯、肝臟解毒飲食Dr、自然解毒過程解、肝清潔無效證、固定飲食長期護、短期清潔水分騙、解毒食物科學食、洋蔥硫化物解、大蒜蒜精油、海鹽海洋礦、煮蛋全蛋去毒、十字花科西蘭蒸、克菲爾自製益、核桃維生素堅、無糖黑巧低熱、百里香香葉茶、鼠尾草口腔解、牛至抗真菌、辣椒紅椒熱、薑黃生物薑黃、迷迭香抗氧葉、肝排毒菜譜名、Dr Berg推薦解毒、肝固定食支持清、清潔迷思商業、</ns2:description>
    <ns2:community>
-    <ns2:starRating count="313" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5699" />
+    <ns2:starRating count="317" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5753" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3166,8 +3216,8 @@ https://www.sciencedirect.com/science/article/pii/S1550413118304467
    <ns2:thumbnail url="https://i1.ytimg.com/vi/dEBhiP1yZZY/hqdefault.jpg" width="480" height="360" />
    <ns2:description>First impressions matter, so how do you make yours count? Communication consultant Rebecca Okamoto outlines five simple ways to introduce yourself in 20 words or fewer, setting up any interview or conversation for those three crucial words: "Tell me more."</ns2:description>
    <ns2:community>
-    <ns2:starRating count="939" average="5.00" min="1" max="5" />
-    <ns2:statistics views="23899" />
+    <ns2:starRating count="966" average="5.00" min="1" max="5" />
+    <ns2:statistics views="24735" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3189,7 +3239,7 @@ https://www.sciencedirect.com/science/article/pii/S1550413118304467
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="150" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9058" />
+    <ns2:statistics views="9329" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3231,8 +3281,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="454" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10112" />
+    <ns2:starRating count="460" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10234" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3364,8 +3414,8 @@ https://thisisyourdailydose.com/
 14:52 Don't show off car fail
 14:57 End Shot</ns2:description>
    <ns2:community>
-    <ns2:starRating count="26231" average="5.00" min="1" max="5" />
-    <ns2:statistics views="644967" />
+    <ns2:starRating count="26516" average="5.00" min="1" max="5" />
+    <ns2:statistics views="655728" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3449,7 +3499,7 @@ App: https://apple.co/DeveloperApp
 
 #MeetWithApple #WWDC26</ns2:description>
    <ns2:community>
-    <ns2:starRating count="125" average="5.00" min="1" max="5" />
+    <ns2:starRating count="126" average="5.00" min="1" max="5" />
     <ns2:statistics views="0" />
    </ns2:community>
   </ns2:group>
@@ -3482,8 +3532,8 @@ Chapters:
 01:33 Reviewing the meeting brief
 01:46 Applying the plugin workflow</ns2:description>
    <ns2:community>
-    <ns2:starRating count="709" average="5.00" min="1" max="5" />
-    <ns2:statistics views="23015" />
+    <ns2:starRating count="718" average="5.00" min="1" max="5" />
+    <ns2:statistics views="23413" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3504,8 +3554,8 @@ Chapters:
    <ns2:thumbnail url="https://i3.ytimg.com/vi/b63YBWFReP8/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="6835" average="5.00" min="1" max="5" />
-    <ns2:statistics views="141262" />
+    <ns2:starRating count="6889" average="5.00" min="1" max="5" />
+    <ns2:statistics views="142649" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3519,7 +3569,7 @@ Chapters:
    <ns0:uri>https://www.youtube.com/channel/UCSoc4XAihwzAA7p29tpAu9A</ns0:uri>
   </ns0:author>
   <ns0:published>2026-07-21T17:00:01+00:00</ns0:published>
-  <ns0:updated>2026-07-22T10:46:50+00:00</ns0:updated>
+  <ns0:updated>2026-07-22T23:23:55+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Rafe's Speech - Uncharted 4: A Thief's End</ns2:title>
    <ns2:content url="https://www.youtube.com/v/rAXwjEaBzHU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -3528,8 +3578,8 @@ Chapters:
 
 #Uncharted #AThiefsEnd #NathanDrake #VideoGames #NaughtyDog</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1008" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9973" />
+    <ns2:starRating count="1028" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10193" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3573,7 +3623,7 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
     <ns2:starRating count="3416" average="5.00" min="1" max="5" />
-    <ns2:statistics views="74581" />
+    <ns2:statistics views="74643" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3595,7 +3645,7 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
    <ns2:description>who let them get so tanky? 🫥</ns2:description>
    <ns2:community>
     <ns2:starRating count="403" average="5.00" min="1" max="5" />
-    <ns2:statistics views="29275" />
+    <ns2:statistics views="29588" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3621,8 +3671,8 @@ True飯  官方FB👉🏽https://www.facebook.com/truefun2023
 公众号：honor22
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3566" average="5.00" min="1" max="5" />
-    <ns2:statistics views="59913" />
+    <ns2:starRating count="3575" average="5.00" min="1" max="5" />
+    <ns2:statistics views="60155" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3665,7 +3715,7 @@ TED videos may be used for non-commercial purposes under a Creative Commons Lice
 #TED #TEDTalks #Democracy</ns2:description>
    <ns2:community>
     <ns2:starRating count="212" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9578" />
+    <ns2:statistics views="9698" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3715,8 +3765,8 @@ Twitter: https://twitter.com/dennied_
 
 #gaming #Overwatch #ml7</ns2:description>
    <ns2:community>
-    <ns2:starRating count="537" average="5.00" min="1" max="5" />
-    <ns2:statistics views="15724" />
+    <ns2:starRating count="544" average="5.00" min="1" max="5" />
+    <ns2:statistics views="15902" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3742,7 +3792,7 @@ Twitter: https://twitter.com/dennied_
 ※貼心提醒：留言請保持禮貌運動、理性討論，違反社群規範或人身攻擊可能會遭檢舉</ns2:description>
    <ns2:community>
     <ns2:starRating count="29" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1877" />
+    <ns2:statistics views="1894" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3796,8 +3846,8 @@ DESIGN.md files (GitHub) - https://github.com/VoltAgent/awesome-design-md
 
 #ai</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1120" average="5.00" min="1" max="5" />
-    <ns2:statistics views="27909" />
+    <ns2:starRating count="1139" average="5.00" min="1" max="5" />
+    <ns2:statistics views="28553" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3861,8 +3911,8 @@ Copyright © 腦洞烏托邦™️ All Rights Reserved.
 ☆
 #腦洞烏托邦 # Xiaowu # 小烏 # ndwtb # 驚掉下巴 #未解之謎 #真實事件 #神秘事件 #都市傳說 #歷史懸案 #科學無法解釋 #人類未解之謎 #被隱藏的真相 #真實恐怖事件 #深度解析</ns2:description>
    <ns2:community>
-    <ns2:starRating count="422" average="5.00" min="1" max="5" />
-    <ns2:statistics views="34778" />
+    <ns2:starRating count="425" average="5.00" min="1" max="5" />
+    <ns2:statistics views="35056" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3931,8 +3981,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4592" average="5.00" min="1" max="5" />
-    <ns2:statistics views="485897" />
+    <ns2:starRating count="4608" average="5.00" min="1" max="5" />
+    <ns2:statistics views="487665" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3993,7 +4043,7 @@ https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
 #格鬥 #mma  #ufc  #拳擊</ns2:description>
    <ns2:community>
     <ns2:starRating count="41" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1178" />
+    <ns2:statistics views="1179" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4026,51 +4076,7 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
 #猴哥 #猴哥精華 #猴哥日常</ns2:description>
    <ns2:community>
     <ns2:starRating count="195" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13403" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:gRuVodJbvVo</ns0:id>
-  <ns1:videoId>gRuVodJbvVo</ns1:videoId>
-  <ns1:channelId>UCgm9WPYFcviZyyCUzEXfR2Q</ns1:channelId>
-  <ns0:title>[Ellie Golden Life]suprising my dog for her 10th birthday 🥺</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/gRuVodJbvVo" />
-  <ns0:author>
-   <ns0:name>Ellie Golden Life</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCgm9WPYFcviZyyCUzEXfR2Q</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-21T10:34:35+00:00</ns0:published>
-  <ns0:updated>2026-07-22T10:40:41+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>suprising my dog for her 10th birthday 🥺</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/gRuVodJbvVo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/gRuVodJbvVo/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="64687" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1070454" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:ZWxP_RojEfQ</ns0:id>
-  <ns1:videoId>ZWxP_RojEfQ</ns1:videoId>
-  <ns1:channelId>UCyYlGTZL-HnnX_UcGkVFH7A</ns1:channelId>
-  <ns0:title>[LeLe Farley]台南求你還我腹肌！ #台南 #tainan</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/ZWxP_RojEfQ" />
-  <ns0:author>
-   <ns0:name>LeLe Farley</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCyYlGTZL-HnnX_UcGkVFH7A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-21T10:11:28+00:00</ns0:published>
-  <ns0:updated>2026-07-22T10:24:32+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>台南求你還我腹肌！ #台南 #tainan</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/ZWxP_RojEfQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/ZWxP_RojEfQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="1048" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8952" />
+    <ns2:statistics views="13417" />
    </ns2:community>
   </ns2:group>
  </ns0:entry></feed>
