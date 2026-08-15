@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-08-15T04:56:02Z</updated><ns0:entry>
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-08-15T05:22:17Z</updated><ns0:entry>
   <ns0:id>yt:video:E7la7-dtfVM</ns0:id>
   <ns1:videoId>E7la7-dtfVM</ns1:videoId>
   <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
@@ -26,8 +26,31 @@ Want more Fireship?
 🗞️ Newsletter: https://bytes.dev
 🧠 Courses: https://fireship.dev</ns2:description>
    <ns2:community>
-    <ns2:starRating count="11347" average="5.00" min="1" max="5" />
-    <ns2:statistics views="246861" />
+    <ns2:starRating count="11529" average="5.00" min="1" max="5" />
+    <ns2:statistics views="252390" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:gfhoJY2D4Jc</ns0:id>
+  <ns1:videoId>gfhoJY2D4Jc</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]VibeCoding极简神器 Pi</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=gfhoJY2D4Jc" />
+  <ns0:author>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-08-13T09:00:35+00:00</ns0:published>
+  <ns0:updated>2026-08-13T09:00:37+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>VibeCoding极简神器 Pi</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/gfhoJY2D4Jc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/gfhoJY2D4Jc/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>作者知识星球：https://t.zsxq.com/ubYr8
+Pi: https://pi.dev/</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="63" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2213" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -57,47 +80,8 @@ Want more Fireship?
 🗞️ Newsletter: https://bytes.dev
 🧠 Courses: https://fireship.dev</ns2:description>
    <ns2:community>
-    <ns2:starRating count="11982" average="5.00" min="1" max="5" />
-    <ns2:statistics views="429665" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:o4SSoURPODY</ns0:id>
-  <ns1:videoId>o4SSoURPODY</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]Google Pixel 11/Pro/Fold Impressions: It Is What It Is</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=o4SSoURPODY" />
-  <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-12T14:00:35+00:00</ns0:published>
-  <ns0:updated>2026-08-15T01:52:41+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Google Pixel 11/Pro/Fold Impressions: It Is What It Is</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/o4SSoURPODY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Every year, a new Pixel, and new hopes and dreams...
-
-Protect your new Pixel 11 or old Pixel 10 with dbrand at https://dbrand.com/shop/pixel11
-
-Affiliate Links:
-Pixel 11 Pro: https://geni.us/iypnawz
-Pixel 11 Pro XL: https://geni.us/Jfybl
-Pixel 11 Pro Fold: https://geni.us/XaTcge
-Pixel Watch 5: https://geni.us/2s9sEq
-
-MKBHD Merch: http://shop.MKBHD.com
-
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="77020" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2697172" />
+    <ns2:starRating count="11991" average="5.00" min="1" max="5" />
+    <ns2:statistics views="429888" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -127,33 +111,38 @@ Want more Fireship?
 🗞️ Newsletter: https://bytes.dev
 🧠 Courses: https://fireship.dev</ns2:description>
    <ns2:community>
-    <ns2:starRating count="22157" average="5.00" min="1" max="5" />
-    <ns2:statistics views="944470" />
+    <ns2:starRating count="22168" average="5.00" min="1" max="5" />
+    <ns2:statistics views="944966" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:6XYT3Km1ZcM</ns0:id>
-  <ns1:videoId>6XYT3Km1ZcM</ns1:videoId>
-  <ns1:channelId>UCCa8wBBy5VB7c4EWMPdsggQ</ns1:channelId>
-  <ns0:title>[Eric长安万年（Eric长安万年）]变态反差17岁少女美警审讯，谋害亲生爷爷奶奶毫无一丝悔意，被抛弃的怨恨酿成复仇惨案 | Eric长安万年</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=6XYT3Km1ZcM" />
+  <ns0:id>yt:video:TtZ0WM-91GM</ns0:id>
+  <ns1:videoId>TtZ0WM-91GM</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]DLSS FSR 到底做了什么</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=TtZ0WM-91GM" />
   <ns0:author>
-   <ns0:name>Eric长安万年（Eric长安万年）</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-08-09T01:51:49+00:00</ns0:published>
-  <ns0:updated>2026-08-09T07:02:09+00:00</ns0:updated>
+  <ns0:published>2026-08-06T09:00:05+00:00</ns0:published>
+  <ns0:updated>2026-08-10T01:08:05+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>变态反差17岁少女美警审讯，谋害亲生爷爷奶奶毫无一丝悔意，被抛弃的怨恨酿成复仇惨案 | Eric长安万年</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/6XYT3Km1ZcM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/6XYT3Km1ZcM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>这次带来卡珊德拉案的第二部分。在这个部分中卡珊德拉具体谈及了自己的想法和作案的更多细节。两名少年少女最终差点自杀死亡，后被救回之后双双获重刑。更令人称奇的是，卡珊德拉没有在任何场合跟任何人表达过意思悔意！这期我们来仔细分析其中细节。
+   <ns2:title>DLSS FSR 到底做了什么</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/TtZ0WM-91GM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/TtZ0WM-91GM/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>作者知识星球：https://t.zsxq.com/ubYr8
 
-点击链接加入我的会员
-https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ/join</ns2:description>
+00:00:00 引子
+00:00:33 DLSS 1.0
+00:05:06 问题
+00:07:29 亚像素抖动
+00:10:25 其它参数
+00:12:34 未来
+00:13:49 最后</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1215" average="5.00" min="1" max="5" />
-    <ns2:statistics views="41138" />
+    <ns2:starRating count="156" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5053" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -183,78 +172,8 @@ Want more Fireship?
 🗞️ Newsletter: https://bytes.dev
 🧠 Courses: https://fireship.dev</ns2:description>
    <ns2:community>
-    <ns2:starRating count="20730" average="5.00" min="1" max="5" />
-    <ns2:statistics views="607022" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:95p12uULGhg</ns0:id>
-  <ns1:videoId>95p12uULGhg</ns1:videoId>
-  <ns1:channelId>UCCa8wBBy5VB7c4EWMPdsggQ</ns1:channelId>
-  <ns0:title>[Eric长安万年（Eric长安万年）]17岁可爱少女弑亲案，美警审讯诡异得像家庭聚餐，嫌疑人面无表情地说完了怎么杀死爷爷奶奶！美警审讯全解析 | Eric长安万年</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=95p12uULGhg" />
-  <ns0:author>
-   <ns0:name>Eric长安万年（Eric长安万年）</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-05T00:00:16+00:00</ns0:published>
-  <ns0:updated>2026-08-05T00:00:17+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>17岁可爱少女弑亲案，美警审讯诡异得像家庭聚餐，嫌疑人面无表情地说完了怎么杀死爷爷奶奶！美警审讯全解析 | Eric长安万年</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/95p12uULGhg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/95p12uULGhg/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>點擊 https://surfshark.com/ericca 或使用優惠碼 ERICCA 以獲得額外 4 個月 Surfshark 服務！
-
-本案发生于2017年的美国乔治亚州。凶手是受害者的亲身孙女。
-
-她会少林武术，笑起来干净可爱，乍看就是一个普通的17岁少女。但是她以最平静的方式叙述了最残忍的作案过程。这次还是久违了审讯分析，分为上下两部。希望大家喜欢。
-
-完整版无分析无剪辑的原版视频已经上传，时长3个小时，有兴趣的朋友可以去仔细看看无数我无法放在本视频中提到的内容。
-
-点击链接加入我的会员
-https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ/join</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1812" average="5.00" min="1" max="5" />
-    <ns2:statistics views="99960" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:Z6z_feacXW8</ns0:id>
-  <ns1:videoId>Z6z_feacXW8</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]Galaxy Z Fold 8 Review: Honeymoon's Over</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=Z6z_feacXW8" />
-  <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-01T00:05:00+00:00</ns0:published>
-  <ns0:updated>2026-08-04T09:50:43+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Galaxy Z Fold 8 Review: Honeymoon's Over</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/Z6z_feacXW8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>This is a really easy phone to fall in love with. Beware.
-
-Enter to win $100,000 USD or 3 cars for free at https://ridge.com/MKBHD
-
-(Affiliate Link) Samsung Galaxy Z Fold 8: https://geni.us/GEv50B 
-
-MKBHD Merch: http://shop.MKBHD.com
-
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-Phone provided by Samsung for review.
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD
-
-NO PURCHASE NECESSARY. Open only to legal residents of the promotion territory, who have reached the age of majority in their jurisdiction of residence. Void elsewhere &amp; where prohibited by law. Enter by 9:00 a.m. USPT on 8 September 2026. 2 winners, prizes total ARV: up to approx. $380,000 USD / approximately $539,165 CAD / £284,170 / $547,515 AUD / €333,038.Skill-testing question required in CA. See Official Rules at https://ridge.com/pages/rules for complete eligibility, entry instructions, how to enter without ax purchase, entry limits, prize details, odds, and restrictions. Sponsor: The Ridge Wallet LLC.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="103359" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4191894" />
+    <ns2:starRating count="20731" average="5.00" min="1" max="5" />
+    <ns2:statistics views="607045" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -285,42 +204,7 @@ Want more Fireship?
 🧠 Courses: https://fireship.dev</ns2:description>
    <ns2:community>
     <ns2:starRating count="21013" average="5.00" min="1" max="5" />
-    <ns2:statistics views="693202" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:_xjxwl1zLMc</ns0:id>
-  <ns1:videoId>_xjxwl1zLMc</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]Framework 13 Pro: The Modular Laptop is Real!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=_xjxwl1zLMc" />
-  <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-27T15:38:21+00:00</ns0:published>
-  <ns0:updated>2026-08-06T05:26:11+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Framework 13 Pro: The Modular Laptop is Real!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/_xjxwl1zLMc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>The modular Macbook Pro for Linux users. Color me impressed.
-
-MKBHD Merch: http://shop.MKBHD.com
-
-Framework 13 Pro: https://geni.us/SVkxq
-
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-Laptop provided by Framework for review.
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="99178" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3230884" />
+    <ns2:statistics views="693209" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -350,8 +234,8 @@ Want more Fireship?
 🗞️ Newsletter: https://bytes.dev
 🧠 Courses: https://fireship.dev</ns2:description>
    <ns2:community>
-    <ns2:starRating count="32762" average="5.00" min="1" max="5" />
-    <ns2:statistics views="877960" />
+    <ns2:starRating count="32763" average="5.00" min="1" max="5" />
+    <ns2:statistics views="878077" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -382,67 +266,7 @@ Want more Fireship?
 🧠 Courses: https://fireship.dev</ns2:description>
    <ns2:community>
     <ns2:starRating count="28830" average="5.00" min="1" max="5" />
-    <ns2:statistics views="995053" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:8Hx2yvWSgs0</ns0:id>
-  <ns1:videoId>8Hx2yvWSgs0</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=8Hx2yvWSgs0" />
-  <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-22T13:01:05+00:00</ns0:published>
-  <ns0:updated>2026-07-29T14:15:59+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/8Hx2yvWSgs0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Samsung's wide fold is surprisingly nice to use. And everything is more expensive.
-
-Protect your next Samsung Flip or Fold with dbrand at https://dbrand.com/shop/fold8
-
-Affiliate Links:
-Samsung Galaxy Z Fold 8: https://geni.us/GEv50B
-Samsung Galaxy Z Fold 8 Ultra: https://geni.us/kWg2rl3
-Samsung Galaxy Z Flip 8: https://geni.us/2An1N
-
-MKBHD Merch: http://shop.MKBHD.com
-
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="117160" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4641387" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:kUnR9dO4EnA</ns0:id>
-  <ns1:videoId>kUnR9dO4EnA</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]This ZOOM is Insane!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/kUnR9dO4EnA" />
-  <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-20T20:39:08+00:00</ns0:published>
-  <ns0:updated>2026-07-25T06:22:09+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>This ZOOM is Insane!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/kUnR9dO4EnA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/kUnR9dO4EnA/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Keep zooming. Keep zooming.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="139884" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3432627" />
+    <ns2:statistics views="995059" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -503,8 +327,42 @@ Want more Fireship?
 🗞️ Newsletter: https://bytes.dev
 🧠 Courses: https://fireship.dev</ns2:description>
    <ns2:community>
-    <ns2:starRating count="14661" average="5.00" min="1" max="5" />
-    <ns2:statistics views="498767" />
+    <ns2:starRating count="14662" average="5.00" min="1" max="5" />
+    <ns2:statistics views="498774" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:E7qG6LvyEnc</ns0:id>
+  <ns1:videoId>E7qG6LvyEnc</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]英伟达的护城河究竟是什么？</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=E7qG6LvyEnc" />
+  <ns0:author>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-07-16T09:00:04+00:00</ns0:published>
+  <ns0:updated>2026-08-06T09:11:46+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>英伟达的护城河究竟是什么？</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/E7qG6LvyEnc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/E7qG6LvyEnc/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>作者知识星球：https://t.zsxq.com/ubYr8
+什么是梯度：https://www.youtube.com/watch?v=FOHyospzUd4
+
+---
+00:00:00 引子
+00:00:47 CPU
+00:01:51 内存
+00:06:02 CUDA
+00:09:47 推理互联
+00:11:02 训练互联
+00:13:13 软件
+00:16:45 另类的挑战者
+00:18:10 总结</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="170" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4498" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -539,37 +397,6 @@ Want more Fireship?
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:_oRgdlJUD18</ns0:id>
-  <ns1:videoId>_oRgdlJUD18</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]iOS 27 Hands-On: Top 5 New Features!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=_oRgdlJUD18" />
-  <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-13T22:27:02+00:00</ns0:published>
-  <ns0:updated>2026-08-15T01:48:50+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>iOS 27 Hands-On: Top 5 New Features!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/_oRgdlJUD18?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/_oRgdlJUD18/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>First look at iOS 27 - coming soon to an iPhone near you. It's about time.
-
-MKBHD Merch: http://shop.MKBHD.com
-
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="143310" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5646417" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
   <ns0:id>yt:video:URKml8lgw8Y</ns0:id>
   <ns1:videoId>URKml8lgw8Y</ns1:videoId>
   <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
@@ -601,37 +428,6 @@ Want more Fireship?
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:eWKY0OnPByg</ns0:id>
-  <ns1:videoId>eWKY0OnPByg</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]Apple Lost the AI Race</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=eWKY0OnPByg" />
-  <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-08T19:44:58+00:00</ns0:published>
-  <ns0:updated>2026-07-12T12:57:58+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Apple Lost the AI Race</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/eWKY0OnPByg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/eWKY0OnPByg/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Apple lost the AI race. Actually, Apple won the AI race. Wait.
-
-That shirt: http://shop.MKBHD.com
-
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="92841" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2181323" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
   <ns0:id>yt:video:KGtko3y2RXQ</ns0:id>
   <ns1:videoId>KGtko3y2RXQ</ns1:videoId>
   <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
@@ -658,105 +454,8 @@ Want more Fireship?
 🗞️ Newsletter: https://bytes.dev
 🧠 Courses: https://fireship.dev</ns2:description>
    <ns2:community>
-    <ns2:starRating count="24502" average="5.00" min="1" max="5" />
-    <ns2:statistics views="785749" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:DUgPFNRmsCQ</ns0:id>
-  <ns1:videoId>DUgPFNRmsCQ</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]Nothing Phone 4b: They Can't Say It!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=DUgPFNRmsCQ" />
-  <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-07T10:31:42+00:00</ns0:published>
-  <ns0:updated>2026-07-11T23:13:24+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Nothing Phone 4b: They Can't Say It!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/DUgPFNRmsCQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/DUgPFNRmsCQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>They won't tell us what the b stands for, but...
-
-MKBHD Merch: http://shop.MKBHD.com
-
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-Phone provided by Nothing for review.
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="65018" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2375532" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:OxG34UmugwI</ns0:id>
-  <ns1:videoId>OxG34UmugwI</ns1:videoId>
-  <ns1:channelId>UCCa8wBBy5VB7c4EWMPdsggQ</ns1:channelId>
-  <ns0:title>[Eric长安万年（Eric长安万年）]世界杯上的心理博弈：球员、门将、裁判都在用的身体语言都在说什么？| Eric长安万年</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=OxG34UmugwI" />
-  <ns0:author>
-   <ns0:name>Eric长安万年（Eric长安万年）</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-03T12:09:40+00:00</ns0:published>
-  <ns0:updated>2026-07-08T04:14:51+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>世界杯上的心理博弈：球员、门将、裁判都在用的身体语言都在说什么？| Eric长安万年</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/OxG34UmugwI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/OxG34UmugwI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>世界杯来了，最近大家都看球了吗？足球比赛其实不只是用脚踢的，也是一场全员都参与的身体语言和心理大战。足球因为场地很大，球员之间的身体语言交流非常的重要，门将的身体语言对点球大战的结果也有非常大的影响。裁判也是，裁判的身体语言全都经过非常专业的训练，这个视频我们也来科普一下。世界杯是世界上最盛大的赛事之一，同时也肯定是运动员压力最大的比赛，在这个情况之下任何的动作都不是随机出现的，而是最真实的博弈的外在表现。
-
-这个视频主要是基于挪威的Geir Jordet，Ingrid Lian等足球心理学专家的研究成果拿来给大家分享。当然足球是一项世界级的运动，每个国家，每只球队的比赛和训练风格都有可能不同，所以视频中间所提到的一些理论可能并不是放之四海皆准。但是确实是目前世界上最先进的足球心理学和身体语言上的成果。
-
-希望大家喜欢这个视频。
-
-点击链接加入我的会员
-https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ/join</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="419" average="5.00" min="1" max="5" />
-    <ns2:statistics views="17359" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:7KRabLH7jcE</ns0:id>
-  <ns1:videoId>7KRabLH7jcE</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]The Best Car I've Ever Driven: McLaren W1</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=7KRabLH7jcE" />
-  <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-02T20:42:45+00:00</ns0:published>
-  <ns0:updated>2026-07-25T20:20:59+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>The Best Car I've Ever Driven: McLaren W1</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/7KRabLH7jcE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/7KRabLH7jcE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>I may never see this car again. But it's incredible.
-
-For car videos: http://youtube.com/Autofocus
-
-Rimac Nevera: https://youtu.be/sF9xYtouZjY?si=ChdSpLzC6TcR4Wdz
-
-MKBHD Merch: http://shop.MKBHD.com
-
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="65806" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1863630" />
+    <ns2:starRating count="24503" average="5.00" min="1" max="5" />
+    <ns2:statistics views="785763" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -786,94 +485,38 @@ Want more Fireship?
 🗞️ Newsletter: https://bytes.dev
 🧠 Courses: https://fireship.dev</ns2:description>
    <ns2:community>
-    <ns2:starRating count="15934" average="5.00" min="1" max="5" />
-    <ns2:statistics views="313650" />
+    <ns2:starRating count="15935" average="5.00" min="1" max="5" />
+    <ns2:statistics views="313657" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:ZpF6IE0rdxA</ns0:id>
-  <ns1:videoId>ZpF6IE0rdxA</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]Antigravity A1: A New Take on Drones!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ZpF6IE0rdxA" />
+  <ns0:id>yt:video:EUYt0Q-hPeo</ns0:id>
+  <ns1:videoId>EUYt0Q-hPeo</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]Vibe Coding是什么？从AI模型、Agent到工作流，彻底搞懂AI编程工具</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=EUYt0Q-hPeo" />
   <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-06-29T19:22:20+00:00</ns0:published>
-  <ns0:updated>2026-07-08T13:44:45+00:00</ns0:updated>
+  <ns0:published>2026-06-25T09:00:07+00:00</ns0:published>
+  <ns0:updated>2026-07-04T18:42:33+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Antigravity A1: A New Take on Drones!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/ZpF6IE0rdxA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/ZpF6IE0rdxA/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Thanks Antigravity for sponsoring this video! Get 25% off the A1 at https://geni.us/lQlFcj for a limited time, and get 20% off accessories during Prime Day! Also, the first 25 people get a free flight battery and a double-lens replacement kit with their A1 purchase.
+   <ns2:title>Vibe Coding是什么？从AI模型、Agent到工作流，彻底搞懂AI编程工具</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/EUYt0Q-hPeo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/EUYt0Q-hPeo/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>作者知识星球：https://t.zsxq.com/ubYr8
+作者第一次VibeCoding：https://github.com/cradiator/memory_map_visualizer
 
-MKBHD Merch: http://shop.MKBHD.com
-
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
+---
+00:00:00 引子
+00:00:40 模型
+00:03:36 Agent
+00:07:27 workflow
+00:11:38 总结</ns2:description>
    <ns2:community>
-    <ns2:starRating count="52530" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2161991" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:oYAnEH0JoqI</ns0:id>
-  <ns1:videoId>oYAnEH0JoqI</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]Apple's Big Price Hike</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/oYAnEH0JoqI" />
-  <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-25T15:32:20+00:00</ns0:published>
-  <ns0:updated>2026-07-23T14:24:08+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Apple's Big Price Hike</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/oYAnEH0JoqI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/oYAnEH0JoqI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>New prices across the board for everything.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="56518" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1754702" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:QrT4S9i3agE</ns0:id>
-  <ns1:videoId>QrT4S9i3agE</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]Top 5 Android 17 Features: I Swear It's New!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=QrT4S9i3agE" />
-  <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-24T21:06:51+00:00</ns0:published>
-  <ns0:updated>2026-07-08T13:44:46+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Top 5 Android 17 Features: I Swear It's New!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/QrT4S9i3agE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/QrT4S9i3agE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Android 17 Cinnamon bun. We're bringing the dessert names back.
-
-Save 60% off site-wide with dbrand at https://dbrand.com/summersale during their limited-time Summer Sale!
-
-That shirt! http://shop.MKBHD.com
-
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="65367" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2054546" />
+    <ns2:starRating count="266" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7813" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -947,411 +590,802 @@ Want more Fireship?
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:WOzcFkld6_g</ns0:id>
-  <ns1:videoId>WOzcFkld6_g</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]The Most Interesting Displays In The World!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=WOzcFkld6_g" />
+  <ns0:id>yt:video:t4QF0t_Y2Bs</ns0:id>
+  <ns1:videoId>t4QF0t_Y2Bs</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]Python 3.15有什么新特性</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=t4QF0t_Y2Bs" />
   <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-06-16T18:17:15+00:00</ns0:published>
-  <ns0:updated>2026-07-08T13:44:45+00:00</ns0:updated>
+  <ns0:published>2026-06-11T09:00:39+00:00</ns0:published>
+  <ns0:updated>2026-06-17T04:40:32+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>The Most Interesting Displays In The World!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/WOzcFkld6_g?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/WOzcFkld6_g/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>From touchscreen Macbooks to holograms
-
-Get 40% the Chef iQ Mini Oven and more by using code MKBHD at https://chefiq.com/discount/MKBHD
-
-Magic screen: https://www.kickstarter.com/projects/intricuit/magic-screen-the-first-snap-on-touchscreen-for-your-macbook
-
-Studio hologram video: https://youtu.be/luq4Vsy38Ac?si=p6hkSmttytl8Vkmg
-
-(Affiliate Link) Dell UltraSharp 52 U5226KW: https://geni.us/Hxv9
-
-MKBHD Merch: http://shop.MKBHD.com
-
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
+   <ns2:title>Python 3.15有什么新特性</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/t4QF0t_Y2Bs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/t4QF0t_Y2Bs/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>作者知识星球：https://t.zsxq.com/ubYr8
+---
+00:00:00 frozendict
+00:01:58 sentinel
+00:03:50 lazy import
+00:05:13 其它</ns2:description>
    <ns2:community>
-    <ns2:starRating count="72392" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2697193" />
+    <ns2:starRating count="229" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8750" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:_gCXmKjDecU</ns0:id>
-  <ns1:videoId>_gCXmKjDecU</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]WWDC 2026 Impressions: Yeah, That's About Right</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=_gCXmKjDecU" />
+  <ns0:id>yt:video:6LLVoqhNfHc</ns0:id>
+  <ns1:videoId>6LLVoqhNfHc</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]大模型如何看懂图片 ViT Vision Transformer</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=6LLVoqhNfHc" />
   <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-06-09T05:48:41+00:00</ns0:published>
-  <ns0:updated>2026-07-08T13:44:45+00:00</ns0:updated>
+  <ns0:published>2026-05-28T09:00:01+00:00</ns0:published>
+  <ns0:updated>2026-07-14T18:09:41+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>WWDC 2026 Impressions: Yeah, That's About Right</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/_gCXmKjDecU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/_gCXmKjDecU/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Everything you need to know about the new Siri AI and iOS 27
+   <ns2:title>大模型如何看懂图片 ViT Vision Transformer</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/6LLVoqhNfHc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/6LLVoqhNfHc/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>注意力机制: https://www.youtube.com/watch?v=whe268MthvE
+知识星球：https://t.zsxq.com/ubYr8
 
-Get up to 40% off at https://ridge.com/MKBHD for Father’s Day! Ends June 21st!
-
-MKBHD Merch: http://shop.MKBHD.com
-
-Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-~
-http://twitter.com/MKBHD
-http://instagram.com/MKBHD
-http://facebook.com/MKBHD</ns2:description>
+---
+00:00:00 多模态大模型
+00:01:03 Token
+00:03:23 ViT
+00:05:52 Transformer
+00:07:36 编码器
+00:09:32 整体流程</ns2:description>
    <ns2:community>
-    <ns2:starRating count="114941" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4144937" />
+    <ns2:starRating count="150" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4079" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:n3V3LZh_r40</ns0:id>
-  <ns1:videoId>n3V3LZh_r40</ns1:videoId>
-  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
-  <ns0:title>[Marques Brownlee]Apple Products That DON'T Exist</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/n3V3LZh_r40" />
+  <ns0:id>yt:video:ytT4-lGEf6A</ns0:id>
+  <ns1:videoId>ytT4-lGEf6A</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]VibeCoding就该这么做！</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ytT4-lGEf6A" />
   <ns0:author>
-   <ns0:name>Marques Brownlee</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-06-04T19:41:28+00:00</ns0:published>
-  <ns0:updated>2026-07-10T15:41:08+00:00</ns0:updated>
+  <ns0:published>2026-05-14T09:01:10+00:00</ns0:published>
+  <ns0:updated>2026-08-11T03:11:34+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Apple Products That DON'T Exist</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/n3V3LZh_r40?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/n3V3LZh_r40/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>yet</ns2:description>
+   <ns2:title>VibeCoding就该这么做！</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/ytT4-lGEf6A?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/ytT4-lGEf6A/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>https://www.youtube.com/watch?v=aVXs8lb7i9U
+代码及知识星球：https://t.zsxq.com/ubYr8
+
+---
+00:00:00 引子
+00:00:41 语言
+00:02:55 需求
+00:04:57 设计
+00:06:59 任务
+00:08:37 Prompt
+00:11:12 Vibe</ns2:description>
    <ns2:community>
-    <ns2:starRating count="173429" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4655900" />
+    <ns2:starRating count="2213" average="5.00" min="1" max="5" />
+    <ns2:statistics views="57133" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:D4zjafnzvsk</ns0:id>
-  <ns1:videoId>D4zjafnzvsk</ns1:videoId>
-  <ns1:channelId>UCCa8wBBy5VB7c4EWMPdsggQ</ns1:channelId>
-  <ns0:title>[Eric长安万年（Eric长安万年）]两孩妈妈精神崩溃暴力杀婴，犯罪学心理学身体语言全解析 |Eric长安万年</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=D4zjafnzvsk" />
+  <ns0:id>yt:video:H86iSlPPW34</ns0:id>
+  <ns1:videoId>H86iSlPPW34</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]AI的安全对齐，可能是个幻觉</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=H86iSlPPW34" />
   <ns0:author>
-   <ns0:name>Eric长安万年（Eric长安万年）</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-05-31T03:17:21+00:00</ns0:published>
-  <ns0:updated>2026-06-13T13:58:48+00:00</ns0:updated>
+  <ns0:published>2026-04-30T09:00:31+00:00</ns0:published>
+  <ns0:updated>2026-06-16T04:32:31+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>两孩妈妈精神崩溃暴力杀婴，犯罪学心理学身体语言全解析 |Eric长安万年</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/D4zjafnzvsk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/D4zjafnzvsk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>下載 Saily 應用程式或前往 https://saily.com/ericca
-記得用優惠碼 ericca 就能獲得85折獨家優惠
-大家使用eSIM前記得要先確認手機是否支援 eSIM 功能
+   <ns2:title>AI的安全对齐，可能是个幻觉</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/H86iSlPPW34?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/H86iSlPPW34/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>加入知识星球（鞠躬感谢！）: https://t.zsxq.com/ubYr8
+skill https://www.youtube.com/watch?v=lnneAfJqd9M
+rag https://www.youtube.com/watch?v=qMc0v2OUK3s
+agent https://www.youtube.com/watch?v=1UQ8uz4kuIc
 
-
-一个妈妈在孤立无援的情况下照顾两个孩子，老公地处偏僻荒野地区无法协助。最终造成暴力杀婴悲剧，本视频我们来分析一些关键细节。</ns2:description>
+---
+00:00:00 介绍
+00:00:39 AI有手了
+00:02:25 实验方法
+00:05:16 怎么逼AI
+00:07:05 对齐是幻觉
+00:09:22 聪明不是安全
+00:11:33 模型演戏
+00:13:14 结尾</ns2:description>
    <ns2:community>
-    <ns2:starRating count="830" average="5.00" min="1" max="5" />
-    <ns2:statistics views="44043" />
+    <ns2:starRating count="168" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5147" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:Ca61mukWaLk</ns0:id>
-  <ns1:videoId>Ca61mukWaLk</ns1:videoId>
-  <ns1:channelId>UCCa8wBBy5VB7c4EWMPdsggQ</ns1:channelId>
-  <ns0:title>[Eric长安万年（Eric长安万年）]海外西安人从夯到拉锐评西安旅游景点，旅游公众评价常年垫底，但西安实际上真心不错，景点推荐 | Eric长安万年</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=Ca61mukWaLk" />
+  <ns0:id>yt:video:2eq-8GM2bhg</ns0:id>
+  <ns1:videoId>2eq-8GM2bhg</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]提示词工程 上下文工程 Harness工程 是什么？</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=2eq-8GM2bhg" />
   <ns0:author>
-   <ns0:name>Eric长安万年（Eric长安万年）</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-05-02T02:12:52+00:00</ns0:published>
-  <ns0:updated>2026-05-28T19:19:01+00:00</ns0:updated>
+  <ns0:published>2026-04-16T09:00:05+00:00</ns0:published>
+  <ns0:updated>2026-07-14T18:08:30+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>海外西安人从夯到拉锐评西安旅游景点，旅游公众评价常年垫底，但西安实际上真心不错，景点推荐 | Eric长安万年</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/Ca61mukWaLk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/Ca61mukWaLk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>之前曾经做过一期关于西安旅游的视频，这次借着五一的旅游热潮再正经的做一个关于西安旅游平价和推荐的视频。本来这个视频应该是在4月底发，但是甲流盛行，病了几天就晚了。希望还能赶上。
+   <ns2:title>提示词工程 上下文工程 Harness工程 是什么？</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/2eq-8GM2bhg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/2eq-8GM2bhg/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>加入知识星球（鞠躬感谢！）: https://t.zsxq.com/ubYr8
 
-点击链接加入我的会员
-https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ/join</ns2:description>
+---
+00:00:00 引子
+00:00:28 提示词
+00:01:30 上下文
+00:03:40 Harness
+00:05:41 总结</ns2:description>
    <ns2:community>
-    <ns2:starRating count="795" average="5.00" min="1" max="5" />
-    <ns2:statistics views="22449" />
+    <ns2:starRating count="447" average="5.00" min="1" max="5" />
+    <ns2:statistics views="15276" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:rdDa6nkm0wo</ns0:id>
-  <ns1:videoId>rdDa6nkm0wo</ns1:videoId>
-  <ns1:channelId>UCCa8wBBy5VB7c4EWMPdsggQ</ns1:channelId>
-  <ns0:title>[Eric长安万年（Eric长安万年）]美国特种老兵与美警激烈对峙，遭枪击现场视频流出！身体语言心理学详解，这种现象我们每个人都经历过  | Eric长安万年</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=rdDa6nkm0wo" />
+  <ns0:id>yt:video:pGYrWsNQ8A0</ns0:id>
+  <ns1:videoId>pGYrWsNQ8A0</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]注意力残差是什么？ [白话读论文]</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=pGYrWsNQ8A0" />
   <ns0:author>
-   <ns0:name>Eric长安万年（Eric长安万年）</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-04-26T00:08:34+00:00</ns0:published>
-  <ns0:updated>2026-04-28T22:11:44+00:00</ns0:updated>
+  <ns0:published>2026-04-02T09:01:04+00:00</ns0:published>
+  <ns0:updated>2026-06-04T23:40:45+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>美国特种老兵与美警激烈对峙，遭枪击现场视频流出！身体语言心理学详解，这种现象我们每个人都经历过  | Eric长安万年</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/rdDa6nkm0wo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/rdDa6nkm0wo/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>克里斯是海军老兵，因为自己的心理问题先后两次跟美警爆发冲突。美国人普遍认为是海豹老兵身患严重PTSD但是依然屡屡遭到美警迫害。但我会更加关注另外的一个问题。
+   <ns2:title>注意力残差是什么？ [白话读论文]</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/pGYrWsNQ8A0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/pGYrWsNQ8A0/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>加入知识星球（鞠躬感谢！）: https://t.zsxq.com/ubYr8
+https://www.youtube.com/watch?v=whe268MthvE
+https://www.youtube.com/watch?v=FOHyospzUd4
 
-点击链接加入我的会员
-https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ/join</ns2:description>
+---
+00:00:00 引子
+00:00:24 FFN + Attention
+00:02:44 Residuals
+00:04:59 Residuals问题
+00:06:54 Attention Residuals
+00:09:57 妥协
+00:10:47 最后</ns2:description>
    <ns2:community>
-    <ns2:starRating count="913" average="5.00" min="1" max="5" />
-    <ns2:statistics views="47519" />
+    <ns2:starRating count="168" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4825" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:tucHFxnFxsI</ns0:id>
-  <ns1:videoId>tucHFxnFxsI</ns1:videoId>
-  <ns1:channelId>UCCa8wBBy5VB7c4EWMPdsggQ</ns1:channelId>
-  <ns0:title>[Eric长安万年（Eric长安万年）]硬核犯罪学漫谈吴谢宇案，北大才子弑母至死不谈动机。矛盾的案件，矛盾的人生，唯一的真相 | Eric长安万年</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=tucHFxnFxsI" />
+  <ns0:id>yt:video:hZ6fSjPGQWM</ns0:id>
+  <ns1:videoId>hZ6fSjPGQWM</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]什么是LoRA 大模型微调是怎么回事</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=hZ6fSjPGQWM" />
   <ns0:author>
-   <ns0:name>Eric长安万年（Eric长安万年）</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-03-28T15:04:02+00:00</ns0:published>
-  <ns0:updated>2026-04-29T22:11:32+00:00</ns0:updated>
+  <ns0:published>2026-03-19T09:01:06+00:00</ns0:published>
+  <ns0:updated>2026-04-13T18:01:51+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>硬核犯罪学漫谈吴谢宇案，北大才子弑母至死不谈动机。矛盾的案件，矛盾的人生，唯一的真相 | Eric长安万年</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/tucHFxnFxsI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/tucHFxnFxsI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>国内其实也有很多案件，只是国内的案件我们接触不到很多第一手的资料，更是没有审讯可以去分析。所以之前说过会尝试用漫谈的风格来讲述。这次来做一个尝试，希望大家喜欢这种形式。
+   <ns2:title>什么是LoRA 大模型微调是怎么回事</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/hZ6fSjPGQWM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/hZ6fSjPGQWM/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>加入知识星球（鞠躬感谢！）: https://t.zsxq.com/ubYr8
+https://www.youtube.com/watch?v=FOHyospzUd4
+https://www.youtube.com/watch?v=qL6ca-mIeMI
 
-吴谢宇的案件确实是近年来关注度最高案件之一。这个案件确实有其非常特别的地方。它本质上是一个很矛盾的案件，而且案犯吴谢宇至死没有交代他的作案动机。
-
-点击链接加入我的会员
-https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ/join</ns2:description>
+---
+00:00:00 介绍
+00:00:21 预训练
+00:02:08 微调
+00:04:55 微调的问题
+00:06:41 LoRA
+00:11:33 为什么LoRA有效
+00:12:46 最后</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2223" average="5.00" min="1" max="5" />
-    <ns2:statistics views="94259" />
+    <ns2:starRating count="423" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11161" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:cptGPqFwnJw</ns0:id>
-  <ns1:videoId>cptGPqFwnJw</ns1:videoId>
-  <ns1:channelId>UCCa8wBBy5VB7c4EWMPdsggQ</ns1:channelId>
-  <ns0:title>[Eric长安万年（Eric长安万年）]美凶犯伪装UPS抢劫，家庭摄像头全纪录流出，逐帧犯罪学分析详解 | Eric长安万年</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=cptGPqFwnJw" />
+  <ns0:id>yt:video:aHAmg_1q41M</ns0:id>
+  <ns1:videoId>aHAmg_1q41M</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]本地部署大模型！用Transformers库跑通DeepSeek-R1</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=aHAmg_1q41M" />
   <ns0:author>
-   <ns0:name>Eric长安万年（Eric长安万年）</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-03-14T00:36:35+00:00</ns0:published>
-  <ns0:updated>2026-05-30T03:33:47+00:00</ns0:updated>
+  <ns0:published>2026-03-05T09:00:01+00:00</ns0:published>
+  <ns0:updated>2026-05-21T03:01:33+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>美凶犯伪装UPS抢劫，家庭摄像头全纪录流出，逐帧犯罪学分析详解 | Eric长安万年</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/cptGPqFwnJw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/cptGPqFwnJw/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>著名的UPS抢劫案现场视频流出，这期视频我们来逐帧分析一下。
+   <ns2:title>本地部署大模型！用Transformers库跑通DeepSeek-R1</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/aHAmg_1q41M?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/aHAmg_1q41M/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>加入知识星球（鞠躬感谢！）: https://t.zsxq.com/ubYr8
+https://www.youtube.com/watch?v=BQveePDWavA
 
-点击链接加入我的会员
-https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ/join</ns2:description>
+---
+00:00:00 模型
+00:01:21 Transformers
+00:03:32 模型加载
+00:06:15 Cuda
+00:07:01 Tokenizer
+00:11:03 推理
+00:11:42 Chat Template</ns2:description>
    <ns2:community>
-    <ns2:starRating count="663" average="5.00" min="1" max="5" />
-    <ns2:statistics views="27397" />
+    <ns2:starRating count="126" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4599" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:9twX-HnXEYs</ns0:id>
-  <ns1:videoId>9twX-HnXEYs</ns1:videoId>
-  <ns1:channelId>UCCa8wBBy5VB7c4EWMPdsggQ</ns1:channelId>
-  <ns0:title>[Eric长安万年（Eric长安万年）]嫌犯审讯室里装无辜，竟说漏嘴爆出命案惊人细节！终极恋爱脑女与毒贩，脱衣舞女之间的致命三角恋，卡特琳娜案全集剪辑版 |Eric长安万年</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=9twX-HnXEYs" />
+  <ns0:id>yt:video:nySTPhneEjw</ns0:id>
+  <ns1:videoId>nySTPhneEjw</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]MoE为什么这么快 —— 从小学数学到MoE 大模型进化史</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=nySTPhneEjw" />
   <ns0:author>
-   <ns0:name>Eric长安万年（Eric长安万年）</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-03-13T07:05:52+00:00</ns0:published>
-  <ns0:updated>2026-08-08T19:29:45+00:00</ns0:updated>
+  <ns0:published>2026-02-19T09:01:11+00:00</ns0:published>
+  <ns0:updated>2026-06-04T23:40:34+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>嫌犯审讯室里装无辜，竟说漏嘴爆出命案惊人细节！终极恋爱脑女与毒贩，脱衣舞女之间的致命三角恋，卡特琳娜案全集剪辑版 |Eric长安万年</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/9twX-HnXEYs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/9twX-HnXEYs/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>點擊 https://surfshark.com/ericca 或使用優惠碼 Ericca 以獲得額外 4 個月 Surfshark 服務！
+   <ns2:title>MoE为什么这么快 —— 从小学数学到MoE 大模型进化史</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/nySTPhneEjw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/nySTPhneEjw/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>加入知识星球（鞠躬感谢！）：https://t.zsxq.com/ubYr8
+https://www.youtube.com/watch?v=BQveePDWavA
+https://www.youtube.com/watch?v=whe268MthvE
 
-卡特琳娜案四期视频做出来全长接近3个半小时，很多朋友非常支持跟着追了两个月的时间。此次我把此案剪辑到了一起，将视频中一些可以被省略的内容剪辑掉，最终变成2小时以内，大约是一部电影的长度。相信也会对新观众更加友好一些。希望喜欢本案的朋友可以帮忙点赞留言转发，让更多的观众可以看到这个视频。
-
-点击链接加入我的会员
-https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ/join</ns2:description>
+---
+00:00:00 FFN
+00:01:34 局限
+00:03:04 Attention
+00:04:00 Dense
+00:06:05 MoE
+00:09:08 Dense vs MoE
+00:10:59 总结</ns2:description>
    <ns2:community>
-    <ns2:starRating count="424" average="5.00" min="1" max="5" />
-    <ns2:statistics views="22350" />
+    <ns2:starRating count="274" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6788" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:S64qdiXTS8k</ns0:id>
-  <ns1:videoId>S64qdiXTS8k</ns1:videoId>
-  <ns1:channelId>UCCa8wBBy5VB7c4EWMPdsggQ</ns1:channelId>
-  <ns0:title>[Eric长安万年（Eric长安万年）]美警审讯失败案例，嫌犯越审越有信心，情敌地下冰柜案（终） |Eric长安万年</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=S64qdiXTS8k" />
+  <ns0:id>yt:video:whe268MthvE</ns0:id>
+  <ns1:videoId>whe268MthvE</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]多头注意力 MultiHeadAttention 是什么？</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=whe268MthvE" />
   <ns0:author>
-   <ns0:name>Eric长安万年（Eric长安万年）</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-03-01T07:16:19+00:00</ns0:published>
-  <ns0:updated>2026-05-05T00:49:06+00:00</ns0:updated>
+  <ns0:published>2026-02-05T09:01:30+00:00</ns0:published>
+  <ns0:updated>2026-06-16T04:42:25+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>美警审讯失败案例，嫌犯越审越有信心，情敌地下冰柜案（终） |Eric长安万年</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/S64qdiXTS8k?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/S64qdiXTS8k/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>卡特琳娜案目前终于到了最后一期，之前针对主犯安东尼的审讯他一概不认，从犯安德鲁更是成功的骗过了警察，卡特琳娜在跟警察展现交易意图遭到无视之后，逐渐意识到警察拿她并没有什么办法。此后更是跟检察官谈定了认罪协议，完全可以不用进监狱，可以说是全身而退了。但是最终案件还是真相大白，所有涉案人员都得到了法律公正的处置。感谢很多朋友一直在跟着问这个案件系列，我做完之后根据大家的反馈会再剪辑一个对普通观众观看更友好节奏也更快的一个合体剪辑版。感谢大家持续的关注。
+   <ns2:title>多头注意力 MultiHeadAttention 是什么？</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/whe268MthvE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/whe268MthvE/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>加入知识星球（鞠躬感谢！）: https://t.zsxq.com/ubYr8
+Embeding原理 https://www.youtube.com/watch?v=BQveePDWavA
+Linear原理 https://www.youtube.com/watch?v=PoQLjK2hlZk
+Softmax原理 https://www.youtube.com/watch?v=OCcHTUiNnGI
 
-点击链接加入我的会员
-https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ/join</ns2:description>
+---
+00:00:00 介绍
+00:00:50 Embedding
+00:02:50 K
+00:05:02 Q
+00:06:22 QK‘
+00:09:50 V
+00:13:10 QKV
+00:13:49 哲学</ns2:description>
    <ns2:community>
-    <ns2:starRating count="678" average="5.00" min="1" max="5" />
-    <ns2:statistics views="34420" />
+    <ns2:starRating count="397" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10706" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:gqxaFDcbPnA</ns0:id>
-  <ns1:videoId>gqxaFDcbPnA</ns1:videoId>
-  <ns1:channelId>UCCa8wBBy5VB7c4EWMPdsggQ</ns1:channelId>
-  <ns0:title>[Eric长安万年（Eric长安万年）]美警想回家，自称无辜的嫌犯想留下！怪异的案件真实审讯，情敌地下冰柜案（3） | Eric长安万年</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=gqxaFDcbPnA" />
+  <ns0:id>yt:video:lnneAfJqd9M</ns0:id>
+  <ns1:videoId>lnneAfJqd9M</ns1:videoId>
+  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
+  <ns0:title>[程序员老王]10分钟弄懂 什么是大模型Skill</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=lnneAfJqd9M" />
   <ns0:author>
-   <ns0:name>Eric长安万年（Eric长安万年）</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ</ns0:uri>
+   <ns0:name>程序员老王</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-02-20T11:07:22+00:00</ns0:published>
-  <ns0:updated>2026-08-10T09:41:19+00:00</ns0:updated>
+  <ns0:published>2026-01-22T09:01:08+00:00</ns0:published>
+  <ns0:updated>2026-04-22T23:50:06+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>美警想回家，自称无辜的嫌犯想留下！怪异的案件真实审讯，情敌地下冰柜案（3） | Eric长安万年</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/gqxaFDcbPnA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/gqxaFDcbPnA/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>辛苦大家久等了。这次继续地下冰柜案的审讯第三部分。警察手上已经掌握了很多证据可以给卡特琳娜和安东尼定罪！安东尼我们并不意外，坚持自己什么都不知道。但卡特琳娜却磨磨唧唧，既不让警察回家，自己也不主动说。就拉着警察在审讯室里无限谈下去。警察都顶不住了，有史以来首次我们见到警察主动劝嫌犯去找律师！她到底葫芦里卖的什么药？我们仔细来看看！
-
-点击链接加入我的会员
-https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ/join</ns2:description>
+   <ns2:title>10分钟弄懂 什么是大模型Skill</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/lnneAfJqd9M?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/lnneAfJqd9M/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>加入知识星球（鞠躬感谢！）: https://t.zsxq.com/ubYr8</ns2:description>
    <ns2:community>
-    <ns2:starRating count="604" average="5.00" min="1" max="5" />
-    <ns2:statistics views="34937" />
+    <ns2:starRating count="4483" average="5.00" min="1" max="5" />
+    <ns2:statistics views="179022" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:prxr11JCm94</ns0:id>
-  <ns1:videoId>prxr11JCm94</ns1:videoId>
-  <ns1:channelId>UCCa8wBBy5VB7c4EWMPdsggQ</ns1:channelId>
-  <ns0:title>[Eric长安万年（Eric长安万年）]硬核漫谈杀妻案，案件特点，凶手心理，危险信号，生活中蛛丝马迹 |Eric长安万年</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=prxr11JCm94" />
+  <ns0:id>yt:video:DYfgQb1ay94</ns0:id>
+  <ns1:videoId>DYfgQb1ay94</ns1:videoId>
+  <ns1:channelId>UCwIMwjGNQMmiYH789ibjO_g</ns1:channelId>
+  <ns0:title>[TeaserPlay]Clash of Clans But Open World</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=DYfgQb1ay94" />
   <ns0:author>
-   <ns0:name>Eric长安万年（Eric长安万年）</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ</ns0:uri>
+   <ns0:name>TeaserPlay</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwIMwjGNQMmiYH789ibjO_g</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-01-31T06:59:59+00:00</ns0:published>
-  <ns0:updated>2026-05-04T08:28:36+00:00</ns0:updated>
+  <ns0:published>2025-04-17T04:04:39+00:00</ns0:published>
+  <ns0:updated>2026-05-05T09:12:51+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>硬核漫谈杀妻案，案件特点，凶手心理，危险信号，生活中蛛丝马迹 |Eric长安万年</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/prxr11JCm94?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/prxr11JCm94/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>下載 Saily 應用程式或前往 https://saily.com/ericca
-立即使用優惠碼 [Ericca] 購買 Saily 數據方案，即享 85 折獨家優惠！
+   <ns2:title>Clash of Clans But Open World</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/DYfgQb1ay94?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/DYfgQb1ay94/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>"What if Clash of Clans was a third-person AAA RPG?"
+This video is a personal concept project, built entirely in "Unreal Engine 5"
 
-这个视频其实本来是地下冰柜藏尸案的一个部分。但是在构思写稿的时候越写越长，后来想着干脆一次性给大家把这个类型的案件总结一下，出一个概括性的视频好了。视频的信息量比较大，适合大家没事反复的看看。毕竟我相信很多人可能都会产生过这种担心，我的伴侣有没有可能哪天把我给干掉了。或者您没有这个顾虑，但从视频中对于感情，谈恋爱中间的一些分类和描述，也许也会帮助大家从另外一个角度来了解您的生活。
-
-也跟一直在等地下情敌冰柜案的第三部分的粉丝说声抱歉，本来确实应该先更新那个再发这个。但是实在是那个还没做完，这个先做好了。要到了该发视频的时候了，我就不等了。下期给大家更新那个案件的第三部分。
-
-点击链接加入我的会员
-https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ/join</ns2:description>
+The idea was simple:
+If Clash of Clans broke out of its strategy roots and reimagined itself as a next-gen third-person action RPG, what would that world look like?
+How would the characters come to life?
+How much more epic could the battles feel?
+And what kind of deeper story could emerge from the heart of the village?
+This concept is an attempt to explore that vision—from a completely different perspective.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1546" average="5.00" min="1" max="5" />
-    <ns2:statistics views="52791" />
+    <ns2:starRating count="4973" average="5.00" min="1" max="5" />
+    <ns2:statistics views="146986" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:OFuhV8k-hYM</ns0:id>
-  <ns1:videoId>OFuhV8k-hYM</ns1:videoId>
-  <ns1:channelId>UCCa8wBBy5VB7c4EWMPdsggQ</ns1:channelId>
-  <ns0:title>[Eric长安万年（Eric长安万年）]真实案件审讯分析，审讯室中两次巨大逆转，主犯至今尚未露面，情敌地下冰柜案（2） | Eric长安万年</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=OFuhV8k-hYM" />
+  <ns0:id>yt:video:v1atOIHWlwA</ns0:id>
+  <ns1:videoId>v1atOIHWlwA</ns1:videoId>
+  <ns1:channelId>UCwIMwjGNQMmiYH789ibjO_g</ns1:channelId>
+  <ns0:title>[TeaserPlay]GTA San Andreas 2 - Imagining CJ Reunites with Friends After 33 Years</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=v1atOIHWlwA" />
   <ns0:author>
-   <ns0:name>Eric长安万年（Eric长安万年）</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ</ns0:uri>
+   <ns0:name>TeaserPlay</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwIMwjGNQMmiYH789ibjO_g</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-01-15T03:45:51+00:00</ns0:published>
-  <ns0:updated>2026-08-12T06:35:32+00:00</ns0:updated>
+  <ns0:published>2025-01-04T16:32:53+00:00</ns0:published>
+  <ns0:updated>2026-06-17T12:53:31+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>真实案件审讯分析，审讯室中两次巨大逆转，主犯至今尚未露面，情敌地下冰柜案（2） | Eric长安万年</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/OFuhV8k-hYM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/OFuhV8k-hYM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>情敌地下冰柜案的第二期。这个系列做了两期视频了到现在主犯还没出场，可见案件高光人物之多。本系列可能是我们至今为止看到的反转最强的案件了。稀松平常的时候总是能出现令人称奇的重大信息。希望大家喜欢。
+   <ns2:title>GTA San Andreas 2 - Imagining CJ Reunites with Friends After 33 Years</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/v1atOIHWlwA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/v1atOIHWlwA/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Imagining GTA San Andreas 2 - CJ Reunites with Friends After 33 Years  - Unreal Engine 5 Short Fan Film
 
-点击链接加入我的会员
-https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ/join</ns2:description>
+After more than three decades apart, CJ reunites with friends from the past, reliving cherished memories and sharing heartfelt moments. Watch this emotional journey of reconnecting after 33 years!
+
+Music: Meteorites by @PurrpleCat 
+
+Created by @TeaserPlay</ns2:description>
    <ns2:community>
-    <ns2:starRating count="922" average="5.00" min="1" max="5" />
-    <ns2:statistics views="44714" />
+    <ns2:starRating count="13915" average="5.00" min="1" max="5" />
+    <ns2:statistics views="541997" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:xf6NPrjF-KQ</ns0:id>
-  <ns1:videoId>xf6NPrjF-KQ</ns1:videoId>
-  <ns1:channelId>UCCa8wBBy5VB7c4EWMPdsggQ</ns1:channelId>
-  <ns0:title>[Eric长安万年（Eric长安万年）]审讯室里看似轻松的聊天，情敌嫌犯却一步步暴露自己，情敌地下冰柜案 | Eric长安万年</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=xf6NPrjF-KQ" />
+  <ns0:id>yt:video:nn5VUsxmoaI</ns0:id>
+  <ns1:videoId>nn5VUsxmoaI</ns1:videoId>
+  <ns1:channelId>UCwIMwjGNQMmiYH789ibjO_g</ns1:channelId>
+  <ns0:title>[TeaserPlay]TOY STORY™ Game With Unreal Engine 5</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=nn5VUsxmoaI" />
   <ns0:author>
-   <ns0:name>Eric长安万年（Eric长安万年）</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ</ns0:uri>
+   <ns0:name>TeaserPlay</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwIMwjGNQMmiYH789ibjO_g</ns0:uri>
   </ns0:author>
-  <ns0:published>2025-12-24T07:40:01+00:00</ns0:published>
-  <ns0:updated>2026-08-10T12:13:52+00:00</ns0:updated>
+  <ns0:published>2024-07-09T00:16:09+00:00</ns0:published>
+  <ns0:updated>2026-04-30T03:38:14+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>审讯室里看似轻松的聊天，情敌嫌犯却一步步暴露自己，情敌地下冰柜案 | Eric长安万年</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/xf6NPrjF-KQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/xf6NPrjF-KQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>點擊 https://surfshark.com/ericca 或使用優惠碼 Ericca 以獲得額外 4 個月 Surfshark 服務！
+   <ns2:title>TOY STORY™ Game With Unreal Engine 5</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/nn5VUsxmoaI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/nn5VUsxmoaI/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Let's explore together the infinite potentials of a Realistic game from Toy Story Franchise
 
-美女莫名失踪四个月，处于三角恋关系的另一女人却在审讯室里一边说与自己无关，一边说出各种细节。不断贬低受害者是脱衣舞女士性工作者，也不断说着自己的优势自己的高道德。她似乎太有答案了，但是没想到其实正中美警下怀。这期视频来看看又一个离奇的美警审讯，卡特琳娜的情敌地下冰柜案。
-
-
-点击链接加入我的会员
-https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ/join</ns2:description>
+Created by @TeaserPlay</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1500" average="5.00" min="1" max="5" />
-    <ns2:statistics views="78004" />
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="212308" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:8utE3ERzfws</ns0:id>
-  <ns1:videoId>8utE3ERzfws</ns1:videoId>
-  <ns1:channelId>UCCa8wBBy5VB7c4EWMPdsggQ</ns1:channelId>
-  <ns0:title>[Eric长安万年（Eric长安万年）]越南女柬埔寨公然截囚车！黑社会老大的女人。现场监控视频身体语言犯罪心理超详细分析 | Eric长安万年</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=8utE3ERzfws" />
+  <ns0:id>yt:video:QJmIrrIMeM4</ns0:id>
+  <ns1:videoId>QJmIrrIMeM4</ns1:videoId>
+  <ns1:channelId>UCwIMwjGNQMmiYH789ibjO_g</ns1:channelId>
+  <ns0:title>[TeaserPlay]JOKER™ But in an Insane Open World Game</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=QJmIrrIMeM4" />
   <ns0:author>
-   <ns0:name>Eric长安万年（Eric长安万年）</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ</ns0:uri>
+   <ns0:name>TeaserPlay</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwIMwjGNQMmiYH789ibjO_g</ns0:uri>
   </ns0:author>
-  <ns0:published>2025-12-07T04:21:27+00:00</ns0:published>
-  <ns0:updated>2026-05-26T16:01:06+00:00</ns0:updated>
+  <ns0:published>2024-04-14T23:57:23+00:00</ns0:published>
+  <ns0:updated>2026-05-05T03:43:24+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>越南女柬埔寨公然截囚车！黑社会老大的女人。现场监控视频身体语言犯罪心理超详细分析 | Eric长安万年</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/8utE3ERzfws?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/8utE3ERzfws/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>大家久等了。上个月月中在柬埔寨有一个年轻越南裔女子独身劫囚车！救出来自己的男友已经其他六名黑社会成员。这次我们来仔细的看看此案现场监控的完整视频，看看从身体语言角度透漏出来的您可能没有注意到的一些信息。
+   <ns2:title>JOKER™ But in an Insane Open World Game</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/QJmIrrIMeM4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/QJmIrrIMeM4/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Let's explore together the infinite potentials of a AAA game inspired by JOKER Movie
 
-点击链接加入我的会员
-https://www.youtube.com/channel/UCCa8wBBy5VB7c4EWMPdsggQ/join</ns2:description>
+We've created this video purely for fun, using Unreal Engine 5, and it definitely won't be released.
+
+Created by @TeaserPlay</ns2:description>
    <ns2:community>
-    <ns2:starRating count="754" average="5.00" min="1" max="5" />
-    <ns2:statistics views="40749" />
+    <ns2:starRating count="17296" average="5.00" min="1" max="5" />
+    <ns2:statistics views="779332" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:-agew0nUz4M</ns0:id>
+  <ns1:videoId>-agew0nUz4M</ns1:videoId>
+  <ns1:channelId>UCwIMwjGNQMmiYH789ibjO_g</ns1:channelId>
+  <ns0:title>[TeaserPlay]KUNG FU PANDA Game But in RTX:ON</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=-agew0nUz4M" />
+  <ns0:author>
+   <ns0:name>TeaserPlay</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwIMwjGNQMmiYH789ibjO_g</ns0:uri>
+  </ns0:author>
+  <ns0:published>2024-03-27T23:31:36+00:00</ns0:published>
+  <ns0:updated>2026-04-28T21:57:16+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>KUNG FU PANDA Game But in RTX:ON</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/-agew0nUz4M?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/-agew0nUz4M/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Imagine a open-world game set in the world of Kung Fu Panda, where you play as the Po, exploring various regions of the animated Kung Fu Panda world.
+
+This game could offer players an engaging experience by blending open-world RPG elements with combat mechanics, all while evoking a nostalgic feel.
+
+in this video we tried to imagine this possible Game in "Unreal Engine 5" with High End Graphics Features Such as, Lumen and Nanite
+
+Created by @TeaserPlay</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="16747" average="5.00" min="1" max="5" />
+    <ns2:statistics views="613851" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:1WYu4JljbXY</ns0:id>
+  <ns1:videoId>1WYu4JljbXY</ns1:videoId>
+  <ns1:channelId>UCwIMwjGNQMmiYH789ibjO_g</ns1:channelId>
+  <ns0:title>[TeaserPlay]Imagining SHREK™ Massive Open World Game</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=1WYu4JljbXY" />
+  <ns0:author>
+   <ns0:name>TeaserPlay</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwIMwjGNQMmiYH789ibjO_g</ns0:uri>
+  </ns0:author>
+  <ns0:published>2024-02-15T01:12:34+00:00</ns0:published>
+  <ns0:updated>2026-04-29T06:51:01+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Imagining SHREK™ Massive Open World Game</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/1WYu4JljbXY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/1WYu4JljbXY/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Imagining a Open World "SHREK" Game in Unreal Engine 5
+
+Have you ever thought about a AAA Shrek game?
+
+It might sound like a joke, but such a game could be incredibly fun and attract a lot of attention.
+
+There is a lot of potential for creative gameplay. A Shrek game could be anything from a platformer to an RPG to an open-world adventure.
+The game could be visually stunning. With modern graphics technology, a Shrek game could look absolutely amazing.
+
+in this video we tried to imagine this possible Game in "Unreal Engine 5" with High End Graphics Features Such as, Lumen, Nanite and Something Like RealTime Path Tracer!
+
+ music by: Christophe hèral (The Tricky Treasure)
+
+©Created by @TeaserPlay</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="82801" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2288024" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:9YmmZ27N__Y</ns0:id>
+  <ns1:videoId>9YmmZ27N__Y</ns1:videoId>
+  <ns1:channelId>UCwIMwjGNQMmiYH789ibjO_g</ns1:channelId>
+  <ns0:title>[TeaserPlay]GOD OF WAR™ Remake - Amazing Showcase in Unreal Engine 5 | Fan Concept</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=9YmmZ27N__Y" />
+  <ns0:author>
+   <ns0:name>TeaserPlay</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwIMwjGNQMmiYH789ibjO_g</ns0:uri>
+  </ns0:author>
+  <ns0:published>2024-01-12T23:03:06+00:00</ns0:published>
+  <ns0:updated>2026-07-26T07:13:57+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>GOD OF WAR™ Remake - Amazing Showcase in Unreal Engine 5 | Fan Concept</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/9YmmZ27N__Y?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/9YmmZ27N__Y/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Imagining GOD OF WAR Remake in Unreal Engine 5 - A Dream that must come true
+
+Hopefully, this video can give the overall picture of a possible remake and clarify the expectations of the fans from it for the Developers
+
+we tried to use all the power and features of Unreal Engine 5 to recreate this such as Lumen, Nanite, Path Tracer and Ray Tracing
+
+
+🔺* This is not a Game, it's just a Concept (Fan-Made) Video to show the power of Unreal Engine 5 *
+
+©By @TeaserPlay</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="234280" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:2zE1UN-SBio</ns0:id>
+  <ns1:videoId>2zE1UN-SBio</ns1:videoId>
+  <ns1:channelId>UCwIMwjGNQMmiYH789ibjO_g</ns1:channelId>
+  <ns0:title>[TeaserPlay]VENOM™ - Gameplay Showcase in Unreal Engine 5 | Fan Concept</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=2zE1UN-SBio" />
+  <ns0:author>
+   <ns0:name>TeaserPlay</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwIMwjGNQMmiYH789ibjO_g</ns0:uri>
+  </ns0:author>
+  <ns0:published>2023-12-27T23:42:37+00:00</ns0:published>
+  <ns0:updated>2026-05-05T01:06:52+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>VENOM™ - Gameplay Showcase in Unreal Engine 5 | Fan Concept</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/2zE1UN-SBio?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/2zE1UN-SBio/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Imagining Marvel's Venom
+
+in this video we are going to imagine Marvel's Venom, According to the rumors, the game currently being developed by Sony and Insomniac Games for PS5 and will be an Spider Man Spin-off, we tried to use all the power and features of Unreal Engine 5 to create this such as Lumen, Nanite etc.
+
+
+🔷 This video is made by a fan with limited facilities and not going to be a game, it's just a recreation of how fans imagine the possible game
+
+Music by: Cris Velasco
+
+
+◖© By @TeaserPlay</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="2300" average="5.00" min="1" max="5" />
+    <ns2:statistics views="160280" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:WvrQCpWYBBk</ns0:id>
+  <ns1:videoId>WvrQCpWYBBk</ns1:videoId>
+  <ns1:channelId>UCwIMwjGNQMmiYH789ibjO_g</ns1:channelId>
+  <ns0:title>[TeaserPlay]Subway Surfers But in RTX ON | PARIS</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=WvrQCpWYBBk" />
+  <ns0:author>
+   <ns0:name>TeaserPlay</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwIMwjGNQMmiYH789ibjO_g</ns0:uri>
+  </ns0:author>
+  <ns0:published>2023-12-19T23:03:43+00:00</ns0:published>
+  <ns0:updated>2026-04-12T04:41:28+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Subway Surfers But in RTX ON | PARIS</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/WvrQCpWYBBk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/WvrQCpWYBBk/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Subway Surfers Paris Edition Recreation in Unreal Engine 5
+
+In this video, we tried to recreate Subway Surfers, nostalgia game with photorealistic graphics, we used most of the graphical features of Unreal Engine 5 such as lumen, nanite to show how this game looks in next gen graphics.
+
+© By @TeaserPlay</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="21163" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5512193" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:1JgKwJKv4sw</ns0:id>
+  <ns1:videoId>1JgKwJKv4sw</ns1:videoId>
+  <ns1:channelId>UCwIMwjGNQMmiYH789ibjO_g</ns1:channelId>
+  <ns0:title>[TeaserPlay]How GTA VI Ends</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=1JgKwJKv4sw" />
+  <ns0:author>
+   <ns0:name>TeaserPlay</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwIMwjGNQMmiYH789ibjO_g</ns0:uri>
+  </ns0:author>
+  <ns0:published>2023-12-11T22:33:19+00:00</ns0:published>
+  <ns0:updated>2026-05-28T22:51:37+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>How GTA VI Ends</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/1JgKwJKv4sw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/1JgKwJKv4sw/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Kill Jason or Kill Lucia?
+
+I guess GTA VI ends with this tough choice and I tried to capture that thought with Unreal Engine 5. I hope you enjoy
+
+‎@TeaserPlay </ns2:description>
+   <ns2:community>
+    <ns2:starRating count="17505" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1021194" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:lm1Cc9Z9tRk</ns0:id>
+  <ns1:videoId>lm1Cc9Z9tRk</ns1:videoId>
+  <ns1:channelId>UCwIMwjGNQMmiYH789ibjO_g</ns1:channelId>
+  <ns0:title>[TeaserPlay]Graveyard Shift - Reveal Trailer</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=lm1Cc9Z9tRk" />
+  <ns0:author>
+   <ns0:name>TeaserPlay</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwIMwjGNQMmiYH789ibjO_g</ns0:uri>
+  </ns0:author>
+  <ns0:published>2023-10-11T20:03:20+00:00</ns0:published>
+  <ns0:updated>2026-04-29T22:25:35+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Graveyard Shift - Reveal Trailer</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/lm1Cc9Z9tRk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/lm1Cc9Z9tRk/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Wishlist Graveyard Shift on Steam Now! 
+https://store.steampowered.com/app/2636420/Graveyard_Shift/
+
+
+This is our first video game in Unreal Engine 5. After several months of making concept videos of branded games, we decided to focus on our own original ideas. In this game, we used a different and modern structure to put the player in a situation that he has not experienced in any other horror game.
+
+Graveyard Shift is about a man who is sent to guard a cemetery on his first day of work. his duty for the night is to watch over this place. However, with the coming of night and be heard paranormal sounds and observing strange things through CCTV cameras among the gravestones,, he realizes that this is not just a terrifying place.
+He realize that the spirits of the deceased in this graveyard seek to convey an important message to him!
+
+
+Wishlist Graveyard Shift on Steam Now! 
+https://store.steampowered.com/app/2636420/Graveyard_Shift/
+
+
+This video is published under a Creative Commons license. (allowing you to repost it)
+You are welcome to share this trailer with others.
+
+‎@TeaserPlay </ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1410" average="5.00" min="1" max="5" />
+    <ns2:statistics views="99498" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:WebyC1rvChY</ns0:id>
+  <ns1:videoId>WebyC1rvChY</ns1:videoId>
+  <ns1:channelId>UCwIMwjGNQMmiYH789ibjO_g</ns1:channelId>
+  <ns0:title>[TeaserPlay]GTA San Andreas X God Of War</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=WebyC1rvChY" />
+  <ns0:author>
+   <ns0:name>TeaserPlay</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwIMwjGNQMmiYH789ibjO_g</ns0:uri>
+  </ns0:author>
+  <ns0:published>2023-08-23T17:54:53+00:00</ns0:published>
+  <ns0:updated>2026-05-20T21:26:37+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>GTA San Andreas X God Of War</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/WebyC1rvChY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/WebyC1rvChY/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>GTA San Andreas X God of War
+Biggest Smoke Boss fight</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="4812" average="5.00" min="1" max="5" />
+    <ns2:statistics views="393442" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:FJ4VE01dxVo</ns0:id>
+  <ns1:videoId>FJ4VE01dxVo</ns1:videoId>
+  <ns1:channelId>UCwIMwjGNQMmiYH789ibjO_g</ns1:channelId>
+  <ns0:title>[TeaserPlay]Breaking Bad - Open World Game in Unreal Engine 5 | Fan Concept</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=FJ4VE01dxVo" />
+  <ns0:author>
+   <ns0:name>TeaserPlay</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwIMwjGNQMmiYH789ibjO_g</ns0:uri>
+  </ns0:author>
+  <ns0:published>2023-06-22T01:13:25+00:00</ns0:published>
+  <ns0:updated>2026-04-21T22:58:36+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Breaking Bad - Open World Game in Unreal Engine 5 | Fan Concept</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/FJ4VE01dxVo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/FJ4VE01dxVo/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Hope You Enjoy!
+
+This video is made by a fan and not going to be a game, it's just a concept and recreation of how fans imagine the possible game!
+
+© By @TeaserPlay</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="15548" average="5.00" min="1" max="5" />
+    <ns2:statistics views="594742" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:QKhETKxlShk</ns0:id>
+  <ns1:videoId>QKhETKxlShk</ns1:videoId>
+  <ns1:channelId>UCwIMwjGNQMmiYH789ibjO_g</ns1:channelId>
+  <ns0:title>[TeaserPlay]JURASSIC PARK™ Open World Game in Unreal Engine 5 | Fan Concept Gameplay</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=QKhETKxlShk" />
+  <ns0:author>
+   <ns0:name>TeaserPlay</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwIMwjGNQMmiYH789ibjO_g</ns0:uri>
+  </ns0:author>
+  <ns0:published>2023-04-15T18:14:35+00:00</ns0:published>
+  <ns0:updated>2026-05-19T19:54:22+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>JURASSIC PARK™ Open World Game in Unreal Engine 5 | Fan Concept Gameplay</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/QKhETKxlShk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/QKhETKxlShk/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Imagining a Open World “Jurassic Park" Game in Unreal Engine 5 | TeaserPlay's Concept Trailer
+
+Jurassic World is still popular and cool enough to expect a AAA Open World game from it 
+many small games have been made based on the world, but this time we tried to imagine a photorealistic graphics for its possible game. hope you enjoy!
+
+
+🔷 This video is made by a fan with limited facilities and not going to be a game, it's just a recreation of how fans imagine the possible game!</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="11593" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1138168" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:Kg41pRF3QCg</ns0:id>
+  <ns1:videoId>Kg41pRF3QCg</ns1:videoId>
+  <ns1:channelId>UCwIMwjGNQMmiYH789ibjO_g</ns1:channelId>
+  <ns0:title>[TeaserPlay]Imagining New BioShock™ Open-World Game in Paris | Unreal Engine 5 Concept</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=Kg41pRF3QCg" />
+  <ns0:author>
+   <ns0:name>TeaserPlay</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwIMwjGNQMmiYH789ibjO_g</ns0:uri>
+  </ns0:author>
+  <ns0:published>2023-04-12T15:24:13+00:00</ns0:published>
+  <ns0:updated>2026-05-24T20:10:18+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Imagining New BioShock™ Open-World Game in Paris | Unreal Engine 5 Concept</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/Kg41pRF3QCg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/Kg41pRF3QCg/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Imagining New Bioshock Game in Unreal Engine 5
+
+In the video, we have made a demo based on the Bioshock, It's still unclear which world the next BioShock will take place in, but we've imagined a steampunk world mixed with Paris.
+
+this Demo is to show how this game will be in Unreal Engine 5. Note that this is only a technical demo and is different from a playable game
+
+This Demo is Run on RTX 4090 with 4K dynamic resolution and 50~60 FPS, As always, we used the latest Unreal Engine features in this project, including Lumen, Nanite, High Resolution Reflection and more, hope you enjoy!
+
+ ⭕️ This video is made by a fan with limited facilities and not going to be a game, it's just a recreation of how fans imagine the possible game
+
+
+© Created by @TeaserPlay</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="4326" average="5.00" min="1" max="5" />
+    <ns2:statistics views="187929" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:GsXJHyIyFKQ</ns0:id>
+  <ns1:videoId>GsXJHyIyFKQ</ns1:videoId>
+  <ns1:channelId>UC5JA87f6nk-4q8t5DmKtJVQ</ns1:channelId>
+  <ns0:title>[已搬家 新頻道持續更新中]思维实验室Thinking Laboratory直播</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=GsXJHyIyFKQ" />
+  <ns0:author>
+   <ns0:name>已搬家 新頻道持續更新中</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UC5JA87f6nk-4q8t5DmKtJVQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2019-02-17T01:29:25+00:00</ns0:published>
+  <ns0:updated>2026-05-19T22:31:35+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>思维实验室Thinking Laboratory直播</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/GsXJHyIyFKQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/GsXJHyIyFKQ/hqdefault.jpg" width="480" height="360" />
+   <ns2:description />
+   <ns2:community>
+    <ns2:starRating count="0" average="0.00" min="1" max="5" />
+    <ns2:statistics views="0" />
    </ns2:community>
   </ns2:group>
  </ns0:entry></feed>
