@@ -1,2 +1,652 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-08-15T05:50:07Z</updated></feed>
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-08-15T06:32:14Z</updated><ns0:entry>
+  <ns0:id>yt:video:cEEw1AbeysI</ns0:id>
+  <ns1:videoId>cEEw1AbeysI</ns1:videoId>
+  <ns1:channelId>UCwAnu01qlnVg1Ai2AbtTMaA</ns1:channelId>
+  <ns0:title>[Jeff Su]How to Give AI Perfect Memory (a complete guide)</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=cEEw1AbeysI" />
+  <ns0:author>
+   <ns0:name>Jeff Su</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-08-12T13:15:33+00:00</ns0:published>
+  <ns0:updated>2026-08-13T10:10:13+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>How to Give AI Perfect Memory (a complete guide)</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/cEEw1AbeysI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/cEEw1AbeysI/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>📝 Get 100% off Granola for your first month - https://go.granola.ai/jeff-su
+
+There’s a reason why #ChatGPT can remember your writing style and yet still forget the project decision you made yesterday. In this video I break down the 3 levels of #AI Memory: global memory, project memory, and a custom memory system.
+
+You'll see how ChatGPT, #Claude, and Gemini retrieve information, why saved facts become incomplete or outdated, and how Claude Cowork can maintain visible files you control. By the end, you'll know which approach fits your work and when it is worth building your own AI memory system.
+
+*TIMESTAMPS*
+00:00 What is AI Memory?
+00:31 Level 1: Global Memory
+03:57 Granola AI
+05:15 Level 2: Project Memory
+07:50 Level 3: Your Own Memory System
+13:41 Recap of AI Memory
+
+*RESOURCES MENTIONED*
+The Cowork Academy - https://coworkacademy.ai/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v208
+Free Cowork Toolkit - https://coworkacademy.ai/toolkit?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v208
+
+*BUILD A POWERFUL WORKFLOW*
+📈 The Workspace Academy - https://academy.jeffsu.org/workspace-academy?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v208
+✍️ My Notion Command Center - https://www.pressplay.cc/link/s/DE1C4C50
+
+*BE MY FRIEND:*
+📧 Subscribe to my newsletter - https://www.jeffsu.org/newsletter/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=description
+📸 Instagram - https://instagram.com/j.sushie
+🤝 LinkedIn - https://www.linkedin.com/in/jsu05/
+
+*MY FAVORITE GEAR*
+🎬 My YouTube Gear - https://www.jeffsu.org/yt-gear/
+🎒 Everyday Carry - https://www.jeffsu.org/my-edc/</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1029" average="5.00" min="1" max="5" />
+    <ns2:statistics views="35003" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:VeWf0l4ci6Y</ns0:id>
+  <ns1:videoId>VeWf0l4ci6Y</ns1:videoId>
+  <ns1:channelId>UCwAnu01qlnVg1Ai2AbtTMaA</ns1:channelId>
+  <ns0:title>[Jeff Su]Claude Design is Insanely Easy (even for beginners)</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=VeWf0l4ci6Y" />
+  <ns0:author>
+   <ns0:name>Jeff Su</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-07-21T13:00:15+00:00</ns0:published>
+  <ns0:updated>2026-07-27T12:50:22+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Claude Design is Insanely Easy (even for beginners)</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/VeWf0l4ci6Y?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/VeWf0l4ci6Y/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>✅ Grab my free Cowork Toolkit - https://coworkacademy.ai/toolkit?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v207
+
+Most #Claude Design tutorials tell you to pick a template and start prompting, which is exactly why your slides come out generic. In this walkthrough I show you the three files to prepare first: a DESIGN.md file, a design system inside #ClaudeDesign, and a reusable presentation template, so every deck comes out polished and on-brand.
+
+You'll grab a free DESIGN.md file from a public GitHub repo, clean it up in ChatGPT, turn it into a design system, then build a template that gets better every time you give it feedback. And even though we focus on slides, the same workflow applies to social carousels, newsletters, and any other design.
+
+*TIMESTAMPS*
+00:00 How NOT to use Claude Design
+00:33 What You’ll Build, with Real Proof
+01:29 Input #1: Your DESIGN.md file
+03:05 Input #2: Your Design System
+06:34 Input #3: Your Reusable Template
+08:44 Generate Your First Design in Claude Design
+09:44 Feedback that Carries Forward
+13:36 Export Your Finished Deck
+
+*RESOURCES MENTIONED*
+Written guide + prompts - https://www.jeffsu.org/claude-design-tutorial/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v207
+DESIGN.md files (GitHub) - https://github.com/VoltAgent/awesome-design-md
+
+*BUILD A POWERFUL WORKFLOW*
+📈 The Workspace Academy - https://academy.jeffsu.org/workspace-academy?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v207
+✍️ My Notion Command Center - https://www.pressplay.cc/link/s/DE1C4C50
+
+*BE MY FRIEND:*
+📧 Subscribe to my newsletter - https://www.jeffsu.org/newsletter/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=description
+📸 Instagram - https://instagram.com/j.sushie
+🤝 LinkedIn - https://www.linkedin.com/in/jsu05/
+
+*MY FAVORITE GEAR*
+🎬 My YouTube Gear - https://www.jeffsu.org/yt-gear/
+🎒 Everyday Carry - https://www.jeffsu.org/my-edc/
+
+#ai</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="3814" average="5.00" min="1" max="5" />
+    <ns2:statistics views="134184" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:7GkIWPPC9i0</ns0:id>
+  <ns1:videoId>7GkIWPPC9i0</ns1:videoId>
+  <ns1:channelId>UCwAnu01qlnVg1Ai2AbtTMaA</ns1:channelId>
+  <ns0:title>[Jeff Su]Gemini Spark: Google’s Most Powerful Personal Agent</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=7GkIWPPC9i0" />
+  <ns0:author>
+   <ns0:name>Jeff Su</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-30T13:00:21+00:00</ns0:published>
+  <ns0:updated>2026-07-16T22:35:57+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Gemini Spark: Google’s Most Powerful Personal Agent</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/7GkIWPPC9i0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/7GkIWPPC9i0/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>✅ Try Wispr Flow Pro free - https://ref.wisprflow.ai/jeff-su-yt
+
+Gemini Spark is Google's new always-on AI agent, and this beginner's guide breaks down what it actually does and when to use it.
+
+You'll see the four capabilities that matter most: connecting context across your Google apps, following your templates, building reusable Skills, and automating your routines with scheduled tasks, each with a real Google Workspace example. I also compare #GeminiSpark to Claude Cowork and Codex so you know which tool to reach for, whether you're brand new to AI agents or you've only ever used the regular #GoogleGemini chat app.
+
+*TIMESTAMPS*
+00:00 Who is Gemini Spark for?
+00:19 Gemini Chat vs. Gemini Spark
+01:33 Gemini Spark: Essential Settings
+02:18 Capability #1: Connect the Dots
+05:25 Capability #2: Follow Your Templates
+06:44 Capability #3: Create Repeating Playbooks
+09:40 Capability #4: Automate Your Routines
+11:30 Spark vs. Claude Cowork vs. Codex
+13:53 Create Your Own Gemini Spark System
+15:07 Bonus Guest Appearance
+
+*RESOURCES MENTIONED*
+Weekly Report template - https://www.jeffsu.org/gemini-spark-tutorial/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v206
+My free Cowork Toolkit - https://coworkacademy.ai/toolkit?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v206
+
+*BUILD A POWERFUL WORKFLOW*
+📈 The Workspace Academy - https://academy.jeffsu.org/workspace-academy?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v206
+✍️ My Notion Command Center - https://www.pressplay.cc/link/s/DE1C4C50
+
+*BE MY FRIEND:*
+📧 Subscribe to my newsletter - https://www.jeffsu.org/newsletter/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=description
+📸 Instagram - https://instagram.com/j.sushie
+🤝 LinkedIn - https://www.linkedin.com/in/jsu05/
+
+*MY FAVORITE GEAR*
+🎬 My YouTube Gear - https://www.jeffsu.org/yt-gear/
+🎒 Everyday Carry - https://www.jeffsu.org/my-edc/
+
+#ai</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="3103" average="5.00" min="1" max="5" />
+    <ns2:statistics views="142987" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:msFxQ7OYPj8</ns0:id>
+  <ns1:videoId>msFxQ7OYPj8</ns1:videoId>
+  <ns1:channelId>UCwAnu01qlnVg1Ai2AbtTMaA</ns1:channelId>
+  <ns0:title>[Jeff Su]How I'd Learn AI From Scratch in 2026 (skip the useless 80%)</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=msFxQ7OYPj8" />
+  <ns0:author>
+   <ns0:name>Jeff Su</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-06-09T13:00:37+00:00</ns0:published>
+  <ns0:updated>2026-06-10T11:37:09+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>How I'd Learn AI From Scratch in 2026 (skip the useless 80%)</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/msFxQ7OYPj8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/msFxQ7OYPj8/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>✅ Grab my free Google Gemini Pro Tips cheatsheet - https://clickhubspot.com/d1af92
+
+This is my practical roadmap for getting good at AI: how to pick one model and go deep, why the right context beats memorizing prompting frameworks, how to save that context in Projects (or Gems), and how to connect everything into an AI system using tools like #Gemini Spark and #Claude Cowork.
+
+Whether you're starting from zero or you've used AI for years without realizing your habits are outdated, you'll know exactly what to focus on and what to skip.
+
+*TIMESTAMPS*
+00:00 How to Learn AI from Scratch Today
+00:20 Level 1: How to Pick the Right Model
+04:04 Level 2: The Only Prompting Framework You Need
+09:18 Level 3: Build an AI System
+12:32 Recap of Levels 1, 2, 3
+
+*RESOURCES MENTIONED*
+Full written guide - https://www.jeffsu.org/how-id-learn-ai-from-scratch-in-2026-skip-the-useless-80/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v205
+My free Cowork Toolkit - https://coworkacademy.ai/toolkit?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v205
+Cowork Academy waitlist - https://coworkacademy.ai?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v205
+
+*BUILD A POWERFUL WORKFLOW*
+📈 The Workspace Academy - https://academy.jeffsu.org/workspace-academy?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v205
+✍️ My Notion Command Center - https://www.pressplay.cc/link/s/DE1C4C50
+
+*BE MY FRIEND:*
+📧 Subscribe to my newsletter - https://www.jeffsu.org/newsletter/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=description
+📸 Instagram - https://instagram.com/j.sushie
+🤝 LinkedIn - https://www.linkedin.com/in/jsu05/
+
+*MY FAVORITE GEAR*
+🎬 My YouTube Gear - https://www.jeffsu.org/yt-gear/
+🎒 Everyday Carry - https://www.jeffsu.org/my-edc/
+
+#ChatGPT</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="8317" average="5.00" min="1" max="5" />
+    <ns2:statistics views="293065" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:sEYbctQiycI</ns0:id>
+  <ns1:videoId>sEYbctQiycI</ns1:videoId>
+  <ns1:channelId>UCwAnu01qlnVg1Ai2AbtTMaA</ns1:channelId>
+  <ns0:title>[Jeff Su]Google I/O 2026: 3 things you need to know</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/sEYbctQiycI" />
+  <ns0:author>
+   <ns0:name>Jeff Su</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-05-20T16:59:10+00:00</ns0:published>
+  <ns0:updated>2026-05-23T21:46:58+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Google I/O 2026: 3 things you need to know</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/sEYbctQiycI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/sEYbctQiycI/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Google just announced its answer to Claude Cowork and Codex, and the most interesting part is who it's really for.
+
+Three things stood out from Day 1 of #googleio 
+
+1. #gemini Spark plugs straight into your Gmail, Drive, and Calendar, so it starts with all your context already loaded.
+2. Gemini Spark also works right out the box, where Codex and Claude Cowork need real setup first, so it's clearly built for everyday users, not power users like me.
+3. Google also launched #GeminiOmni. Today it's a model for creating, remixing, and editing video. My prediction: it's the first step toward AI generating the exact screen you need instead of you opening a fixed app.
+
+Thank you to @Google  for inviting me to I/O this year.
+
+Which announcement are you most excited about?
+
+Let me know below!</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="960" average="5.00" min="1" max="5" />
+    <ns2:statistics views="46953" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:4wvLHFgnQZQ</ns0:id>
+  <ns1:videoId>4wvLHFgnQZQ</ns1:videoId>
+  <ns1:channelId>UCwAnu01qlnVg1Ai2AbtTMaA</ns1:channelId>
+  <ns0:title>[Jeff Su]Claude Cowork: Top 5 Tips for Productivity</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=4wvLHFgnQZQ" />
+  <ns0:author>
+   <ns0:name>Jeff Su</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-05-19T13:00:11+00:00</ns0:published>
+  <ns0:updated>2026-07-15T06:34:02+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Claude Cowork: Top 5 Tips for Productivity</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/4wvLHFgnQZQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/4wvLHFgnQZQ/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>✅ Grab The Claude Cowork Stack - https://clickhubspot.com/3ed95e
+
+#Claude #Cowork is insanely powerful, but there's no "gold standard" yet for setting it up, so most people get the foundation wrong and watch their workspace silently degrade over time.
+
+After 3 months running my entire business on Cowork, this video walks you through the 5 essential rules I wish I'd known from day one. You'll learn how to keep your root CLAUDE.md lean, give your MEMORY.md the right structure, archive what's no longer current, migrate Claude Projects into Cowork workstations, and understand when to use a skill versus a workstation.
+
+*TIMESTAMPS*
+00:00 The Problem with Claude Cowork
+00:19 Tip 1: The Markdown Translator
+01:58 Tip 2: The 300-Line Rule
+07:27 The Claude Cowork Stack
+08:21 Tip 3: The Memory Diet
+11:47 Tip 4: The Project Transplant
+15:58 Tip 5: The Skill Check
+
+*RESOURCES MENTIONED*
+Prompt templates - https://www.jeffsu.org/top-5-claude-cowork-tips-i-wish-i-knew-from-day-one/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v204
+Free Cowork Toolkit - https://coworkacademy.ai/toolkit?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v204
+The Cowork Academy waitlist - https://coworkacademy.ai?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v204
+
+*BUILD A POWERFUL WORKFLOW*
+📈 The Workspace Academy - https://academy.jeffsu.org/workspace-academy?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v204
+✍️ My Notion Command Center - https://www.pressplay.cc/link/s/DE1C4C50
+
+*BE MY FRIEND:*
+📧 Subscribe to my newsletter - https://www.jeffsu.org/newsletter/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=description
+📸 Instagram - https://instagram.com/j.sushie
+🤝 LinkedIn - https://www.linkedin.com/in/jsu05/
+
+*MY FAVORITE GEAR*
+🎬 My YouTube Gear - https://www.jeffsu.org/yt-gear/
+🎒 Everyday Carry - https://www.jeffsu.org/my-edc/
+
+#ai</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="2331" average="5.00" min="1" max="5" />
+    <ns2:statistics views="107230" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:oBINTHha8Wc</ns0:id>
+  <ns1:videoId>oBINTHha8Wc</ns1:videoId>
+  <ns1:channelId>UCwAnu01qlnVg1Ai2AbtTMaA</ns1:channelId>
+  <ns0:title>[Jeff Su]Claude Cowork setup: the only 2 files you need</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/oBINTHha8Wc" />
+  <ns0:author>
+   <ns0:name>Jeff Su</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-05-12T15:01:18+00:00</ns0:published>
+  <ns0:updated>2026-05-29T22:38:23+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Claude Cowork setup: the only 2 files you need</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/oBINTHha8Wc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/oBINTHha8Wc/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Cowork Toolkit: https://coworkacademy.ai/toolkit?utm_source=youtube&amp;utm_medium=shortform&amp;utm_campaign=ig059
+
+Your entire #ClaudeCowork setup starts with two plain text files.
+
+CLAUDE.md is the instruction manual Cowork reads at the start of every session. Mine has a routing map that automatically loads my travel workstation when I start planning a trip, my email workstation when I'm drafting replies.
+
+Every working mode gets its own instructions without me having to repeat anything.
+
+MEMORY.md stores your active projects and key decisions between sessions. When I planned a trip to Taiwan, Cowork pulled up the specific visa application I needed because it remembered I had to fill one out last time.
+
+Two files. That's the whole foundation.
+
+Follow for more practical #AI tips.
+
+#Claude</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="958" average="5.00" min="1" max="5" />
+    <ns2:statistics views="43108" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:0_dSWLOHKng</ns0:id>
+  <ns1:videoId>0_dSWLOHKng</ns1:videoId>
+  <ns1:channelId>UCwAnu01qlnVg1Ai2AbtTMaA</ns1:channelId>
+  <ns0:title>[Jeff Su]My Simple Claude Cowork System (for normal people)</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=0_dSWLOHKng" />
+  <ns0:author>
+   <ns0:name>Jeff Su</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-04-28T13:00:03+00:00</ns0:published>
+  <ns0:updated>2026-05-20T18:28:13+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>My Simple Claude Cowork System (for normal people)</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/0_dSWLOHKng?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/0_dSWLOHKng/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>✅ Save 40% on Coursera Plus for 3 months - https://imp.i384100.net/c/2464514/3864512/14726
+
+#Claude #Cowork turns Claude from a chatbot into a full operating system for your work (aka an AI Second Brain), but most people have no idea how to actually set it up.
+
+This video walks you through the exact workspace architecture I use every day, including CLAUDE.md instruction files, persistent memory, a three-level hierarchy of workstations and projects, and real demos of Email HQ, spending trackers, and newsletter drafts that sound like me.
+
+*TIMESTAMPS*
+00:00 Claude Cowork for Beginners
+01:24 How Claude Cowork Works
+03:39 Cowork: 3-Level Hierarchy
+04:58 Level 0: Root Level
+11:01 Level 1: Workstations
+16:17 Growing Your Claude Cowork Workspace
+17:06 Claude Cowork Use Cases
+18:44 Claude Cowork: Pro Tips
+
+*RESOURCES MENTIONED*
+Starter templates and prompt templates - https://www.jeffsu.org/claude-cowork-build-your-own-jarvis/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v203
+Free Cowork Toolkit - https://coworkacademy.ai/toolkit?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v203
+Cowork Academy waitlist - https://coworkacademy.ai?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v203
+
+*BUILD A POWERFUL WORKFLOW*
+📈 The Workspace Academy - https://academy.jeffsu.org/workspace-academy?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v203
+✍️ My Notion Command Center - https://www.pressplay.cc/link/s/DE1C4C50
+
+*BE MY FRIEND:*
+📧 Subscribe to my newsletter - https://www.jeffsu.org/newsletter/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=description
+📸 Instagram - https://instagram.com/j.sushie
+🤝 LinkedIn - https://www.linkedin.com/in/jsu05/
+
+*MY FAVORITE GEAR*
+🎬 My YouTube Gear - https://www.jeffsu.org/yt-gear/
+🎒 Everyday Carry - https://www.jeffsu.org/my-edc/</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="8644" average="5.00" min="1" max="5" />
+    <ns2:statistics views="380307" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:p1ak5NfWuEA</ns0:id>
+  <ns1:videoId>p1ak5NfWuEA</ns1:videoId>
+  <ns1:channelId>UCwAnu01qlnVg1Ai2AbtTMaA</ns1:channelId>
+  <ns0:title>[Jeff Su]Most AI agents are fake (here's a 10-second test)</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/p1ak5NfWuEA" />
+  <ns0:author>
+   <ns0:name>Jeff Su</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-04-24T13:01:34+00:00</ns0:published>
+  <ns0:updated>2026-04-27T19:05:35+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Most AI agents are fake (here's a 10-second test)</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/p1ak5NfWuEA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/p1ak5NfWuEA/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>While thousands of companies claim to sell #AI agents, only a fraction are actually building real ones.
+
+The test is dead simple: look at what the product actually outputs:
+
+- If it's a classification (spam or not spam), a number, or a probability, it's not generative AI.
+- If the output is new text, images, or video that didn't exist before, it is.
+
+Google's own products show this perfectly:
+
+1. Gmail's spam filter relies on classification, so it’s NOT generative AI.
+2. Google Docs' "Help me write" generates brand-new text from scratch, which IS generative AI.
+3. Google’s Antigravity and Anthropic’s Cowork rely on agents that can autonomously think and iterate, meaning they are actually agentic products.
+
+Don’t be fooled by marketing speak that packages basic functions as “agentic AI.”</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="615" average="5.00" min="1" max="5" />
+    <ns2:statistics views="33109" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:jxHIw_OA8_I</ns0:id>
+  <ns1:videoId>jxHIw_OA8_I</ns1:videoId>
+  <ns1:channelId>UCwAnu01qlnVg1Ai2AbtTMaA</ns1:channelId>
+  <ns0:title>[Jeff Su]Stop perfecting your prompt. Do this instead</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/jxHIw_OA8_I" />
+  <ns0:author>
+   <ns0:name>Jeff Su</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-04-18T13:15:06+00:00</ns0:published>
+  <ns0:updated>2026-05-30T02:03:39+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Stop perfecting your prompt. Do this instead</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/jxHIw_OA8_I?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/jxHIw_OA8_I/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>3 (more) common #AI terms most people don’t know:
+
+Term 1: Grounding.
+Without it, AI answers from memory, which may or may not be correct. Hand it the actual document and say "answer from this," and now the response is grounded in something real. Whenever accuracy matters, give the AI something to reference.
+
+Term 2: RAG (Retrieval Augmented Generation).
+Without RAG, the AI writes from memory. With RAG, it goes to the library first, pulls the relevant sources, then generates its answer. The rule of thumb: if an AI tool cites its sources, it most likely uses #RAG. If it doesn't, it's guessing.
+
+Term 3: Context engineering.
+Prompt engineering focuses on writing a good prompt (task, context, tone). Context engineering focuses on assembling everything the AI needs: background, examples, constraints. Spend your time on the context, not the wording.</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="982" average="5.00" min="1" max="5" />
+    <ns2:statistics views="36684" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:gbI7THwqEjk</ns0:id>
+  <ns1:videoId>gbI7THwqEjk</ns1:videoId>
+  <ns1:channelId>UCwAnu01qlnVg1Ai2AbtTMaA</ns1:channelId>
+  <ns0:title>[Jeff Su]Most people get these 3 AI terms wrong</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/gbI7THwqEjk" />
+  <ns0:author>
+   <ns0:name>Jeff Su</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-04-10T13:01:29+00:00</ns0:published>
+  <ns0:updated>2026-05-21T02:55:29+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Most people get these 3 AI terms wrong</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/gbI7THwqEjk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/gbI7THwqEjk/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>#AI hallucination is the flip side of creativity. That's the first of three terms most people misunderstand.
+
+Term 1: Hallucination. The same mechanism that produces wrong answers is what generates creative writing, ideas, and novel connections. The real question is whether your task needs creativity or accuracy. Turning off web search in #ChatGPT or Claude gives you more creativity. Turning it on gives you more accuracy.
+
+Term 2: Context window. Think of it as a fixed-size whiteboard. Once it's full, the AI drops older information to fit new input. If your AI starts giving weird answers mid-conversation, just start a new chat.
+
+Term 3: Tokens. This is why free plans have usage limits. AI breaks your words into chunks called tokens, and every chunk costs usage. Better prompts mean fewer tokens, so you get more out of your plan before hitting the cap.</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="636" average="5.00" min="1" max="5" />
+    <ns2:statistics views="22705" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:z9rdrNrkvDY</ns0:id>
+  <ns1:videoId>z9rdrNrkvDY</ns1:videoId>
+  <ns1:channelId>UCwAnu01qlnVg1Ai2AbtTMaA</ns1:channelId>
+  <ns0:title>[Jeff Su]Learn 80% of Claude Cowork in Under 20 Minutes</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=z9rdrNrkvDY" />
+  <ns0:author>
+   <ns0:name>Jeff Su</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-04-07T13:02:24+00:00</ns0:published>
+  <ns0:updated>2026-08-12T06:18:05+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Learn 80% of Claude Cowork in Under 20 Minutes</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/z9rdrNrkvDY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/z9rdrNrkvDY/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>🌟 Grab my free Cowork Toolkit: https://coworkacademy.ai/toolkit?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v202
+
+⏭️ Want to skip ahead? Grab my entire Cowork system: https://coworkacademy.ai/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v202
+
+Claude #Cowork is Anthropic's desktop app that turns Claude from a chatbot into a full productivity system on your computer. This walkthrough covers the 7 core capabilities, including local file access, persistent memory, connectors, skills, Cowork Projects, and scheduled tasks, with real examples you can try today.
+
+If you've been using #Claude Chat but want to automate real work like expense reports, inbox triage, and reusable workflows, this is where to start.
+
+*TIMESTAMPS*
+00:00 Claude Chat, Cowork, Code
+00:25: Claude Chat vs. Claude Cowork
+02:19 Claude Cowork: Essential Settings
+04:12 Capability #1: Local File Access
+06:14 Capability #2: Persistent Memory
+08:44 Capability #3: Tools &amp; Connectors
+10:38 Capability #4: Claude Skills
+14:26 Capability #5: Cowork Projects
+15:39 Capability #6: Claude Browser Extension
+16:44 Capability #7: Scheduled Tasks
+
+*RESOURCES MENTIONED*
+Resources for Claude Cowork - https://www.jeffsu.org/learn-80-of-claude-cowork-in-under-20-minutes?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v202
+The Cowork Academy - https://coworkacademy.ai/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v202
+Free AI Toolkit - https://academy.jeffsu.org/ai-toolkit?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v202
+
+*BUILD A POWERFUL WORKFLOW*
+🦾 https://coworkacademy.ai/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v202
+📈 The Workspace Academy - https://academy.jeffsu.org/workspace-academy?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v202
+✍️ My Notion Command Center - https://www.pressplay.cc/link/s/DE1C4C50
+
+*BE MY FRIEND:*
+📧 Subscribe to my newsletter - https://www.jeffsu.org/newsletter/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=description
+📸 Instagram - https://instagram.com/j.sushie
+🤝 LinkedIn - https://www.linkedin.com/in/jsu05/
+
+*MY FAVORITE GEAR*
+🎬 My YouTube Gear - https://www.jeffsu.org/yt-gear/
+🎒 Everyday Carry - https://www.jeffsu.org/my-edc/
+
+#AI</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="24084" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1273102" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:6PZCZWvNVHc</ns0:id>
+  <ns1:videoId>6PZCZWvNVHc</ns1:videoId>
+  <ns1:channelId>UCwAnu01qlnVg1Ai2AbtTMaA</ns1:channelId>
+  <ns0:title>[Jeff Su]#claude Chat vs. Cowork: Biggest 3 differences</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/6PZCZWvNVHc" />
+  <ns0:author>
+   <ns0:name>Jeff Su</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-04-02T13:29:33+00:00</ns0:published>
+  <ns0:updated>2026-05-05T04:52:15+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>#claude Chat vs. Cowork: Biggest 3 differences</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/6PZCZWvNVHc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/6PZCZWvNVHc/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>#ClaudeCowork is the next level up from #Claude Chat. Here are the 3 biggest shifts in how you work.
+
+Shift 1: Claude Chat limits you to 20 files per conversation and 30MB per file, since everything uploads to the cloud. Claude Cowork reads directly from your computer, so there's no file limit and no size cap.
+
+Shift 2: Claude Chat has a much smaller context window, meaning it starts compacting your conversation and losing important details way sooner than Claude Cowork.
+
+Shift 3: Claude Chat gives you answers in a chat window, so you still have to do something with it yourself. Claude Cowork delivers ready-to-use files directly in your folder. I gave it 100+ receipts and got back a complete expense report in Excel, even flagging rows for me to review.</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1032" average="5.00" min="1" max="5" />
+    <ns2:statistics views="47918" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:KS-p0e-KwBA</ns0:id>
+  <ns1:videoId>KS-p0e-KwBA</ns1:videoId>
+  <ns1:channelId>UCwAnu01qlnVg1Ai2AbtTMaA</ns1:channelId>
+  <ns0:title>[Jeff Su]Claude Cowork: The #1 Thing To Know</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/KS-p0e-KwBA" />
+  <ns0:author>
+   <ns0:name>Jeff Su</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-03-26T13:00:36+00:00</ns0:published>
+  <ns0:updated>2026-06-04T04:37:05+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Claude Cowork: The #1 Thing To Know</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/KS-p0e-KwBA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/KS-p0e-KwBA/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>If you're prompting #ClaudeCowork the same way you prompt #Claude Chat, you're doing it wrong.
+
+Claude Chat uses task-first language. You guide every step: "Do this first. Now format it like that."
+
+Cowork uses outcome-first language. You describe the end result and let it figure out the approach.
+
+For example, with Claude Chat: "I have 15 raw thumbnail images. What naming convention would you recommend?"
+
+You get a recommendation, then do the work yourself.
+
+With Claude Cowork on the other hand: "Rename each photo based on what's in it and sort them into subfolders by type."
+
+Two minutes later, the work is done.
+
+Share this with someone just getting started with Cowork 😁
+
+#AI</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="3119" average="5.00" min="1" max="5" />
+    <ns2:statistics views="148660" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:kCxlQcKsoZg</ns0:id>
+  <ns1:videoId>kCxlQcKsoZg</ns1:videoId>
+  <ns1:channelId>UCwAnu01qlnVg1Ai2AbtTMaA</ns1:channelId>
+  <ns0:title>[Jeff Su]This NotebookLM feature cuts my workload by 50%</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/kCxlQcKsoZg" />
+  <ns0:author>
+   <ns0:name>Jeff Su</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCwAnu01qlnVg1Ai2AbtTMaA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-03-20T14:05:51+00:00</ns0:published>
+  <ns0:updated>2026-04-30T02:10:41+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>This NotebookLM feature cuts my workload by 50%</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/kCxlQcKsoZg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/kCxlQcKsoZg/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Most of what you upload to #NotebookLM won't make it into your final output. The trick is figuring out what matters without reading everything.
+
+That's where Mind Maps come in.
+
+Instead of scanning through every source, you generate one map and instantly see every topic and subtopic laid out visually, allowing you to cherry-pick what's relevant and skip the rest.
+
+Since my audience cares a LOT more about practical tips as opposed to technical stuff, I clicked "11 Practical Techniques" on the mind map and skipped "Agentic Toggles API Tips" entirely.
+
+This opens a focused chat where I could find the specific subtopics that my viewers would actually appreciate! 😁
+
+Try this next time you're prepping a project with multiple sources.
+
+#AI #productivity</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1278" average="5.00" min="1" max="5" />
+    <ns2:statistics views="48058" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry></feed>
