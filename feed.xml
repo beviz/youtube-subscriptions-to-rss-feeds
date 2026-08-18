@@ -1,2851 +1,352 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-08-18T05:24:44Z</updated><ns0:entry>
-  <ns0:id>yt:video:wIf9yMGalPU</ns0:id>
-  <ns1:videoId>wIf9yMGalPU</ns1:videoId>
-  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
-  <ns0:title>[OpenAI]You can just keep the work moving</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=wIf9yMGalPU" />
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-08-18T05:54:00Z</updated><ns0:entry>
+  <ns0:id>yt:video:j3iqyN_erjo</ns0:id>
+  <ns1:videoId>j3iqyN_erjo</ns1:videoId>
+  <ns1:channelId>UCsvn_Po0SmunchJYOWpOxMg</ns1:channelId>
+  <ns0:title>[videogamedunkey]The Big Walk</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=j3iqyN_erjo" />
   <ns0:author>
-   <ns0:name>OpenAI</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
+   <ns0:name>videogamedunkey</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-08-17T18:25:48+00:00</ns0:published>
-  <ns0:updated>2026-08-17T18:25:48+00:00</ns0:updated>
+  <ns0:published>2026-08-12T19:30:20+00:00</ns0:published>
+  <ns0:updated>2026-08-16T03:15:21+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>You can just keep the work moving</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/wIf9yMGalPU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/wIf9yMGalPU/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>ChatGPT Work keeps projects moving. Monitoring what matters, surfacing what needs attention, and picking up where your team leaves off.</ns2:description>
+   <ns2:title>The Big Walk</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/j3iqyN_erjo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/j3iqyN_erjo/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>We can walk on the talk but can we walk on the walk?</ns2:description>
    <ns2:community>
-    <ns2:starRating count="579" average="5.00" min="1" max="5" />
-    <ns2:statistics views="17855" />
+    <ns2:starRating count="24443" average="5.00" min="1" max="5" />
+    <ns2:statistics views="724473" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:Cxp2aZQqkYM</ns0:id>
-  <ns1:videoId>Cxp2aZQqkYM</ns1:videoId>
-  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
-  <ns0:title>[OpenAI]How Base44 Uses GPT-5.6 to Build Apps With 20% Fewer Tokens</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=Cxp2aZQqkYM" />
+  <ns0:id>yt:video:T8R1SlDKtME</ns0:id>
+  <ns1:videoId>T8R1SlDKtME</ns1:videoId>
+  <ns1:channelId>UCsvn_Po0SmunchJYOWpOxMg</ns1:channelId>
+  <ns0:title>[videogamedunkey]Peak</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=T8R1SlDKtME" />
   <ns0:author>
-   <ns0:name>OpenAI</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
+   <ns0:name>videogamedunkey</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-08-17T15:22:51+00:00</ns0:published>
-  <ns0:updated>2026-08-17T16:13:42+00:00</ns0:updated>
+  <ns0:published>2026-08-06T19:30:22+00:00</ns0:published>
+  <ns0:updated>2026-08-13T10:02:29+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>How Base44 Uses GPT-5.6 to Build Apps With 20% Fewer Tokens</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/Cxp2aZQqkYM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/Cxp2aZQqkYM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Base44 helps people turn natural language into production-ready applications and custom AI agents—no coding required.
+   <ns2:title>Peak</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/T8R1SlDKtME?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/T8R1SlDKtME/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>The sequel will be called Peak-Aboo. One player will be hiding behind the mountain.
 
-In this Startup Spotlight, Yoav Farhi, Staff AI Engineer at Base44, shares how the team tested GPT-5.6 across a wide range of app-building scenarios. Compared with GPT-5.5, GPT-5.6 delivered better outcomes while using 20% fewer tokens, completed tasks faster, and produced stronger first-pass designs for complex interfaces.
+with flup https://www.twitch.tv/fluppyz
+and videogamesean https://www.youtube.com/@videogamesean
 
-For Base44’s builders, that means less time correcting and re-explaining—and a faster path from idea to a product they can put in front of customers.
-
-Learn more about GPT-5.6: https://openai.com/index/gpt-5-6/</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="150" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3986" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:4lC38dyszj0</ns0:id>
-  <ns1:videoId>4lC38dyszj0</ns1:videoId>
-  <ns1:channelId>UCE_M8A5yxnLfW0KghEeajjw</ns1:channelId>
-  <ns0:title>[Apple]Apple Creator Studio: Watch Jungle make 11 music videos in 4 days</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/4lC38dyszj0" />
-  <ns0:author>
-   <ns0:name>Apple</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-15T00:02:41+00:00</ns0:published>
-  <ns0:updated>2026-08-15T13:55:22+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Apple Creator Studio: Watch Jungle make 11 music videos in 4 days</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/4lC38dyszj0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/4lC38dyszj0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="1065" average="5.00" min="1" max="5" />
-    <ns2:statistics views="25077" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:EDWbX_-RYws</ns0:id>
-  <ns1:videoId>EDWbX_-RYws</ns1:videoId>
-  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
-  <ns0:title>[OpenAI]Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=EDWbX_-RYws" />
-  <ns0:author>
-   <ns0:name>OpenAI</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-14T17:19:17+00:00</ns0:published>
-  <ns0:updated>2026-08-14T18:30:00+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/EDWbX_-RYws?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/EDWbX_-RYws/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Today we’re previewing Ultrafast mode, a new service tier in the OpenAI API for GPT‑5.6 Sol. Powered by Cerebras, Ultrafast runs up to 14x faster than Standard processing and generates up to 750 output tokens per second.
-
-OpenAI technical staff are already seeing what that speed changes. One security investigation workflow that once took one to two hours now takes 10–15 minutes, sometimes approaching real time. In other workflows, staff use Ultrafast to investigate root causes, search systems in parallel, and stay in flow while coding.
-
-Ultrafast is available to a select group of API customers, with access expanding as capacity grows.
-
-Learn more: https://openai.com/index/previewing-ultrafast/</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="644" average="5.00" min="1" max="5" />
-    <ns2:statistics views="27991" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:KLJxCWeYGoE</ns0:id>
-  <ns1:videoId>KLJxCWeYGoE</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]Why the Moon Never Changes</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/KLJxCWeYGoE" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-14T13:00:38+00:00</ns0:published>
-  <ns0:updated>2026-08-14T15:30:14+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Why the Moon Never Changes</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/KLJxCWeYGoE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/KLJxCWeYGoE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="103444" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3554324" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:0XPk_MAwCW4</ns0:id>
-  <ns1:videoId>0XPk_MAwCW4</ns1:videoId>
-  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
-  <ns0:title>[OpenAI]Inside Cricket’s Smartest Backroom | Rajasthan Royals | ChatGPT @rajasthanroyals</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=0XPk_MAwCW4" />
-  <ns0:author>
-   <ns0:name>OpenAI</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-14T06:30:28+00:00</ns0:published>
-  <ns0:updated>2026-08-14T07:33:06+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Inside Cricket’s Smartest Backroom | Rajasthan Royals | ChatGPT @rajasthanroyals</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/0XPk_MAwCW4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/0XPk_MAwCW4/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>What gives one of cricket’s smartest teams its edge before the first ball is bowled?
-
-Go behind the scenes with Rajasthan Royals as Kumar Sangakkara and the franchise’s analytics and technology teams reveal how ChatGPT and OpenAI tools support auction strategy, player analysis, match preparation, and creative work across the organization.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="85" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4039" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:W-HhMUe9hOg</ns0:id>
-  <ns1:videoId>W-HhMUe9hOg</ns1:videoId>
-  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
-  <ns0:title>[OpenAI]Computer History in ChatGPT</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=W-HhMUe9hOg" />
-  <ns0:author>
-   <ns0:name>OpenAI</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-13T20:34:04+00:00</ns0:published>
-  <ns0:updated>2026-08-14T19:52:09+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Computer History in ChatGPT</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/W-HhMUe9hOg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/W-HhMUe9hOg/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Codex &amp; ChatGPT can now understand the context around what you’re working on.
-
-When you opt in to Computer History, it can help you pick up where you left off, get back to unfinished projects, and see suggested skills or scheduled tasks based on the work you do regularly.
-
-Available in the ChatGPT desktop app on Mac for ChatGPT Pro, Business, and Enterprise.
-
-If you’re on a Business or Enterprise team, your admin will need to turn it on first.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1317" average="5.00" min="1" max="5" />
-    <ns2:statistics views="42029" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:4TXpQnqLvLE</ns0:id>
-  <ns1:videoId>4TXpQnqLvLE</ns1:videoId>
-  <ns1:channelId>UCdngmbVKX1Tgre699-XLlUA</ns1:channelId>
-  <ns0:title>[TechWorld with Nana]How to Get Hired in DevOps WITHOUT a Tech Degree 💼🔥</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/4TXpQnqLvLE" />
-  <ns0:author>
-   <ns0:name>TechWorld with Nana</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-13T16:00:22+00:00</ns0:published>
-  <ns0:updated>2026-08-14T11:20:26+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How to Get Hired in DevOps WITHOUT a Tech Degree 💼🔥</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/4TXpQnqLvLE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/4TXpQnqLvLE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>You DON’T need a traditional Computer Science degree to land a top-tier DevOps or DevSecOps job! 🤯
-
-In this clip, Ana Pedra (DevSecOps Engineer) breaks down the 3 crucial elements that actually get recruiters' attention and prove you can do the job:
-1️⃣ Recognized Bootcamps &amp; Training: Social proof that shows hiring managers you have structured, practical training.
-2️⃣ Hands-On GitHub Projects: A portfolio of real-world projects linked to your CV/LinkedIn so you can confidently prove your skills during interviews.
-3️⃣ Industry Certifications: Tough-to-get credentials that validate your expertise.
-
-Since traditional universities rarely teach real-world DevOps, proof of work beats paper degrees every time.
-
-Ready to build your DevOps career? Watch the full video on my YouTube channel and subscribe to @TechWorldwithNana for more cloud tutorials, career tips, and real-world DevOps strategies! 👇
-
-#Shorts #DevOps #TechCareer #SoftwareEngineering #Coding #DevSecOps #DevOpsEngineer #TechWorldWithNana #GitHub #CloudComputing #TechInterview</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="100" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3720" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:bl2eGejkbaU</ns0:id>
-  <ns1:videoId>bl2eGejkbaU</ns1:videoId>
-  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
-  <ns0:title>[OpenAI]Get a daily CFO briefing with ChatGPT Work</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=bl2eGejkbaU" />
-  <ns0:author>
-   <ns0:name>OpenAI</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-13T13:06:22+00:00</ns0:published>
-  <ns0:updated>2026-08-13T13:18:50+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Get a daily CFO briefing with ChatGPT Work</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/bl2eGejkbaU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/bl2eGejkbaU/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Start the day with a clear view of the decisions that matter most.
-
-ChatGPT Work brings financial performance, close status, contract risks, and market signals into one CFO briefing. See what changed, identify emerging opportunities, and prioritize decisions across the business.
-
-When a potential acquisition surfaces, ChatGPT creates an executive decision memo and an editable Excel workbook covering valuation, financial projections, transaction economics, and risk.
-
-See how ChatGPT Work can help your finance team:
-https://openai.com/business/solutions/finance/</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="109" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5620" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:94Td-y5z5rk</ns0:id>
-  <ns1:videoId>94Td-y5z5rk</ns1:videoId>
-  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
-  <ns0:title>[OpenAI]Build custom financial forecasting apps with ChatGPT Work</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=94Td-y5z5rk" />
-  <ns0:author>
-   <ns0:name>OpenAI</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-13T13:05:30+00:00</ns0:published>
-  <ns0:updated>2026-08-13T14:36:59+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Build custom financial forecasting apps with ChatGPT Work</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/94Td-y5z5rk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/94Td-y5z5rk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Build an interactive financial forecast using the numbers your business already trusts.
-
-ChatGPT Work connects approved financial data from Google Drive and NetSuite, compares actuals with the latest outlook, and creates an interactive forecasting dashboard. Adjust assumptions, test scenarios, and see how different decisions could affect the business.
-
-Approved figures, proposed adjustments, and hypothetical scenarios stay clearly separate.
-
-See how ChatGPT Work can help your finance team:
-https://openai.com/business/solutions/finance/</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="73" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3580" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:Ljm3nHQQiSk</ns0:id>
-  <ns1:videoId>Ljm3nHQQiSk</ns1:videoId>
-  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
-  <ns0:title>[OpenAI]Reconcile quarter-end financials with ChatGPT Work</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=Ljm3nHQQiSk" />
-  <ns0:author>
-   <ns0:name>OpenAI</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-13T13:04:31+00:00</ns0:published>
-  <ns0:updated>2026-08-13T13:54:37+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Reconcile quarter-end financials with ChatGPT Work</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/Ljm3nHQQiSk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/Ljm3nHQQiSk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Prepare for quarter-end close with a clear view of what changed and why.
-
-ChatGPT Work connects board materials in Google Drive with posted financial data in NetSuite. It flags variances, traces discrepancies to their source, shows the impact on the forecast, and prepares a close recommendation for Finance to review.
-
-When items need attention, ChatGPT turns them into an action plan in Slack with clear owners and next steps.
-
-See how ChatGPT Work can help your finance team:
-https://openai.com/business/solutions/finance/</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="110" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4654" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:_HCks5jkPLw</ns0:id>
-  <ns1:videoId>_HCks5jkPLw</ns1:videoId>
-  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
-  <ns0:title>[OpenAI]Use ChatGPT Work to deliver board-ready reporting</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=_HCks5jkPLw" />
-  <ns0:author>
-   <ns0:name>OpenAI</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-13T11:31:36+00:00</ns0:published>
-  <ns0:updated>2026-08-13T12:06:38+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Use ChatGPT Work to deliver board-ready reporting</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/_HCks5jkPLw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/_HCks5jkPLw/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Catch quarter-end mistakes before they reach your board.
-
-This is how we use ChatGPT Work to check our financial model, executive memo, and board deck against data. ChatGPT Work will flag anything that doesn’t match for our teams to check.
-
-Watch the full session for more demos here: https://openai.ondemand.goldcast.io/on-demand/cd89f13d-bd97-4b96-9261-818ffdcd2fc0</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="191" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9314" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:mOAHWk24D28</ns0:id>
-  <ns1:videoId>mOAHWk24D28</ns1:videoId>
-  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
-  <ns0:title>[OpenAI]Use ChatGPT Work to build custom forecasting apps</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=mOAHWk24D28" />
-  <ns0:author>
-   <ns0:name>OpenAI</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-13T11:27:26+00:00</ns0:published>
-  <ns0:updated>2026-08-13T11:43:10+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Use ChatGPT Work to build custom forecasting apps</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/mOAHWk24D28?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/mOAHWk24D28/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Build a forecast your finance team can explore.
-
-This is how we use ChatGPT Work to bring actuals, forecast data, and business context into one interactive view—so we can test scenarios and make decisions together.
-
-Watch the full session for more demos here: https://openai.ondemand.goldcast.io/on-demand/cd89f13d-bd97-4b96-9261-818ffdcd2fc0</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="356" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13440" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:6VwIXjFj6YQ</ns0:id>
-  <ns1:videoId>6VwIXjFj6YQ</ns1:videoId>
-  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
-  <ns0:title>[OpenAI]You can just launch Sites | ChatGPT Work</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=6VwIXjFj6YQ" />
-  <ns0:author>
-   <ns0:name>OpenAI</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-13T08:12:53+00:00</ns0:published>
-  <ns0:updated>2026-08-18T02:48:07+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>You can just launch Sites | ChatGPT Work</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/6VwIXjFj6YQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/6VwIXjFj6YQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>ChatGPT Work gathers context across your surfaces and helps you go from ambition to action with polished docs, slides, and sites.  
-
-See how ChatGPT Work builds a structured, shareable launch hub your team can use as a single source of truth—and refine directly before sharing.  
-
-Learn more about ChatGPT Work: https://openai.com/chatgpt-work/</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1389" average="5.00" min="1" max="5" />
-    <ns2:statistics views="63858" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:-vvGAKtV_Ek</ns0:id>
-  <ns1:videoId>-vvGAKtV_Ek</ns1:videoId>
-  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
-  <ns0:title>[OpenAI]You can just finish the work | ChatGPT Work</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=-vvGAKtV_Ek" />
-  <ns0:author>
-   <ns0:name>OpenAI</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-13T08:09:08+00:00</ns0:published>
-  <ns0:updated>2026-08-13T08:13:18+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>You can just finish the work | ChatGPT Work</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/-vvGAKtV_Ek?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/-vvGAKtV_Ek/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>ChatGPT Work turns your team’s notes, drafts, and ideas into finished work—while you stay in control.  
-
-See how ChatGPT Work brings together launch results, recap notes, and a Slack thread to build an exec-friendly launch deck you can circulate with leadership.  
-
-Learn more about ChatGPT Work: https://openai.com/chatgpt-work/</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="420" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14931" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:qTiB_VX9h1Y</ns0:id>
-  <ns1:videoId>qTiB_VX9h1Y</ns1:videoId>
-  <ns1:channelId>UC9fSZHEh6XsRpX-xJc6lT3A</ns1:channelId>
-  <ns0:title>[UrAvgConsumer]Google just dropped their new lineup😮‍💨 Which one you picking up? #pixel11pro #pixel11profold</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/qTiB_VX9h1Y" />
-  <ns0:author>
-   <ns0:name>UrAvgConsumer</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-12T23:16:48+00:00</ns0:published>
-  <ns0:updated>2026-08-15T05:38:41+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Google just dropped their new lineup😮‍💨 Which one you picking up? #pixel11pro #pixel11profold</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/qTiB_VX9h1Y?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/qTiB_VX9h1Y/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="146" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5900" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:KwqeKTM9M_8</ns0:id>
-  <ns1:videoId>KwqeKTM9M_8</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]$100 Slime Challenge</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/KwqeKTM9M_8" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-12T17:16:31+00:00</ns0:published>
-  <ns0:updated>2026-08-16T03:15:30+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>$100 Slime Challenge</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/KwqeKTM9M_8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/KwqeKTM9M_8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Pick up your CrunchLabs Slime Prank Lab from Walmart, Target, or Amazon today.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="41632" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2306857" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:fi8F_Q8bSfo</ns0:id>
-  <ns1:videoId>fi8F_Q8bSfo</ns1:videoId>
-  <ns1:channelId>UC9fSZHEh6XsRpX-xJc6lT3A</ns1:channelId>
-  <ns0:title>[UrAvgConsumer]Pixel 11 Pro colors! That olive green tho 🔥 #pixel11pro #googlepixel</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/fi8F_Q8bSfo" />
-  <ns0:author>
-   <ns0:name>UrAvgConsumer</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-12T16:22:36+00:00</ns0:published>
-  <ns0:updated>2026-08-13T19:08:45+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Pixel 11 Pro colors! That olive green tho 🔥 #pixel11pro #googlepixel</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/fi8F_Q8bSfo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/fi8F_Q8bSfo/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="281" average="5.00" min="1" max="5" />
-    <ns2:statistics views="24394" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:2zDMGBq6Zps</ns0:id>
-  <ns1:videoId>2zDMGBq6Zps</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]中国人眼红，外国人眼绿？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=2zDMGBq6Zps" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-12T12:11:51+00:00</ns0:published>
-  <ns0:updated>2026-08-16T03:16:38+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>中国人眼红，外国人眼绿？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/2zDMGBq6Zps?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/2zDMGBq6Zps/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="32" average="5.00" min="1" max="5" />
-    <ns2:statistics views="566" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:Xr-ZUjKV1wQ</ns0:id>
-  <ns1:videoId>Xr-ZUjKV1wQ</ns1:videoId>
-  <ns1:channelId>UC9fSZHEh6XsRpX-xJc6lT3A</ns1:channelId>
-  <ns0:title>[UrAvgConsumer]The Galaxy Z Fold8 Is Kind of a Cheat Code (Real Day In the Life)</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=Xr-ZUjKV1wQ" />
-  <ns0:author>
-   <ns0:name>UrAvgConsumer</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-11T21:01:46+00:00</ns0:published>
-  <ns0:updated>2026-08-16T23:19:11+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>The Galaxy Z Fold8 Is Kind of a Cheat Code (Real Day In the Life)</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/Xr-ZUjKV1wQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/Xr-ZUjKV1wQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>I've been living with the Galaxy Z Fold8 for two weeks, and this is your peek into what it's really like on the daily. That 5.5" cover screen, the battery life, the camera compromises, and the one feature I wish Samsung kept. Here's the honest rundown. Watch before you spend.
-
-GEAR IN THIS VIDEO -
-Galaxy Z Fold8 – https://bestbuycreators.7tiv.net/aNDKLq
-
-FOLLOW UAC -
-Instagram: https://www.instagram.com/uravgconsumer/
-TikTok: https://www.tiktok.com/@uravgconsumer
-X / Twitter – [link] 
-
-BUSINESS INQUIRIES -
-E-mail: UrAvgConsumer@gmail.com
- 
-CHAPTERS -
-0:00 Morning use
-1:09 NEW form factor!
-4:00 AirDrop / Quick Share to iPhone 
-5:28 Battery Check
-6:00 Speaker quirks
-8:20 Fan View camera 
-10:14 Getting a new camera
-10:36 Missing Flex hinge 
-11:56 Display Brightness
-12:24 Camera performance
-13:09 Phone call
-13:25 End of day Battery check 
-13:49 The crease
-14:20 Final thoughts
-
- 
-Some links may be affiliate links. Purchases through them help support the channel at no extra cost to you.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="66478" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:64hq3vDifcY</ns0:id>
-  <ns1:videoId>64hq3vDifcY</ns1:videoId>
-  <ns1:channelId>UCE_M8A5yxnLfW0KghEeajjw</ns1:channelId>
-  <ns0:title>[Apple]Never forget an assignment with Reminders. Tip from Sam at the Apple Store.</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/64hq3vDifcY" />
-  <ns0:author>
-   <ns0:name>Apple</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-11T16:02:49+00:00</ns0:published>
-  <ns0:updated>2026-08-13T19:00:29+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Never forget an assignment with Reminders. Tip from Sam at the Apple Store.</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/64hq3vDifcY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/64hq3vDifcY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>#iPhone #Reminders</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="979" average="5.00" min="1" max="5" />
-    <ns2:statistics views="44643" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:TqWRlxDZkjo</ns0:id>
-  <ns1:videoId>TqWRlxDZkjo</ns1:videoId>
-  <ns1:channelId>UCdngmbVKX1Tgre699-XLlUA</ns1:channelId>
-  <ns0:title>[TechWorld with Nana]From Apprentice to DevOps Engineer: Here's the Exact Path He Took</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=TqWRlxDZkjo" />
-  <ns0:author>
-   <ns0:name>TechWorld with Nana</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-11T14:09:51+00:00</ns0:published>
-  <ns0:updated>2026-08-15T06:19:16+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>From Apprentice to DevOps Engineer: Here's the Exact Path He Took</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/TqWRlxDZkjo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/TqWRlxDZkjo/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>How Amin Landed a Permanent DevOps Role Before Finishing His Testing Apprenticeship
-
-▬▬  If you need help in achieving your career goals 👇 ▬▬▬
-🟢 IT Fundamentals Course: https://bit.ly/4cggjnh
-🟢 Structured DevOps Program to become job-ready in 4-6 months: https://bit.ly/4bIB36V
-
-Amin was near the bottom of his engineering class. A few years later he's a well-paid DevOps &amp; Infrastructure Engineer. This is exactly how he did it.
-
-In this interview, Amin shares his full journey: how he rebuilt the way he learns, how he landed an apprenticeship he wasn't qualified for with one honest line ("I don't know, but I can learn"), how he switched from test automation into DevOps during his apprenticeship, and the mindset that carried him through.
-
-If you're a student or a junior engineer wondering whether it's worth investing the time and effort into an IT career — this one's for you.
-
-
-▬▬▬▬▬▬ T I M E S T A M P S ⏰  ▬▬▬▬▬▬
-0:00 – Introduction
-3:21 – What Amin does today at Thales
-5:33 – From top of the class to failing grades (and the turnaround)
-12:52 – Landing an apprenticeship with almost no skills
-16:00 – What the first job was really like (testing years)
-22:48 – Why IT Fundamentals course on top of studies
-26:36 – Was the DevOps Bootcamp worth the investment?
-33:12 – The hardest project he's ever built
-36:12 – Turning the testing apprenticeship into a permanent DevOps position
-46:39 – How Amin Manages His Time to Upskill Continuously
-50:53 – Dealing with Challenges
-1:01:12 – His advice to students &amp; junior engineers
-1:05:1 – How To Motivate Yourself To Keep Learning
-
-▬  Thanks Amin, for sharing your journey 💙   ▬
-► Connect with him on LinkedIn: https://www.linkedin.com/in/amin-yekhlef-devsecops-networks-cybersecurity-systems/
-► Read Amin's full DevOps story here: https://www.techworld-with-nana.com/post/devops-bootcamp-review-amin
-
-In this video, Amin shares:
-▪️ How he turned failing grades into a learning system that actually works
-▪️ The one study habit that changed everything for him
-▪️ How he got hired on mindset, not skills — and what he said in the interview
-▪️ Why he switched from test automation into DevOps before his apprenticeship was even over
-▪️ How he found time to learn while working and studying full-time
-▪️ Whether the DevOps Bootcamp was worth the investment
-▪️ The hardest real-world project he's built so far
-▪️ Why he keeps learning — even after landing the role
-▪️ His honest advice for students and junior engineers trying to break in
-
-▬▬▬▬▬▬ 🎙️ PART OF INTERVIEW SERIES 🎙️    ▬▬▬▬▬▬
-Link to playlist: https://www.youtube.com/playlist?list=PLy7NrYWoggjzWeggYOnCigkyu4feE_ADd
-This series features in-depth conversations with industry experts like Kelsey Hightower and real career journeys, from people who made it happen, sharing practical insights on learning paths, interview preparation, and day-to-day DevOps work.
-
-I capture real transformation stories from our DevOps bootcamp graduates about building a DevOps career. Hear how people learned Kubernetes, prepared project portfolios, landed multiple job offers, and navigate the evolving landscape of AI in infrastructure. Whether you're considering DevOps or already in the field, these conversations reveal what's actually working.
-
-▬▬▬▬▬▬ Connect with me 👋   ▬▬▬▬▬▬ 
-INSTAGRAM             ►  https://bit.ly/2F3LXYJ
-TWITTER                   ►  https://bit.ly/3i54PUB
-LINKEDIN                  ►  https://bit.ly/3hWOLVT
-
-TechWorld with Nana DevOps Bootcamp | DevOps Bootcamp Review | How To Become a DevOps Engineer | Best DevOps Bootcamp</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="128" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6397" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:gdDctjC10SY</ns0:id>
-  <ns1:videoId>gdDctjC10SY</ns1:videoId>
-  <ns1:channelId>UCkRfArvrzheW2E7b6SVT7vQ</ns1:channelId>
-  <ns0:title>[YouTube Creators]NEW: Updates to the YouTube Partner Program</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=gdDctjC10SY" />
-  <ns0:author>
-   <ns0:name>YouTube Creators</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-10T15:01:12+00:00</ns0:published>
-  <ns0:updated>2026-08-14T15:46:33+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>NEW: Updates to the YouTube Partner Program</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/gdDctjC10SY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/gdDctjC10SY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>We’re introducing new updates to the YouTube Partner Program. 
-If you’re a creator who’s currently in the program, you’ll need to review and accept new terms by January 31, 2027 to keep earning. If you’re a creator who’s looking to apply to the program, there are new eligibility requirements you’ll need to know. There are also changes to the way the Shorts creator pool is being distributed, and we’re introducing new revenue streams like Premium Lite and targeted incentive programs. With these changes, our total investment in creators remains unchanged. In fact, we expect to pay even more to creators in 2027 than we did in 2026. 
-
-https://support.google.com/youtube/answer/12843009
-https://support.google.com/youtube/answer/12504220
-
-00:00 | Overview
-00:37 | Entry Requirements for New YPP Applicants
-01:30 | Earning Ads and Premium Revenue Share for Shorts
-01:58 | New Targeted Incentive Programs
-02:23 | Premium Lite Expansion
-02:45 | New Shorts Ad Formats
-02:59 | New Terms in Studio
-03:33 | How to Accept the New Terms in Studio
-
-
-Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
-
-► Check out our Help Center: https://goo.gl/fBzr7
-► Check out the Creator Insider channel: https://www.youtube.com/@creatorinsider</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="21000" average="5.00" min="1" max="5" />
-    <ns2:statistics views="292056" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:OEkxKdhtQng</ns0:id>
-  <ns1:videoId>OEkxKdhtQng</ns1:videoId>
-  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
-  <ns0:title>[OpenAI]How Model ML Uses GPT-5.6 Sol to Get Finance Work Done More Efficiently</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=OEkxKdhtQng" />
-  <ns0:author>
-   <ns0:name>OpenAI</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-10T13:33:42+00:00</ns0:published>
-  <ns0:updated>2026-08-14T00:37:05+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How Model ML Uses GPT-5.6 Sol to Get Finance Work Done More Efficiently</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/OEkxKdhtQng?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/OEkxKdhtQng/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Model ML is solving the “last-mile problem” in finance, carrying asks from research to analysis to a finished PowerPoint deck or Excel workbook with traceable sources. 
-
-When Model ML tested GPT‑5.6 Sol in its Composite, the results “blew every metric out the water,” says Co-founder and CEO Chaz Englander: 
-
-⚡ 21% fewer tokens per PowerPoint deck than Fable 5
-✅ A 16.6 percentage-point lead over Opus 5 on decks ready for substantive review
-📊 36% fewer tokens per Excel workbook than Opus 5
-
-Watch Englander walk through Model ML’s evaluation process, then read the full story about how they use the model in production here: https://openai.com/index/model-ml/</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="272" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11261" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:02BE2cVZdxI</ns0:id>
-  <ns1:videoId>02BE2cVZdxI</ns1:videoId>
-  <ns1:channelId>UCE_M8A5yxnLfW0KghEeajjw</ns1:channelId>
-  <ns0:title>[Apple]Introducing Madden NFL 27 Apple Arcade Edition</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=02BE2cVZdxI" />
-  <ns0:author>
-   <ns0:name>Apple</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-07T16:00:26+00:00</ns0:published>
-  <ns0:updated>2026-08-17T05:18:06+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Introducing Madden NFL 27 Apple Arcade Edition</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/02BE2cVZdxI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/02BE2cVZdxI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Madden NFL 27 Arcade Edition is here. All the big hits. All the big plays. None of the in-app purchases. This is the game you love. Now playable everywhere across iPhone, iPad, Mac, Apple TV 4K, and Apple Vision Pro.
-
-Learn more: https://apple.co/4fNCAdf
-
-"That’s a No No" by Little Simz https://music.apple/thats-a-no-no
-
-Welcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1599" average="5.00" min="1" max="5" />
-    <ns2:statistics views="114166" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:p_slDAvPjv0</ns0:id>
-  <ns1:videoId>p_slDAvPjv0</ns1:videoId>
-  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
-  <ns0:title>[OpenAI]How to Schedule a Weekly Metrics Report With ChatGPT Work</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=p_slDAvPjv0" />
-  <ns0:author>
-   <ns0:name>OpenAI</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-06T22:29:28+00:00</ns0:published>
-  <ns0:updated>2026-08-10T01:09:31+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How to Schedule a Weekly Metrics Report With ChatGPT Work</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/p_slDAvPjv0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/p_slDAvPjv0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Stop spending hours pulling together your weekly report. 
-
-In this step-by-step demo, Eunji from Data Science shows how she sets up a recurring task in ChatGPT Work. Once it’s scheduled, ChatGPT Work pulls the latest metrics, explains what changed, updates the charts, and drafts the Slack message every week—so Eunji starts each Thursday with a complete first draft ready to review.
-
-https://chatgpt.com/work/</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="407" average="5.00" min="1" max="5" />
-    <ns2:statistics views="15453" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:TryfaGZwvIE</ns0:id>
-  <ns1:videoId>TryfaGZwvIE</ns1:videoId>
-  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
-  <ns0:title>[OpenAI]How to Turn a Forecast Spreadsheet Into an Interactive Planning Tool With ChatGPT Work</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=TryfaGZwvIE" />
-  <ns0:author>
-   <ns0:name>OpenAI</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-06T22:29:01+00:00</ns0:published>
-  <ns0:updated>2026-08-10T01:06:14+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How to Turn a Forecast Spreadsheet Into an Interactive Planning Tool With ChatGPT Work</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/TryfaGZwvIE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/TryfaGZwvIE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Bring your spreadsheets to life with ChatGPT Work. 
-
-In this demo, Kyle from Strategic Finance teaches you how to turn your data into an interactive dashboard you can use to compare scenarios and see how numbers change.
-
-The best part: you can build it in minutes, without knowing how to code.
-
-https://chatgpt.com/work/</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="597" average="5.00" min="1" max="5" />
-    <ns2:statistics views="23947" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:dLXqdZPk_oc</ns0:id>
-  <ns1:videoId>dLXqdZPk_oc</ns1:videoId>
-  <ns1:channelId>UCdngmbVKX1Tgre699-XLlUA</ns1:channelId>
-  <ns0:title>[TechWorld with Nana]How ONE Simple DevOps Change Saved Thousands! 💰</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/dLXqdZPk_oc" />
-  <ns0:author>
-   <ns0:name>TechWorld with Nana</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-06T16:00:18+00:00</ns0:published>
-  <ns0:updated>2026-08-10T01:08:09+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How ONE Simple DevOps Change Saved Thousands! 💰</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/dLXqdZPk_oc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/dLXqdZPk_oc/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Writing the code took 2 days, but convincing the stakeholders took 2 months! 🤯
-
-Automating SSL/TLS certificate renewals with AWS Certificate Manager (ACM) and Terraform eliminated manual CSR creation, removed compliance bottlenecks, and saved roughly $200 per customer annually. In cloud infrastructure, the tech fix is often the easy part—managing stakeholder alignment and IT procedures is where the real work happens.
-
-Want to level up your DevOps career and master cloud automation?
-
-👉 Subscribe for more real-world DevOps case studies, AWS tips, and cloud architecture strategies! 👇
-
-#Shorts #DevOps #AWS #CloudComputing #Tech #Terraform #CloudAutomation #DevOpsEngineer #TechWorldWithNana #SoftwareEngineering #CloudCostOptimization</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="284" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7764" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:BTyWlJJUX2I</ns0:id>
-  <ns1:videoId>BTyWlJJUX2I</ns1:videoId>
-  <ns1:channelId>UCE_M8A5yxnLfW0KghEeajjw</ns1:channelId>
-  <ns0:title>[Apple]Show off your work with Desk View. Tip from Kylie at the Apple Store.</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/BTyWlJJUX2I" />
-  <ns0:author>
-   <ns0:name>Apple</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-04T16:00:58+00:00</ns0:published>
-  <ns0:updated>2026-08-10T14:23:51+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Show off your work with Desk View. Tip from Kylie at the Apple Store.</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/BTyWlJJUX2I?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/BTyWlJJUX2I/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>#MacBook #MacBookTips #College #AppleStore</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1620" average="5.00" min="1" max="5" />
-    <ns2:statistics views="78818" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:HEZVaZ8oKzY</ns0:id>
-  <ns1:videoId>HEZVaZ8oKzY</ns1:videoId>
-  <ns1:channelId>UC9fSZHEh6XsRpX-xJc6lT3A</ns1:channelId>
-  <ns0:title>[UrAvgConsumer]Gaming on Apple's $3,299 Studio Display XDR... Should You?</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=HEZVaZ8oKzY" />
-  <ns0:author>
-   <ns0:name>UrAvgConsumer</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-03T16:08:39+00:00</ns0:published>
-  <ns0:updated>2026-08-12T20:04:50+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Gaming on Apple's $3,299 Studio Display XDR... Should You?</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/HEZVaZ8oKzY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/HEZVaZ8oKzY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Can you actually game on Apple's $3,299 Studio Display XDR? It's built for creators, but I connected a Switch 2, PS5 Pro, Xbox, and a gaming PC to find out what happens.
-Upgrade your videos with HeyGen today! - https://www.heygen.com/?sid=rewardful&amp;utm_content=creator&amp;utm_medium=influencerb&amp;via=judner
-
-Find them here:
-Apple Studio Display XDR - https://amzn.to/4xicupB
-Club 3D Adapter - https://amzn.to/45yZUGO
-Nintendo Switch 2 - https://amzn.to/4hMk2fT
-PS5 Pro - https://bestbuycreators.7tiv.net/0G1mdY
-Xbox Series X - https://bestbuycreators.7tiv.net/R0W162
-Alienware Area-51 Gaming PC - https://bestbuycreators.7tiv.net/yZBymB
-Alienware Area-51 Gaming Laptop (16") - https://bestbuycreators.7tiv.net/m40z2y
-MacBook Pro 16" (M5 Max) - https://bestbuycreators.7tiv.net/L0WnZ3
-
-Disclosure: This description may contain affiliate links. I may receive a small commission on purchases made through these links at no additional cost to you.
-
-Catch up with me: 
-Join my Discord Server: https://discord.gg/F7Q2F7aque
-Instagram: https://www.instagram.com/uravgconsumer/
-TikTok: https://www.tiktok.com/@uravgconsumer
-E-mail: UrAvgConsumer@gmail.com</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="83693" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:979g7RzxCZE</ns0:id>
-  <ns1:videoId>979g7RzxCZE</ns1:videoId>
-  <ns1:channelId>UCkRfArvrzheW2E7b6SVT7vQ</ns1:channelId>
-  <ns0:title>[YouTube Creators]✨NEW✨ Collab with MORE Creators, Communities Updates, and more! #shortsroundup</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/979g7RzxCZE" />
-  <ns0:author>
-   <ns0:name>YouTube Creators</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-31T20:01:57+00:00</ns0:published>
-  <ns0:updated>2026-08-04T03:18:50+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>✨NEW✨ Collab with MORE Creators, Communities Updates, and more! #shortsroundup</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/979g7RzxCZE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/979g7RzxCZE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Here’s this month’s YouTube Shorts Roundup! Check out our longer Roundup linked in this Short for more news and updates.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="24765" average="5.00" min="1" max="5" />
-    <ns2:statistics views="315350" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:VTMhhYTl9Co</ns0:id>
-  <ns1:videoId>VTMhhYTl9Co</ns1:videoId>
-  <ns1:channelId>UCkRfArvrzheW2E7b6SVT7vQ</ns1:channelId>
-  <ns0:title>[YouTube Creators]Collab with more Creators, Turn Playlists Into Shows, and more | Creator Roundup</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=VTMhhYTl9Co" />
-  <ns0:author>
-   <ns0:name>YouTube Creators</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-31T20:01:05+00:00</ns0:published>
-  <ns0:updated>2026-08-14T15:50:14+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Collab with more Creators, Turn Playlists Into Shows, and more | Creator Roundup</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/VTMhhYTl9Co?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/VTMhhYTl9Co/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Catch up on all the top Creator news from the past month, including trending topics and product updates. Tune in for new episodes each month and use the timestamps below to skip to news interesting to you!
-
-00:00 | Intro
-00:03 | Collab with More Creators
-00:19 | Turn Playlists Into Shows
-01:00 | Updates to Communities
-01:35 | Gifts and Jewels Country Expansion
-
-
-*Collab with More Creators*
-https://youtu.be/X_OA4zASDTg
-
-*Turn Playlists Into Shorts*
-https://support.google.com/youtube/answer/16590581
-
-*Updates to Communities*
-https://youtu.be/hXG8T0Gk438
-https://support.google.com/youtube/answer/15739414
-
-*Gifts and Jewels Country Expansion*
-https://support.google.com/youtube/answer/15534883
-https://www.youtube.com/watch?v=JQVm8hTOPpI
-
-
-Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
-
-► Check out our Help Center: https://goo.gl/fBzr7
-► Check out the Creator Insider channel: https://www.youtube.com/@creatorinsider</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="206294" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5356147" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:lh2G8lE-KJY</ns0:id>
-  <ns1:videoId>lh2G8lE-KJY</ns1:videoId>
-  <ns1:channelId>UC9fSZHEh6XsRpX-xJc6lT3A</ns1:channelId>
-  <ns0:title>[UrAvgConsumer]Smaller than your phone, bigger than your phone. Would you daily drive the Z Fold 8?👇🏾#zfold8</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/lh2G8lE-KJY" />
-  <ns0:author>
-   <ns0:name>UrAvgConsumer</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-30T21:36:47+00:00</ns0:published>
-  <ns0:updated>2026-08-03T05:39:04+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Smaller than your phone, bigger than your phone. Would you daily drive the Z Fold 8?👇🏾#zfold8</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/lh2G8lE-KJY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/lh2G8lE-KJY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="2099" average="5.00" min="1" max="5" />
-    <ns2:statistics views="63889" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:QzE9EFyelws</ns0:id>
-  <ns1:videoId>QzE9EFyelws</ns1:videoId>
-  <ns1:channelId>UCdngmbVKX1Tgre699-XLlUA</ns1:channelId>
-  <ns0:title>[TechWorld with Nana]Why DevOps Engineers are ACTUALLY getting hired in 2026 🚨</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/QzE9EFyelws" />
-  <ns0:author>
-   <ns0:name>TechWorld with Nana</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-30T16:00:17+00:00</ns0:published>
-  <ns0:updated>2026-08-03T05:44:54+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Why DevOps Engineers are ACTUALLY getting hired in 2026 🚨</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/QzE9EFyelws?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/QzE9EFyelws/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Companies aren't just looking for tech tool experts—they need engineers who think in systems. ⚙️
-
-The real DevOps shortage isn't about knowing Docker or Kubernetes; it's about bridging the gap between development and operations across the entire software lifecycle. Want to break into cloud engineering or level up your DevOps career?
-
-👉 Schedule your FREE orientation call to map out your next career move and stand out to top recruiters! https://bit.ly/4bkNfe0
-
-Hit Subscribe for more tech career strategies &amp; DevOps insights! 👇</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1307" average="5.00" min="1" max="5" />
-    <ns2:statistics views="30097" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:0BAkKJ_3Tic</ns0:id>
-  <ns1:videoId>0BAkKJ_3Tic</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]Lowest Heart Rate Wins!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/0BAkKJ_3Tic" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-30T13:00:33+00:00</ns0:published>
-  <ns0:updated>2026-08-16T04:54:35+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Lowest Heart Rate Wins!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/0BAkKJ_3Tic?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/0BAkKJ_3Tic/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Thanks for playing, @dudeperfect @PrestonYT &amp; @BriannaPlayz!</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="127684" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6774136" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:kSTq7Z2b1qk</ns0:id>
-  <ns1:videoId>kSTq7Z2b1qk</ns1:videoId>
-  <ns1:channelId>UC9fSZHEh6XsRpX-xJc6lT3A</ns1:channelId>
-  <ns0:title>[UrAvgConsumer]I used @OpenAI Codex app to make a digital wardrobe 🤯 #ChatGPT_Partner</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/kSTq7Z2b1qk" />
-  <ns0:author>
-   <ns0:name>UrAvgConsumer</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-29T20:50:17+00:00</ns0:published>
-  <ns0:updated>2026-07-30T08:57:43+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>I used @OpenAI Codex app to make a digital wardrobe 🤯 #ChatGPT_Partner</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/kSTq7Z2b1qk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/kSTq7Z2b1qk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="277" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8714" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:y-fktF9bq6w</ns0:id>
-  <ns1:videoId>y-fktF9bq6w</ns1:videoId>
-  <ns1:channelId>UC9fSZHEh6XsRpX-xJc6lT3A</ns1:channelId>
-  <ns0:title>[UrAvgConsumer]Safe to say we lost the match 😅#gaming #pcsetup #food</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/y-fktF9bq6w" />
-  <ns0:author>
-   <ns0:name>UrAvgConsumer</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-28T18:04:36+00:00</ns0:published>
-  <ns0:updated>2026-07-29T06:43:20+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Safe to say we lost the match 😅#gaming #pcsetup #food</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/y-fktF9bq6w?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/y-fktF9bq6w/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="232" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10893" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:P5GxUjU4uBI</ns0:id>
-  <ns1:videoId>P5GxUjU4uBI</ns1:videoId>
-  <ns1:channelId>UCE_M8A5yxnLfW0KghEeajjw</ns1:channelId>
-  <ns0:title>[Apple]Get sorted for college with Roxie from the Apple Store.</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/P5GxUjU4uBI" />
-  <ns0:author>
-   <ns0:name>Apple</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-28T16:00:55+00:00</ns0:published>
-  <ns0:updated>2026-08-03T11:37:46+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Get sorted for college with Roxie from the Apple Store.</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/P5GxUjU4uBI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/P5GxUjU4uBI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>#iPadTips #PencilPro #College #AppleStore</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1828" average="5.00" min="1" max="5" />
-    <ns2:statistics views="155360" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:1MbL0YUsSl4</ns0:id>
-  <ns1:videoId>1MbL0YUsSl4</ns1:videoId>
-  <ns1:channelId>UCdngmbVKX1Tgre699-XLlUA</ns1:channelId>
-  <ns0:title>[TechWorld with Nana]From Medical Devices to AI DevOps Engineer! 🤯💻</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/1MbL0YUsSl4" />
-  <ns0:author>
-   <ns0:name>TechWorld with Nana</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-24T14:00:26+00:00</ns0:published>
-  <ns0:updated>2026-08-03T15:56:09+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>From Medical Devices to AI DevOps Engineer! 🤯💻</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/1MbL0YUsSl4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/1MbL0YUsSl4/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Think it's too late to change careers into tech? Think again!
-
-Ana moved from working in medical devices at major corporate giants to self-studying Python, Data Engineering, and DevOps. Now, she's thriving as an AI DevSecOps Engineer working on cutting-edge speech analytics and voicebots! 🚀⚡
-
-If you're looking to pivot into the tech industry, let this be your sign that self-learning and bootcamps can open huge doors.
-
-💡 Are you looking to switch careers into tech? What role are you aiming for? Let us know in the comments! 👇
-
-#Shorts #TechCareer #DevOps #SoftwareEngineer #Coding #DevSecOps #LearnToCode #CareerSwitch #PythonDeveloper #TechWorldWithNana</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="260" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7948" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:fdBqr6AA7K0</ns0:id>
-  <ns1:videoId>fdBqr6AA7K0</ns1:videoId>
-  <ns1:channelId>UCkRfArvrzheW2E7b6SVT7vQ</ns1:channelId>
-  <ns0:title>[YouTube Creators]Effect Maker Tutorial: Drawing 102 with ‪@varunraikar</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=fdBqr6AA7K0" />
-  <ns0:author>
-   <ns0:name>YouTube Creators</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-23T17:58:31+00:00</ns0:published>
-  <ns0:updated>2026-08-03T17:52:15+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Effect Maker Tutorial: Drawing 102 with ‪@varunraikar</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/fdBqr6AA7K0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/fdBqr6AA7K0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Get started with Effect Maker at https://effects.youtube.com
-
-Try out the effect Clock Connect by ‪‪@varunraikar‬ here: https://youtube.com/effect/6a39afdd-0000-2b03-b5be-3c286d422c3e/shorts?si=5AmhWIyARLzo81hL
-
-Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
-
-► Check out our Help Center: https://goo.gl/fBzr7
-► Check out the Creator Insider channel:    / @creatorinsider</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="270" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7195" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:ddDJxFnv-qs</ns0:id>
-  <ns1:videoId>ddDJxFnv-qs</ns1:videoId>
-  <ns1:channelId>UCdngmbVKX1Tgre699-XLlUA</ns1:channelId>
-  <ns0:title>[TechWorld with Nana]CI/CD Explained in 5 Minutes</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ddDJxFnv-qs" />
-  <ns0:author>
-   <ns0:name>TechWorld with Nana</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-23T13:17:10+00:00</ns0:published>
-  <ns0:updated>2026-08-06T13:07:36+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>CI/CD Explained in 5 Minutes</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/ddDJxFnv-qs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/ddDJxFnv-qs/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>📋 👇 𝗙𝗿𝗲𝗲 𝗖𝗜/𝗖𝗗 𝗖𝗵𝗲𝗰𝗸𝗹𝗶𝘀𝘁 — 𝗬𝗼𝘂𝗿 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗚𝘂𝗶𝗱𝗲
-If you want to make sure your pipeline is actually production-ready, grab our CI/CD checklist —  👉 https://bit.ly/4pCqhF2
-
-A developer writes some code on their laptop. A few minutes later, that exact code is running for millions of people around the world — and barely a human touched it along the way.
-
-In this video, I walk you through that entire journey step by step: what happens from the moment a developer pushes their code to the moment millions of users are running it. We'll start with the old, stressful way of doing things (copying files onto a live server by hand and hoping nothing breaks), and then I'll show you the modern approach that makes deployments calm, repeatable, and boring — which is exactly what you want when millions of people depend on your app.
-
-By the end, you'll understand the full path your code takes before it reaches real users, why teams don't flip a new version on for everyone at once, and where the safety net and the "undo button" come in. This is a huge part of what DevOps engineers actually do every day.
-
-▬▬▬▬▬▬ Connect with me 👋   ▬▬▬▬▬▬ 
-INSTAGRAM             ►  https://bit.ly/2F3LXYJ
-TWITTER                   ►  https://bit.ly/3i54PUB
-LINKEDIN                  ►  https://bit.ly/3hWOLVT</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="2558" average="5.00" min="1" max="5" />
-    <ns2:statistics views="67412" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:RQQufsYtP2M</ns0:id>
-  <ns1:videoId>RQQufsYtP2M</ns1:videoId>
-  <ns1:channelId>UC9fSZHEh6XsRpX-xJc6lT3A</ns1:channelId>
-  <ns0:title>[UrAvgConsumer]NEW Galaxy Z Fold8 + Fold8 Ultra: REAL First Impressions!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=RQQufsYtP2M" />
-  <ns0:author>
-   <ns0:name>UrAvgConsumer</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-22T16:23:46+00:00</ns0:published>
-  <ns0:updated>2026-08-05T16:07:41+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>NEW Galaxy Z Fold8 + Fold8 Ultra: REAL First Impressions!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/RQQufsYtP2M?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/RQQufsYtP2M/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>The new Galaxy Z Fold8 Ultra, Fold8, and Flip 8 are here! I spent some time with all three to see what's actually new, whether the crease is really gone, and if any foldable is worth $2,100. These are my honest first impressions and some interesting findings with the Z Fold8.
-
-
-Catch up with me:
-Join my Discord Server: https://discord.gg/F7Q2F7aque
-Instagram: https://www.instagram.com/uravgconsumer/
-Twitter: https://twitter.com/UrAvgConsumer
-Facebook: https://www.facebook.com/UrAvgConsumer/
-Snapchat: https://www.snapchat.com/p/be55f780-7701-4eb1-8f88-61ebef171af6/3105210037633024
-E-mail: UrAvgConsumer@gmail.com</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="215343" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:C9HcXeaIpfw</ns0:id>
-  <ns1:videoId>C9HcXeaIpfw</ns1:videoId>
-  <ns1:channelId>UC9fSZHEh6XsRpX-xJc6lT3A</ns1:channelId>
-  <ns0:title>[UrAvgConsumer]Samsung’s new foldable lineup just dropped! 😮‍💨#zfold8 #samsung #zfold8ultra</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/C9HcXeaIpfw" />
-  <ns0:author>
-   <ns0:name>UrAvgConsumer</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-22T16:03:54+00:00</ns0:published>
-  <ns0:updated>2026-07-23T07:13:51+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Samsung’s new foldable lineup just dropped! 😮‍💨#zfold8 #samsung #zfold8ultra</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/C9HcXeaIpfw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/C9HcXeaIpfw/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="251" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10404" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:wG_LaKvlcqM</ns0:id>
-  <ns1:videoId>wG_LaKvlcqM</ns1:videoId>
-  <ns1:channelId>UCE_M8A5yxnLfW0KghEeajjw</ns1:channelId>
-  <ns0:title>[Apple]Nido de Villanas: Ep. 1 Don Cristóbal’s inheritance</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/wG_LaKvlcqM" />
-  <ns0:author>
-   <ns0:name>Apple</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-22T01:02:15+00:00</ns0:published>
-  <ns0:updated>2026-08-01T21:56:40+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Nido de Villanas: Ep. 1 Don Cristóbal’s inheritance</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/wG_LaKvlcqM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/wG_LaKvlcqM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>A microdrama shot on iPhone 17 Pro. Don Cristóbal’s funeral begins, where Renata, Catalina, Beatriz, and Emiliano say goodbye to the patriarch amid fake tears, poisonous thoughts, and a mysterious woman watching from afar. Starring Itatí Cantoral, Gabriela Spanic, Ela Velden, and Mariana Torres.
-
-Una micronovela filmada con iPhone 17 Pro. Durante el funeral de Don Cristóbal, Renata, Catalina, Beatriz y Emiliano despiden al patriarca entre lágrimas falsas, pensamientos venenosos y una misteriosa mujer observando desde lejos. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1800" average="5.00" min="1" max="5" />
-    <ns2:statistics views="506013" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:kxBnxxb3NaM</ns0:id>
-  <ns1:videoId>kxBnxxb3NaM</ns1:videoId>
-  <ns1:channelId>UCE_M8A5yxnLfW0KghEeajjw</ns1:channelId>
-  <ns0:title>[Apple]Nido de Villanas: Ep. 2 The tragic dessert</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/kxBnxxb3NaM" />
-  <ns0:author>
-   <ns0:name>Apple</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-22T01:02:09+00:00</ns0:published>
-  <ns0:updated>2026-07-25T06:20:46+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Nido de Villanas: Ep. 2 The tragic dessert</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/kxBnxxb3NaM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/kxBnxxb3NaM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>The family gathers after the funeral to honor Don Cristóbal with his favorite dessert, but sweetness turns dangerous. Starring Itatí Cantoral, Gabriela Spanic, Ela Velden, and Mariana Torres. A microdrama shot on iPhone 17 Pro.
-
-La familia se reúne tras el funeral para honrar a don Cristóbal con su postre favorito, pero la dulzura se vuelve peligrosa. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1464" average="5.00" min="1" max="5" />
-    <ns2:statistics views="75406" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:AzoMY6JZu8g</ns0:id>
-  <ns1:videoId>AzoMY6JZu8g</ns1:videoId>
-  <ns1:channelId>UCE_M8A5yxnLfW0KghEeajjw</ns1:channelId>
-  <ns0:title>[Apple]Nido de Villanas: Ep. 3 The allergic heir</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/AzoMY6JZu8g" />
-  <ns0:author>
-   <ns0:name>Apple</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-22T01:02:03+00:00</ns0:published>
-  <ns0:updated>2026-08-13T09:31:35+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Nido de Villanas: Ep. 3 The allergic heir</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/AzoMY6JZu8g?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/AzoMY6JZu8g/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Emiliano collapses after eating the dessert, while Renata, Catalina, and Beatriz accuse one another. Starring Itatí Cantoral, Gabriela Spanic, Ela Velden, and Mariana Torres. A microdrama shot on iPhone 17 Pro.
-
-Emiliano colapsa tras comer el postre, mientras que Renata, Catalina y Beatriz se acusan entre sí. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1006" average="5.00" min="1" max="5" />
-    <ns2:statistics views="51122" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:cMIAaW-sxzk</ns0:id>
-  <ns1:videoId>cMIAaW-sxzk</ns1:videoId>
-  <ns1:channelId>UCE_M8A5yxnLfW0KghEeajjw</ns1:channelId>
-  <ns0:title>[Apple]Nido de Villanas: Ep. 4 Explosive rumors</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/cMIAaW-sxzk" />
-  <ns0:author>
-   <ns0:name>Apple</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-22T01:01:51+00:00</ns0:published>
-  <ns0:updated>2026-07-25T06:18:24+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Nido de Villanas: Ep. 4 Explosive rumors</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/cMIAaW-sxzk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/cMIAaW-sxzk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Beatriz pressures Armando into manipulating the will and Catalina drops a bomb. Starring Itatí Cantoral, Gabriela Spanic, Ela Velden, and Mariana Torres. A microdrama shot on iPhone 17 Pro. 
-
-Beatriz presiona a Armando para manipular el testamento y Catalina suelta una bomba. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="872" average="5.00" min="1" max="5" />
-    <ns2:statistics views="42921" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:sisxbo347C8</ns0:id>
-  <ns1:videoId>sisxbo347C8</ns1:videoId>
-  <ns1:channelId>UCE_M8A5yxnLfW0KghEeajjw</ns1:channelId>
-  <ns0:title>[Apple]Nido de Villanas: Ep. 5 The threatened firstborn</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/sisxbo347C8" />
-  <ns0:author>
-   <ns0:name>Apple</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-22T01:01:46+00:00</ns0:published>
-  <ns0:updated>2026-07-25T06:21:40+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Nido de Villanas: Ep. 5 The threatened firstborn</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/sisxbo347C8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/sisxbo347C8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Tomás and Lupita discover he may be an Iturribiaga heir, but an intruder overhears them and threatens the plan. Starring Itatí Cantoral, Gabriela Spanic, Ela Velden, and Mariana Torres. A microdrama shot on iPhone 17 Pro.
-
-Tomás y Lupita descubren que él podría ser heredero de los Iturribiaga, pero una intrusa escucha la conversación y pone en jaque su plan. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="780" average="5.00" min="1" max="5" />
-    <ns2:statistics views="42774" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:mPpkDAmHUvE</ns0:id>
-  <ns1:videoId>mPpkDAmHUvE</ns1:videoId>
-  <ns1:channelId>UCE_M8A5yxnLfW0KghEeajjw</ns1:channelId>
-  <ns0:title>[Apple]Nido de Villanas: Ep. 6 Villainess in action</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/mPpkDAmHUvE" />
-  <ns0:author>
-   <ns0:name>Apple</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-22T01:01:42+00:00</ns0:published>
-  <ns0:updated>2026-07-25T06:24:06+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Nido de Villanas: Ep. 6 Villainess in action</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/mPpkDAmHUvE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/mPpkDAmHUvE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Emiliano is kidnapped and Beatriz uses her charm to convince Officer Ulises Ferriz to frame Tomás. Starring Itatí Cantoral, Gabriela Spanic, Ela Velden, and Mariana Torres. A microdrama shot on iPhone 17 Pro.
-
-Emiliano es secuestrado y Beatriz usa sus encantos para convencer al oficial Ulises Ferriz de incriminar a Tomás. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="696" average="5.00" min="1" max="5" />
-    <ns2:statistics views="35570" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:Sy610XzAbRQ</ns0:id>
-  <ns1:videoId>Sy610XzAbRQ</ns1:videoId>
-  <ns1:channelId>UCE_M8A5yxnLfW0KghEeajjw</ns1:channelId>
-  <ns0:title>[Apple]Nido de Villanas: Ep. 7 The framed driver</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/Sy610XzAbRQ" />
-  <ns0:author>
-   <ns0:name>Apple</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-22T01:01:37+00:00</ns0:published>
-  <ns0:updated>2026-07-25T06:19:07+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Nido de Villanas: Ep. 7 The framed driver</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/Sy610XzAbRQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/Sy610XzAbRQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Tomás ends up in jail accused of kidnapping Emiliano, while Catalina discovers who tampered with the dessert. Starring Itatí Cantoral, Gabriela Spanic, Ela Velden, and Mariana Torres. A microdrama shot on iPhone 17 Pro.
-
-Tomás termina en la cárcel acusado del secuestro de Emiliano, mientras que Catalina descubre quién alteró el postre. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="595" average="5.00" min="1" max="5" />
-    <ns2:statistics views="28897" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:xYUJUVzIE1s</ns0:id>
-  <ns1:videoId>xYUJUVzIE1s</ns1:videoId>
-  <ns1:channelId>UCE_M8A5yxnLfW0KghEeajjw</ns1:channelId>
-  <ns0:title>[Apple]Nido de Villanas: Ep. 8 A clash of villainesses</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/xYUJUVzIE1s" />
-  <ns0:author>
-   <ns0:name>Apple</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-22T01:01:33+00:00</ns0:published>
-  <ns0:updated>2026-08-13T13:51:40+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Nido de Villanas: Ep. 8 A clash of villainesses</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/xYUJUVzIE1s?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/xYUJUVzIE1s/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Tomás’s death unleashes an open war between Renata and Catalina, while Beatriz appears mysteriously in an abandoned house. Starring Itatí Cantoral, Gabriela Spanic, Ela Velden, and Mariana Torres. A microdrama shot on iPhone 17 Pro.
-
-La muerte de Tomás desata una guerra abierta entre Renata y Catalina mientras Beatriz aparece misteriosamente en una casa abandonada. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="643" average="5.00" min="1" max="5" />
-    <ns2:statistics views="35124" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:Z6G7ucUyJ_w</ns0:id>
-  <ns1:videoId>Z6G7ucUyJ_w</ns1:videoId>
-  <ns1:channelId>UCE_M8A5yxnLfW0KghEeajjw</ns1:channelId>
-  <ns0:title>[Apple]Nido de Villanas: Ep. 9 A timely accident</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/Z6G7ucUyJ_w" />
-  <ns0:author>
-   <ns0:name>Apple</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-22T01:01:28+00:00</ns0:published>
-  <ns0:updated>2026-08-12T13:10:40+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Nido de Villanas: Ep. 9 A timely accident</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/Z6G7ucUyJ_w?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/Z6G7ucUyJ_w/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Renata pretends to befriend Lupita in order to manipulate her, but her game ends in tragedy. Starring Itatí Cantoral, Gabriela Spanic, Ela Velden, and Mariana Torres. A microdrama shot on iPhone 17 Pro.
-
-Renata finge amistad con Lupita para manipularla, pero su juego termina en tragedia. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="587" average="5.00" min="1" max="5" />
-    <ns2:statistics views="36322" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:1VpJ167ABGE</ns0:id>
-  <ns1:videoId>1VpJ167ABGE</ns1:videoId>
-  <ns1:channelId>UCE_M8A5yxnLfW0KghEeajjw</ns1:channelId>
-  <ns0:title>[Apple]Nido de Villanas: Ep. 10 The widow problem</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/1VpJ167ABGE" />
-  <ns0:author>
-   <ns0:name>Apple</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-22T01:01:23+00:00</ns0:published>
-  <ns0:updated>2026-07-25T06:22:16+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Nido de Villanas: Ep. 10 The widow problem</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/1VpJ167ABGE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/1VpJ167ABGE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Tension grows after Lupita’s death, as Renata and Catalina accuse each other and Beatriz returns triumphantly. Starring Itatí Cantoral, Gabriela Spanic, Ela Velden, and Mariana Torres. A microdrama shot on iPhone 17 Pro.
-
-La tensión crece tras la muerte de Lupita cuando Renata y Catalina se acusan mutuamente y Beatriz reaparece de manera triunfal. Protagonizada por Itatí Cantoral, Gabriela Spanic, Ela Velden y Mariana Torres. Una micronovela filmada con iPhone 17 Pro.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="571" average="5.00" min="1" max="5" />
-    <ns2:statistics views="29359" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:T3gwqXA_4dI</ns0:id>
-  <ns1:videoId>T3gwqXA_4dI</ns1:videoId>
-  <ns1:channelId>UC9fSZHEh6XsRpX-xJc6lT3A</ns1:channelId>
-  <ns0:title>[UrAvgConsumer]The coziest setup I’ve done ☕️#cozysetup #gaming #setupinspiration</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/T3gwqXA_4dI" />
-  <ns0:author>
-   <ns0:name>UrAvgConsumer</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-21T22:11:20+00:00</ns0:published>
-  <ns0:updated>2026-07-22T11:01:29+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>The coziest setup I’ve done ☕️#cozysetup #gaming #setupinspiration</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/T3gwqXA_4dI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/T3gwqXA_4dI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="306" average="5.00" min="1" max="5" />
-    <ns2:statistics views="18653" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:zmAyVXtPXT8</ns0:id>
-  <ns1:videoId>zmAyVXtPXT8</ns1:videoId>
-  <ns1:channelId>UCkRfArvrzheW2E7b6SVT7vQ</ns1:channelId>
-  <ns0:title>[YouTube Creators]THE BRAND DEAL DESK LIVE FROM CANNES: Hide and Seek with Virgin Media O2 and The Sidemen</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=zmAyVXtPXT8" />
-  <ns0:author>
-   <ns0:name>YouTube Creators</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-20T14:00:32+00:00</ns0:published>
-  <ns0:updated>2026-08-16T23:24:17+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>THE BRAND DEAL DESK LIVE FROM CANNES: Hide and Seek with Virgin Media O2 and The Sidemen</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/zmAyVXtPXT8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/zmAyVXtPXT8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Episode 6 takes The Brand Deal Desk to Cannes for its first ever LIVE show on YouTube Beach, bringing creators, brands and YouTube together on one stage to unpack one of the biggest creator partnerships of the year.
-
-@graceandrewsss and @MaxFosh joined by @Vikkstar123 the @Sidemen, alongside Arcade Co-Founder Jordan Schwarzenberger, Virgin Media O2's Richard Bowne and YouTube's Elizabeth Lunde Hermansson, for a behind-the-scenes look at how the blockbuster Hide and Seek collaboration with O2 Satellite came to life. From the initial creative sprint to the final upload, the panel reveals how the idea was developed, why the Sidemen were the perfect fit, and what every creator can learn about building authentic brand partnerships that audiences actually enjoy.
-
-The conversation explores YouTube's "Magic Middle" - where brand objectives meet creator creativity - and why the best integrations don't interrupt the content, they become part of the story. Vik shares why protecting audience trust is always the priority, while the brand and YouTube teams explain how creators can make themselves easier to discover through YouTube Creator Partnerships, Channel Insights Sharing and Creator Partnerships Boost.
-
-Plus, the panel breaks down the metrics that proved the campaign's success, from audience retention and attentive watch time to brand lift, offering practical lessons for creators of every size looking to build bigger, better brand deals.
-
-Curious about YouTube Creator Partnerships? It's available for eligible YouTube Partner Program Creators and you can learn more here: https://support.google.com/youtube/answer/9385307?hl=en
-
-Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
-
-► Check out our Help Center: https://goo.gl/fBzr7
-► Check out the Creator Insider channel: https://www.youtube.com/@creatorinsider</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="250" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5416" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:9ERP0dPQPN4</ns0:id>
-  <ns1:videoId>9ERP0dPQPN4</ns1:videoId>
-  <ns1:channelId>UCkRfArvrzheW2E7b6SVT7vQ</ns1:channelId>
-  <ns0:title>[YouTube Creators]Watch THE BRAND DEAL DESK LIVE FROM CANNES: Hide and Seek with Virgin Media O2 and The Sidemen.</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/9ERP0dPQPN4" />
-  <ns0:author>
-   <ns0:name>YouTube Creators</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-20T14:00:06+00:00</ns0:published>
-  <ns0:updated>2026-07-25T06:23:51+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Watch THE BRAND DEAL DESK LIVE FROM CANNES: Hide and Seek with Virgin Media O2 and The Sidemen.</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/9ERP0dPQPN4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/9ERP0dPQPN4/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>The Brand Deal Desk goes live from Cannes in Episode 6, as @Vikkstar123  from @Sidemen, Virgin Media O2 and YouTube reveal how one of the year's biggest creator partnerships came together- and the lessons every creator can take away for building authentic, high-impact brand deals.
-
-Curious about YouTube Creator Partnerships? It's available for eligible YouTube Partner Program Creators and you can learn more here: https://support.google.com/youtube/answer/9385307?hl=en
-
-Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
-
-► Check out our Help Center: https://goo.gl/fBzr7
-► Check out the Creator Insider channel: https://www.youtube.com/@creatorinsider</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="2000" average="5.00" min="1" max="5" />
-    <ns2:statistics views="34981" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:ZnljD1O3yYQ</ns0:id>
-  <ns1:videoId>ZnljD1O3yYQ</ns1:videoId>
-  <ns1:channelId>UC9fSZHEh6XsRpX-xJc6lT3A</ns1:channelId>
-  <ns0:title>[UrAvgConsumer]#DysonPartner The @dyson Spot+Scrub™ AI, is a proper mess detective 🕵️‍♂️ #DysonHome #DysonRobot</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/ZnljD1O3yYQ" />
-  <ns0:author>
-   <ns0:name>UrAvgConsumer</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-17T22:11:55+00:00</ns0:published>
-  <ns0:updated>2026-07-20T01:26:22+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>#DysonPartner The @dyson Spot+Scrub™ AI, is a proper mess detective 🕵️‍♂️ #DysonHome #DysonRobot</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/ZnljD1O3yYQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/ZnljD1O3yYQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>#DysonPartner @Dyson’s first wet and dry robot vacuum cleaner,  The Dyson Spot+Scrub™ Ai, is a proper mess detective 🕵️‍♂️ It lights up the stuff you can’t see and scrubs it until it's clean #DysonHome #DysonRobot</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="573" average="5.00" min="1" max="5" />
-    <ns2:statistics views="15270" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:FTsKIWt3FVU</ns0:id>
-  <ns1:videoId>FTsKIWt3FVU</ns1:videoId>
-  <ns1:channelId>UC9fSZHEh6XsRpX-xJc6lT3A</ns1:channelId>
-  <ns0:title>[UrAvgConsumer]It’s not an obsession… it’s a lifestyle 🤖 #gundam #gunpla #documentary #figurecollection</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/FTsKIWt3FVU" />
-  <ns0:author>
-   <ns0:name>UrAvgConsumer</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-16T20:58:09+00:00</ns0:published>
-  <ns0:updated>2026-07-17T20:34:32+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>It’s not an obsession… it’s a lifestyle 🤖 #gundam #gunpla #documentary #figurecollection</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/FTsKIWt3FVU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/FTsKIWt3FVU/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="452" average="5.00" min="1" max="5" />
-    <ns2:statistics views="19235" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:mCZU2N5cExs</ns0:id>
-  <ns1:videoId>mCZU2N5cExs</ns1:videoId>
-  <ns1:channelId>UCdngmbVKX1Tgre699-XLlUA</ns1:channelId>
-  <ns0:title>[TechWorld with Nana]ChatGPT wrote a Python script in 10 seconds. Should you be worried? 😳👇</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/mCZU2N5cExs" />
-  <ns0:author>
-   <ns0:name>TechWorld with Nana</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-16T16:00:07+00:00</ns0:published>
-  <ns0:updated>2026-07-20T03:44:40+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>ChatGPT wrote a Python script in 10 seconds. Should you be worried? 😳👇</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/mCZU2N5cExs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/mCZU2N5cExs/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>AI is fast, but it often solves the wrong problem. If a junior dev asks AI to fix slow checkout code, they might get a script. But if the real bottleneck is a messy database design, that code won't fix a thing.
-
-The software engineers who will thrive in the AI age aren't the ones who just write code—it’s the ones who understand the complete system. ⚙️
-
-Ready to level up? Our IT Fundamentals Course teaches you system-level thinking, the full software development life cycle, and how to spot the real problems.
-
-🔗 Link in bio to learn more and future-proof your career! 
-
-#LearnToCode #TechCareer #SystemDesign #softwaredevelopment #SoftwareEngineering #CodingLife #AICoding #ChatGPT #developer</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1613" average="5.00" min="1" max="5" />
-    <ns2:statistics views="38835" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:GRbokvmv-2M</ns0:id>
-  <ns1:videoId>GRbokvmv-2M</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]Stop Your Car From Getting Stolen!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/GRbokvmv-2M" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-16T13:00:34+00:00</ns0:published>
-  <ns0:updated>2026-08-14T21:34:06+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Stop Your Car From Getting Stolen!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/GRbokvmv-2M?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/GRbokvmv-2M/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="38786" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1485329" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:1Bgo7JwxfGo</ns0:id>
-  <ns1:videoId>1Bgo7JwxfGo</ns1:videoId>
-  <ns1:channelId>UC9fSZHEh6XsRpX-xJc6lT3A</ns1:channelId>
-  <ns0:title>[UrAvgConsumer]iPhone Hack vs Insta 360 Go Ultra - who wins? 🤔#iphonehack #insta360 #pov</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/1Bgo7JwxfGo" />
-  <ns0:author>
-   <ns0:name>UrAvgConsumer</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-14T22:13:52+00:00</ns0:published>
-  <ns0:updated>2026-07-18T01:48:27+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>iPhone Hack vs Insta 360 Go Ultra - who wins? 🤔#iphonehack #insta360 #pov</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/1Bgo7JwxfGo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/1Bgo7JwxfGo/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="253" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14102" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:q3nD5qD758o</ns0:id>
-  <ns1:videoId>q3nD5qD758o</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]I Discovered a Lost Plane</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/q3nD5qD758o" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-10T13:00:23+00:00</ns0:published>
-  <ns0:updated>2026-08-14T15:29:56+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>I Discovered a Lost Plane</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/q3nD5qD758o?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/q3nD5qD758o/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="229253" average="5.00" min="1" max="5" />
-    <ns2:statistics views="22292462" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:LbnicPhBiTQ</ns0:id>
-  <ns1:videoId>LbnicPhBiTQ</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]football = soccer？那 soccer 怎么来的？（不是美国人发明的词）</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=LbnicPhBiTQ" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-10T12:12:09+00:00</ns0:published>
-  <ns0:updated>2026-07-14T02:05:46+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>football = soccer？那 soccer 怎么来的？（不是美国人发明的词）</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/LbnicPhBiTQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/LbnicPhBiTQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="77" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2317" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:jcrLdUPHQZQ</ns0:id>
-  <ns1:videoId>jcrLdUPHQZQ</ns1:videoId>
-  <ns1:channelId>UCdngmbVKX1Tgre699-XLlUA</ns1:channelId>
-  <ns0:title>[TechWorld with Nana]AI may replace DevOps, but not for the reason you think</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=jcrLdUPHQZQ" />
-  <ns0:author>
-   <ns0:name>TechWorld with Nana</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-08T14:03:58+00:00</ns0:published>
-  <ns0:updated>2026-07-18T09:21:19+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>AI may replace DevOps, but not for the reason you think</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/jcrLdUPHQZQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/jcrLdUPHQZQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Everyone's asking the same question right now: will AI take my job as an engineer? 
-► Download DevOps Roadmap: https://bit.ly/4wlYcno
-► Download Demo Projects Here (scroll down to section): https://bit.ly/44uuSj3
-
-Instead of giving you my opinion, I went and talked to the people actually living through this. Engineers who switched into DevOps recently, and industry experts who've been in the industry for decades.
-
-▬▬▬▬▬▬  Here's what you'll learn ▬▬▬▬▬▬ 
-- How every wave of automation in this field's history made individual engineers more powerful
-- What skills these engineers say actually made them future-proof, straight from people doing the job today
-- Difference of DevOps for AI vs. AI for DevOps
-- How to position yourself so AI becomes a tool you use, not a threat to your job
-
-▬▬▬▬▬▬ 🎙️ INTERVIEWS 🎙️    ▬▬▬▬▬▬
-Here are the full interviews from the engineers covered in the video:
-- Isreal: https://youtu.be/YTIvpuV6I20
-- Ana Pedra: https://youtu.be/q6x8J7QIakI
-- Rody https://youtu.be/4J53WvB1-4E
-- Patryk: https://youtu.be/umXECLiGxEQ
-- Bret Fisher: https://youtu.be/QQ4UyZNXof8
-- Kelsey Hightower: https://youtu.be/tCehFMwjWqM
-- Joseph (coming soon)
-
-
-▬▬▬▬▬▬ Connect with me 👋   ▬▬▬▬▬▬ 
-INSTAGRAM             ►  https://bit.ly/2F3LXYJ
-TWITTER                   ►  https://bit.ly/3i54PUB
-LINKEDIN                  ►  https://bit.ly/3hWOLVT</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1038" average="5.00" min="1" max="5" />
-    <ns2:statistics views="44231" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:AS9HCIpTEYI</ns0:id>
-  <ns1:videoId>AS9HCIpTEYI</ns1:videoId>
-  <ns1:channelId>UC9fSZHEh6XsRpX-xJc6lT3A</ns1:channelId>
-  <ns0:title>[UrAvgConsumer]She’s finally trying out a smart ring! The RingConn Gen 3 is 🔥</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/AS9HCIpTEYI" />
-  <ns0:author>
-   <ns0:name>UrAvgConsumer</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-07T04:05:52+00:00</ns0:published>
-  <ns0:updated>2026-07-10T00:23:37+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>She’s finally trying out a smart ring! The RingConn Gen 3 is 🔥</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/AS9HCIpTEYI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/AS9HCIpTEYI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>#RingConn #jessiej #RingConnGen3 #SmartRing
-#VascularTrends #VascularInsights #HealthTracking</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="180" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7626" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:bgdThAYzUB0</ns0:id>
-  <ns1:videoId>bgdThAYzUB0</ns1:videoId>
-  <ns1:channelId>UC9fSZHEh6XsRpX-xJc6lT3A</ns1:channelId>
-  <ns0:title>[UrAvgConsumer]My Wife Lived With Her First Smart Ring</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=bgdThAYzUB0" />
-  <ns0:author>
-   <ns0:name>UrAvgConsumer</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-07T03:07:30+00:00</ns0:published>
-  <ns0:updated>2026-07-20T18:08:38+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>My Wife Lived With Her First Smart Ring</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/bgdThAYzUB0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/bgdThAYzUB0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Arie put on the RingConn Gen 3, her first smart ring, and didn't take it off for days. For someone who doesn't like smart watches, let's see how having a smart ring changes things. Let's look at everything it tracked, what surprised her, and whether she'd actually keep wearing one.
-
-Check out the RingConn Gen 3 here: https://bit.ly/4y51lJZ
-
-Thanks @ringconn, for sponsoring this video! #RingConn #jessiej #RingConnGen3 #SmartRing
-#VascularTrends #VascularInsights #HealthTracking
-
-Catch up with me:
-Join my Discord Server: https://discord.gg/F7Q2F7aque
-Instagram: https://www.instagram.com/uravgconsumer/
-Twitter: https://twitter.com/UrAvgConsumer
-Facebook: https://www.facebook.com/UrAvgConsumer/
-Snapchat: https://www.snapchat.com/p/be55f780-7701-4eb1-8f88-61ebef171af6/3105210037633024
-E-mail: UrAvgConsumer@gmail.com</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="83699" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:eMG3FWEwJnk</ns0:id>
-  <ns1:videoId>eMG3FWEwJnk</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]How To Crush an Egg with Your Bare Hand</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/eMG3FWEwJnk" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-01T17:03:49+00:00</ns0:published>
-  <ns0:updated>2026-08-14T15:29:59+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How To Crush an Egg with Your Bare Hand</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/eMG3FWEwJnk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/eMG3FWEwJnk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>New CrunchLabs toys are available in stores now!</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="71693" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2396851" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:O-vA52SdtFI</ns0:id>
-  <ns1:videoId>O-vA52SdtFI</ns1:videoId>
-  <ns1:channelId>UCdngmbVKX1Tgre699-XLlUA</ns1:channelId>
-  <ns0:title>[TechWorld with Nana]Want to 100x your value as a software engineer? 💸👇</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/O-vA52SdtFI" />
-  <ns0:author>
-   <ns0:name>TechWorld with Nana</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-07-01T16:00:12+00:00</ns0:published>
-  <ns0:updated>2026-07-04T22:29:25+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Want to 100x your value as a software engineer? 💸👇</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/O-vA52SdtFI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/O-vA52SdtFI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Software developers have a hidden advantage when it comes to DevOps. You already know the hardest parts: programming logic and problem-solving! 🧠
-
-But to completely upgrade your tech career, you need the right sequence:
-1️⃣ Linux &amp; Cloud Fundamentals
-2️⃣ Infrastructure as Code (Terraform)
-3️⃣ CI/CD Pipelines
-4️⃣ Kubernetes &amp; Docker
-
-Stop wasting months trying to piece it together alone. For a limited time, we’re offering FREE 1-on-1 strategy calls to identify your skill gaps and build a personalized DevOps roadmap. 📈
-
-💥 Claim your free call before spots fill up: https://bit.ly/4y0kNaY</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="552" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9845" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:35VzPlY1-kI</ns0:id>
-  <ns1:videoId>35VzPlY1-kI</ns1:videoId>
-  <ns1:channelId>UCkRfArvrzheW2E7b6SVT7vQ</ns1:channelId>
-  <ns0:title>[YouTube Creators]YouTube for Artists Masterclass: Going Live on YouTube with Sheniece Charway</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=35VzPlY1-kI" />
-  <ns0:author>
-   <ns0:name>YouTube Creators</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-30T19:44:22+00:00</ns0:published>
-  <ns0:updated>2026-07-03T22:35:34+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>YouTube for Artists Masterclass: Going Live on YouTube with Sheniece Charway</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/35VzPlY1-kI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/35VzPlY1-kI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>In this YouTube for Artists Masterclass, Artist Partnerships Manager, Sheniece Charway, will dig into how to set-up livestreaming, build it into your release strategy, tips to level-up your streams, and inspire you with some case studies from artists around the world.
-
-► YouTube for Artists Website: https://bit.ly/4vauDUR
-► Sign up for our global YouTube for Artists Newsletter &amp; quarterly YouTube for Artists Masterclass: https://bit.ly/4v6jVPu
-
-Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
-
-► Check out our Help Center: https://goo.gl/fBzr7
-► Check out the Creator Insider channel:    / @creatorinsider  
-
-00:00 Introduction
-01:05 Why Go Live
-02:45 Setting up Live
-05:35 Live Control Room Walkthrough
-08:12 Using an Encoder
-09:00 Release Cycle
-11:25 Premieres, Live Redirect &amp; Live Streams
-15:00 Tips &amp; Tricks</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="517" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12904" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:ht2DCc5OJEg</ns0:id>
-  <ns1:videoId>ht2DCc5OJEg</ns1:videoId>
-  <ns1:channelId>UCkRfArvrzheW2E7b6SVT7vQ</ns1:channelId>
-  <ns0:title>[YouTube Creators]How to Create a Timeline Effect in Effect Maker with @cloves_ar</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ht2DCc5OJEg" />
-  <ns0:author>
-   <ns0:name>YouTube Creators</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-30T12:00:02+00:00</ns0:published>
-  <ns0:updated>2026-07-11T21:42:06+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How to Create a Timeline Effect in Effect Maker with @cloves_ar</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/ht2DCc5OJEg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/ht2DCc5OJEg/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Get started with Effect Maker at https://effects.youtube.com
-
-Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
-
-► Check out our Help Center: https://goo.gl/fBzr7
-► Check out the Creator Insider channel: https://www.youtube.com/@creatorinsider</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="173" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4108" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:b89zM3tGxbs</ns0:id>
-  <ns1:videoId>b89zM3tGxbs</ns1:videoId>
-  <ns1:channelId>UCkRfArvrzheW2E7b6SVT7vQ</ns1:channelId>
-  <ns0:title>[YouTube Creators]How to Create an Elemental Aura Effect in Effect Maker with @varunraikar</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=b89zM3tGxbs" />
-  <ns0:author>
-   <ns0:name>YouTube Creators</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-29T21:54:32+00:00</ns0:published>
-  <ns0:updated>2026-07-12T20:52:39+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>How to Create an Elemental Aura Effect in Effect Maker with @varunraikar</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/b89zM3tGxbs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/b89zM3tGxbs/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Get started with Effect Maker at https://effects.youtube.com
-
-Try out the effect Elemental Aura effect by @varunraikar: https://youtube.com/effect/6a03767e-0000-2d0e-8e3b-2405887a93b0/shorts?si=8hDu_1pbwllxJns-
-
-Want to learn more about AI Video Transformation in Effect Maker? Watch our tutorial here: https://youtu.be/4UIdG9w1bwE
-
-Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
-
-► Check out our Help Center: https://goo.gl/fBzr7
-► Check out the Creator Insider channel: https://www.youtube.com/@creatorinsider</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="130" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3440" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:hTfYKYmWw6o</ns0:id>
-  <ns1:videoId>hTfYKYmWw6o</ns1:videoId>
-  <ns1:channelId>UCkRfArvrzheW2E7b6SVT7vQ</ns1:channelId>
-  <ns0:title>[YouTube Creators]New Ways to Manage Comments, Popular Music on Image Posts, and more! #shortsroundup 🗞️✨</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/hTfYKYmWw6o" />
-  <ns0:author>
-   <ns0:name>YouTube Creators</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-26T20:48:49+00:00</ns0:published>
-  <ns0:updated>2026-06-30T05:54:21+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>New Ways to Manage Comments, Popular Music on Image Posts, and more! #shortsroundup 🗞️✨</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/hTfYKYmWw6o?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/hTfYKYmWw6o/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Here's this month's YouTube Shorts RoundUp!</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="12878" average="5.00" min="1" max="5" />
-    <ns2:statistics views="170703" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:IUKB5rZzYS4</ns0:id>
-  <ns1:videoId>IUKB5rZzYS4</ns1:videoId>
-  <ns1:channelId>UCkRfArvrzheW2E7b6SVT7vQ</ns1:channelId>
-  <ns0:title>[YouTube Creators]Music in Posts, Updated Content Tab, and more | Creator Roundup</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=IUKB5rZzYS4" />
-  <ns0:author>
-   <ns0:name>YouTube Creators</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-26T20:47:37+00:00</ns0:published>
-  <ns0:updated>2026-08-14T17:05:40+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Music in Posts, Updated Content Tab, and more | Creator Roundup</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/IUKB5rZzYS4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/IUKB5rZzYS4/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Catch up on all the top Creator news from the past month, including trending topics and product updates. Tune in for new episodes each month and use the timestamps below to skip to news interesting to you!
-
-00:00 | Intro 
-00:04 | Content Tab Updates
-01:09 | Comments Updates
-01:41 | Licensed Music on Posts
-01:55 | Omni now in "Create Video"
-
-*Content Tab Updates*
-https://youtu.be/8P-PxmECoFI
-
-*Comments Updates*
-https://support.google.com/youtube/answer/9482367
-
-*Licensed Music on Posts*
-https://support.google.com/youtube/answer/7124474
-
-*Omni now in "Create Video"*
-https://support.google.com/youtube/thread/433730507/upgrading-shorts-remix-with-gemini-omni-flash?hl=en
-
-Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
-
-► Check out our Help Center: https://goo.gl/fBzr7
-► Check out the Creator Insider channel: https://www.youtube.com/@creatorinsider</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="74290" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2128527" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:uqyDJ_FxWfc</ns0:id>
-  <ns1:videoId>uqyDJ_FxWfc</ns1:videoId>
-  <ns1:channelId>UCkRfArvrzheW2E7b6SVT7vQ</ns1:channelId>
-  <ns0:title>[YouTube Creators]HOW TO: Find Trending Sounds 🔥🎵</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/uqyDJ_FxWfc" />
-  <ns0:author>
-   <ns0:name>YouTube Creators</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-25T17:38:21+00:00</ns0:published>
-  <ns0:updated>2026-06-29T04:06:25+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>HOW TO: Find Trending Sounds 🔥🎵</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/uqyDJ_FxWfc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/uqyDJ_FxWfc/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>We hope this makes it even easier for you to create fun and compelling content!</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="5741" average="5.00" min="1" max="5" />
-    <ns2:statistics views="102156" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:i3a8oMot174</ns0:id>
-  <ns1:videoId>i3a8oMot174</ns1:videoId>
-  <ns1:channelId>UCkRfArvrzheW2E7b6SVT7vQ</ns1:channelId>
-  <ns0:title>[YouTube Creators]YouTube Shopping Affiliate Program 🛍️</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/i3a8oMot174" />
-  <ns0:author>
-   <ns0:name>YouTube Creators</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-25T17:27:01+00:00</ns0:published>
-  <ns0:updated>2026-07-15T13:25:31+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>YouTube Shopping Affiliate Program 🛍️</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/i3a8oMot174?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/i3a8oMot174/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
-
-► Check out our Help Center: https://goo.gl/fBzr7
-► Check out the Creator Insider channel: https://www.youtube.com/@creatorinsider</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1695" average="5.00" min="1" max="5" />
-    <ns2:statistics views="32438" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:A3pmg8_zPgg</ns0:id>
-  <ns1:videoId>A3pmg8_zPgg</ns1:videoId>
-  <ns1:channelId>UCdngmbVKX1Tgre699-XLlUA</ns1:channelId>
-  <ns0:title>[TechWorld with Nana]I Compared Every Major CI/CD Strategy So You Don't Have To</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=A3pmg8_zPgg" />
-  <ns0:author>
-   <ns0:name>TechWorld with Nana</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-25T13:48:19+00:00</ns0:published>
-  <ns0:updated>2026-07-15T06:20:59+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>I Compared Every Major CI/CD Strategy So You Don't Have To</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/A3pmg8_zPgg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/A3pmg8_zPgg/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Not sure how many deployment environments your team actually needs? Dev only? Dev, Staging, Prod? Or five environments with a two-week deployment process?
-📋 👇 𝗙𝗿𝗲𝗲 𝗖𝗜/𝗖𝗗 𝗖𝗵𝗲𝗰𝗸𝗹𝗶𝘀𝘁 — 𝗬𝗼𝘂𝗿 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗚𝘂𝗶𝗱𝗲
-If you want to make sure your pipeline is actually production-ready once you've picked your environment strategy, grab our free CI/CD checklist —  👉 https://bit.ly/4viLw0A
-
-In this video, I break down the 3 most common CI/CD pipeline strategies used in real companies, explain why each one exists, when it makes sense, and how to choose the right setup for your team.
-Because there's no universally correct answer — it depends entirely on what you're building and what the cost of a bug is.
-
-▬▬▬▬▬▬ What you'll learn ▬▬▬▬▬▬
-- Why some teams deploy straight to production (and when that's actually fine)
-- What the 5-environment setup looks like and who it's really for
-- Why Dev → Staging → Prod works for most software teams
-- A simple framework to choose the right strategy for your team
-- The most common mistakes teams make with deployment environments
-
-
-▬▬▬▬▬▬ T I M E S T A M P S ⏰  ▬▬▬▬▬▬
-00:00 - The core question: how many environments do you need?
-01:31 - Strategy 1: The Minimalist
-06:30 - Strategy 2: The Paranoid
-12:22 - Strategy 3: The Practical
-17:36 - How to choose the right strategy for your team
-18:51 - Common mistakes to avoid
-
-
-▬▬▬▬▬▬ Connect with me 👋   ▬▬▬▬▬▬ 
-INSTAGRAM             ►  https://bit.ly/2F3LXYJ
-TWITTER                   ►  https://bit.ly/3i54PUB
-LINKEDIN                  ►  https://bit.ly/3hWOLVT</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="483" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13784" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:--LXDh44cBQ</ns0:id>
-  <ns1:videoId>--LXDh44cBQ</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]3 Levels of Car Theft</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/--LXDh44cBQ" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-25T13:00:18+00:00</ns0:published>
-  <ns0:updated>2026-08-14T15:30:09+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>3 Levels of Car Theft</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/--LXDh44cBQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/--LXDh44cBQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="174127" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6240422" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:HfTNKS49KAM</ns0:id>
-  <ns1:videoId>HfTNKS49KAM</ns1:videoId>
-  <ns1:channelId>UCkRfArvrzheW2E7b6SVT7vQ</ns1:channelId>
-  <ns0:title>[YouTube Creators]Content Tab in YouTube Studio 📲</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/HfTNKS49KAM" />
-  <ns0:author>
-   <ns0:name>YouTube Creators</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-23T18:44:47+00:00</ns0:published>
-  <ns0:updated>2026-07-15T12:40:26+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Content Tab in YouTube Studio 📲</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/HfTNKS49KAM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/HfTNKS49KAM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>The Content Tab in YouTube Studio helps you understand your content's policy restrictions and earnings. You can use this information to track and manage your content. All policy and monetization alerts are consolidated into the Notices column, where you’ll see a 3-tiered severity system to help you prioritize what needs your attention first. The Estimated revenue column shows you exactly how much each video is earning across all revenue streams—including Ads, YouTube Premium, and YouTube Shopping.
-For more information, check out this article: https://support.google.com/youtube/answer/17011221
-
-Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
-
-► Check out our Help Center: https://goo.gl/fBzr7
-► Check out the Creator Insider channel: https://www.youtube.com/@creatorinsider</ns2:description>
+go bigmode https://bigmode.com/shop</ns2:description>
    <ns2:community>
-    <ns2:starRating count="16884" average="5.00" min="1" max="5" />
-    <ns2:statistics views="229008" />
+    <ns2:starRating count="32451" average="5.00" min="1" max="5" />
+    <ns2:statistics views="868866" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:8P-PxmECoFI</ns0:id>
-  <ns1:videoId>8P-PxmECoFI</ns1:videoId>
-  <ns1:channelId>UCkRfArvrzheW2E7b6SVT7vQ</ns1:channelId>
-  <ns0:title>[YouTube Creators]The Content Tab in YouTube Studio</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=8P-PxmECoFI" />
+  <ns0:id>yt:video:XNAtrpSVJLc</ns0:id>
+  <ns1:videoId>XNAtrpSVJLc</ns1:videoId>
+  <ns1:channelId>UCsvn_Po0SmunchJYOWpOxMg</ns1:channelId>
+  <ns0:title>[videogamedunkey]Arsenic and Old Lace (dunkview)</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=XNAtrpSVJLc" />
   <ns0:author>
-   <ns0:name>YouTube Creators</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</ns0:uri>
+   <ns0:name>videogamedunkey</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-06-23T18:41:21+00:00</ns0:published>
-  <ns0:updated>2026-08-03T16:51:29+00:00</ns0:updated>
+  <ns0:published>2026-08-05T19:30:39+00:00</ns0:published>
+  <ns0:updated>2026-08-09T01:04:29+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>The Content Tab in YouTube Studio</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/8P-PxmECoFI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/8P-PxmECoFI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>The Content Tab in YouTube Studio helps you understand your content's policy restrictions and earnings. You can use this information to track and manage your content. All policy and monetization alerts are consolidated into the Notices column, where you’ll see a 3-tiered severity system to help you prioritize what needs your attention first. The Estimated revenue column shows you exactly how much each video is earning across all revenue streams—including Ads, YouTube Premium, and YouTube Shopping.
-For more information, check out this article: https://support.google.com/youtube/answer/17011221
-
-Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
+   <ns2:title>Arsenic and Old Lace (dunkview)</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/XNAtrpSVJLc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/XNAtrpSVJLc/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Arsenal Gear and Old Snake
 
-► Check out our Help Center: https://goo.gl/fBzr7
-► Check out the Creator Insider channel: https://www.youtube.com/@creatorinsider</ns2:description>
+go bigmode https://bigmode.com/shop</ns2:description>
    <ns2:community>
-    <ns2:starRating count="11229" average="5.00" min="1" max="5" />
-    <ns2:statistics views="193709" />
+    <ns2:starRating count="18880" average="5.00" min="1" max="5" />
+    <ns2:statistics views="272064" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:h0EGCnBjTVk</ns0:id>
-  <ns1:videoId>h0EGCnBjTVk</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]I Outsmarted Pro Car Thieves</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=h0EGCnBjTVk" />
+  <ns0:id>yt:video:5a0_LMt9LOY</ns0:id>
+  <ns1:videoId>5a0_LMt9LOY</ns1:videoId>
+  <ns1:channelId>UCsvn_Po0SmunchJYOWpOxMg</ns1:channelId>
+  <ns0:title>[videogamedunkey]Halo ReRemastered</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=5a0_LMt9LOY" />
   <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
+   <ns0:name>videogamedunkey</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-06-20T13:00:07+00:00</ns0:published>
-  <ns0:updated>2026-08-15T02:13:05+00:00</ns0:updated>
+  <ns0:published>2026-07-30T19:30:17+00:00</ns0:published>
+  <ns0:updated>2026-08-16T17:44:25+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>I Outsmarted Pro Car Thieves</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/h0EGCnBjTVk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/h0EGCnBjTVk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>I bet Demitri could have got Marcello to chill. It’s not too late to sign up for the least boring Summer ever! https://crunchlabs.com/Camp_CarTheft
+   <ns2:title>Halo ReRemastered</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/5a0_LMt9LOY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/5a0_LMt9LOY/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>the latest version (as of july 2026)
 
-Get your CrunchLabs Toys today: https://crunchlabs.com/ToysYT
-
-Shoutout to @JasonTheWeenie  for his unknowing participation!
-RF Support Legend: @TheSignalPath 
-
-Thanks to these folks for providing some of the music in the video:
-Ponder- @Pondermusic 
-Laura Shigihara - @supershigi 
-Blue Wednesday - https://soundcloud.com/bluewednesday
-
-PLATINUM TICKET INSTANT WIN GAME
-NO PURCHASE NECESSARY. Ends on 5/31/27, subject to monthly entry deadlines.  Open to legal residents of the 50 U.S. &amp; D.C., 18+. 1 prize per month: each month is its own separate promotion. If a monthly prize is unclaimed/forfeited, it will be awarded via 2nd chance drawing. See Official Rules https://www.crunchlabs.com/sweepstakes for full details on eligibility requirements, how to enter, free method of entry, entry limits, prize claim procedure, prize description and limitations. Void where prohibited.</ns2:description>
+go bigmode https://bigmode.com/shop</ns2:description>
    <ns2:community>
-    <ns2:starRating count="528617" average="5.00" min="1" max="5" />
-    <ns2:statistics views="20522949" />
+    <ns2:starRating count="47783" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1351350" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:aeHOE-s-k8g</ns0:id>
-  <ns1:videoId>aeHOE-s-k8g</ns1:videoId>
-  <ns1:channelId>UCdngmbVKX1Tgre699-XLlUA</ns1:channelId>
-  <ns0:title>[TechWorld with Nana]From QA to DevOps - Your Hidden Advantage</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/aeHOE-s-k8g" />
+  <ns0:id>yt:video:VAEsEtqANNg</ns0:id>
+  <ns1:videoId>VAEsEtqANNg</ns1:videoId>
+  <ns1:channelId>UCsvn_Po0SmunchJYOWpOxMg</ns1:channelId>
+  <ns0:title>[videogamedunkey]Splatoon Raiders</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=VAEsEtqANNg" />
   <ns0:author>
-   <ns0:name>TechWorld with Nana</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA</ns0:uri>
+   <ns0:name>videogamedunkey</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-06-15T18:05:58+00:00</ns0:published>
-  <ns0:updated>2026-06-19T01:00:27+00:00</ns0:updated>
+  <ns0:published>2026-07-27T19:30:25+00:00</ns0:published>
+  <ns0:updated>2026-08-12T01:45:33+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>From QA to DevOps - Your Hidden Advantage</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/aeHOE-s-k8g?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/aeHOE-s-k8g/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Think QA is just about catching bugs? Your testing logic is actually the ultimate unfair advantage for a career in DevOps.
-
-You already master quality gates and failure scenarios—the exact foundation needed for CI/CD automation and Infrastructure as Code. The only missing piece? Learning cloud platforms like AWS. Dedicate yourself to the cloud, and you can transition into building end-to-end pipelines in just 4 to 6 months.
+   <ns2:title>Splatoon Raiders</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/VAEsEtqANNg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/VAEsEtqANNg/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Splatoon Packers
 
-Ready to map out your high-paying tech pivot?
-
-👉 Book your free 1-on-1 orientation call here: https://bit.ly/4vdxdKE 📞
-
-#QAtoDevOps #DevOps #AWS #automation</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="221" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8088" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:L0R-Ac1XRyk</ns0:id>
-  <ns1:videoId>L0R-Ac1XRyk</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]Do YouTubers know about the Magnus Effect?</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/L0R-Ac1XRyk" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-11T13:00:07+00:00</ns0:published>
-  <ns0:updated>2026-08-14T15:30:11+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Do YouTubers know about the Magnus Effect?</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/L0R-Ac1XRyk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/L0R-Ac1XRyk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>close call, TBJZL!</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="167229" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9181748" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:fdX0QEfqNUc</ns0:id>
-  <ns1:videoId>fdX0QEfqNUc</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]看字幕秒懂，关字幕全糊？问题出在这里……</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=fdX0QEfqNUc" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-06-11T12:28:01+00:00</ns0:published>
-  <ns0:updated>2026-06-17T04:40:09+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>看字幕秒懂，关字幕全糊？问题出在这里……</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/fdX0QEfqNUc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/fdX0QEfqNUc/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
+go bigmode https://bigmode.com/shop</ns2:description>
    <ns2:community>
-    <ns2:starRating count="321" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9990" />
+    <ns2:starRating count="29839" average="5.00" min="1" max="5" />
+    <ns2:statistics views="797589" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:umXECLiGxEQ</ns0:id>
-  <ns1:videoId>umXECLiGxEQ</ns1:videoId>
-  <ns1:channelId>UCdngmbVKX1Tgre699-XLlUA</ns1:channelId>
-  <ns0:title>[TechWorld with Nana]From Laid-Off Network Engineer to Platform Engineer: Patryk’s DevOps Journey</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=umXECLiGxEQ" />
+  <ns0:id>yt:video:hEsmUiNJ4yw</ns0:id>
+  <ns1:videoId>hEsmUiNJ4yw</ns1:videoId>
+  <ns1:channelId>UCsvn_Po0SmunchJYOWpOxMg</ns1:channelId>
+  <ns0:title>[videogamedunkey]Assassin's Creed Black Flag Resynced</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=hEsmUiNJ4yw" />
   <ns0:author>
-   <ns0:name>TechWorld with Nana</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA</ns0:uri>
+   <ns0:name>videogamedunkey</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-06-10T13:58:21+00:00</ns0:published>
-  <ns0:updated>2026-08-10T12:34:04+00:00</ns0:updated>
+  <ns0:published>2026-07-17T19:30:03+00:00</ns0:published>
+  <ns0:updated>2026-08-01T16:35:24+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>From Laid-Off Network Engineer to Platform Engineer: Patryk’s DevOps Journey</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/umXECLiGxEQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/umXECLiGxEQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Follow Patryk's DevOps Journey and Learn What It Actually Takes to Switch from Network Engineering to Cloud Platform Engineer.
-
-𝗣𝗮𝘁𝗿𝘆𝗸 𝗱𝗶𝗱 𝘁𝗵𝗶𝘀 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝗱 𝗽𝗿𝗼𝗴𝗿𝗮𝗺:
-🔗 Skip the tutorial loop - Become Future-Proof in 6 months. Download Syllabus here: https://bit.ly/4ue0jsW
-
-▬▬▬▬▬▬  Thanks Patryk for sharing your journey with the community 💙   ▬▬▬▬▬▬
-► Patryk now runs his own Cloud Solutions consultancy at https://onlydevops.pl/
-► Connect with him on LinkedIn: https://www.linkedin.com/in/patryk-petryszen/
-
-Patryk spent years in network engineering — supporting theatre Wi-Fi networks in London, following 40-page Word document procedures at an ISP, and getting laid off in a NY apartment alone during Covid.  Then he spent a year trying to teach himself DevOps.
-
-In this interview, Patryk walks through the entire journey — what network engineering actually looks like from the inside, why scattered tutorials don't work, how he studied 20 hours a week while holding a full-time job, and how he landed a Platform Engineer role internally before he even finished the TechWorld with Nana DevOps bootcamp.
+   <ns2:title>Assassin's Creed Black Flag Resynced</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/hEsmUiNJ4yw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/hEsmUiNJ4yw/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Uncover the legendary relic of Al Dorado as Enzio in Assassin's Creed.
 
-He also shares the automation project that saved each customer $200/year in certificate renewals, why writing the Terraform code took two days but getting it live took two months, and what he wishes he had done from day one.
-
-Patryk now runs his own Cloud Solutions consultancy at onlydevops.pl and has built a following of 17,000+ on LinkedIn — by doing exactly what he recommends at the end of this interview.
-
-If you're a network engineer thinking about DevOps and Cloud, or you've been stuck in the tutorial loop for months, this one is for you.
-
-📖 Read Patryk's full DevOps story on the blog: https://www.techworld-with-nana.com/post/devops-bootcamp-review-patryk
-
-▬▬▬▬▬▬ T I M E S T A M P S ⏰  ▬▬▬▬▬▬
-00:00 Introduction to Patryk &amp; Overview
-02:30 How Patryk Got Into IT
-07:48 The Breaking Point: Laid-Off during Covid
-11:12 About Network Engineering Ceilings
-15:00 Why he chose DevOps
-17:17 Scattered Learning Journey
-24:27 Why he joined the DevOps Bootcamp
-32:23 Internal Switch To Platform Engineering
-37:30 The Real Work Test
-43:22 Patryk's Advice: What He'd Do Differently
-47:32 Career Roadmap Recapped
-
-
-▬▬▬▬▬▬ 🎙️ MORE SUCCESS STORIES 🎙️    ▬▬▬▬▬▬
-Israel's Story — Civil Engineering in Nigeria to Lead DevOps Engineer in the UK → https://youtu.be/YTIvpuV6I20
-Ana's Story — Non IT to Golden Kubestronaut → https://youtu.be/q6x8J7QIakI
-Rody's Story — Test Engineer to DevOps Engineer → https://youtu.be/4J53WvB1-4E
-
-This series features in-depth conversations with real career journeys, from people who made it happen, sharing practical insights on learning paths, interview preparation, and day-to-day DevOps work.
-
-I capture real transformation stories from our DevOps bootcamp graduates about building a DevOps career. Hear how people learned Kubernetes, prepared project portfolios, landed multiple job offers, and navigate the evolving landscape of AI in infrastructure. Whether you're considering DevOps or already in the field, these conversations reveal what's actually working.
-
-▬▬▬▬▬▬ Connect with me 👋   ▬▬▬▬▬▬ 
-INSTAGRAM             ►  https://bit.ly/2F3LXYJ
-TWITTER                   ►  https://bit.ly/3i54PUB
-LINKEDIN                  ►  https://bit.ly/3hWOLVT
-
-TechWorld with Nana DevOps Bootcamp | DevOps Bootcamp Review | How To Become a DevOps Engineer in 2026 | Best DevOps Bootcamp</ns2:description>
+go bigmode https://bigmode.com/shop</ns2:description>
    <ns2:community>
-    <ns2:starRating count="293" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12993" />
+    <ns2:starRating count="52841" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1472415" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:GF_qEM_vUwo</ns0:id>
-  <ns1:videoId>GF_qEM_vUwo</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]My $60,000,000 Experiment</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/GF_qEM_vUwo" />
+  <ns0:id>yt:video:dmenIYxAcCo</ns0:id>
+  <ns1:videoId>dmenIYxAcCo</ns1:videoId>
+  <ns1:channelId>UCsvn_Po0SmunchJYOWpOxMg</ns1:channelId>
+  <ns0:title>[videogamedunkey]Does This Make You Mad Sony?</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=dmenIYxAcCo" />
   <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
+   <ns0:name>videogamedunkey</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-05-29T16:09:45+00:00</ns0:published>
-  <ns0:updated>2026-07-26T14:11:20+00:00</ns0:updated>
+  <ns0:published>2026-07-07T19:30:18+00:00</ns0:published>
+  <ns0:updated>2026-08-06T01:01:44+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>My $60,000,000 Experiment</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/GF_qEM_vUwo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/GF_qEM_vUwo/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
+   <ns2:title>Does This Make You Mad Sony?</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/dmenIYxAcCo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/dmenIYxAcCo/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>sony is madder than madden 2001</ns2:description>
    <ns2:community>
-    <ns2:starRating count="66320" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1792652" />
+    <ns2:starRating count="99709" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1250872" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:iTrxsotFNHA</ns0:id>
-  <ns1:videoId>iTrxsotFNHA</ns1:videoId>
-  <ns1:channelId>UCdngmbVKX1Tgre699-XLlUA</ns1:channelId>
-  <ns0:title>[TechWorld with Nana]I'll Explain 10 Years of Infrastructure Evolution in 25 Minutes (Console → CLI → IaC → GitOps → AI)</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=iTrxsotFNHA" />
+  <ns0:id>yt:video:SUX7eY1p-fM</ns0:id>
+  <ns1:videoId>SUX7eY1p-fM</ns1:videoId>
+  <ns1:channelId>UCsvn_Po0SmunchJYOWpOxMg</ns1:channelId>
+  <ns0:title>[videogamedunkey]Meccha Chameleon (dunk's view)</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=SUX7eY1p-fM" />
   <ns0:author>
-   <ns0:name>TechWorld with Nana</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA</ns0:uri>
+   <ns0:name>videogamedunkey</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-05-28T14:01:11+00:00</ns0:published>
-  <ns0:updated>2026-06-10T13:57:27+00:00</ns0:updated>
+  <ns0:published>2026-07-01T19:30:21+00:00</ns0:published>
+  <ns0:updated>2026-08-15T15:50:43+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>I'll Explain 10 Years of Infrastructure Evolution in 25 Minutes (Console → CLI → IaC → GitOps → AI)</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/iTrxsotFNHA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/iTrxsotFNHA/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Most engineers learn to click through the AWS console, maybe pick up Terraform — and think that's the full picture. It's not even close.
-▬▬▬▬▬▬  💡 Useful Resources ▬▬▬▬▬▬ 
-📥 Free DevOps Starter Kit → https://bit.ly/4tMkjBO
-🟢 DevOps Bootcamp (covers stages 1 through 3: console, scripting, IaC and integrating into CI/CD) → https://bit.ly/4tN0fzm
-🟣 The advanced DevSecOps Bootcamp takes you into GitOps and securing infrastructure  → https://bit.ly/4tLuQ00
-
-▬▬▬▬▬▬  💡 Continue Learning on Youtube  ▬▬▬▬▬▬ 
-→ GitOps explained: https://youtu.be/f5EpcWp0THw
-→ ArgoCD Tutorial: https://youtu.be/MeU5_k9ssrs
-→ Terraform Explained: https://youtu.be/l5k1ai_GBDE
-
-In this video, I walk you through the 5 stages of infrastructure management: from manually clicking through the AWS console, to scripts, to Infrastructure as Code, to GitOps, and finally AI-assisted infrastructure. Each stage solves real problems from the one before it — and skipping stages is exactly why so many engineers hit walls later.
-
-Whether you're just starting out or already using Terraform, understanding where you are on this journey changes what you should focus on next.
-
-▬▬▬▬▬▬ What you'll learn   ▬▬▬▬▬▬ 
-- Why the AWS Console is actually a useful starting point (and when to move on)
-- The problems CLI scripts solve — and the new ones they create
-- What Terraform adds that scripts can't give you
-- How GitOps eliminates configuration drift and manual deployments
-- Where AI fits in — and why it amplifies expertise instead of replacing it
-
-
-▬▬▬▬▬▬  𝗖𝗛𝗔𝗣𝗧𝗘𝗥𝗦 ⏱️ ▬▬▬▬▬▬ 
-0:00 – The problem with recreating infrastructure manually
-01:55 – Stage 1: AWS Console (why it's still valuable)
-04:29 – Stage 2: Scripting with CLI &amp; Python
-07:48 – Stage 3: Infrastructure as Code
-14:50 – Stage 4: GitOps
-18:32 – Stage 5: AI-Assisted Infrastructure
-23:02 – Why you can't skip the stages
+   <ns2:title>Meccha Chameleon (dunk's view)</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/SUX7eY1p-fM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/SUX7eY1p-fM/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>You can't even customize your leg armor.
 
-
-▬▬▬▬▬▬ 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲 👋   ▬▬▬▬▬▬ 
-INSTAGRAM             ►  https://bit.ly/2F3LXYJ
-TWITTER                   ►  https://bit.ly/3i54PUB
-LINKEDIN                  ►  https://bit.ly/3hWOLVT</ns2:description>
+20% off at https://bigmode.com/shop</ns2:description>
    <ns2:community>
-    <ns2:starRating count="845" average="5.00" min="1" max="5" />
-    <ns2:statistics views="22150" />
+    <ns2:starRating count="45903" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1742826" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:3Y7o9IgliYk</ns0:id>
-  <ns1:videoId>3Y7o9IgliYk</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]How To Keep a Skyscraper From Falling Over</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/3Y7o9IgliYk" />
+  <ns0:id>yt:video:lGYWozH2cH0</ns0:id>
+  <ns1:videoId>lGYWozH2cH0</ns1:videoId>
+  <ns1:channelId>UCsvn_Po0SmunchJYOWpOxMg</ns1:channelId>
+  <ns0:title>[videogamedunkey]Killer Bean (dunk's view)</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=lGYWozH2cH0" />
   <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
+   <ns0:name>videogamedunkey</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-05-28T13:00:20+00:00</ns0:published>
-  <ns0:updated>2026-08-14T15:29:31+00:00</ns0:updated>
+  <ns0:published>2026-06-25T19:30:18+00:00</ns0:published>
+  <ns0:updated>2026-06-29T04:00:42+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>How To Keep a Skyscraper From Falling Over</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/3Y7o9IgliYk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/3Y7o9IgliYk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
+   <ns2:title>Killer Bean (dunk's view)</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/lGYWozH2cH0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/lGYWozH2cH0/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>20% off everything at https://bigmode.com/shop !!!
+1 week only</ns2:description>
    <ns2:community>
-    <ns2:starRating count="334855" average="5.00" min="1" max="5" />
-    <ns2:statistics views="16566642" />
+    <ns2:starRating count="35446" average="5.00" min="1" max="5" />
+    <ns2:statistics views="865089" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:RUFjbDnSKLQ</ns0:id>
-  <ns1:videoId>RUFjbDnSKLQ</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]为什么“师范大学”是normal university？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=RUFjbDnSKLQ" />
+  <ns0:id>yt:video:2mWm9cs7nyE</ns0:id>
+  <ns1:videoId>2mWm9cs7nyE</ns1:videoId>
+  <ns1:channelId>UCsvn_Po0SmunchJYOWpOxMg</ns1:channelId>
+  <ns0:title>[videogamedunkey]The Steam Machine is The World's Most Powerful Console</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=2mWm9cs7nyE" />
   <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
+   <ns0:name>videogamedunkey</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-05-25T11:30:30+00:00</ns0:published>
-  <ns0:updated>2026-07-08T08:22:05+00:00</ns0:updated>
+  <ns0:published>2026-06-23T19:30:16+00:00</ns0:published>
+  <ns0:updated>2026-08-14T19:07:27+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>为什么“师范大学”是normal university？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/RUFjbDnSKLQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/RUFjbDnSKLQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
+   <ns2:title>The Steam Machine is The World's Most Powerful Console</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/2mWm9cs7nyE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/2mWm9cs7nyE/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>go bigmode https://bigmode.com/shop</ns2:description>
    <ns2:community>
-    <ns2:starRating count="524" average="5.00" min="1" max="5" />
-    <ns2:statistics views="25864" />
+    <ns2:starRating count="54803" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1090413" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:0ykqcbdi07c</ns0:id>
-  <ns1:videoId>0ykqcbdi07c</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]cover 和 garage 有什么关系？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=0ykqcbdi07c" />
+  <ns0:id>yt:video:9sarYmomdPU</ns0:id>
+  <ns1:videoId>9sarYmomdPU</ns1:videoId>
+  <ns1:channelId>UCsvn_Po0SmunchJYOWpOxMg</ns1:channelId>
+  <ns0:title>[videogamedunkey]Kirby and The Disturbing Powers</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=9sarYmomdPU" />
   <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
+   <ns0:name>videogamedunkey</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-05-15T11:35:10+00:00</ns0:published>
-  <ns0:updated>2026-06-16T04:51:59+00:00</ns0:updated>
+  <ns0:published>2026-06-18T19:30:26+00:00</ns0:published>
+  <ns0:updated>2026-08-17T03:06:58+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>cover 和 garage 有什么关系？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/0ykqcbdi07c?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/0ykqcbdi07c/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
+   <ns2:title>Kirby and The Disturbing Powers</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/9sarYmomdPU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/9sarYmomdPU/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>go bigmode https://bigmode.com/shop</ns2:description>
    <ns2:community>
-    <ns2:starRating count="56" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1341" />
+    <ns2:starRating count="32087" average="5.00" min="1" max="5" />
+    <ns2:statistics views="826152" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:9FKqsCVOD_Y</ns0:id>
-  <ns1:videoId>9FKqsCVOD_Y</ns1:videoId>
-  <ns1:channelId>UCdngmbVKX1Tgre699-XLlUA</ns1:channelId>
-  <ns0:title>[TechWorld with Nana]I Wasted 2 Years Learning DevOps Wrong. Here's What I'd Do Instead.</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=9FKqsCVOD_Y" />
+  <ns0:id>yt:video:k0FEupWJDhQ</ns0:id>
+  <ns1:videoId>k0FEupWJDhQ</ns1:videoId>
+  <ns1:channelId>UCsvn_Po0SmunchJYOWpOxMg</ns1:channelId>
+  <ns0:title>[videogamedunkey]Notorious (dunkview)</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=k0FEupWJDhQ" />
   <ns0:author>
-   <ns0:name>TechWorld with Nana</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA</ns0:uri>
+   <ns0:name>videogamedunkey</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-05-14T14:01:09+00:00</ns0:published>
-  <ns0:updated>2026-05-27T23:00:22+00:00</ns0:updated>
+  <ns0:published>2026-06-12T19:30:33+00:00</ns0:published>
+  <ns0:updated>2026-08-06T11:08:40+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>I Wasted 2 Years Learning DevOps Wrong. Here's What I'd Do Instead.</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/9FKqsCVOD_Y?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/9FKqsCVOD_Y/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Most people learning DevOps are making the same mistakes — and these mistakes are costing them years of time and thousands of dollars in lost income.
-▬▬▬▬▬▬ 🔗 Resources mentioned in this video ▬▬▬▬▬▬ 
-📌 Isreal's full DevOps journey: https://youtu.be/YTIvpuV6I20
-📌 Ana Pedra's full DevOps journey: https://youtu.be/q6x8J7QIakI
-📌 DevOps Bootcamp: https://bit.ly/3PnO65E
-
-I made many of these mistakes myself. I've seen them in colleagues and engineers I mentored. The pattern is always the same. In this video, I walk you through the 8 biggest DevOps career mistakes and exactly how to avoid them — so you can build real skills, get hired faster, and actually feel confident on the job.
-
-▬▬▬▬▬▬ 𝗧𝗵𝗮𝗻𝗸𝘀 𝗧𝗮𝗶𝗹𝘀𝗰𝗮𝗹𝗲 𝗳𝗼𝗿 𝗺𝗮𝗸𝗶𝗻𝗴 𝘁𝗵𝗶𝘀 𝘃𝗶𝗱𝗲𝗼 𝗽𝗼𝘀𝘀𝗶𝗯𝗹𝗲!  🙌 ▬▬▬▬▬▬ 
-👉 When you start building real DevOps projects, one of the first practical challenges is securely connecting your infrastructure. Tailscale makes this embarrassingly simple — no open ports, no firewall rules, no managing SSH keys: https://tailscale.com/techworldwithnana
-🎁 Personal plan with up to 100 devices is always free. Use code NANA to get 3 free months off any paid plan!
-
-
-▬▬▬▬▬▬ 𝗧𝗜𝗠𝗘𝗦𝗧𝗔𝗠𝗣𝗦  ▬▬▬▬▬▬
-00:00 Introduction
-00:52 Mistake No 1
-03:44 Mistake No 2
-06:33 Mistake No 3
-10:38 Mistake No 4
-15:21 Mistake No 5
-22:24 Mistake No 6
-27:12 Mistake No 7
-29:38 Mistake No 8
-33:00 How to Avoid These Mistakes
-
-
-▬▬▬▬▬▬ What You'll Learn ▬▬▬▬▬▬ 
-Whether you're just starting your DevOps career or you've been learning for a while and feel stuck, this video covers the exact mistakes that slow most engineers down — and what to do instead.
-
-You'll learn why focusing on tools instead of DevOps concepts is the #1 career killer, why certifications alone won't get you hired in today's market, why sandbox learning gives you a false sense of progress, and why being invisible online is costing you opportunities you don't even know exist.
-
-This isn't theory. These are lessons from my own DevOps career, from engineers I've worked with, and from thousands of students in our DevOps bootcamp — including Isreal, who went from struggling with certifications to landing a DevOps role in the UK, and explaining Jenkins pipeline optimization better than candidates with years of experience.
-
-
-▬▬▬▬▬▬ 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲 👋   ▬▬▬▬▬▬ 
-INSTAGRAM             ►  https://bit.ly/2F3LXYJ
-TWITTER                   ►  https://bit.ly/3i54PUB
-LINKEDIN                  ►  https://bit.ly/3hWOLVT
-
-DevOps career mistakes | How to learn DevOps | DevOps roadmap 2026 | DevOps for beginners | How to become a DevOps engineer | DevOps certifications worth it | DevOps bootcamp | How to get a DevOps job | DevOps learning mistakes</ns2:description>
+   <ns2:title>Notorious (dunkview)</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/k0FEupWJDhQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/k0FEupWJDhQ/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>go bigmode https://bigmode.com/shop</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3859" average="5.00" min="1" max="5" />
-    <ns2:statistics views="109385" />
+    <ns2:starRating count="26228" average="5.00" min="1" max="5" />
+    <ns2:statistics views="405706" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:NnvIwG0S8WE</ns0:id>
-  <ns1:videoId>NnvIwG0S8WE</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]Tennis Ball Cannon vs Human Strength</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/NnvIwG0S8WE" />
+  <ns0:id>yt:video:MeKAQoHfpD4</ns0:id>
+  <ns1:videoId>MeKAQoHfpD4</ns1:videoId>
+  <ns1:channelId>UCsvn_Po0SmunchJYOWpOxMg</ns1:channelId>
+  <ns0:title>[videogamedunkey]Keighley's E3 2026</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=MeKAQoHfpD4" />
   <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
+   <ns0:name>videogamedunkey</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-05-14T13:00:44+00:00</ns0:published>
-  <ns0:updated>2026-08-14T15:30:12+00:00</ns0:updated>
+  <ns0:published>2026-06-09T19:30:29+00:00</ns0:published>
+  <ns0:updated>2026-08-03T15:01:23+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>Tennis Ball Cannon vs Human Strength</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/NnvIwG0S8WE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/NnvIwG0S8WE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
+   <ns2:title>Keighley's E3 2026</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/MeKAQoHfpD4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/MeKAQoHfpD4/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>some of these look as good as highguard</ns2:description>
    <ns2:community>
-    <ns2:starRating count="422714" average="5.00" min="1" max="5" />
-    <ns2:statistics views="28460296" />
+    <ns2:starRating count="42694" average="5.00" min="1" max="5" />
+    <ns2:statistics views="863878" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:6SbGspIiQkE</ns0:id>
-  <ns1:videoId>6SbGspIiQkE</ns1:videoId>
-  <ns1:channelId>UCdngmbVKX1Tgre699-XLlUA</ns1:channelId>
-  <ns0:title>[TechWorld with Nana]One Real Consequence Beats 100 Motivational Videos</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/6SbGspIiQkE" />
+  <ns0:id>yt:video:3lQ3v6uhuN8</ns0:id>
+  <ns1:videoId>3lQ3v6uhuN8</ns1:videoId>
+  <ns1:channelId>UCsvn_Po0SmunchJYOWpOxMg</ns1:channelId>
+  <ns0:title>[videogamedunkey]Yoshi and the Mysterious Metacritic Score</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=3lQ3v6uhuN8" />
   <ns0:author>
-   <ns0:name>TechWorld with Nana</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA</ns0:uri>
+   <ns0:name>videogamedunkey</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-05-13T15:16:39+00:00</ns0:published>
-  <ns0:updated>2026-08-04T05:43:16+00:00</ns0:updated>
+  <ns0:published>2026-06-04T19:30:28+00:00</ns0:published>
+  <ns0:updated>2026-06-16T08:11:02+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>One Real Consequence Beats 100 Motivational Videos</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/6SbGspIiQkE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/6SbGspIiQkE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Isreal came from civil engineering in Nigeria with zero IT experience. While doing his master's in the UK, he was working retail shifts just to cover rent — and studying DevOps when he got home, sometimes past 2AM.
+   <ns2:title>Yoshi and the Mysterious Metacritic Score</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/3lQ3v6uhuN8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/3lQ3v6uhuN8/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>This is more of a detective game than the detective mouse game that was just doom.
 
-The pressure was real: land a sponsored role or leave the UK.
-Watch the full interview to see how he went from that point to a Lead DevOps Engineer role in 9 months 👉 https://youtu.be/YTIvpuV6I20</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="226" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7940" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:yma-u72phZ0</ns0:id>
-  <ns1:videoId>yma-u72phZ0</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]苹果赔给用户18亿，每人能拿多少？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=yma-u72phZ0" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-05-09T14:44:20+00:00</ns0:published>
-  <ns0:updated>2026-06-09T15:40:12+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>苹果赔给用户18亿，每人能拿多少？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/yma-u72phZ0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/yma-u72phZ0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="90" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2398" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:_bdMozeAOCQ</ns0:id>
-  <ns1:videoId>_bdMozeAOCQ</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]为什么“市中心”是downtown？uptown呢？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=_bdMozeAOCQ" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-05-05T11:42:03+00:00</ns0:published>
-  <ns0:updated>2026-06-04T23:42:17+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>为什么“市中心”是downtown？uptown呢？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/_bdMozeAOCQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/_bdMozeAOCQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="134" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4830" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:IEJALLQFmDs</ns0:id>
-  <ns1:videoId>IEJALLQFmDs</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]You’re Breathing Dinosaur Breath!</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/IEJALLQFmDs" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-04-30T16:00:29+00:00</ns0:published>
-  <ns0:updated>2026-06-24T08:57:04+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>You’re Breathing Dinosaur Breath!</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/IEJALLQFmDs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/IEJALLQFmDs/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="175292" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8954118" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:vpGllhvuH5A</ns0:id>
-  <ns1:videoId>vpGllhvuH5A</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]car 和 horse 有什么关系？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=vpGllhvuH5A" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-04-25T04:38:33+00:00</ns0:published>
-  <ns0:updated>2026-05-25T14:35:24+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>car 和 horse 有什么关系？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/vpGllhvuH5A?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/vpGllhvuH5A/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
-   <ns2:community>
-    <ns2:starRating count="58" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1674" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:6VCyrdMLrcY</ns0:id>
-  <ns1:videoId>6VCyrdMLrcY</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]Engineering a $1 Cup of Lemonade #AdobePartner</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/6VCyrdMLrcY" />
-  <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-04-16T16:00:10+00:00</ns0:published>
-  <ns0:updated>2026-06-17T16:50:14+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Engineering a $1 Cup of Lemonade #AdobePartner</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/6VCyrdMLrcY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/6VCyrdMLrcY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>No denying the video turned out better than the
-lemonade. @Adobe</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="259582" average="5.00" min="1" max="5" />
-    <ns2:statistics views="14207029" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:7R9H-EX6cnI</ns0:id>
-  <ns1:videoId>7R9H-EX6cnI</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]再次改良英语：这能行吗？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=7R9H-EX6cnI" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-04-15T12:28:24+00:00</ns0:published>
-  <ns0:updated>2026-05-15T20:28:40+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>再次改良英语：这能行吗？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/7R9H-EX6cnI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/7R9H-EX6cnI/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
+go bigmode https://bigmode.com/shop</ns2:description>
    <ns2:community>
-    <ns2:starRating count="51" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1360" />
+    <ns2:starRating count="37574" average="5.00" min="1" max="5" />
+    <ns2:statistics views="953905" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:S7UM5lSgAg8</ns0:id>
-  <ns1:videoId>S7UM5lSgAg8</ns1:videoId>
-  <ns1:channelId>UCY1kMZp36IQSyNx_9h4mpCg</ns1:channelId>
-  <ns0:title>[Mark Rober]I Engineered The Perfect First Date</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=S7UM5lSgAg8" />
+  <ns0:id>yt:video:sqrXF-2cfyM</ns0:id>
+  <ns1:videoId>sqrXF-2cfyM</ns1:videoId>
+  <ns1:channelId>UCsvn_Po0SmunchJYOWpOxMg</ns1:channelId>
+  <ns0:title>[videogamedunkey]007 Fist Fight</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=sqrXF-2cfyM" />
   <ns0:author>
-   <ns0:name>Mark Rober</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg</ns0:uri>
+   <ns0:name>videogamedunkey</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-04-11T13:00:44+00:00</ns0:published>
-  <ns0:updated>2026-08-16T14:12:41+00:00</ns0:updated>
+  <ns0:published>2026-05-29T19:30:08+00:00</ns0:published>
+  <ns0:updated>2026-05-30T11:14:33+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>I Engineered The Perfect First Date</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/S7UM5lSgAg8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/S7UM5lSgAg8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>15 years and 150 videos later… I'm finally the favorite Uncle. Learn to think like an engineer while having tons of fun with CrunchLabs, now with 2 FREE boxes at: https://crunchlabs.com/DateBB
-
-Get your CrunchLabs Toys today: https://crunchlabs.com/ToysYT
-
-Thanks to Sky Elements for helping me create an unforgettable drone show! https://skyelementsdrones.com/
+   <ns2:title>007 Fist Fight</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/sqrXF-2cfyM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/sqrXF-2cfyM/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>He loves only gold. 
 
-Thanks to these folks for providing some of the music in the video:
-Ponder-  @Pondermusic   
-Laura Shigihara -  @supershigi   
-Andrew Applepie - https://soundcloud.com/andrewapplepie
-Blue Wednesday - https://soundcloud.com/bluewednesday
-Danijel Zambo - https://open.spotify.com/intl-de/artist/1ZD9ri2wmZZPL4qs92sXZX?si=iI7jkn-qSY-6NKo931314Q
-
-
-PLATINUM TICKET INSTANT WIN GAME
-NO PURCHASE NECESSARY. Ends on 5/31/26 subj. to monthly entry deadlines. 50 US/DC, 18+. Unclaimed/forfeited prizes awarded via 2nd chance drawing. Visit [crunchlabs.com/sweepstakes](http://crunchlabs.com/sweepstakes) for Official Rules including full details on eligibility requirements, how to enter, free method of entry, entry limits, prize claim procedure, prize description and limitations. Void where prohibited.</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="268080" average="5.00" min="1" max="5" />
-    <ns2:statistics views="21297423" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:CUQ-zy7crkE</ns0:id>
-  <ns1:videoId>CUQ-zy7crkE</ns1:videoId>
-  <ns1:channelId>UCzSDYsBLs6EIHcQyO70Agxg</ns1:channelId>
-  <ns0:title>[英语兔]改良版英语来了！是不是比原来好学 10 倍？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=CUQ-zy7crkE" />
-  <ns0:author>
-   <ns0:name>英语兔</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCzSDYsBLs6EIHcQyO70Agxg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-04-09T12:20:40+00:00</ns0:published>
-  <ns0:updated>2026-06-28T16:34:37+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>改良版英语来了！是不是比原来好学 10 倍？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/CUQ-zy7crkE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/CUQ-zy7crkE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description />
+go bigmode https://bigmode.com/shop</ns2:description>
    <ns2:community>
-    <ns2:starRating count="201" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7176" />
+    <ns2:starRating count="53639" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1345175" />
    </ns2:community>
   </ns2:group>
  </ns0:entry></feed>
