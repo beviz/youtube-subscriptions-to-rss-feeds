@@ -1,5 +1,68 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-08-21T18:31:18Z</updated><ns0:entry>
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-08-21T19:22:59Z</updated><ns0:entry>
+  <ns0:id>yt:video:mfmdXPT7nAM</ns0:id>
+  <ns1:videoId>mfmdXPT7nAM</ns1:videoId>
+  <ns1:channelId>UCBJycsmduvYEL83R_U4JriQ</ns1:channelId>
+  <ns0:title>[Marques Brownlee]I Said Yes to Every Email for a Month! (Again)</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=mfmdXPT7nAM" />
+  <ns0:author>
+   <ns0:name>Marques Brownlee</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-08-21T18:53:07+00:00</ns0:published>
+  <ns0:updated>2026-08-21T18:56:17+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>I Said Yes to Every Email for a Month! (Again)</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/mfmdXPT7nAM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/mfmdXPT7nAM/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>I said yes to every review request I got for an entire month. I'm sorry? You're welcome?
+
+Thanks Best Buy for sponsoring this video. You can find the tech upgrades you need to elevate your daily life at https://www.bestbuy.com/discover
+
+MKBHD Merch: http://shop.MKBHD.com
+
+(Affiliate Links):
+CLIRASS Smart Toilet: https://geni.us/eieuqu
+Xbook 3-Screen Laptop: https://geni.us/0a14
+Garmin CIRQA: https://geni.us/RBC1
+Casana Smart Seat: https://geni.us/IMswJ
+Busy Bar: https://geni.us/9UZHwXS
+Mondo Robotics Beni: https://geni.us/aUf2ty
+Noctua Feinmann FO1 Gaming Mouse: https://geni.us/sXA3H
+Kardia Mobile 6L Max: https://geni.us/lhtE
+Honor Robot Phone: https://geni.us/YYL2QC
+Hbada X7 Smart Chair: https://geni.us/EEvPUm
+Skullcandy Crusher 1080 ANC Headphones: https://geni.us/JRJEqd
+Grant Sinclair Gamer Card: https://geni.us/ey7SZ6
+Sony Bravia 9 II True RGB TV: https://howl.link/169mvm5ydtyv0
+
+Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+~
+http://twitter.com/MKBHD
+http://instagram.com/MKBHD
+http://facebook.com/MKBHD
+
+0:00 Intro
+2:01 Xbook Laptop
+5:02 Garmin CIRQA
+6:51 Smart Toilet Seat
+8:29 The Busy Bar
+9:50 Beni Robot
+13:33 Fan Mouse
+15:02 Personal EKG
+16:33 Honor Robot Phone
+18:27 "AI Powered" Chair
+21:03 Skullcandy Headphones
+23:05 Gaming PC
+25:24 Sony "True RGB" TV
+28:19 What we learned</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1679" average="5.00" min="1" max="5" />
+    <ns2:statistics views="24532" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
   <ns0:id>yt:video:QWkL6Lvalg0</ns0:id>
   <ns1:videoId>QWkL6Lvalg0</ns1:videoId>
   <ns1:channelId>UCddiUEpeqJcYeBxX1IVBKvQ</ns1:channelId>
@@ -10,7 +73,7 @@
    <ns0:uri>https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-08-21T18:18:03+00:00</ns0:published>
-  <ns0:updated>2026-08-21T18:19:02+00:00</ns0:updated>
+  <ns0:updated>2026-08-21T18:40:42+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Pixel 11's camera is still hallucinating | The Vergecast</ns2:title>
    <ns2:content url="https://www.youtube.com/v/QWkL6Lvalg0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -60,8 +123,8 @@ Subscribe to The Verge: https://bit.ly/3FT6n5S
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="14" average="5.00" min="1" max="5" />
-    <ns2:statistics views="267" />
+    <ns2:starRating count="47" average="5.00" min="1" max="5" />
+    <ns2:statistics views="829" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -119,8 +182,8 @@ Support us on Patreon: https://www.patreon.com/Commonrealm
 Subscribe to Commonwealth Realm:
 http://bit.ly/Commonrealm</ns2:description>
    <ns2:community>
-    <ns2:starRating count="45" average="5.00" min="1" max="5" />
-    <ns2:statistics views="627" />
+    <ns2:starRating count="106" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1928" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -134,7 +197,7 @@ http://bit.ly/Commonrealm</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UCi2GvcaxZCN-61a0co8Smnw</ns0:uri>
   </ns0:author>
   <ns0:published>2026-08-21T17:44:24+00:00</ns0:published>
-  <ns0:updated>2026-08-21T18:12:30+00:00</ns0:updated>
+  <ns0:updated>2026-08-21T18:56:00+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>【館長直播完整版】2026/08/21 週五   我回來了@__@Y月餅剩下一千</ns2:title>
    <ns2:content url="https://www.youtube.com/v/jXFUc9EcAuA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -167,8 +230,8 @@ True飯  官方FB👉🏽  / truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2757" average="5.00" min="1" max="5" />
-    <ns2:statistics views="42453" />
+    <ns2:starRating count="2803" average="5.00" min="1" max="5" />
+    <ns2:statistics views="45184" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -226,8 +289,8 @@ Welcome to MacRumors, your ultimate destination for in-depth and insightful Mac 
 
 Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:community>
-    <ns2:starRating count="45" average="5.00" min="1" max="5" />
-    <ns2:statistics views="568" />
+    <ns2:starRating count="72" average="5.00" min="1" max="5" />
+    <ns2:statistics views="865" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -248,8 +311,8 @@ Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:thumbnail url="https://i3.ytimg.com/vi/vAv08SvCM-w/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="114" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1613" />
+    <ns2:starRating count="183" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2466" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -270,8 +333,8 @@ Subscribe now and join our community of Mac enthusiasts!</ns2:description>
    <ns2:thumbnail url="https://i3.ytimg.com/vi/fC4Lpuvk4vk/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="492" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3561" />
+    <ns2:starRating count="941" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6479" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -365,8 +428,8 @@ True飯  官方FB👉🏽  / truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="253" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1972" />
+    <ns2:starRating count="281" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2664" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -392,8 +455,8 @@ True飯  官方FB👉🏽  / truefun2023
 公众号：honor22
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1226" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6636" />
+    <ns2:starRating count="1438" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9767" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -435,8 +498,8 @@ TED videos may be used for non-commercial purposes under a Creative Commons Lice
 
 #TED #TEDTalks #Economics</ns2:description>
    <ns2:community>
-    <ns2:starRating count="115" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2135" />
+    <ns2:starRating count="128" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2799" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -465,8 +528,8 @@ BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
 BBC News 中文 Twitter - https://twitter.com/bbcchinese
 BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="165" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3569" />
+    <ns2:starRating count="185" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4244" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -531,8 +594,8 @@ https://www.twitch.tv/emongg
 https://www.twitch.tv/durpee82
 #gaming #Overwatch #ml7</ns2:description>
    <ns2:community>
-    <ns2:starRating count="119" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1903" />
+    <ns2:starRating count="137" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2313" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -574,8 +637,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="140" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2957" />
+    <ns2:starRating count="154" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3506" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -609,8 +672,8 @@ My music:
 Spotify: https://open.spotify.com/album/5m7SFVMTfNvv7dyqfa00G3
 iTunes: http://itunes.apple.com/album/id1122291881?ls=1&amp;app=itunes</ns2:description>
    <ns2:community>
-    <ns2:starRating count="5028" average="5.00" min="1" max="5" />
-    <ns2:statistics views="37253" />
+    <ns2:starRating count="5583" average="5.00" min="1" max="5" />
+    <ns2:statistics views="43668" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -639,8 +702,8 @@ iTunes: http://itunes.apple.com/album/id1122291881?ls=1&amp;app=itunes</ns2:desc
 16:25 餵龍高手
 18:03 巴哈商城實體預購排行</ns2:description>
    <ns2:community>
-    <ns2:starRating count="192" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7576" />
+    <ns2:starRating count="205" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9035" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -684,8 +747,8 @@ BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
 BBC News 中文 Twitter - https://twitter.com/bbcchinese
 BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="406" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10598" />
+    <ns2:starRating count="435" average="5.00" min="1" max="5" />
+    <ns2:statistics views="12301" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -711,8 +774,8 @@ BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:descripti
 14:21 自由探索、劇情演出
 18:29 探索遺跡、新角色加入</ns2:description>
    <ns2:community>
-    <ns2:starRating count="51" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2584" />
+    <ns2:starRating count="55" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2890" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -768,8 +831,8 @@ BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:descripti
 33:03 武统台湾，算不算一场内战
 33:50 新频道「正确君」：一项三十年的研究</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2481" average="5.00" min="1" max="5" />
-    <ns2:statistics views="109020" />
+    <ns2:starRating count="2544" average="5.00" min="1" max="5" />
+    <ns2:statistics views="121323" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -802,8 +865,8 @@ Thank you for your liking and subscribing!
 
 #手工耿 #手工 #耿帥 #中國發明 #廢柴愛迪生 #搞笑發明 #handygeng #UselessEdison #ChineseEdison #handicraft #diy #fundiy #crazyinventions</ns2:description>
    <ns2:community>
-    <ns2:starRating count="31" average="5.00" min="1" max="5" />
-    <ns2:statistics views="858" />
+    <ns2:starRating count="33" average="5.00" min="1" max="5" />
+    <ns2:statistics views="919" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -837,8 +900,8 @@ Spotify: https://open.spotify.com/artist/4vc953PpH6nsZ46xfDKF28?si=L6z5WMKSQAayP
 
 💬Telegram: https://t.me/lelefarley64</ns2:description>
    <ns2:community>
-    <ns2:starRating count="247" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2867" />
+    <ns2:starRating count="250" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2988" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -968,8 +1031,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="166" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2038" />
+    <ns2:starRating count="172" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2281" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -990,8 +1053,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
    <ns2:thumbnail url="https://i3.ytimg.com/vi/jzx-yRPjSUU/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="27826" average="5.00" min="1" max="5" />
-    <ns2:statistics views="455974" />
+    <ns2:starRating count="29090" average="5.00" min="1" max="5" />
+    <ns2:statistics views="517184" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1012,8 +1075,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
    <ns2:thumbnail url="https://i4.ytimg.com/vi/ShMU8j5ebD4/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="6506" average="5.00" min="1" max="5" />
-    <ns2:statistics views="66177" />
+    <ns2:starRating count="6906" average="5.00" min="1" max="5" />
+    <ns2:statistics views="73954" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1143,8 +1206,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="330" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4624" />
+    <ns2:starRating count="341" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5064" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1183,7 +1246,7 @@ The Tuesday test came ahead of the 2nd World Humanoid Robot Games, which open in
    <ns0:uri>https://www.youtube.com/channel/UCFhKqw9UUe2neKk04eo4RRQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-08-21T10:30:04+00:00</ns0:published>
-  <ns0:updated>2026-08-21T13:45:21+00:00</ns0:updated>
+  <ns0:updated>2026-08-21T19:13:20+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>孩子犯錯時，該怎麼辦 #成長的覺醒 #親子 #樊登</ns2:title>
    <ns2:content url="https://www.youtube.com/v/LxY4W9MKRMc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -1194,7 +1257,7 @@ The Tuesday test came ahead of the 2nd World Humanoid Robot Games, which open in
 ※貼心提醒：留言請保持禮貌運動、理性討論，違反社群規範或人身攻擊可能會遭檢舉</ns2:description>
    <ns2:community>
     <ns2:starRating count="16" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1056" />
+    <ns2:statistics views="1071" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1239,7 +1302,7 @@ Spotify：
 https://reurl.cc/9OMyRX</ns2:description>
    <ns2:community>
     <ns2:starRating count="28" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1119" />
+    <ns2:statistics views="1145" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1268,8 +1331,8 @@ BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
 BBC News 中文 Twitter - https://twitter.com/bbcchinese
 BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="88" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4541" />
+    <ns2:starRating count="92" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4824" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1344,7 +1407,7 @@ https://lin.ee/VFYRknp
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
     <ns2:starRating count="2" average="5.00" min="1" max="5" />
-    <ns2:statistics views="77" />
+    <ns2:statistics views="82" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1369,8 +1432,8 @@ The film could be heading to Hong Kong next, with Broadway Cinematheque saying t
 Made with no outside investment, the film was created by director Xin Yumeng and his mother, Sun Lifang, over 5 years.
 #animation #china #boxoffice #viral #movie #funny #牛来</ns2:description>
    <ns2:community>
-    <ns2:starRating count="9" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1014" />
+    <ns2:starRating count="10" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1046" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1402,8 +1465,8 @@ https://reurl.cc/3jGmxV
 Spotify：
 https://reurl.cc/9OMyRX</ns2:description>
    <ns2:community>
-    <ns2:starRating count="54" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3187" />
+    <ns2:starRating count="55" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3339" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1424,8 +1487,8 @@ https://reurl.cc/9OMyRX</ns2:description>
    <ns2:thumbnail url="https://i1.ytimg.com/vi/4JG77d6RDUg/hqdefault.jpg" width="480" height="360" />
    <ns2:description>茅台作为液体黄金，是中国经济的晴雨表，老梁通过解读茅台现象，分析中国经济、政策</ns2:description>
    <ns2:community>
-    <ns2:starRating count="890" average="5.00" min="1" max="5" />
-    <ns2:statistics views="64325" />
+    <ns2:starRating count="917" average="5.00" min="1" max="5" />
+    <ns2:statistics views="69704" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1456,8 +1519,8 @@ BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
 BBC News 中文 Twitter - https://twitter.com/bbcchinese
 BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="275" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6497" />
+    <ns2:starRating count="283" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6867" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1478,8 +1541,8 @@ BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:descripti
    <ns2:thumbnail url="https://i4.ytimg.com/vi/GVTZvTtjy0Q/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="30" average="5.00" min="1" max="5" />
-    <ns2:statistics views="903" />
+    <ns2:starRating count="32" average="5.00" min="1" max="5" />
+    <ns2:statistics views="951" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1530,8 +1593,8 @@ Cabin crew carried out a basic cleanup before landing, and the area was later cl
 公众号：honor22
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2978" average="5.00" min="1" max="5" />
-    <ns2:statistics views="37470" />
+    <ns2:starRating count="3011" average="5.00" min="1" max="5" />
+    <ns2:statistics views="38428" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1573,8 +1636,8 @@ https://bit.ly/3PaC4Jj
 
 #教學 #ClaudeDesign #Claude #動畫 #簡報 #Remotion</ns2:description>
    <ns2:community>
-    <ns2:starRating count="697" average="5.00" min="1" max="5" />
-    <ns2:statistics views="16941" />
+    <ns2:starRating count="702" average="5.00" min="1" max="5" />
+    <ns2:statistics views="17407" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1630,8 +1693,8 @@ BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
 BBC News 中文 Twitter - https://twitter.com/bbcchinese
 BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="72" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5680" />
+    <ns2:starRating count="73" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5870" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1662,8 +1725,8 @@ BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
 BBC News 中文 Twitter - https://twitter.com/bbcchinese
 BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="486" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12104" />
+    <ns2:starRating count="502" average="5.00" min="1" max="5" />
+    <ns2:statistics views="12463" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1697,7 +1760,7 @@ https://lin.ee/VFYRknp
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
     <ns2:starRating count="6" average="5.00" min="1" max="5" />
-    <ns2:statistics views="208" />
+    <ns2:statistics views="210" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1725,8 +1788,8 @@ Bilibili: https://space.bilibili.com/471303350
 
 #數碼 #windows #電腦知識 #應用</ns2:description>
    <ns2:community>
-    <ns2:starRating count="191" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7867" />
+    <ns2:starRating count="194" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8608" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1757,8 +1820,8 @@ BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
 BBC News 中文 Twitter - https://twitter.com/bbcchinese
 BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="157" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12734" />
+    <ns2:starRating count="158" average="5.00" min="1" max="5" />
+    <ns2:statistics views="13043" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1791,8 +1854,8 @@ https://lin.ee/VFYRknp
 成為這個頻道的會員並獲得福利：
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
-    <ns2:starRating count="60" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2080" />
+    <ns2:starRating count="62" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2209" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1824,8 +1887,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
 【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</ns2:description>
    <ns2:community>
-    <ns2:starRating count="149" average="5.00" min="1" max="5" />
-    <ns2:statistics views="16467" />
+    <ns2:starRating count="151" average="5.00" min="1" max="5" />
+    <ns2:statistics views="16895" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1850,8 +1913,8 @@ Patreon 会员加入链接：https://www.patreon.com/join/8734589
 
 Welcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2062" average="5.00" min="1" max="5" />
-    <ns2:statistics views="64173" />
+    <ns2:starRating count="2121" average="5.00" min="1" max="5" />
+    <ns2:statistics views="66078" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1876,8 +1939,8 @@ Welcome to the official Apple YouTube channel. Here you’ll find news about pro
 
 Welcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1140" average="5.00" min="1" max="5" />
-    <ns2:statistics views="32690" />
+    <ns2:starRating count="1156" average="5.00" min="1" max="5" />
+    <ns2:statistics views="33837" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1900,8 +1963,8 @@ Welcome to the official Apple YouTube channel. Here you’ll find news about pro
 
 (Made in New Zealand)</ns2:description>
    <ns2:community>
-    <ns2:starRating count="994" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8023" />
+    <ns2:starRating count="1008" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8190" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1922,8 +1985,8 @@ Welcome to the official Apple YouTube channel. Here you’ll find news about pro
    <ns2:thumbnail url="https://i3.ytimg.com/vi/ZrWKkReTxso/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="118" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4986" />
+    <ns2:starRating count="119" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5198" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2038,8 +2101,8 @@ Welcome to the official Apple YouTube channel. Here you’ll find news about pro
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #腎臟中毒 #柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #腎虛 #腎結石</ns2:description>
    <ns2:community>
-    <ns2:starRating count="81" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2336" />
+    <ns2:starRating count="82" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2393" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2081,8 +2144,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="181" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5440" />
+    <ns2:starRating count="183" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5543" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2189,8 +2252,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #心臟病 #心血管#柏格醫生 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝</ns2:description>
    <ns2:community>
-    <ns2:starRating count="255" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5860" />
+    <ns2:starRating count="256" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5919" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2283,8 +2346,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #糖尿病  #高血糖 #柏格醫生 # 胰島素阻抗 #減肥 #生酮飲食 #斷食 #間歇性斷食 #柏格醫生中文 #胰島素 #肝功能 #脂肪肝 #糖尿病前期 # 第二型糖尿病</ns2:description>
    <ns2:community>
-    <ns2:starRating count="154" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2959" />
+    <ns2:starRating count="155" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3050" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2381,8 +2444,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5839379/
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 ＃體重停滯 #柏格醫生 #維他命 #減肥 #低碳水 #必需氨基酸 #生酮飲食 #斷食 #間歇性斷食 #柏格醫生中文 #胰島素 #肝功能# ketosis #胰島素阻抗 #脂肪肝</ns2:description>
    <ns2:community>
-    <ns2:starRating count="64" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1414" />
+    <ns2:starRating count="65" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1433" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2514,8 +2577,8 @@ https://thisisyourdailydose.com/
 14:53 Hat bounce
 15:04 Winter Landscape</ns2:description>
    <ns2:community>
-    <ns2:starRating count="24650" average="5.00" min="1" max="5" />
-    <ns2:statistics views="688038" />
+    <ns2:starRating count="24996" average="5.00" min="1" max="5" />
+    <ns2:statistics views="701270" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2557,8 +2620,8 @@ LUCIO RENDER: https://x.com/mine4adream
 
 Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]</ns2:description>
    <ns2:community>
-    <ns2:starRating count="5827" average="5.00" min="1" max="5" />
-    <ns2:statistics views="91118" />
+    <ns2:starRating count="5920" average="5.00" min="1" max="5" />
+    <ns2:statistics views="93497" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2610,8 +2673,8 @@ Subscribe to The Verge: https://bit.ly/3FT6n5S
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="196" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7901" />
+    <ns2:starRating count="197" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7977" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2685,8 +2748,8 @@ The copyright of this video belongs to the original creator. China Digital Times
 
 Welcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1536" average="5.00" min="1" max="5" />
-    <ns2:statistics views="57638" />
+    <ns2:starRating count="1566" average="5.00" min="1" max="5" />
+    <ns2:statistics views="59359" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2711,8 +2774,8 @@ Welcome to the official Apple YouTube channel. Here you’ll find news about pro
 
 Welcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1258" average="5.00" min="1" max="5" />
-    <ns2:statistics views="33284" />
+    <ns2:starRating count="1272" average="5.00" min="1" max="5" />
+    <ns2:statistics views="34046" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2737,8 +2800,8 @@ Welcome to the official Apple YouTube channel. Here you’ll find news about pro
 
 Welcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="832" average="5.00" min="1" max="5" />
-    <ns2:statistics views="24947" />
+    <ns2:starRating count="841" average="5.00" min="1" max="5" />
+    <ns2:statistics views="25469" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2763,8 +2826,8 @@ Welcome to the official Apple YouTube channel. Here you’ll find news about pro
 
 Welcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2516" average="5.00" min="1" max="5" />
-    <ns2:statistics views="105168" />
+    <ns2:starRating count="2557" average="5.00" min="1" max="5" />
+    <ns2:statistics views="107960" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2789,8 +2852,8 @@ Welcome to the official Apple YouTube channel. Here you’ll find news about pro
 
 Welcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1752" average="5.00" min="1" max="5" />
-    <ns2:statistics views="47078" />
+    <ns2:starRating count="1766" average="5.00" min="1" max="5" />
+    <ns2:statistics views="47812" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2815,8 +2878,8 @@ Welcome to the official Apple YouTube channel. Here you’ll find news about pro
 
 Welcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="9506" average="5.00" min="1" max="5" />
-    <ns2:statistics views="387123" />
+    <ns2:starRating count="9735" average="5.00" min="1" max="5" />
+    <ns2:statistics views="397418" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2830,15 +2893,15 @@ Welcome to the official Apple YouTube channel. Here you’ll find news about pro
    <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
   </ns0:author>
   <ns0:published>2026-08-20T19:00:01+00:00</ns0:published>
-  <ns0:updated>2026-08-21T14:13:51+00:00</ns0:updated>
+  <ns0:updated>2026-08-21T19:05:31+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>The question isn’t whether or not humans matter — it’s how will we make our impact count? #TEDTalks</ns2:title>
    <ns2:content url="https://www.youtube.com/v/P9s8Sn72Od0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i1.ytimg.com/vi/P9s8Sn72Od0/hqdefault.jpg" width="480" height="360" />
    <ns2:description>As AI agents take over more tasks at work, the question isn’t whether or not humans matter — it’s how we make our impact count. Leadership expert Vinciane Beauchene challenges some commonly held assumptions about how AI will transform the workplace, sharing a blueprint for leaders to design organizations where people can focus on what truly makes a difference.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="250" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8652" />
+    <ns2:starRating count="255" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8901" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2870,8 +2933,8 @@ https://reurl.cc/3jGmxV
 Spotify：
 https://reurl.cc/9OMyRX</ns2:description>
    <ns2:community>
-    <ns2:starRating count="32" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2507" />
+    <ns2:starRating count="33" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2542" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2901,8 +2964,8 @@ Want more Fireship?
 🗞️ Newsletter: https://bytes.dev
 🧠 Courses: https://fireship.dev</ns2:description>
    <ns2:community>
-    <ns2:starRating count="22989" average="5.00" min="1" max="5" />
-    <ns2:statistics views="653061" />
+    <ns2:starRating count="23243" average="5.00" min="1" max="5" />
+    <ns2:statistics views="662415" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2927,8 +2990,8 @@ Learn more about Apple Watch heart health features like ECG and heart rate notif
 
 Welcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1273" average="5.00" min="1" max="5" />
-    <ns2:statistics views="23137" />
+    <ns2:starRating count="1277" average="5.00" min="1" max="5" />
+    <ns2:statistics views="23403" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2970,8 +3033,8 @@ TED videos may be used for non-commercial purposes under a Creative Commons Lice
 
 #TED #TEDTalks #Tech #ClimateChange</ns2:description>
    <ns2:community>
-    <ns2:starRating count="263" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9452" />
+    <ns2:starRating count="266" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9590" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3014,8 +3077,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="175" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8743" />
+    <ns2:starRating count="176" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8810" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3058,7 +3121,7 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
     <ns2:starRating count="234" average="5.00" min="1" max="5" />
-    <ns2:statistics views="12781" />
+    <ns2:statistics views="12871" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3090,8 +3153,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
 15:16 隨從和眷屬
 16:58 正式版內容搶先透露</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1450" average="5.00" min="1" max="5" />
-    <ns2:statistics views="68762" />
+    <ns2:starRating count="1455" average="5.00" min="1" max="5" />
+    <ns2:statistics views="69668" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3121,8 +3184,8 @@ INSTAGRAM             ►  https://bit.ly/2F3LXYJ
 TWITTER                   ►  https://bit.ly/3i54PUB
 LINKEDIN                  ►  https://bit.ly/3hWOLVT</ns2:description>
    <ns2:community>
-    <ns2:starRating count="192" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3606" />
+    <ns2:starRating count="194" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3660" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3143,8 +3206,8 @@ LINKEDIN                  ►  https://bit.ly/3hWOLVT</ns2:description>
    <ns2:thumbnail url="https://i2.ytimg.com/vi/9cJtnXNwp08/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="403" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13488" />
+    <ns2:starRating count="414" average="5.00" min="1" max="5" />
+    <ns2:statistics views="13811" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3168,7 +3231,7 @@ LINKEDIN                  ►  https://bit.ly/3hWOLVT</ns2:description>
 本作為《Mortal Shell》的全新續作，並講述一段獨立故事，即使未曾遊玩前作，也能完整體驗本作內容。在這個逐漸崩壞的世界中，沉睡著被世人遺忘的戰士軀殼——Shell。發現 Shell 後，玩家便能喚醒其力量並附身其中，解鎖各自獨特的能力與特性。靈活搭配不同 Shell，打造專屬自己的戰鬥風格，同時追尋失落的記憶，揭開每位戰士背後隱藏的故事。</ns2:description>
    <ns2:community>
     <ns2:starRating count="67" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5336" />
+    <ns2:statistics views="5433" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3193,8 +3256,8 @@ We put a lot of thought into caring for Emma, including what goes into her bowl.
 
 If you want to try it, you can get 60% off your first order with our code GOLDEN!</ns2:description>
    <ns2:community>
-    <ns2:starRating count="6478" average="5.00" min="1" max="5" />
-    <ns2:statistics views="80275" />
+    <ns2:starRating count="6507" average="5.00" min="1" max="5" />
+    <ns2:statistics views="80993" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3224,7 +3287,7 @@ BBC News 中文 Twitter - https://twitter.com/bbcchinese
 BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
    <ns2:community>
     <ns2:starRating count="125" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13183" />
+    <ns2:statistics views="13343" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3269,7 +3332,7 @@ BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:descripti
 请注意，本视频完全符合YouTube社区准则，没有任何违规行为。</ns2:description>
    <ns2:community>
     <ns2:starRating count="13" average="5.00" min="1" max="5" />
-    <ns2:statistics views="370" />
+    <ns2:statistics views="387" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3399,8 +3462,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="899" average="5.00" min="1" max="5" />
-    <ns2:statistics views="15930" />
+    <ns2:starRating count="906" average="5.00" min="1" max="5" />
+    <ns2:statistics views="16110" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3443,7 +3506,7 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
     <ns2:starRating count="212" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4715" />
+    <ns2:statistics views="4740" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3479,8 +3542,8 @@ Like my video welcome hit like and share it~
 
 #李白尼的猜想 #冷知識 #腦洞 #科普 #生活 #健康 #科學 #大腦 #像素 #視覺強化 #超能力 #超憶症</ns2:description>
    <ns2:community>
-    <ns2:starRating count="663" average="5.00" min="1" max="5" />
-    <ns2:statistics views="32348" />
+    <ns2:starRating count="669" average="5.00" min="1" max="5" />
+    <ns2:statistics views="33160" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3511,8 +3574,8 @@ BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
 BBC News 中文 Twitter - https://twitter.com/bbcchinese
 BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="340" average="5.00" min="1" max="5" />
-    <ns2:statistics views="19571" />
+    <ns2:starRating count="341" average="5.00" min="1" max="5" />
+    <ns2:statistics views="19789" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3544,8 +3607,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
 
 #猴哥 #猴哥精華 #猴哥日常</ns2:description>
    <ns2:community>
-    <ns2:starRating count="107" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9942" />
+    <ns2:starRating count="108" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10136" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3614,8 +3677,8 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
 14:40 6.隐藏剧院酒吧 The Backdrop
 16:54 7.新晋潮流黑胶脉冲 Bar Bon Funk</ns2:description>
    <ns2:community>
-    <ns2:starRating count="241" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7022" />
+    <ns2:starRating count="244" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7192" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3640,7 +3703,7 @@ Youtube：蘭林漢的粉絲 - 猴哥專屬精華頻道
 ※貼心提醒：留言請保持禮貌運動、理性討論，違反社群規範或人身攻擊可能會遭檢舉</ns2:description>
    <ns2:community>
     <ns2:starRating count="39" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1614" />
+    <ns2:statistics views="1620" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3770,7 +3833,7 @@ https://lin.ee/VFYRknp
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
     <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="80" />
+    <ns2:statistics views="81" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3801,8 +3864,8 @@ Skill：https://herdr.dev/docs/agent-skill/
 00:03:40 AI功能
 00:05:04 Skills</ns2:description>
    <ns2:community>
-    <ns2:starRating count="117" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4091" />
+    <ns2:starRating count="118" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4161" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3849,8 +3912,8 @@ True飯  官方FB👉🏽  / truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2010" average="5.00" min="1" max="5" />
-    <ns2:statistics views="35113" />
+    <ns2:starRating count="2011" average="5.00" min="1" max="5" />
+    <ns2:statistics views="35163" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3881,8 +3944,8 @@ BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
 BBC News 中文 Twitter - https://twitter.com/bbcchinese
 BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="169" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11550" />
+    <ns2:starRating count="168" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11716" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3904,7 +3967,7 @@ BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:descripti
    <ns2:description>Switch一个世代攒下了一堆宝可梦阵容，这期视频我不按发售顺序介绍，而是结合自己体验，按照个人推荐优先级，聊聊目前能玩的6款宝可梦作品到底应该怎么选。如果你正准备入坑宝可梦，或者已经很久没有玩过这个系列，希望这期可以帮你找到最适合自己的那一款～</ns2:description>
    <ns2:community>
     <ns2:starRating count="124" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9133" />
+    <ns2:statistics views="9245" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3951,8 +4014,8 @@ True飯  官方FB👉🏽  / truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2860" average="5.00" min="1" max="5" />
-    <ns2:statistics views="48580" />
+    <ns2:starRating count="2863" average="5.00" min="1" max="5" />
+    <ns2:statistics views="48638" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3999,8 +4062,8 @@ Evergrande Group and its property arm were fined 8.82 billion yuan (US$1.31 bill
    <ns2:thumbnail url="https://i2.ytimg.com/vi/5JZxY9VmIpE/hqdefault.jpg" width="480" height="360" />
    <ns2:description>这一次我们得到许可，来到了蓝箭朱雀三号遥二运载火箭的发射现场。不仅拍到了火箭降落全过程，还带回了八个月前的珍贵素材……如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4795" average="5.00" min="1" max="5" />
-    <ns2:statistics views="120677" />
+    <ns2:starRating count="4806" average="5.00" min="1" max="5" />
+    <ns2:statistics views="121389" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4031,8 +4094,8 @@ BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
 BBC News 中文 Twitter - https://twitter.com/bbcchinese
 BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1010" average="5.00" min="1" max="5" />
-    <ns2:statistics views="69244" />
+    <ns2:starRating count="1018" average="5.00" min="1" max="5" />
+    <ns2:statistics views="69875" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -4061,41 +4124,7 @@ Bilibili: https://space.bilibili.com/471303350
 #遊戲 #黑神話鍾馗 #黑神話悟空 #3a遊戲</ns2:description>
    <ns2:community>
     <ns2:starRating count="113" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13686" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:8a6yoHUXEMA</ns0:id>
-  <ns1:videoId>8a6yoHUXEMA</ns1:videoId>
-  <ns1:channelId>UC1SoWqy3HPfvE1nt89iV10Q</ns1:channelId>
-  <ns0:title>[Zushi Ai COS]旅行Vlog拍不出電影感？這6種運鏡一定要學會🎥✨ #運鏡 #視頻運鏡 #電影感 #旅遊拍攝 #Vlog拍攝 #拍攝技巧 #創作靈感 #旅行Vlog #手機攝影 #創作者中心</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/8a6yoHUXEMA" />
-  <ns0:author>
-   <ns0:name>Zushi Ai COS</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-08-20T01:15:11+00:00</ns0:published>
-  <ns0:updated>2026-08-20T01:15:11+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>旅行Vlog拍不出電影感？這6種運鏡一定要學會🎥✨ #運鏡 #視頻運鏡 #電影感 #旅遊拍攝 #Vlog拍攝 #拍攝技巧 #創作靈感 #旅行Vlog #手機攝影 #創作者中心</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/8a6yoHUXEMA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/8a6yoHUXEMA/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>發現喜歡的好物不用到處找✨
-店內整理了不少精選商品，喜歡的朋友可以慢慢挑選～🤍
-🛍️ Shopee蝦皮賣場：shopee.tw/eric3452083
-
-💚 對皮克敏周邊代購有興趣，也歡迎參考看看唷！
-⬇️https://reurl.cc/N25X66
-
-有任何問題都歡迎留言詢問💬
-也可以加入 LINE 與我們聯繫👇
-https://lin.ee/VFYRknp
-
-成為這個頻道的會員並獲得福利：
-https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="169" average="5.00" min="1" max="5" />
-    <ns2:statistics views="10224" />
+    <ns2:statistics views="13810" />
    </ns2:community>
   </ns2:group>
  </ns0:entry></feed>
