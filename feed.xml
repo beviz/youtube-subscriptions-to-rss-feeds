@@ -1,5 +1,457 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-11-06T10:20:56Z</updated><ns0:entry>
+<feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.youtube.com/xml/schemas/2015" xmlns:ns2="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom"><title>Top 100 Recent YouTube Channel Videos</title><id>merged:youtube:subscriptions</id><updated>2026-11-06T17:37:24Z</updated><ns0:entry>
+  <ns0:id>yt:video:TqJ58uokar8</ns0:id>
+  <ns1:videoId>TqJ58uokar8</ns1:videoId>
+  <ns1:channelId>UCejVlAl2kUwBgSHtQeBoKhQ</ns1:channelId>
+  <ns0:title>[mL7]This Junkrat BUG is RIDICULOUS #overaatch #gaming</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/TqJ58uokar8" />
+  <ns0:author>
+   <ns0:name>mL7</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCejVlAl2kUwBgSHtQeBoKhQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T17:16:04+00:00</ns0:published>
+  <ns0:updated>2026-11-06T17:16:44+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>This Junkrat BUG is RIDICULOUS #overaatch #gaming</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/TqJ58uokar8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/TqJ58uokar8/hqdefault.jpg" width="480" height="360" />
+   <ns2:description />
+   <ns2:community>
+    <ns2:starRating count="13" average="5.00" min="1" max="5" />
+    <ns2:statistics views="153" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:1JiNcQ-BbFc</ns0:id>
+  <ns1:videoId>1JiNcQ-BbFc</ns1:videoId>
+  <ns1:channelId>UCE_M8A5yxnLfW0KghEeajjw</ns1:channelId>
+  <ns0:title>[Apple]Apple Card: Apply and use in minutes</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=1JiNcQ-BbFc" />
+  <ns0:author>
+   <ns0:name>Apple</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T16:57:30+00:00</ns0:published>
+  <ns0:updated>2026-11-06T17:08:01+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Apple Card: Apply and use in minutes</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/1JiNcQ-BbFc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/1JiNcQ-BbFc/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Apple Card is is built into iPhone, and you can apply in as little as a minute. No waiting for a physical credit card, no friction. All it takes is a few taps of your iPhone. You can earn unlimited daily cash back, and use it right away.
+
+Learn more: https://apple.co/4iVNQHr
+
+“Come to Jamaica” by Benji Hughes: https://music.apple/come-to-jamaica
+
+#AppleCard  
+
+Welcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="620" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7677" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:iw9SZgyahqg</ns0:id>
+  <ns1:videoId>iw9SZgyahqg</ns1:videoId>
+  <ns1:channelId>UCsBjURrPoezykLs9EqgamOA</ns1:channelId>
+  <ns0:title>[Fireship]OpenAI’s nameless model just changed the odds of P = NP...</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=iw9SZgyahqg" />
+  <ns0:author>
+   <ns0:name>Fireship</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T16:42:38+00:00</ns0:published>
+  <ns0:updated>2026-11-06T16:51:53+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>OpenAI’s nameless model just changed the odds of P = NP...</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/iw9SZgyahqg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/iw9SZgyahqg/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Warp Factories is open infrastructure to build self-improving software factories. Get early access: https://warp.dev/fireship
+
+An unnamed OpenAI model just wrote an algorithm that solves 3-SAT faster than exponential time, breaking a 27-year-old hypothesis that over 800 published papers depend on. Let's break it down.
+
+Want more Fireship?
+
+🗞️ Newsletter: https://bytes.dev
+🧠 Courses: https://fireship.dev</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="2555" average="5.00" min="1" max="5" />
+    <ns2:statistics views="55990" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:kRmu6diUpyQ</ns0:id>
+  <ns1:videoId>kRmu6diUpyQ</ns1:videoId>
+  <ns1:channelId>UCD_gy8DWV_DhjJ-bQXF5dGQ</ns1:channelId>
+  <ns0:title>[磊哥聊政经]中期选举带崩AI产业！美股科技再次暴跌！AI公司面临严格监管！算力中心建设被叫停！马斯克成中期选举最惨之人</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=kRmu6diUpyQ" />
+  <ns0:author>
+   <ns0:name>磊哥聊政经</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCD_gy8DWV_DhjJ-bQXF5dGQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T16:23:59+00:00</ns0:published>
+  <ns0:updated>2026-11-06T16:23:59+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>中期选举带崩AI产业！美股科技再次暴跌！AI公司面临严格监管！算力中心建设被叫停！马斯克成中期选举最惨之人</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/kRmu6diUpyQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/kRmu6diUpyQ/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>欢迎大家点赞留言，记得打开小铃铛~~
+请大家关注我的抖音账号：正直的磊哥
+微博：正直的磊哥
+股市财经分析公众号：磊哥聊交易
+公众号：honor22
+感谢大家的支持~~~爱你们</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="720" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4724" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:4rT7lEG5vyM</ns0:id>
+  <ns1:videoId>4rT7lEG5vyM</ns1:videoId>
+  <ns1:channelId>UC_9AeV5Riy9AsIJZEsnsCDw</ns1:channelId>
+  <ns0:title>[箭厂ArrowFactory Doc]9.1-Meter Austrian Machine Tool Makes Asian Debut in Shanghai</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/4rT7lEG5vyM" />
+  <ns0:author>
+   <ns0:name>箭厂ArrowFactory Doc</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UC_9AeV5Riy9AsIJZEsnsCDw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T16:04:59+00:00</ns0:published>
+  <ns0:updated>2026-11-06T16:09:05+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>9.1-Meter Austrian Machine Tool Makes Asian Debut in Shanghai</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/4rT7lEG5vyM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/4rT7lEG5vyM/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Austria’s WFL brought its massive M35-G machining center to the 9th CIIE, marking its Asian debut.
+
+At 9.1 meters long, the machine combines four functions — turning, milling, drilling and measuring — with micrometer-level precision.
+
+WFL sees major opportunities in China’s aircraft manufacturing industry, particularly as the country develops domestically produced aircraft engines.
+
+#CIIE #Shanghaiedge
+ #Austria #Manufacturing #Aviation</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:84wVmiEl7Dg</ns0:id>
+  <ns1:videoId>84wVmiEl7Dg</ns1:videoId>
+  <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
+  <ns0:title>[TED]I Can’t Speak. Here’s How I Get People to Listen | Jessica Irwin | TED</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=84wVmiEl7Dg" />
+  <ns0:author>
+   <ns0:name>TED</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T16:01:00+00:00</ns0:published>
+  <ns0:updated>2026-11-06T17:29:33+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>I Can’t Speak. Here’s How I Get People to Listen | Jessica Irwin | TED</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/84wVmiEl7Dg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/84wVmiEl7Dg/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Jessica Irwin is many things: a photographer, artist, author, performer. She also happens to be nonverbal, born with cerebral palsy that affects the muscles she needs to talk. Speaking through a device that turns her typed words into speech, she gives a sharp, funny and urgent reminder that being unable to speak has nothing to do with intelligence — and shares a few easy ways anyone can better communicate with nonverbal people. (Recorded at TED2026 on April 16, 2026)
+
+Join us in person at a TED conference: https://tedtalks.social/events
+Become a TED Member to support our mission: https://ted.com/membership
+Subscribe to a TED newsletter: https://ted.com/newsletters
+
+Follow TED! 
+Instagram: https://www.instagram.com/ted
+LinkedIn: https://www.linkedin.com/company/ted-conferences
+TikTok: https://www.tiktok.com/@tedtoks
+Facebook: https://facebook.com/TED
+X: https://www.twitter.com/TEDTalks
+
+The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.
+
+Watch more: https://go.ted.com/jessicairwin
+
+https://youtu.be/84wVmiEl7Dg
+
+TED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com
+
+#TED #TEDTalks #Communication</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="116" average="5.00" min="1" max="5" />
+    <ns2:statistics views="897" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:mPw-iUshRIY</ns0:id>
+  <ns1:videoId>mPw-iUshRIY</ns1:videoId>
+  <ns1:channelId>UCEw4gExCX4SWq-dwhakHbUQ</ns1:channelId>
+  <ns0:title>[Frogger]Overwatch has the nicest community in all gaming.</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/mPw-iUshRIY" />
+  <ns0:author>
+   <ns0:name>Frogger</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCEw4gExCX4SWq-dwhakHbUQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T16:00:23+00:00</ns0:published>
+  <ns0:updated>2026-11-06T16:55:16+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Overwatch has the nicest community in all gaming.</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/mPw-iUshRIY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/mPw-iUshRIY/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>NEW CHANNEL: https://www.youtube.com/@froggah
+watch me live https://www.twitch.tv/froggerow
+
+DISCORD ► https://discord.gg/froggerow
+TWITTER  ► https://twitter.com/froggerow
+TIKTOK  ► https://www.tiktok.com/@froggerow
+MORE FROG ► https://www.youtube.com/c/notfrogger
+INSTAGRAM ► https://www.instagram.com/froggerow
+
+My Favourite Posion dart by: https://instagram.com/rroblinn
+
+Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
+
+#overwatch #froggerow</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="411" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2634" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:6OLCEwQxr30</ns0:id>
+  <ns1:videoId>6OLCEwQxr30</ns1:videoId>
+  <ns1:channelId>UC_9AeV5Riy9AsIJZEsnsCDw</ns1:channelId>
+  <ns0:title>[箭厂ArrowFactory Doc]Beyond Football: Discover Cape Verde at CIIE</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/6OLCEwQxr30" />
+  <ns0:author>
+   <ns0:name>箭厂ArrowFactory Doc</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UC_9AeV5Riy9AsIJZEsnsCDw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T15:52:53+00:00</ns0:published>
+  <ns0:updated>2026-11-06T16:54:43+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Beyond Football: Discover Cape Verde at CIIE</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/6OLCEwQxr30?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/6OLCEwQxr30/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Volcanic coffee, local wine and traditional sugarcane spirit grogue — Cape Verde has plenty to offer.
+
+But at Shanghai’s CIIE, representative Gilson Lima shared something even more special: morabeza, a Creole word that captures the warmth and hospitality of his homeland.
+
+#CIIE #CapeVerde #Shanghaiedge #Culture</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:PZxq0tSopKM</ns0:id>
+  <ns1:videoId>PZxq0tSopKM</ns1:videoId>
+  <ns1:channelId>UCi2GvcaxZCN-61a0co8Smnw</ns1:channelId>
+  <ns0:title>[館長惡名昭彰]【館長直播完整版】2026/11/06 星期五  明天下午三點半 大安區 士林夜市見面  今天被告了危害公眾罪出庭~ 11點開講</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=PZxq0tSopKM" />
+  <ns0:author>
+   <ns0:name>館長惡名昭彰</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCi2GvcaxZCN-61a0co8Smnw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T14:34:45+00:00</ns0:published>
+  <ns0:updated>2026-11-06T15:59:49+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>【館長直播完整版】2026/11/06 星期五  明天下午三點半 大安區 士林夜市見面  今天被告了危害公眾罪出庭~ 11點開講</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/PZxq0tSopKM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i1.ytimg.com/vi/PZxq0tSopKM/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>🎉11/1-11/30惡之盛典｜現貨滿$1,111免運，滿$5,000送NRS喵喵吸管隨行杯！還可以去FB留言抽哀鳳18👉https://utm.to/9t6ymc
+🌶️他好辣~嘟嘟嘟｜麻辣臭豆腐優惠單包$89，在家追直播就要配這👉https://utm.to/9t6yma
+🐾毛孩專屬｜寵物魚油＋透明壓克力寵物餐桌，組合$1,111👉https://utm.to/9txbb9
+🛒雙11就等這一次｜現貨服飾單件折11%、兩件以上折22%！👉https://utm.to/9t6ymm
+🔥保健品優惠｜魚油、維生素C、指定保健，共14款組合任你挑，日常補給趁這波備好👉https://utm.to/9t6ymf
+👀上班看電腦，下班看直播？日常補給別漏掉！魚油＋葉黃素＋維生素C，三件組$1,599👉https://utm.to/9txbbv
+💼工作忙歸忙，營養補給別忘！魚油＋綜合B群＋維生素C，三件組$1,899，忙碌日常這樣配👉https://utm.to/9txbb8
+🛒健身人的雙11補給｜精胺酸粉＋鏈激力，組合只要$2,599👉https://utm.to/9txbba
+
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+館長陳之漢 官方IG👉🏽  / power3067830678  
+館長陳之漢 飆捍FB👉🏽https://www.facebook.com/profile.php?...
+館長陳之漢 Podcast👉🏽https://open.firstory.me/user/power30678
+惡名昭彰 官方網站👉🏽https://www.notorious-2019.com/
+會員制度與規章👉🏽https://www.notorious-2019.com/size_c...
+惡名昭彰 官方Line👉🏽https://lin.ee/yKmjHZQ
+惡名昭彰 官方IG👉🏽  / notorious_taiwan  
+惡名昭彰 官方FB👉🏽  / notorious.taiwan  
+True飯  官方LINE👉🏽https://lin.ee/sPaW15Y
+True飯  官方IG👉🏽  / truefun_tw  
+True飯  官方FB👉🏽  / truefun2023  
+成吉思汗健身俱樂部 官方FB👉🏽  / mmagym.tw  
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
+💗加入頻道會員享有徽章/特殊貼圖符號💗
+🙋🏻‍♀️社群按讚搶先看獲取最新消息🙋🏻
+
+#館長 #館長直播 #完整直播
+♾️10/1-10/31無限∞發｜滿$2,000免運，滿$4,000送遠征者運動隨行包，滿$8,000再送連帽毯👉https://utm.to/9naf9m
+🎉品牌8週年｜10月官網消費紅利點數雙倍送，買越多回饋越多👉https://utm.to/9naf9x
+🌶️週年慶殺很大｜麻辣臭豆腐原價$169，現在單包只要$89👉https://utm.to/9naf9n
+🌙好物特選｜舒眠晚安膠囊原價$1,280，限量優惠只要$550👉https://utm.to/9naf9w
+🚿運動完洗香香｜男仕三合一沐浴露從頭洗到腳，任選3入以上8折👉https://utm.to/9naf9l
+🐟良辰吉食｜魚油＋任一保健自由配，組合$1,050起，適合什麼就補什麼👉https://utm.to/9naf9s
+👕8週年穿新衣｜全館服飾3件以上7折，風格不設限、機能直接拉滿👉https://utm.to/9naf9k
+🏋️訓練裝備｜搖搖杯、重訓護膝$399起，準備好裝備、陪你認真練👉https://utm.to/9naf9t
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+館長陳之漢 官方IG👉🏽  / power3067830678  
+館長陳之漢 飆捍FB👉🏽https://www.facebook.com/profile.php?...
+館長陳之漢 Podcast👉🏽https://open.firstory.me/user/power30678
+惡名昭彰 官方網站👉🏽https://www.notorious-2019.com/
+會員制度與規章👉🏽https://www.notorious-2019.com/size_c...
+惡名昭彰 官方Line👉🏽https://lin.ee/yKmjHZQ
+惡名昭彰 官方IG👉🏽  / notorious_taiwan  
+惡名昭彰 官方FB👉🏽  / notorious.taiwan  
+True飯  官方LINE👉🏽https://lin.ee/sPaW15Y
+True飯  官方IG👉🏽  / truefun_tw  
+True飯  官方FB👉🏽  / truefun2023  
+成吉思汗健身俱樂部 官方FB👉🏽  / mmagym.tw  
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
+💗加入頻道會員享有徽章/特殊貼圖符號💗
+🙋🏻‍♀️社群按讚搶先看獲取最新消息🙋🏻
+
+#館長 #館長直播 #完整直播</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="1512" average="5.00" min="1" max="5" />
+    <ns2:statistics views="15340" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:-U4thshDTL8</ns0:id>
+  <ns1:videoId>-U4thshDTL8</ns1:videoId>
+  <ns1:channelId>UCddiUEpeqJcYeBxX1IVBKvQ</ns1:channelId>
+  <ns0:title>[The Verge]Big Tech lost big in the 2026 election | The Vergecast</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=-U4thshDTL8" />
+  <ns0:author>
+   <ns0:name>The Verge</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T14:15:09+00:00</ns0:published>
+  <ns0:updated>2026-11-06T14:23:54+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>Big Tech lost big in the 2026 election | The Vergecast</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/-U4thshDTL8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/-U4thshDTL8/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>The 2026 midterm elections in the US ended in a sweeping win for Democrats — and several dozen sweeping losses for the AI industry. Nilay and David dig into what the results will mean for data centers, Big Tech, and even the future of X. Then, they try to figure out whether anyone's making any money in AI — not so much, it turns out — and whether the touchscreen MacBook is worth the price.
+
+0:00 Bezos Hair Transplant Hoax
+01:15 Midterms Shockwave Begins
+02:00 Corruption And Data Center Backlash
+06:53 AI Products Not Worth It
+09:26 What Democrats Can Do Now
+11:15 Congress Investigations Lawyer Up
+13:15 Hype Reels Take Over Politics
+15:42 X Bubble Versus Real Life
+22:47 Microblogging Decline And AI Regulation
+23:56 Ossoff Speech And AI Doomerism
+27:35 Google Then Versus OpenAI Now
+33:35 Back From Break
+33:42 OpenAI Search Claims
+35:19 Google Moat Erodes
+38:02 Monetizing AI Overviews
+42:52 Ads Break Trust
+45:49 Google Zero Spiral
+47:43 Agents Reality Check
+50:41 Token Spending Pullback
+52:50 Muse Novelty Wears Off
+01:00:16 Brendan Carr is a Dummy
+01:02:00 FCC Heat On Carr
+01:07:04 MacBook Pro Touchscreen
+01:09:09 Touchscreen Love Hate
+01:10:25 Dynamic Island Reality Check
+01:11:17 Best Touch Use Cases
+01:11:58 App Support And Optimization
+01:14:10 MacBook Pro Verdict
+01:14:27 Speakers And Trade Ins
+01:15:42 Sales And Upgrade Timing
+01:17:11 SpaceX Boost Mobile Drama
+01:22:05 Ram Altman Cloud Take
+01:29:31 AI Photo Editing Panic
+01:37:13 Wrap Up And Plugs
+
+Subscribe: http://goo.gl/G5RXGs
+Like The Verge on Facebook: https://goo.gl/2P1aGc
+Follow on X: https://goo.gl/XTWX61
+Follow on Instagram: https://goo.gl/7ZeLv
+
+Watch The Vergecast on YouTube: https://bit.ly/40RFRkg
+The Vergecast Podcast: https://bit.ly/3WQDexZ
+Decoder with Nilay Patel: http://apple.co/3v29nDc 
+More about our podcasts: https://www.theverge.com/podcasts
+
+Read More: http://www.theverge.com
+Community guidelines: http://bit.ly/2D0hlAv
+Wallpapers from The Verge: https://bit.ly/2xQXYJr
+Shop our Verge merch store here: https://bit.ly/4kPCmEc
+
+Subscribe to The Verge: https://bit.ly/3FT6n5S 
+
+Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https://bit.ly/3I6nJtz
+
+If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="204" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3457" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:jBfrX44Y-8s</ns0:id>
+  <ns1:videoId>jBfrX44Y-8s</ns1:videoId>
+  <ns1:channelId>UCb3TZ4SD_Ys3j4z0-8o6auA</ns1:channelId>
+  <ns0:title>[BBC News 中文]美國中期選舉掀「藍色浪潮」 將怎樣影響世界－ BBC News 中文</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=jBfrX44Y-8s" />
+  <ns0:author>
+   <ns0:name>BBC News 中文</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCb3TZ4SD_Ys3j4z0-8o6auA</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T13:13:10+00:00</ns0:published>
+  <ns0:updated>2026-11-06T14:23:26+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>美國中期選舉掀「藍色浪潮」 將怎樣影響世界－ BBC News 中文</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/jBfrX44Y-8s?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/jBfrX44Y-8s/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>在剛剛結束的美國中期選舉中，多個支持共和黨的州「翻藍」，民主黨奪得國會參眾兩院控制權。
+
+這次選舉結果為何具有重大意義？又將如何影響美國與世界其他國家的關係？
+
+BBC News 中文: https://www.bbc.com/zhongwen
+訂閱BBC News 中文 YouTube：http://bit.ly/1wkHh5T
+BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
+BBC News 中文 Twitter - https://twitter.com/bbcchinese
+BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="406" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7663" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:3OX5fLS1O7U</ns0:id>
+  <ns1:videoId>3OX5fLS1O7U</ns1:videoId>
+  <ns1:channelId>UC4c-wTOqEID-_vH4MhNs06w</ns1:channelId>
+  <ns0:title>[巴哈姆特電玩瘋]【電玩瘋#830】資安事故頻傳《勝利女神：妮姬》PC 啟動器帶木馬病毒🥲《薩爾達傳說：時之笛 重製版》原來 Switch2 畫面可以這麼漂亮😍 《上古卷軸 6：哨兵城》等了 8 年給我看這個🫠</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=3OX5fLS1O7U" />
+  <ns0:author>
+   <ns0:name>巴哈姆特電玩瘋</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UC4c-wTOqEID-_vH4MhNs06w</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T13:00:07+00:00</ns0:published>
+  <ns0:updated>2026-11-06T13:49:10+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>【電玩瘋#830】資安事故頻傳《勝利女神：妮姬》PC 啟動器帶木馬病毒🥲《薩爾達傳說：時之笛 重製版》原來 Switch2 畫面可以這麼漂亮😍 《上古卷軸 6：哨兵城》等了 8 年給我看這個🫠</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/3OX5fLS1O7U?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/3OX5fLS1O7U/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>00:00 資安事故頻傳！《勝利女神：妮姬》PC 啟動器、SEGA 街機機台都出事
+02:27 上古卷軸 6：哨兵城
+03:59 薩爾達傳說：時之笛 重製版
+08:39 祭火 SacriFire
+11:43 餐癮地城：貳度救業3
+14:46 異病偵探 Psycho-Sleuth
+17:31 慟哭幽光 CRYMELIGHT
+20:07 巴哈商城實體預購排行</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="142" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2325" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
   <ns0:id>yt:video:OOAGSxjrpWU</ns0:id>
   <ns1:videoId>OOAGSxjrpWU</ns1:videoId>
   <ns1:channelId>UCyYlGTZL-HnnX_UcGkVFH7A</ns1:channelId>
@@ -9,8 +461,8 @@
    <ns0:name>LeLe Farley</ns0:name>
    <ns0:uri>https://www.youtube.com/channel/UCyYlGTZL-HnnX_UcGkVFH7A</ns0:uri>
   </ns0:author>
-  <ns0:published>2026-11-06T10:12:24+00:00</ns0:published>
-  <ns0:updated>2026-11-06T10:12:50+00:00</ns0:updated>
+  <ns0:published>2026-11-06T12:44:42+00:00</ns0:published>
+  <ns0:updated>2026-11-06T14:14:00+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>【魔獸世界：永恆】美國老玩家勇闖亞服！部落集合！DAY 2</ns2:title>
    <ns2:content url="https://www.youtube.com/v/OOAGSxjrpWU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -31,8 +483,356 @@ Spotify: https://open.spotify.com/artist/4vc953PpH6nsZ46xfDKF28?si=L6z5WMKSQAayP
 💽 众籌樂樂拍MV｜Funds for Lele to shoot more MVs
 Paypal：https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=LLXE38H9TQDX4&amp;source=url</ns2:description>
    <ns2:community>
-    <ns2:starRating count="40" average="5.00" min="1" max="5" />
-    <ns2:statistics views="108" />
+    <ns2:starRating count="239" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8261" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:OMOltdpqchM</ns0:id>
+  <ns1:videoId>OMOltdpqchM</ns1:videoId>
+  <ns1:channelId>UC1SoWqy3HPfvE1nt89iV10Q</ns1:channelId>
+  <ns0:title>[Zushi Ai COS]當我拿出 9mm 的那一刻，就知道今天穩穩出片了！📸 超廣角一開，氛圍感直接拉滿 #我的攝影日記 #尼康Z6III #9mm超廣角 #氛圍感人像 #攝影技巧</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/OMOltdpqchM" />
+  <ns0:author>
+   <ns0:name>Zushi Ai COS</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T12:15:36+00:00</ns0:published>
+  <ns0:updated>2026-11-06T12:15:36+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>當我拿出 9mm 的那一刻，就知道今天穩穩出片了！📸 超廣角一開，氛圍感直接拉滿 #我的攝影日記 #尼康Z6III #9mm超廣角 #氛圍感人像 #攝影技巧</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/OMOltdpqchM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/OMOltdpqchM/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>發現喜歡的好物不用到處找✨
+店內整理了不少精選商品，喜歡的朋友可以慢慢挑選～🤍
+🛍️ Shopee蝦皮賣場：shopee.tw/eric3452083
+
+有任何問題都歡迎留言詢問💬
+也可以加入 LINE 與我們聯繫👇
+https://lin.ee/VFYRknp
+
+成為這個頻道的會員並獲得福利：
+https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="44" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1301" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:sxUiecEBrCs</ns0:id>
+  <ns1:videoId>sxUiecEBrCs</ns1:videoId>
+  <ns1:channelId>UCy2aOVSWiF_ivcb0ilhGaXQ</ns1:channelId>
+  <ns0:title>[心河摆渡]深度解讀《教父》，黑幫電影的鼻祖，為什麼稱它是男人的聖經 #認知提升 #感情 #知識 #科普 #思維</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=sxUiecEBrCs" />
+  <ns0:author>
+   <ns0:name>心河摆渡</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCy2aOVSWiF_ivcb0ilhGaXQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T12:00:26+00:00</ns0:published>
+  <ns0:updated>2026-11-06T12:00:26+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>深度解讀《教父》，黑幫電影的鼻祖，為什麼稱它是男人的聖經 #認知提升 #感情 #知識 #科普 #思維</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/sxUiecEBrCs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/sxUiecEBrCs/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>深度解讀《教父》，黑幫電影的鼻祖，為什麼稱它是男人的聖經 #認知提升 #感情 #知識 #科普 #思維
+
+收获更多优质内容☛https://xinhebaidu.page.link/qbvQ
+加入会员通道☛https://xinhebaidu.page.link/jofZ
+极简主义👉https://youtu.be/fjw7Sqz7bfw
+垃圾快乐👉https://youtu.be/TbU9lduhSUg
+解读内卷👉https://youtu.be/BV91-qxW700
+高配思维👉https://youtu.be/WfPc_w9x3sU
+社交潜规则👉https://youtu.be/DXI36yBJf0E
+职场PUA👉https://youtu.be/YDDWF7sZ1hI
+--------------------------------------------------------------
+『心灵鸡汤』✨ https://www.youtube.com/watch?v=fjw7Sqz7bfw&amp;list=PLKZ-TQGXIMjUjDGTOErFIlZpJfZUCcmlr
+『贫富人生』✨ https://www.youtube.com/watch?v=PND_-3X21pU&amp;list=PLKZ-TQGXIMjW10tWXCKXwAB_WoYMlpyHk
+『观念差别』✨ https://www.youtube.com/watch?v=CCkoa2glSOc&amp;list=PLKZ-TQGXIMjX33uJ8J7HcwvTb9qxqaRBK
+『自我成长』✨ https://www.youtube.com/watch?v=FnsN-HtTIMQ&amp;list=PLKZ-TQGXIMjXBpv3eO-BXLQ79jb-0a0O-
+『成功秘诀』✨ https://www.youtube.com/watch?v=-2SOggydkX4&amp;list=PLKZ-TQGXIMjXK457d0bt4AXkuwoIEmvuk
+心河摆渡，人人都需要的心灵捕手！
+一节书本之外的社会课，一个陪你成长的摆渡人。
+转变思维方式，学点心理学，了解社会，学会和世界沟通！
+智慧光点，开启新的人生！
+点击关注我，观看更多有关成长的优质内容！
+
+#心河摆渡
+请注意，本视频完全符合YouTube社区准则，没有任何违规行为。</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="7" average="5.00" min="1" max="5" />
+    <ns2:statistics views="222" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:_wGBPAYMA-I</ns0:id>
+  <ns1:videoId>_wGBPAYMA-I</ns1:videoId>
+  <ns1:channelId>UCBKDRq35-L8xev4O7ZqBeLg</ns1:channelId>
+  <ns0:title>[王志安]吴仪裸退死磕薄熙来，孙春兰替封城背锅，中国女人的官场有多残酷？【新闻大写】</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=_wGBPAYMA-I" />
+  <ns0:author>
+   <ns0:name>王志安 </ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T12:00:21+00:00</ns0:published>
+  <ns0:updated>2026-11-06T16:44:02+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>吴仪裸退死磕薄熙来，孙春兰替封城背锅，中国女人的官场有多残酷？【新闻大写】</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/_wGBPAYMA-I?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i4.ytimg.com/vi/_wGBPAYMA-I/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>考进中央机关的新公务员里，女性早已超过一半；可越往权力中心走，女人却越来越少。从考试到提拔，从县委书记到中央政治局，那些在考卷上赢得席位的女人，究竟是怎样被一层层筛掉的？这期节目从刘延东的履历讲起：顶级红二代出身、清华理工文凭、十年化工厂经历，再加上横跨江、胡、习的政治关系，一手几乎叠满优势的“天胡牌”，为什么还是摸不到政治局常委会的门？
+
+“性格太软”“资历缺角”，听起来像是个人问题。可如果一个女人从进入提拔通道起，就长期被安排在群团、统战和教科文卫这些“软衙门”里，她缺少地方主政与经济管理经验，到底是原因，还是结果？节目把日历翻回1957年，从妇联差点被撤掉、北戴河会议上的烟灰缸，讲到“勤俭建国、勤俭持家”怎样保住一个组织，也给女性官员划定了活动范围。
+
+江青、叶群、吴桂贤、邓颖超，再到陈慕华，不同年代的女性进入政治局，被赋予的却未必是同一种权力。枕边人、工农样板、革命贤妻良母：当女性被需要，是为了参与核心决策，还是为了扮演某个时代需要的角色？1987年的差额选举与此后的市场化改革，又怎样从选票和家庭分工两头，抽走女干部脚下的梯子？
+
+为了托住女性比例而设立的配额，为什么会从“至少一名”变成“最多一名”？“无知少女”的指标打包、教科文卫的部门分流、29岁生育与35岁提拔的时间冲突，再加上八小时之外的酒局和桃色流言，构成了四道彼此咬合的筛子。节目结合女性省级领导与地级市主官的履历研究，追问所谓“保护女性”的安排，怎样在执行中变成了限制女性的门槛。
+
+最后看吴仪和孙春兰。一个在经贸谈判和非典危机中被推到前台，一个在地方交接、统战震荡与疫情封控中反复接盘。她们站上的，究竟是权力的高处，还是出了事才让女人去站的“玻璃悬崖”？从吴仪与薄熙来的较量，到孙春兰之后重新清一色的政治局，节目回到同一个问题：这台机器需要女人干活、救火、背锅，为什么却越来越不愿意让女人坐上决定命运的牌桌？
+
+📚 本期涉及的研究、公开资料与案例
+· 刘延东、吴仪、孙春兰等人的公开履历、节目提及的讣告与历届中央政治局名单
+· 沈栋《红色轮盘》与节目所引的高层人事运作规则
+· 王政关于妇联与社会主义女性解放的研究、1957年北戴河会议档案及罗琼的相关回忆
+· 陈明璐关于《人民日报》女性政治局委员报道的研究，以及《中国季刊》所刊女性省级领导履历研究
+
+· 中组部关于培养选拔女干部、领导班子女性配额与部门配置的相关政策
+· 郭夏娟、涂文燕关于中国公职人员腐败与性别的研究
+· 江青、叶群、吴桂贤、邓颖超、陈慕华、郝建秀与万绍芬的相关经历
+· 中美知识产权谈判、入世谈判、非典、小汤山医院与河南艾滋病村庄探访
+· 维基解密公布的美国驻华使馆密电、吴仪与薄熙来的政治较量、令计划落马及武汉与上海疫情封控案例
+
+⏱ 章节
+00:00 考得进体制，为什么上不了牌桌
+02:29 刘延东：一手天胡牌，为什么进不了常委会
+04:17 团中央的盟友：胡锦涛与刘大姐
+05:36 江家的托孤之恩：第三张王牌
+07:50 三派通吃，仍被挡在常委门外
+09:09 “性格太软”“资历缺角”，解释得通吗
+11:03 插入对话：豆包，女性为什么进不了政治局
+12:06 1957年：妇联为什么差点被撤掉
+13:46 北戴河的烟灰缸：保住饭碗，划定后院
+16:40 枕边人、样板工人与革命贤妻良母
+20:37 陈慕华：靠真本事上桌的希望
+21:27 1987年：差额选举如何筛掉女干部
+23:03 市场化之后，托儿所和食堂消失了
+24:35 配额制：保护指标怎样变成四道筛子
+25:18 从“至少一名”到“最多一名”
+27:01 “软衙门”如何收走一把手的门票
+28:46 29岁、35岁、55岁：女性仕途的时间陷阱
+29:33 八小时之外：酒局与桃色流言
+32:18 玻璃悬崖：为什么出事才轮到女人
+32:50 吴仪：铁娘子怎样成为救火队长
+35:08 吴仪与薄熙来：用“裸退”挡住红二代
+38:08 孙春兰：政治清道夫与疫情缓冲垫
+40:37 履历越硬，为什么离真正的权力越远
+41:40 孙春兰之后，政治局的女人再次清零
+42:09 考卷保你进门，保不了你上桌</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="2386" average="5.00" min="1" max="5" />
+    <ns2:statistics views="85622" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:20xK8G_N9KU</ns0:id>
+  <ns1:videoId>20xK8G_N9KU</ns1:videoId>
+  <ns1:channelId>UC2tQpW0dPiyWPebwBSksJ_g</ns1:channelId>
+  <ns0:title>[脑洞乌托邦]你想過嗎？朝天鳴槍後，子彈去哪兒了？</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/20xK8G_N9KU" />
+  <ns0:author>
+   <ns0:name>脑洞乌托邦</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UC2tQpW0dPiyWPebwBSksJ_g</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T12:00:07+00:00</ns0:published>
+  <ns0:updated>2026-11-06T12:00:12+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>你想過嗎？朝天鳴槍後，子彈去哪兒了？</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/20xK8G_N9KU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/20xK8G_N9KU/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>#shorts 
+😚 請訂閱 https://goo.gl/B3gKwP 
+Ⓜ️ 腦洞烏托邦 VIP Membership https://www.youtube.com/channel/UC2tQpW0dPiyWPebwBSksJ_g/join
+♾️ 國內觀眾會員購買渠道 https://afdian.com/a/ndwtb
+==================================
+✅ Top 10 Most Watched Videos
+深扒：馬雲突然消失，又突然出現，支付寶變更控制人，這背後究竟意味着什麼？阿里巴巴崛起與墜落的真相 [She's Xiaowu 小烏]
+https://youtu.be/2dP47tZEEZM
+從頂流到階下囚！深扒吳亦凡背後資本，是誰讓他爆火，又讓他瞬間跌落神壇？一口氣看完吳亦凡事件始末 [She's Xiaowu @ndwtb]
+https://youtu.be/gPQjAoqiACc
+信徒超過18億，伊斯蘭教為何會讓全世界感到恐懼？被禁止入內的「神的天房」，裡面究竟有什麼？只有極少數人知道的伊斯蘭教的真相…[She's Xiaowu @ndwtb]
+https://youtu.be/R2CV6EBfqS8
+貧窮的國家，養着全球最富的王！脫衣舞女當王妃，修憲、露臍、給狗封軍銜，泰國王室究竟有多魔幻？為什麼說「十世而亡」的詛咒恐將應驗？ [She's Xiaowu @ndwtb]
+https://youtu.be/5dSHW5y80VU
+500萬粉絲女主播被送監，深扒抖音一哥塌房真相，為何中國帶貨頂流們都逃不過「翻車詛咒」？賣假貨、與對手互撕，內幕震碎三觀…[She's Xiaowu 小烏]
+https://youtu.be/GWfLKh50cUw
+霸屏13年，一檔風靡全國的節目如何毀了無數家庭？16歲少女整容33次，富二代詐騙粉絲，深度揭秘變形記骯髒內幕 [Unsolved Mystery Stories | Xiaowu]
+https://youtu.be/ixHYWNg0WAM
+【小乌说案】知名美食网红被胁迫拍视频？？与一年前失踪女孩巧合撞脸 影片中暗藏的求救信号是真是假？？Kate Yup [脑洞乌托邦 | 小乌 TV]
+https://youtu.be/m7u6ZtIyrM4
+屢次遭封殺，內幕太震驚！曾大膽揭露演藝圈最骯髒潛規則，如今毒舌變啞巴，金星到底得罪了誰？[She's Xiaowu @ndwtb]
+https://youtu.be/v3BhFYRVVNQ
+霍金晚年究竟發現了什麼？為什麼他堅信上帝不存在？臨終遺作揭曉一切答案，預言人類未來，破解宇宙誕生的真相 [She's Xiaowu @ndwtb]
+https://youtu.be/25wj2ZPhmyk
+揚言“國級以下的官員審不了我”！保護傘手眼通天，事件敏感到至今無人敢提！中國最囂張的黑社會老大，四川教父劉漢的崛起與墜落 [She's Xiaowu @ndwtb]
+https://youtu.be/u9avVH0xlf8
+==================================
+🔔 Credit
+No.1 A Minor Waltz - Esther Abrami
+==================================
+Re-production, re-upload, re-broadcast, and distribution of our copyrighted videos are prohibited.
+Copyright © 腦洞烏托邦™️ All Rights Reserved.
+==================================
+歡迎點贊，評論和轉發 💗 💗 💗  
+┊　　┊　　┊　　┊ 
+┊　　┊　　┊　　★ 
+┊　　┊　　☆ 
+┊　　★ 
+☆
+#腦洞烏托邦 # Xiaowu # 小烏 # ndwtb # 驚掉下巴 #未解之謎 #真實事件 #神秘事件 #都市傳說 #歷史懸案 #科學無法解釋 #人類未解之謎 #被隱藏的真相 #真實恐怖事件 #深度解析</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="134" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1948" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:IdVlVZzAuOs</ns0:id>
+  <ns1:videoId>IdVlVZzAuOs</ns1:videoId>
+  <ns1:channelId>UCEvlIrEAqIfOcvr9Qc8jquw</ns1:channelId>
+  <ns0:title>[手工耿Handy Geng]DIY Undefeatable Steel Gloves 自製鋼筋無敵鐵拳【手工耿Handy Geng】 #shorts</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/IdVlVZzAuOs" />
+  <ns0:author>
+   <ns0:name>手工耿Handy Geng</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCEvlIrEAqIfOcvr9Qc8jquw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T12:00:03+00:00</ns0:published>
+  <ns0:updated>2026-11-06T12:00:03+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>DIY Undefeatable Steel Gloves 自製鋼筋無敵鐵拳【手工耿Handy Geng】 #shorts</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/IdVlVZzAuOs?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/IdVlVZzAuOs/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>🔥人氣經典不容錯過 The MUST-WATCHED🔥
+「電動“香皂車” Electric Car」https://youtu.be/iBz6voaxh2Q
+「鋼琴烤串車 Piano BBQ Car」https://youtu.be/Nv_FcwtBLJQ
+「27,000,000-mAh 充電寶 Power Bank」https://youtu.be/-oilA8nLfsk
+「戶外麻將車 Mahjong Car」https://youtu.be/gbGWqEpkXCs
+「自製失重離心車 Weightless Centrifugal Car」https://youtu.be/jyYxfNyWU5I
+____________________________________________
+
+Thank you for your liking and subscribing!
+—— 別人笑我太瘋癲，笑完瘋癲笑我閑。
+大家好，我是手工耿，如果妳喜歡我的視頻，歡迎點擊訂閱。
+
+#鋼鐵手套 #硬核手工 #手工耿 #手工 #耿帥 #中國發明 #廢柴愛迪生 #搞笑發明 #handygeng #UselessEdison #ChineseEdison #handicraft #diy</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="45" average="5.00" min="1" max="5" />
+    <ns2:statistics views="971" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:y01LSIFcdEg</ns0:id>
+  <ns1:videoId>y01LSIFcdEg</ns1:videoId>
+  <ns1:channelId>UC4c-wTOqEID-_vH4MhNs06w</ns1:channelId>
+  <ns0:title>[巴哈姆特電玩瘋]開箱！電子時之笛一起來當個陶笛大師！#薩爾達 #zelda</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/y01LSIFcdEg" />
+  <ns0:author>
+   <ns0:name>巴哈姆特電玩瘋</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UC4c-wTOqEID-_vH4MhNs06w</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T11:55:26+00:00</ns0:published>
+  <ns0:updated>2026-11-06T12:18:47+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>開箱！電子時之笛一起來當個陶笛大師！#薩爾達 #zelda</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/y01LSIFcdEg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/y01LSIFcdEg/hqdefault.jpg" width="480" height="360" />
+   <ns2:description />
+   <ns2:community>
+    <ns2:starRating count="74" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1880" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:JbgTSu9pu2Q</ns0:id>
+  <ns1:videoId>JbgTSu9pu2Q</ns1:videoId>
+  <ns1:channelId>UCPvOHaaP9E6FqSqG1NMV_Hw</ns1:channelId>
+  <ns0:title>[Raycast]He designs Dia. He uses Raycast to control it.</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=JbgTSu9pu2Q" />
+  <ns0:author>
+   <ns0:name>Raycast</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCPvOHaaP9E6FqSqG1NMV_Hw</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T11:01:40+00:00</ns0:published>
+  <ns0:updated>2026-11-06T11:14:34+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>He designs Dia. He uses Raycast to control it.</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/JbgTSu9pu2Q?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i3.ytimg.com/vi/JbgTSu9pu2Q/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>Charlie Deets is a product designer at The Browser Company, where he works on Dia. Before that he spent five years designing at Apple, on Safari among other things, and was the fourth designer at WhatsApp. Since going full Raycast, he runs his Mac with no dock and no menu bar: Raycast is how he talks to the OS.
+
+In this What's in my Raycast, Charlie shows Pedro how he keeps himself in flow. Window management on hyper-key quadrants, notes and dictation a keystroke away, switching Dia tabs through Raycast instead of the browser's own UI, and the menu bar replaced by commands. Then his design toolkit: SF Symbols, favicons, color picking, fonts, logos and special characters, all without leaving the app he's in. He finishes with clipboard history, Raycast on Windows for gaming, and the personal to-do app he built as an extension.
+
+Extensions from the Store
+Dia → https://www.raycast.com/the-browser-company/dia
+Toothpick → https://www.raycast.com/VladCuciureanu/toothpick
+Toggle Menu Bar → https://www.raycast.com/iamyeizi/toggle-menu-bar
+SF Symbols Search → https://www.raycast.com/jffrykkn/sf-symbols-search
+Get Favicon → https://www.raycast.com/vimtor/get-favicon
+Color Picker → https://www.raycast.com/thomas/color-picker
+iOS Human Interface Guidelines → https://www.raycast.com/eliperkins/raycast-ios-hig
+Google Fonts → https://www.raycast.com/GastroGeek/google-fonts
+Svgl → https://www.raycast.com/1weiho/svgl
+Type Snob (Copy Character) → https://www.raycast.com/sawyerh/type-snob
+Fancy Text → https://www.raycast.com/peduarte/fancy-text
+
+Built into Raycast: Window Management, Notes, Dictation, Search Menu Items, Open Camera, Sleep, Toggle System Appearance, Clipboard History.
+
+Download Raycast → https://raycast.com
+
+Follow Charlie
+X → https://x.com/charliedeets
+Website → https://charliedeets.com
+LinkedIn → https://www.linkedin.com/in/charliedeets
+
+00:00 Intro
+00:29 Am I a power user?
+01:55 Window management
+05:29 Notes and dictation
+07:53 Bluetooth battery with Toothpick
+08:24 Dia tabs without the UI
+10:35 Hiding the menu bar
+11:29 SF Symbols, favicons, light and dark mode
+13:30 Color picker: part of the OS
+14:14 Fonts, logos and special characters
+15:05 Flow state
+16:04 Raycast on Windows
+17:14 Clipboard history
+19:18 Building his own extensions</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="124" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3123" />
+   </ns2:community>
+  </ns2:group>
+ </ns0:entry><ns0:entry>
+  <ns0:id>yt:video:E1eguNaGxuM</ns0:id>
+  <ns1:videoId>E1eguNaGxuM</ns1:videoId>
+  <ns1:channelId>UCFhKqw9UUe2neKk04eo4RRQ</ns1:channelId>
+  <ns0:title>[樊登讀書]轉發前先想：這是真的嗎？#重拾好奇心 #大腦  #樊登</ns0:title>
+  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/E1eguNaGxuM" />
+  <ns0:author>
+   <ns0:name>樊登讀書</ns0:name>
+   <ns0:uri>https://www.youtube.com/channel/UCFhKqw9UUe2neKk04eo4RRQ</ns0:uri>
+  </ns0:author>
+  <ns0:published>2026-11-06T10:30:22+00:00</ns0:published>
+  <ns0:updated>2026-11-06T10:30:22+00:00</ns0:updated>
+  <ns2:group>
+   <ns2:title>轉發前先想：這是真的嗎？#重拾好奇心 #大腦  #樊登</ns2:title>
+   <ns2:content url="https://www.youtube.com/v/E1eguNaGxuM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
+   <ns2:thumbnail url="https://i2.ytimg.com/vi/E1eguNaGxuM/hqdefault.jpg" width="480" height="360" />
+   <ns2:description>每天留一點時間給自己，從一本好書帶走一個新觀點！
+#樊登說書 雙11限時優惠買一年送一年！每天不到 3 元，商業財經、趨勢洞察等七大領域好書隨時聽！活動只到2026/11/12，立即搶購👉https://cmy.tw/00Cfr5 
+
+#閱讀 #樊登读书</ns2:description>
+   <ns2:community>
+    <ns2:starRating count="8" average="5.00" min="1" max="5" />
+    <ns2:statistics views="259" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -53,8 +853,8 @@ Paypal：https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_i
    <ns2:thumbnail url="https://i2.ytimg.com/vi/mnNV9Jz-h3E/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="6" average="5.00" min="1" max="5" />
-    <ns2:statistics views="86" />
+    <ns2:starRating count="130" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3312" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -83,8 +883,8 @@ BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
 BBC News 中文 Twitter - https://twitter.com/bbcchinese
 BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="15" average="5.00" min="1" max="5" />
-    <ns2:statistics views="208" />
+    <ns2:starRating count="169" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5159" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -126,8 +926,8 @@ BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:descripti
 
 ※貼心提醒：留言請保持禮貌運動、理性討論，違反社群規範或人身攻擊可能會遭檢舉</ns2:description>
    <ns2:community>
-    <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="6" />
+    <ns2:starRating count="5" average="5.00" min="1" max="5" />
+    <ns2:statistics views="270" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -141,7 +941,7 @@ BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:descripti
    <ns0:uri>https://www.youtube.com/channel/UCKPflKAE2Y1tm8VSi32iboQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-06T10:00:02+00:00</ns0:published>
-  <ns0:updated>2026-11-06T10:00:02+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T12:04:01+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>被對手用地形差碾壓！這款遊戲將戰術發揮到極致！</ns2:title>
    <ns2:content url="https://www.youtube.com/v/eRWKcbmE1r8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -160,8 +960,8 @@ BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:descripti
 
 #WOTPC  #戰車世界</ns2:description>
    <ns2:community>
-    <ns2:starRating count="31" average="5.00" min="1" max="5" />
-    <ns2:statistics views="282" />
+    <ns2:starRating count="207" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10647" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -189,8 +989,8 @@ Bilibili: https://space.bilibili.com/471303350
 
 #ios #iphonedou #數碼</ns2:description>
    <ns2:community>
-    <ns2:starRating count="23" average="5.00" min="1" max="5" />
-    <ns2:statistics views="392" />
+    <ns2:starRating count="213" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7507" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -204,7 +1004,7 @@ Bilibili: https://space.bilibili.com/471303350
    <ns0:uri>https://www.youtube.com/channel/UCr_F4Y9iboUKlg_ZPm4jkVQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-06T09:30:06+00:00</ns0:published>
-  <ns0:updated>2026-11-06T09:30:06+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:17:32+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>老梁：色字头上一把刀</ns2:title>
    <ns2:content url="https://www.youtube.com/v/vdBZfeDYfgE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -213,8 +1013,8 @@ Bilibili: https://space.bilibili.com/471303350
 施蛰存更以精神分析戳破“好汉”神话——石秀的残忍源于性压抑与嫉妒。梁山集体“不近女色”，并非天性高尚，而是造反风险高、怕有软肋，更被宋江刻意洗脑：禁欲既能凝聚团伙，更为“打天下后尽享荣华”铺路。
 所谓英雄戒色，终是权力算计与人性伪饰。</ns2:description>
    <ns2:community>
-    <ns2:starRating count="75" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1925" />
+    <ns2:starRating count="701" average="5.00" min="1" max="5" />
+    <ns2:statistics views="56805" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -243,8 +1043,8 @@ BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
 BBC News 中文 Twitter - https://twitter.com/bbcchinese
 BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="17" average="5.00" min="1" max="5" />
-    <ns2:statistics views="380" />
+    <ns2:starRating count="81" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3178" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -270,8 +1070,8 @@ In the operating room, it lets eye surgeons work while looking at a large 3D scr
 
 #CIIE #Shanghaiedge #Zeiss #EyeSurgery #MedTech</ns2:description>
    <ns2:community>
-    <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="2" />
+    <ns2:starRating count="1" average="5.00" min="1" max="5" />
+    <ns2:statistics views="273" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -302,7 +1102,7 @@ https://lin.ee/VFYRknp
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
     <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="24" />
+    <ns2:statistics views="259" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -331,8 +1131,8 @@ https://www.youtube.com/@MediaStorm_en
 🛍️ 影视飓风 StormCrew 秋冬新品已上线（T 恤、卫衣、外套和手机配件）
      全球发货，首单9折！→ https://stormcrew.store/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="117" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1265" />
+    <ns2:starRating count="497" average="5.00" min="1" max="5" />
+    <ns2:statistics views="22822" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -346,15 +1146,15 @@ https://www.youtube.com/@MediaStorm_en
    <ns0:uri>https://www.youtube.com/channel/UCAdkMoGhrqH16FVFJ9mbz3Q</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-06T08:53:37+00:00</ns0:published>
-  <ns0:updated>2026-11-06T08:53:39+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:46:45+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>世界最小丁丁，只有0.97厘米，小到超乎想象！</ns2:title>
    <ns2:content url="https://www.youtube.com/v/xYZswbWYR8A?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i1.ytimg.com/vi/xYZswbWYR8A/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="66" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1001" />
+    <ns2:starRating count="346" average="5.00" min="1" max="5" />
+    <ns2:statistics views="14533" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -368,7 +1168,7 @@ https://www.youtube.com/@MediaStorm_en
    <ns0:uri>https://www.youtube.com/channel/UC33VP_gIBzCVcEvaGKBocZA</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-06T08:00:22+00:00</ns0:published>
-  <ns0:updated>2026-11-06T08:00:26+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T10:44:21+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>两个中学都没读完的人，聊起低学历带来的现实困难</ns2:title>
    <ns2:content url="https://www.youtube.com/v/Ghfvwjub1QE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -376,7 +1176,7 @@ https://www.youtube.com/@MediaStorm_en
    <ns2:description />
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="56" />
+    <ns2:statistics views="98" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -397,8 +1197,8 @@ https://www.youtube.com/@MediaStorm_en
    <ns2:thumbnail url="https://i2.ytimg.com/vi/mUkr5ja_wyg/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="120" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1700" />
+    <ns2:starRating count="328" average="5.00" min="1" max="5" />
+    <ns2:statistics views="8112" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -419,8 +1219,8 @@ https://www.youtube.com/@MediaStorm_en
    <ns2:thumbnail url="https://i4.ytimg.com/vi/W89G7EPET_U/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="25" />
+    <ns2:starRating count="1" average="5.00" min="1" max="5" />
+    <ns2:statistics views="79" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -451,8 +1251,8 @@ BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
 BBC News 中文 Twitter - https://twitter.com/bbcchinese
 BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="61" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2299" />
+    <ns2:starRating count="137" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7280" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -473,8 +1273,8 @@ BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:descripti
    <ns2:thumbnail url="https://i3.ytimg.com/vi/Fy_OMbAnvzQ/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="550" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4463" />
+    <ns2:starRating count="1697" average="5.00" min="1" max="5" />
+    <ns2:statistics views="20687" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -517,8 +1317,8 @@ or Monstercat / EpidemicSound
 
  #gaming #OVERWATCH</ns2:description>
    <ns2:community>
-    <ns2:starRating count="5" average="5.00" min="1" max="5" />
-    <ns2:statistics views="787" />
+    <ns2:starRating count="19" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4295" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -539,8 +1339,8 @@ or Monstercat / EpidemicSound
    <ns2:thumbnail url="https://i1.ytimg.com/vi/pWttolGX6jU/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="637" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3830" />
+    <ns2:starRating count="1120" average="5.00" min="1" max="5" />
+    <ns2:statistics views="10931" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -613,24 +1413,24 @@ True飯  官方FB👉🏽  / truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1319" average="5.00" min="1" max="5" />
-    <ns2:statistics views="8007" />
+    <ns2:starRating count="2687" average="5.00" min="1" max="5" />
+    <ns2:statistics views="41324" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
   <ns0:id>yt:video:CTX5wZcFwiY</ns0:id>
   <ns1:videoId>CTX5wZcFwiY</ns1:videoId>
   <ns1:channelId>UCHNDk7584Q5g7RQCAFj7RFA</ns1:channelId>
-  <ns0:title>[松明講心理]正在直播：創傷，你心裡那把隱形的鎖！</ns0:title>
+  <ns0:title>[松明講心理]限時公開直播：創傷，你心裡那把隱形的鎖！</ns0:title>
   <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=CTX5wZcFwiY" />
   <ns0:author>
    <ns0:name>松明講心理</ns0:name>
    <ns0:uri>https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-06T05:45:34+00:00</ns0:published>
-  <ns0:updated>2026-11-06T05:48:06+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T13:35:39+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>正在直播：創傷，你心裡那把隱形的鎖！</ns2:title>
+   <ns2:title>限時公開直播：創傷，你心裡那把隱形的鎖！</ns2:title>
    <ns2:content url="https://www.youtube.com/v/CTX5wZcFwiY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i4.ytimg.com/vi/CTX5wZcFwiY/hqdefault.jpg" width="480" height="360" />
    <ns2:description>電腦端點擊鏈接、加入松明老師頻道會員、即可看課
@@ -744,8 +1544,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4" average="5.00" min="1" max="5" />
-    <ns2:statistics views="0" />
+    <ns2:starRating count="117" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2443" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -770,8 +1570,8 @@ The robot has just 0.3 seconds to read the ball’s path and return it, accordin
 
 #CIIE #Shanghaiedge #HumanoidRobot #TableTennis #Robotics</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1" average="5.00" min="1" max="5" />
-    <ns2:statistics views="254" />
+    <ns2:starRating count="4" average="5.00" min="1" max="5" />
+    <ns2:statistics views="663" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -801,8 +1601,8 @@ https://lin.ee/VFYRknp
 成為這個頻道的會員並獲得福利：
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
-    <ns2:starRating count="17" average="5.00" min="1" max="5" />
-    <ns2:statistics views="203" />
+    <ns2:starRating count="20" average="5.00" min="1" max="5" />
+    <ns2:statistics views="559" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -816,15 +1616,15 @@ https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UCfw2hvuj40AChU7n-N-PRHA</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-06T03:28:02+00:00</ns0:published>
-  <ns0:updated>2026-11-06T03:45:26+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:00:40+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Why Apple Finally Gave The MacBook A Touchscreen</ns2:title>
    <ns2:content url="https://www.youtube.com/v/iNed1rZJuKQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i2.ytimg.com/vi/iNed1rZJuKQ/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Apple put touchscreens on the iPhone, the iPad, and the Apple Watch. It even put a little touchscreen above the MacBook Pro’s keyboard. But the main display was off limits. For years, Apple insisted that reaching up to touch a computer screen was uncomfortable, and that the Mac worked better with a mouse or trackpad. Then, just last week, Apple introduced a MacBook Pro with a touchscreen. The same company that helped teach the world to pinch, swipe, and tap is finally letting people do those things directly on a Mac’s display. So what changed?</ns2:description>
    <ns2:community>
-    <ns2:starRating count="492" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13158" />
+    <ns2:starRating count="783" average="5.00" min="1" max="5" />
+    <ns2:statistics views="25826" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -838,7 +1638,7 @@ https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UCi2GvcaxZCN-61a0co8Smnw</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-06T03:19:32+00:00</ns0:published>
-  <ns0:updated>2026-11-06T03:59:58+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T12:24:12+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>【館長精華】其他縣市選情先放一邊！一兩個月聽洋流聽到快崩潰！現在只想看沈伯洋！如果輸了真的會笑死！</ns2:title>
    <ns2:content url="https://www.youtube.com/v/MQmFVa_GmHk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -898,8 +1698,8 @@ True飯  官方FB👉🏽  / truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="985" average="5.00" min="1" max="5" />
-    <ns2:statistics views="23601" />
+    <ns2:starRating count="1263" average="5.00" min="1" max="5" />
+    <ns2:statistics views="51066" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -930,8 +1730,8 @@ Documentation: https://apple.co/DeveloperDocs
 Forums: https://apple.co/DeveloperForums
 App: https://apple.co/DeveloperApp</ns2:description>
    <ns2:community>
-    <ns2:starRating count="96" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4589" />
+    <ns2:starRating count="102" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5994" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -961,8 +1761,8 @@ https://lin.ee/VFYRknp
 成為這個頻道的會員並獲得福利：
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4" average="5.00" min="1" max="5" />
-    <ns2:statistics views="245" />
+    <ns2:starRating count="8" average="5.00" min="1" max="5" />
+    <ns2:statistics views="429" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -976,7 +1776,7 @@ https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UCi2GvcaxZCN-61a0co8Smnw</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-06T02:19:52+00:00</ns0:published>
-  <ns0:updated>2026-11-06T09:31:18+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T10:54:16+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>【館長直播完整版】2026/11/05 星期四 影之刃零@__@ 孫中山都出來了~~~~</ns2:title>
    <ns2:content url="https://www.youtube.com/v/nGr3WBMhWYY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -1035,8 +1835,8 @@ True飯  官方FB👉🏽  / truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2789" average="5.00" min="1" max="5" />
-    <ns2:statistics views="133522" />
+    <ns2:starRating count="2797" average="5.00" min="1" max="5" />
+    <ns2:statistics views="137458" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1050,7 +1850,7 @@ True飯  官方FB👉🏽  / truefun2023
    <ns0:uri>https://www.youtube.com/channel/UC9v3JGut2Z1PxrXEpGzgEAA</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-06T02:00:10+00:00</ns0:published>
-  <ns0:updated>2026-11-06T02:00:10+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T10:30:42+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>原来这才叫对牛弹琴啊！CMF Speaker便携音箱【值不值得买第745期】</ns2:title>
    <ns2:content url="https://www.youtube.com/v/8P4QCgZwbjM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -1062,8 +1862,8 @@ True飯  官方FB👉🏽  / truefun2023
 TESTV不接受厂家业配，专注表达真实、独立的产品使用体验。
 如果我们的内容能够帮助到你，不妨加入频道会员，帮助我们做出更优质的节目！</ns2:description>
    <ns2:community>
-    <ns2:starRating count="235" average="5.00" min="1" max="5" />
-    <ns2:statistics views="19755" />
+    <ns2:starRating count="322" average="5.00" min="1" max="5" />
+    <ns2:statistics views="36489" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1077,15 +1877,15 @@ TESTV不接受厂家业配，专注表达真实、独立的产品使用体验。
    <ns0:uri>https://www.youtube.com/channel/UCh1V3avE4NAzho1MImejaSA</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-06T01:37:17+00:00</ns0:published>
-  <ns0:updated>2026-11-06T02:45:01+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:07:07+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>郑州皇家一号：中原第一会所与155名保护伞</ns2:title>
    <ns2:content url="https://www.youtube.com/v/XuXsniYJXNo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i1.ytimg.com/vi/XuXsniYJXNo/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="77" />
+    <ns2:starRating count="1" average="5.00" min="1" max="5" />
+    <ns2:statistics views="127" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1099,15 +1899,15 @@ TESTV不接受厂家业配，专注表达真实、独立的产品使用体验。
    <ns0:uri>https://www.youtube.com/channel/UCh1V3avE4NAzho1MImejaSA</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-06T01:36:25+00:00</ns0:published>
-  <ns0:updated>2026-11-06T03:24:04+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T10:46:55+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>东莞太子酒店扫黄大案：人大代表与色情帝国</ns2:title>
    <ns2:content url="https://www.youtube.com/v/wHbxyrOz3YQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i4.ytimg.com/vi/wHbxyrOz3YQ/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="54" />
+    <ns2:starRating count="1" average="5.00" min="1" max="5" />
+    <ns2:statistics views="101" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1121,15 +1921,15 @@ TESTV不接受厂家业配，专注表达真实、独立的产品使用体验。
    <ns0:uri>https://www.youtube.com/channel/UCh1V3avE4NAzho1MImejaSA</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-06T01:35:48+00:00</ns0:published>
-  <ns0:updated>2026-11-06T01:35:50+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:09:32+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>湖南操场埋尸案：一场工程纠纷，真相被埋十六年</ns2:title>
    <ns2:content url="https://www.youtube.com/v/TQbCsdCextg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i1.ytimg.com/vi/TQbCsdCextg/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="56" />
+    <ns2:starRating count="1" average="5.00" min="1" max="5" />
+    <ns2:statistics views="97" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1159,8 +1959,8 @@ https://lin.ee/VFYRknp
 成為這個頻道的會員並獲得福利：
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
-    <ns2:starRating count="16" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1433" />
+    <ns2:starRating count="26" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1882" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1182,7 +1982,7 @@ https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:description>A weekly live rundown of the most important AI news, filtered through the lens of people who build with this stuff every day. Hosted by Thoughtworks'  Pepe Jose Gomez de Olea, David Harris, Sebastian Werner and Ben O'Mahony</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="349" />
+    <ns2:statistics views="405" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1196,7 +1996,7 @@ https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T22:19:09+00:00</ns0:published>
-  <ns0:updated>2026-11-06T06:47:13+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:25:07+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Should you upgrade your kindle? #Vergecast</ns2:title>
    <ns2:content url="https://www.youtube.com/v/WV3iQZF7Ml0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -1224,8 +2024,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="285" average="5.00" min="1" max="5" />
-    <ns2:statistics views="9036" />
+    <ns2:starRating count="442" average="5.00" min="1" max="5" />
+    <ns2:statistics views="14214" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1239,7 +2039,7 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
    <ns0:uri>https://www.youtube.com/channel/UCdC0An4ZPNr_YiFiYoVbwaw</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T22:00:48+00:00</ns0:published>
-  <ns0:updated>2026-11-05T22:09:47+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T10:56:36+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Lumberjack Met His Match</ns2:title>
    <ns2:content url="https://www.youtube.com/v/yPn6rQViUyw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -1352,30 +2152,30 @@ https://thisisyourdailydose.com/
 14:47 6 7-less paradise
 15:08 Austria</ns2:description>
    <ns2:community>
-    <ns2:starRating count="13258" average="5.00" min="1" max="5" />
-    <ns2:statistics views="482070" />
+    <ns2:starRating count="15906" average="5.00" min="1" max="5" />
+    <ns2:statistics views="618890" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
   <ns0:id>yt:video:SM3lUcU2Z2I</ns0:id>
   <ns1:videoId>SM3lUcU2Z2I</ns1:videoId>
   <ns1:channelId>UCAuUUnT6oDeKwE6v1NGQxug</ns1:channelId>
-  <ns0:title>[TED]We’re all less cult-prof than we would like to think #TEDTalks</ns0:title>
+  <ns0:title>[TED]We’re all less cult-proof than we would like to think #TEDTalks</ns0:title>
   <ns0:link rel="alternate" href="https://www.youtube.com/shorts/SM3lUcU2Z2I" />
   <ns0:author>
    <ns0:name>TED</ns0:name>
    <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T22:00:09+00:00</ns0:published>
-  <ns0:updated>2026-11-05T22:00:09+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T14:32:41+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>We’re all less cult-prof than we would like to think #TEDTalks</ns2:title>
+   <ns2:title>We’re all less cult-proof than we would like to think #TEDTalks</ns2:title>
    <ns2:content url="https://www.youtube.com/v/SM3lUcU2Z2I?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i4.ytimg.com/vi/SM3lUcU2Z2I/hqdefault.jpg" width="480" height="360" />
    <ns2:description>Nobody joins a cult on purpose, says Sarah Edmondson, a former member of the infamous Nxivm cult and one of the three whistleblowers that led to its downfall. She explains how she got ensnared in this highly manipulative group — and then escaped it — and shares red flags to help you distinguish between a cult and a safe community.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="239" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4710" />
+    <ns2:starRating count="343" average="5.00" min="1" max="5" />
+    <ns2:statistics views="7037" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1456,8 +2256,8 @@ Videos on Gastroparesis::
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #便秘 #柏格醫生 #腸胃消化 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #更年期 #血栓</ns2:description>
    <ns2:community>
-    <ns2:starRating count="115" average="5.00" min="1" max="5" />
-    <ns2:statistics views="4872" />
+    <ns2:starRating count="144" average="5.00" min="1" max="5" />
+    <ns2:statistics views="6532" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1560,8 +2360,8 @@ Data:
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #槲皮素 #柏格醫生 #組織胺 #蕁麻疹 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝</ns2:description>
    <ns2:community>
-    <ns2:starRating count="72" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3112" />
+    <ns2:starRating count="87" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3854" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1665,8 +2465,8 @@ https://www.semanticscholar.org/paper/Fasting-and-Its-Impact-on-Skin-Anatomy
 柏格醫生￼（Dr Eric Berg）1988年從帕爾默脊骨學院（Palmer College of Chiropractic ）獲得脊骨醫學學位。 「Doctor」 或「DR」, 醫生僅指那個學位。 柏格醫生視頻僅供參考，不應用於自我診斷，也不能替代醫學檢查、治癒、治療、診斷、處方或建議。 本視頻不會在柏格醫生和觀眾之間建立醫患關係。 在您先諮詢醫生並獲得醫學檢查、診斷和建議之前，您不應該對健康習慣或飲食進行任何更改。 如果您醫療狀況有任何疑問，請務必諮詢醫生或其他合格的醫療服務提供者。 您從本視頻或網站得到的建議、治療過程、診斷或任何其他信息、服務或產品等，The Health＆Wellness、Berg Nutritionals公司和艾瑞克柏格醫生概不負法律責任。
 #皮膚 #柏格醫生 #保養皮膚 #減肥 #脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #更年期 #血栓</ns2:description>
    <ns2:community>
-    <ns2:starRating count="48" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1936" />
+    <ns2:starRating count="61" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2441" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1680,7 +2480,7 @@ https://www.semanticscholar.org/paper/Fasting-and-Its-Impact-on-Skin-Anatomy
    <ns0:uri>https://www.youtube.com/channel/UCUXi5mmqbvIithAs9AaxEtw</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T21:00:38+00:00</ns0:published>
-  <ns0:updated>2026-11-05T21:11:45+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T10:27:47+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>類風濕 vs 退化性關節炎：不同類型的關節炎該如何飲食？</ns2:title>
    <ns2:content url="https://www.youtube.com/v/hnU3BooYA7M?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -1766,8 +2566,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 
 #柏格醫生 #減肥 #斷食減肥 #快速減肥 #不飢餓減肥#脂肪 #胰島素阻抗 #燃燒脂肪 #生酮飲食 #間歇性斷食 #斷食 #柏格醫生中文 #胰島素 #肝功能 #新陳代謝 #膽結石 #腎結石 #腹部減肥 #糖尿病 #高血糖 #自然療法 #養生 #無糖 #低碳水 #高脂肪 #低脂肪 #代謝緩慢 #快速減肥 #健康減肥 #腹部脂肪 #高血壓 #高膽固醇 #膽固醇 #肝硬化 #脂肪肝 #dr berg</ns2:description>
    <ns2:community>
-    <ns2:starRating count="59" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2732" />
+    <ns2:starRating count="76" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3357" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1867,8 +2667,8 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
 生活調整與輔助：戒零食減肥、睡前1.5小時不喝水、減少碳水減肥、低碳飲食減腹、太陽下散步減肥、每天曬太陽減重、睡前寫日記減壓、腦內垃圾清空、睡前處理問題、皮質醇上升避免、意志力沒用減肥、壓力大減不了肥、自然療法減重、柏格醫生減肥、Dr Berg 中文、柏格醫生腹部脂肪
 相關熱門組合與長尾：睡前喝什麼瘦肚子、睡前減肥最有效、Dr Berg 減腹部脂肪、柏格醫生壓力減肥、檸檬香蜂草茶功效、香蜂草茶減壓、鎂補充減肥、降皮質醇自然方法、胰島素阻抗破解、減肥荷爾蒙平衡、夜間減脂技巧、睡前習慣減重、腹部脂肪激素、壓力導致胖肚子、減肥自律沒用、減重平台期解決、柏格醫生7燃燒脂肪激素、2反向激素減肥</ns2:description>
    <ns2:community>
-    <ns2:starRating count="89" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3580" />
+    <ns2:starRating count="102" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4171" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1882,7 +2682,7 @@ ABOUT DR. BERG: https://www.drberg.com/dr-eric-berg/bio
    <ns0:uri>https://www.youtube.com/channel/UCejVlAl2kUwBgSHtQeBoKhQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T20:47:07+00:00</ns0:published>
-  <ns0:updated>2026-11-05T22:58:04+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T12:08:46+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>🔴 NEW !DROPS ON TWITCH MIDSEASON !PATCH LIVE 🔴 NEW !MERCH IN STORE 🔴 !COSPLAY 🔴</ns2:title>
    <ns2:content url="https://www.youtube.com/v/l-FPi_rK47c?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -1912,7 +2712,7 @@ or Monstercat / EpidemicSound
  #gaming #OVERWATCH</ns2:description>
    <ns2:community>
     <ns2:starRating count="28" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7773" />
+    <ns2:statistics views="7976" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1926,7 +2726,7 @@ or Monstercat / EpidemicSound
    <ns0:uri>https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T20:22:05+00:00</ns0:published>
-  <ns0:updated>2026-11-05T20:45:27+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T10:46:50+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Does listening to an audiobook count as reading? #Vergecast</ns2:title>
    <ns2:content url="https://www.youtube.com/v/wMc2dG3_Qe4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -1955,8 +2755,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="81" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2627" />
+    <ns2:starRating count="102" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3933" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -1970,7 +2770,7 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
    <ns0:uri>https://www.youtube.com/channel/UCmdmZp1K_kjXYBKgyqg_5LA</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T20:15:05+00:00</ns0:published>
-  <ns0:updated>2026-11-05T20:57:56+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:06:51+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Even The Boss Is Playing Dirty</ns2:title>
    <ns2:content url="https://www.youtube.com/v/zORAazJQOkw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2077,24 +2877,24 @@ Daily Dose of Gaming has permission from Medal.TV, in accordance with Medal.TV�
 14:52 GTA Restaurant IRL 
 15:14 Minecraft endshot</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1035" average="5.00" min="1" max="5" />
-    <ns2:statistics views="24207" />
+    <ns2:starRating count="1244" average="5.00" min="1" max="5" />
+    <ns2:statistics views="30114" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
   <ns0:id>yt:video:RRnkqviqczI</ns0:id>
   <ns1:videoId>RRnkqviqczI</ns1:videoId>
   <ns1:channelId>UCi2GvcaxZCN-61a0co8Smnw</ns1:channelId>
-  <ns0:title>[館長惡名昭彰]【館長直播完整版】2026/11/05 星期四 影之刃零@__@ 孫中山都出來了~~~~</ns0:title>
+  <ns0:title>[館長惡名昭彰]【館長直播完整版】2026/11/06 星期五  明天下午三點半 大安區 士林夜市見面  今天被告了危害公眾罪出庭~ 11點開講</ns0:title>
   <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=RRnkqviqczI" />
   <ns0:author>
    <ns0:name>館長惡名昭彰</ns0:name>
    <ns0:uri>https://www.youtube.com/channel/UCi2GvcaxZCN-61a0co8Smnw</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T18:34:48+00:00</ns0:published>
-  <ns0:updated>2026-11-05T18:34:50+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T14:32:49+00:00</ns0:updated>
   <ns2:group>
-   <ns2:title>【館長直播完整版】2026/11/05 星期四 影之刃零@__@ 孫中山都出來了~~~~</ns2:title>
+   <ns2:title>【館長直播完整版】2026/11/06 星期五  明天下午三點半 大安區 士林夜市見面  今天被告了危害公眾罪出庭~ 11點開講</ns2:title>
    <ns2:content url="https://www.youtube.com/v/RRnkqviqczI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i3.ytimg.com/vi/RRnkqviqczI/hqdefault.jpg" width="480" height="360" />
    <ns2:description>🎉11/1-11/30惡之盛典｜現貨滿$1,111免運，滿$5,000送NRS喵喵吸管隨行杯！還可以去FB留言抽哀鳳18👉https://utm.to/9t6ymc
@@ -2151,8 +2951,8 @@ True飯  官方FB👉🏽  / truefun2023
 
 #館長 #館長直播 #完整直播</ns2:description>
    <ns2:community>
-    <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="0" />
+    <ns2:starRating count="1441" average="5.00" min="1" max="5" />
+    <ns2:statistics views="44365" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2166,7 +2966,7 @@ True飯  官方FB👉🏽  / truefun2023
    <ns0:uri>https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T18:14:31+00:00</ns0:published>
-  <ns0:updated>2026-11-06T01:55:54+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:45:58+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>BookTok is the antidote to doomscrolling | The Vergecast</ns2:title>
    <ns2:content url="https://www.youtube.com/v/CAYWoVi0rkw?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2206,8 +3006,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="124" average="5.00" min="1" max="5" />
-    <ns2:statistics views="16361" />
+    <ns2:starRating count="142" average="5.00" min="1" max="5" />
+    <ns2:statistics views="19668" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2221,7 +3021,7 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
    <ns0:uri>https://www.youtube.com/channel/UCSoc4XAihwzAA7p29tpAu9A</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T18:00:01+00:00</ns0:published>
-  <ns0:updated>2026-11-06T04:46:45+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:50:20+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Giraffe Ambiance - The Last of Us</ns2:title>
    <ns2:content url="https://www.youtube.com/v/ZqZaTtjyE48?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2232,8 +3032,8 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
 
 #TheLastOfUs #Ellie #Joel #Giraffes #NaughtyDog</ns2:description>
    <ns2:community>
-    <ns2:starRating count="270" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2233" />
+    <ns2:starRating count="320" average="5.00" min="1" max="5" />
+    <ns2:statistics views="2795" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2258,8 +3058,8 @@ Hear Brian Grinstead, Distinguished Engineer for Firefox, share Mozilla’s expe
 
 https://openai.com/index/introducing-gpt-6-cyber/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="261" average="5.00" min="1" max="5" />
-    <ns2:statistics views="15769" />
+    <ns2:starRating count="287" average="5.00" min="1" max="5" />
+    <ns2:statistics views="18571" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2273,7 +3073,7 @@ https://openai.com/index/introducing-gpt-6-cyber/</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UCEw4gExCX4SWq-dwhakHbUQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T16:00:32+00:00</ns0:published>
-  <ns0:updated>2026-11-05T16:00:38+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:13:09+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Finally, the Wrecking Ball nerf no one asked for.</ns2:title>
    <ns2:content url="https://www.youtube.com/v/4R8MoUhoGDQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2293,8 +3093,8 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
 
 #overwatch #froggerow</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3748" average="5.00" min="1" max="5" />
-    <ns2:statistics views="81592" />
+    <ns2:starRating count="4011" average="5.00" min="1" max="5" />
+    <ns2:statistics views="89077" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2308,15 +3108,15 @@ Outro: Asuka Sakai ft. Lori Fine - Forward Motion [Alpine Racer 3 music]
    <ns0:uri>https://www.youtube.com/channel/UC2t5bjwHdUX4vM2g8TRDq5g</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T16:00:20+00:00</ns0:published>
-  <ns0:updated>2026-11-05T16:40:05+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:07:00+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>K/DA, DJ Sona - GIRLS  ft. Sophie Powers, Sorana, Royal &amp; the Serpent (Official Video)</ns2:title>
    <ns2:content url="https://www.youtube.com/v/EG2_IR5g_HY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i2.ytimg.com/vi/EG2_IR5g_HY/hqdefault.jpg" width="480" height="360" />
    <ns2:description>They do what they want. This is “GIRLS” by K/DA.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="4307" average="5.00" min="1" max="5" />
-    <ns2:statistics views="80167" />
+    <ns2:starRating count="5312" average="5.00" min="1" max="5" />
+    <ns2:statistics views="101372" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2447,8 +3247,8 @@ Will be girls
 Will be
 Girls</ns2:description>
    <ns2:community>
-    <ns2:starRating count="56735" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1020865" />
+    <ns2:starRating count="64228" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1186341" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2462,7 +3262,7 @@ Girls</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T16:00:03+00:00</ns0:published>
-  <ns0:updated>2026-11-05T16:00:05+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:55:04+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>How Imaginary Worlds Help Kids Learn | Anna Rainio | TED</ns2:title>
    <ns2:content url="https://www.youtube.com/v/VC4g2l47rzc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2490,8 +3290,8 @@ TED videos may be used for non-commercial purposes under a Creative Commons Lice
 
 #TED #TEDTalks #Education</ns2:description>
    <ns2:community>
-    <ns2:starRating count="176" average="5.00" min="1" max="5" />
-    <ns2:statistics views="31546" />
+    <ns2:starRating count="212" average="5.00" min="1" max="5" />
+    <ns2:statistics views="37722" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2505,7 +3305,7 @@ TED videos may be used for non-commercial purposes under a Creative Commons Lice
    <ns0:uri>https://www.youtube.com/channel/UCD_gy8DWV_DhjJ-bQXF5dGQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T15:30:00+00:00</ns0:published>
-  <ns0:updated>2026-11-06T04:17:57+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T10:43:17+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>中期选举共和党惨败！民主党也没赢？美国极端左派DSA夺舍民主党拿到大量议员席位！民主党被彻底切割！传统建制派财阀亲以全部完蛋，DSA走基层农村包围城市大胜传统政客</ns2:title>
    <ns2:content url="https://www.youtube.com/v/Kj2wN06crQE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2517,8 +3317,8 @@ TED videos may be used for non-commercial purposes under a Creative Commons Lice
 公众号：honor22
 感谢大家的支持~~~爱你们</ns2:description>
    <ns2:community>
-    <ns2:starRating count="3809" average="5.00" min="1" max="5" />
-    <ns2:statistics views="80839" />
+    <ns2:starRating count="4122" average="5.00" min="1" max="5" />
+    <ns2:statistics views="91044" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2532,7 +3332,7 @@ TED videos may be used for non-commercial purposes under a Creative Commons Lice
    <ns0:uri>https://www.youtube.com/channel/UCejVlAl2kUwBgSHtQeBoKhQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T15:12:08+00:00</ns0:published>
-  <ns0:updated>2026-11-05T15:22:18+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T10:46:35+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>THEY GIGANERFED DOCTRINE AND SOMBRA</ns2:title>
    <ns2:content url="https://www.youtube.com/v/t4vGX60Fw6I?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2567,8 +3367,8 @@ Twitter: https://twitter.com/dennied_
 
 #gaming #Overwatch #ml7</ns2:description>
    <ns2:community>
-    <ns2:starRating count="309" average="5.00" min="1" max="5" />
-    <ns2:statistics views="22548" />
+    <ns2:starRating count="343" average="5.00" min="1" max="5" />
+    <ns2:statistics views="24813" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2582,15 +3382,15 @@ Twitter: https://twitter.com/dennied_
    <ns0:uri>https://www.youtube.com/channel/UCP5Kd0smdWe9H_bDH-73c6Q</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T15:01:12+00:00</ns0:published>
-  <ns0:updated>2026-11-05T15:27:33+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:29:20+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>有啥用？觸控版MacBook Pro和iPad mini 8首發體驗</ns2:title>
    <ns2:content url="https://www.youtube.com/v/fi2Jw7levSE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i3.ytimg.com/vi/fi2Jw7levSE/hqdefault.jpg" width="480" height="360" />
    <ns2:description>9分21秒的畫面有錯誤：gpt-oss-120b、Qwen3.8-Flash-Next 、Gemma 4 31B的實際參數量約為117B、125B（僅本體）、31B，4-bit量化後佔用記憶體大約為60G、80G、15G。</ns2:description>
    <ns2:community>
-    <ns2:starRating count="537" average="5.00" min="1" max="5" />
-    <ns2:statistics views="50112" />
+    <ns2:starRating count="645" average="5.00" min="1" max="5" />
+    <ns2:statistics views="63177" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2604,7 +3404,7 @@ Twitter: https://twitter.com/dennied_
    <ns0:uri>https://www.youtube.com/channel/UC3VH2U9_t15U73tmpHrg_JA</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T14:46:00+00:00</ns0:published>
-  <ns0:updated>2026-11-05T15:13:32+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T10:24:28+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>被骂惨的触屏，冤不冤？史上最贵 MacBookPro 体验</ns2:title>
    <ns2:content url="https://www.youtube.com/v/66k-E4JTKAU?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2613,8 +3413,8 @@ Twitter: https://twitter.com/dennied_
 苹果把这句话执行了整整十六年。
 然后现在，苹果做出了一台能摸的、起售价 22999 的、史上最贵的 MacBook Pro……</ns2:description>
    <ns2:community>
-    <ns2:starRating count="187" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13836" />
+    <ns2:starRating count="219" average="5.00" min="1" max="5" />
+    <ns2:statistics views="16507" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2628,7 +3428,7 @@ Twitter: https://twitter.com/dennied_
    <ns0:uri>https://www.youtube.com/channel/UCgFvT6pUq9HLOvKBYERzXSQ</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T14:45:04+00:00</ns0:published>
-  <ns0:updated>2026-11-06T09:55:20+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T17:20:48+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>This FAKE Bassist Proved Everyone WRONG.</ns2:title>
    <ns2:content url="https://www.youtube.com/v/VPCgo-lqwWI?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2647,8 +3447,8 @@ My music:
 Spotify: https://open.spotify.com/album/5m7SFVMTfNvv7dyqfa00G3
 iTunes: http://itunes.apple.com/album/id1122291881?ls=1&amp;app=itunes</ns2:description>
    <ns2:community>
-    <ns2:starRating count="27955" average="5.00" min="1" max="5" />
-    <ns2:statistics views="788119" />
+    <ns2:starRating count="31055" average="5.00" min="1" max="5" />
+    <ns2:statistics views="882786" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2662,7 +3462,7 @@ iTunes: http://itunes.apple.com/album/id1122291881?ls=1&amp;app=itunes</ns2:desc
    <ns0:uri>https://www.youtube.com/channel/UCwffSP9kO8pMZVr1Ugqvbzw</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T14:24:52+00:00</ns0:published>
-  <ns0:updated>2026-11-06T06:14:55+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:09:17+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>A Touchscreen… But Why? MacBook PROLED XDR Review</ns2:title>
    <ns2:content url="https://www.youtube.com/v/qMepRe7YbeM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2670,8 +3470,8 @@ iTunes: http://itunes.apple.com/album/id1122291881?ls=1&amp;app=itunes</ns2:desc
    <ns2:description>Corrections:
 10:10 The actual parameter counts of gpt-oss-120b, Qwen3.8-Flash-Next, and Gemma 4 31B are approximately 117B, 125B, and 31B, respectively, and after 4-bit quantization they take up about 60G, 80G, and 15G of memory.</ns2:description>
    <ns2:community>
-    <ns2:starRating count="16588" average="5.00" min="1" max="5" />
-    <ns2:statistics views="731888" />
+    <ns2:starRating count="19012" average="5.00" min="1" max="5" />
+    <ns2:statistics views="902772" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2685,7 +3485,7 @@ iTunes: http://itunes.apple.com/album/id1122291881?ls=1&amp;app=itunes</ns2:desc
    <ns0:uri>https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T14:03:51+00:00</ns0:published>
-  <ns0:updated>2026-11-05T14:24:16+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T10:31:29+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>MacBook Pro OLED Review - Is Touch ACTUALLY Useful?</ns2:title>
    <ns2:content url="https://www.youtube.com/v/m8lhB9qFhYo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2698,8 +3498,8 @@ http://twitter.com/Dave2D
 http://www.instagram.com/Dave2D
 https://discord.gg/Dave2D</ns2:description>
    <ns2:community>
-    <ns2:starRating count="8331" average="5.00" min="1" max="5" />
-    <ns2:statistics views="509665" />
+    <ns2:starRating count="8928" average="5.00" min="1" max="5" />
+    <ns2:statistics views="559227" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2713,7 +3513,7 @@ https://discord.gg/Dave2D</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UC2cRwTuSWxxEtrRnT4lrlQA</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T14:00:27+00:00</ns0:published>
-  <ns0:updated>2026-11-06T04:32:45+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T10:23:32+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>真的需要摸吗？MacBook Pro PROLED XDR上手</ns2:title>
    <ns2:content url="https://www.youtube.com/v/_RYUI3F1v5Q?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2732,8 +3532,8 @@ Correction:
 
 04:59 MacBook Pro 的实际调光策略为 DC + PWM 调光，但是有240Hz 的频闪，在亮度低于 100% 的情况下会触发</ns2:description>
    <ns2:community>
-    <ns2:starRating count="2429" average="5.00" min="1" max="5" />
-    <ns2:statistics views="224401" />
+    <ns2:starRating count="2795" average="5.00" min="1" max="5" />
+    <ns2:statistics views="271862" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2775,8 +3575,8 @@ Subscribe to The Vergecast on YouTube, new episodes on Tuesday and Friday: https
 
 If you buy something from a Verge link, Vox Media may receive a commission without exerting any influence on editorial content. For more information about our ethics policy, visit: https://bit.ly/3ZWTlLs</ns2:description>
    <ns2:community>
-    <ns2:starRating count="281" average="5.00" min="1" max="5" />
-    <ns2:statistics views="15644" />
+    <ns2:starRating count="303" average="5.00" min="1" max="5" />
+    <ns2:statistics views="17855" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2790,7 +3590,7 @@ If you buy something from a Verge link, Vox Media may receive a commission witho
    <ns0:uri>https://www.youtube.com/channel/UCyYlGTZL-HnnX_UcGkVFH7A</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T13:49:28+00:00</ns0:published>
-  <ns0:updated>2026-11-05T14:03:33+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T10:57:17+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>【魔獸世界：永恆】美國老玩家勇闖亞服！部落集合！</ns2:title>
    <ns2:content url="https://www.youtube.com/v/It6pjtyZy-o?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2811,8 +3611,8 @@ Spotify: https://open.spotify.com/artist/4vc953PpH6nsZ46xfDKF28?si=L6z5WMKSQAayP
 💽 众籌樂樂拍MV｜Funds for Lele to shoot more MVs
 Paypal：https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=LLXE38H9TQDX4&amp;source=url</ns2:description>
    <ns2:community>
-    <ns2:starRating count="352" average="5.00" min="1" max="5" />
-    <ns2:statistics views="11492" />
+    <ns2:starRating count="360" average="5.00" min="1" max="5" />
+    <ns2:statistics views="11910" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2826,7 +3626,7 @@ Paypal：https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_i
    <ns0:uri>https://www.youtube.com/channel/UCvUJ6BwgUGWBHuUd0cv546g</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T13:46:25+00:00</ns0:published>
-  <ns0:updated>2026-11-05T13:49:50+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:33:36+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>【横评】iPhone Duo/华为/小米/三星，谁是最强折叠屏？</ns2:title>
    <ns2:content url="https://www.youtube.com/v/FH9or9yR-CA?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2839,8 +3639,8 @@ douyin@贪玩歌姬小宁子：https://v.douyin.com/iywQKW9X
 weibo@小宁子：https://weibo.com/2216529910
 Taobao淘宝店铺「贪玩PLAYFULL」：https://kv2gnj94i49gly5xga53uxr91t1w4rq.taobao.com</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1238" average="5.00" min="1" max="5" />
-    <ns2:statistics views="119804" />
+    <ns2:starRating count="1458" average="5.00" min="1" max="5" />
+    <ns2:statistics views="140815" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2854,15 +3654,15 @@ Taobao淘宝店铺「贪玩PLAYFULL」：https://kv2gnj94i49gly5xga53uxr91t1w4rq
    <ns0:uri>https://www.youtube.com/channel/UCgm9WPYFcviZyyCUzEXfR2Q</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T13:43:42+00:00</ns0:published>
-  <ns0:updated>2026-11-05T14:34:30+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T12:07:27+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>every mom and dad with dogs 😂</ns2:title>
    <ns2:content url="https://www.youtube.com/v/QniJ5tJuk1g?version=3" type="application/x-shockwave-flash" width="640" height="390" />
    <ns2:thumbnail url="https://i2.ytimg.com/vi/QniJ5tJuk1g/hqdefault.jpg" width="480" height="360" />
    <ns2:description />
    <ns2:community>
-    <ns2:starRating count="8299" average="5.00" min="1" max="5" />
-    <ns2:statistics views="154636" />
+    <ns2:starRating count="9821" average="5.00" min="1" max="5" />
+    <ns2:statistics views="186541" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2916,8 +3716,8 @@ Raycast: https://raycast.com
 Linear: https://linear.app
 Mistral: https://mistral.ai</ns2:description>
    <ns2:community>
-    <ns2:starRating count="12" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1524" />
+    <ns2:starRating count="15" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1757" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2931,7 +3731,7 @@ Mistral: https://mistral.ai</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UCb3TZ4SD_Ys3j4z0-8o6auA</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T13:31:52+00:00</ns0:published>
-  <ns0:updated>2026-11-05T13:45:37+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:49:04+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>你想主演自己的宮鬥戲嗎？－ BBC News 中文</ns2:title>
    <ns2:content url="https://www.youtube.com/v/FDKP_2Bq0j8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2946,8 +3746,8 @@ BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
 BBC News 中文 Twitter - https://twitter.com/bbcchinese
 BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="63" average="5.00" min="1" max="5" />
-    <ns2:statistics views="5300" />
+    <ns2:starRating count="74" average="5.00" min="1" max="5" />
+    <ns2:statistics views="5963" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -2961,7 +3761,7 @@ BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:descripti
    <ns0:uri>https://www.youtube.com/channel/UC_9AeV5Riy9AsIJZEsnsCDw</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T13:04:38+00:00</ns0:published>
-  <ns0:updated>2026-11-05T17:55:55+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:26:26+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Tesla’s Cybercab Arrives at CIIE</ns2:title>
    <ns2:content url="https://www.youtube.com/v/FTFDARo2pOg?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -2975,7 +3775,7 @@ With no steering wheel or pedals, Cybercab features a passenger-focused cabin an
 #Tesla #Cybercab #CIIE #Shanghaiedge #AutonomousDriving</ns2:description>
    <ns2:community>
     <ns2:starRating count="11" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1010" />
+    <ns2:statistics views="1050" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3009,8 +3809,8 @@ AI时代什么都越来越快，
 就已经很开心了。
 配方放在最后，大家自取～</ns2:description>
    <ns2:community>
-    <ns2:starRating count="64" average="5.00" min="1" max="5" />
-    <ns2:statistics views="3657" />
+    <ns2:starRating count="81" average="5.00" min="1" max="5" />
+    <ns2:statistics views="4372" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3024,7 +3824,7 @@ AI时代什么都越来越快，
    <ns0:uri>https://www.youtube.com/channel/UCb3TZ4SD_Ys3j4z0-8o6auA</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T13:00:01+00:00</ns0:published>
-  <ns0:updated>2026-11-05T13:00:02+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:24:41+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>前學民思潮成員與黃之鋒的隔空對話－ BBC News 中文</ns2:title>
    <ns2:content url="https://www.youtube.com/v/thJMYS_gKT0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -3041,8 +3841,8 @@ BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
 BBC News 中文 Twitter - https://twitter.com/bbcchinese
 BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="72" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2816" />
+    <ns2:starRating count="75" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3368" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3075,7 +3875,7 @@ https://lin.ee/VFYRknp
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
     <ns2:starRating count="5" average="5.00" min="1" max="5" />
-    <ns2:statistics views="635" />
+    <ns2:statistics views="656" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3105,8 +3905,8 @@ https://lin.ee/VFYRknp
 成為這個頻道的會員並獲得福利：
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
-    <ns2:starRating count="74" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2548" />
+    <ns2:starRating count="94" average="5.00" min="1" max="5" />
+    <ns2:statistics views="3105" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3236,8 +4036,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 #積極情緒 #煩惱 #トニージャン　＃マインドハッカー　＃マインドハック
 #情緒  #情感 #職場  #失眠 #佔有 #煩惱</ns2:description>
    <ns2:community>
-    <ns2:starRating count="570" average="5.00" min="1" max="5" />
-    <ns2:statistics views="13647" />
+    <ns2:starRating count="645" average="5.00" min="1" max="5" />
+    <ns2:statistics views="15815" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3251,7 +4051,7 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
    <ns0:uri>https://www.youtube.com/channel/UCZVThl_MRppEdGUPGjXSSdg</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T11:07:08+00:00</ns0:published>
-  <ns0:updated>2026-11-05T12:24:13+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T11:55:25+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>AI 眼镜买了又卖，这一副为什么留了下来？｜MemoMind 三人深聊</ns2:title>
    <ns2:content url="https://www.youtube.com/v/aQoHsnj9EpM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -3268,8 +4068,8 @@ https://www.youtube.com/channel/UCHNDk7584Q5g7RQCAFj7RFA/join
 16:04 实际体验与改进空间
 17:44 续航、连接、充电与购买建议</ns2:description>
    <ns2:community>
-    <ns2:starRating count="32" average="5.00" min="1" max="5" />
-    <ns2:statistics views="7889" />
+    <ns2:starRating count="35" average="5.00" min="1" max="5" />
+    <ns2:statistics views="9168" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3300,7 +4100,7 @@ https://lin.ee/VFYRknp
 https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="203" />
+    <ns2:statistics views="220" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3314,7 +4114,7 @@ https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
    <ns0:uri>https://www.youtube.com/channel/UCb3TZ4SD_Ys3j4z0-8o6auA</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T10:44:34+00:00</ns0:published>
-  <ns0:updated>2026-11-05T10:44:58+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T10:58:02+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>香港民運領袖黃之鋒被重判10年－ BBC News 中文</ns2:title>
    <ns2:content url="https://www.youtube.com/v/hGwC-5tMqD0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -3329,8 +4129,8 @@ BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
 BBC News 中文 Twitter - https://twitter.com/bbcchinese
 BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
    <ns2:community>
-    <ns2:starRating count="1210" average="5.00" min="1" max="5" />
-    <ns2:statistics views="65884" />
+    <ns2:starRating count="1425" average="5.00" min="1" max="5" />
+    <ns2:statistics views="84891" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3354,8 +4154,8 @@ BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:descripti
 
 #閱讀 #樊登读书</ns2:description>
    <ns2:community>
-    <ns2:starRating count="25" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1589" />
+    <ns2:starRating count="26" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1815" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3369,7 +4169,7 @@ BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:descripti
    <ns0:uri>https://www.youtube.com/channel/UC_9AeV5Riy9AsIJZEsnsCDw</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T10:30:24+00:00</ns0:published>
-  <ns0:updated>2026-11-05T11:33:11+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T12:07:45+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>New Faces at CIIE Set Their Sights on China’s Market</ns2:title>
    <ns2:content url="https://www.youtube.com/v/EyY7E596fE4?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -3381,7 +4181,7 @@ Which market segments are catching international newcomers’ attention?
 #CIIE #Shanghaiedge #ChinaMarket #GlobalTrade #Business</ns2:description>
    <ns2:community>
     <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="13" />
+    <ns2:statistics views="16" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3423,8 +4223,8 @@ Which market segments are catching international newcomers’ attention?
 
 ※貼心提醒：留言請保持禮貌運動、理性討論，違反社群規範或人身攻擊可能會遭檢舉</ns2:description>
    <ns2:community>
-    <ns2:starRating count="16" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1188" />
+    <ns2:starRating count="17" average="5.00" min="1" max="5" />
+    <ns2:statistics views="1331" />
    </ns2:community>
   </ns2:group>
  </ns0:entry><ns0:entry>
@@ -3438,7 +4238,7 @@ Which market segments are catching international newcomers’ attention?
    <ns0:uri>https://www.youtube.com/channel/UC_9AeV5Riy9AsIJZEsnsCDw</ns0:uri>
   </ns0:author>
   <ns0:published>2026-11-05T09:15:03+00:00</ns0:published>
-  <ns0:updated>2026-11-05T09:17:42+00:00</ns0:updated>
+  <ns0:updated>2026-11-06T10:37:00+00:00</ns0:updated>
   <ns2:group>
    <ns2:title>Better Balance, Less Drama in Robot Fights</ns2:title>
    <ns2:content url="https://www.youtube.com/v/EUUVtke8hTQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
@@ -3450,708 +4250,7 @@ He also presented fully autonomous robot fighting, with an end-to-end world mode
 #Unitree #Robotics #AI #CIIE #Shanghaiedge</ns2:description>
    <ns2:community>
     <ns2:starRating count="4" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1012" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:T6vgdeA-Fus</ns0:id>
-  <ns1:videoId>T6vgdeA-Fus</ns1:videoId>
-  <ns1:channelId>UCFhKqw9UUe2neKk04eo4RRQ</ns1:channelId>
-  <ns0:title>[樊登讀書]股票專家也會看走眼！一項研究揭開專業判斷失準的原因 ｜丹尼爾·康納曼《快思慢想》｜樊登讀書</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=T6vgdeA-Fus" />
-  <ns0:author>
-   <ns0:name>樊登讀書</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCFhKqw9UUe2neKk04eo4RRQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T09:08:38+00:00</ns0:published>
-  <ns0:updated>2026-11-05T09:33:20+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>股票專家也會看走眼！一項研究揭開專業判斷失準的原因 ｜丹尼爾·康納曼《快思慢想》｜樊登讀書</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/T6vgdeA-Fus?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/T6vgdeA-Fus/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>📚 #樊登說書 雙11限時優惠買一年送一年！每天不到 3 元，商業財經、趨勢洞察等七大領域好書隨時聽！活動只到2026/11/12，立即搶購👉https://cmy.tw/00D47G  
-
-你有沒有遇過這種情況？明明對自己的判斷很有把握，最後的結果卻跟想像中完全不同。甚至有些專家分析得頭頭是道，預測結果卻不一定準確
-這集《快思慢想》揭開人們容易「過度自信」的原因，也分享軍隊人才選拔、股票專家推薦，以及新生兒健康評估等案例，帶大家思考：我們究竟該怎麼判斷一個人的專業意見是否可靠？
-
-00:00 我早就知道了？
-02:38 未來不可預測
-04:27 人格測驗有用嗎
-05:36 專家不如猴子
-07:11 公式贏過專家
-08:43 何時該信專家
-
-▪️追蹤「樊登說書」台灣官方社群，讓我們陪你透過閱讀，成就更好的自己
-👉Threads：https://www.threads.com/@fandeng.tw
-👉FB：https://www.facebook.com/FanDeng.tw 
-👉IG：https://www.instagram.com/fandeng.tw
-
-#過度自信 #認知偏誤 #決策心理學 #後見之明 #專家判斷 #判斷力 #人才測評 #職場心理學 #批判性思考 #自我成長  
-
-※貼心提醒：留言請保持禮貌運動、理性討論，違反社群規範或人身攻擊可能會遭檢舉</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="2" average="5.00" min="1" max="5" />
-    <ns2:statistics views="0" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:IWks7hTaYvQ</ns0:id>
-  <ns1:videoId>IWks7hTaYvQ</ns1:videoId>
-  <ns1:channelId>UCb3TZ4SD_Ys3j4z0-8o6auA</ns1:channelId>
-  <ns0:title>[BBC News 中文]黃之鋒涉「勾結外國勢力」被重判10年 出獄或已40歲－ BBC News 中文</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=IWks7hTaYvQ" />
-  <ns0:author>
-   <ns0:name>BBC News 中文</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCb3TZ4SD_Ys3j4z0-8o6auA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T09:03:51+00:00</ns0:published>
-  <ns0:updated>2026-11-05T09:11:08+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>黃之鋒涉「勾結外國勢力」被重判10年 出獄或已40歲－ BBC News 中文</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/IWks7hTaYvQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/IWks7hTaYvQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>香港民主派活動人士黃之鋒被控告中國《香港國安法》下的「串謀勾結外國勢力危害國家安全」罪，星期四（11月5日）於香港高等法院被判囚10年。
-
-上個月剛滿30歲的黃之鋒，自2020年底起因不同案件入獄，至今身在獄中超過六年。
-
-他正就「民主派初選47人案」服刑，原有望於2027年1月獲釋。新增的10年刑期，其中2個月2日與「47人案」同期執行；預料他須服刑到2036年，出獄時或已年屆40歲。
-
-這是繼壹傳媒創辦人黎智英後，第二宗在香港被起訴「勾結外國勢力」罪的案件，也是黃之鋒第二宗涉及《香港國安法》相關的案件。港府表示歡迎法庭的重判。
-
-BBC News 中文: https://www.bbc.com/zhongwen
-訂閱BBC News 中文 YouTube：http://bit.ly/1wkHh5T
-BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
-BBC News 中文 Twitter - https://twitter.com/bbcchinese
-BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1152" average="5.00" min="1" max="5" />
-    <ns2:statistics views="156819" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:gpuIgUP1ukk</ns0:id>
-  <ns1:videoId>gpuIgUP1ukk</ns1:videoId>
-  <ns1:channelId>UCFhKqw9UUe2neKk04eo4RRQ</ns1:channelId>
-  <ns0:title>[樊登讀書]孩子被誇獎後反而退步？心理學「回歸均值」揭開表揚與責罵的誤會｜丹尼爾·康納曼《快思慢想》｜樊登讀書</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=gpuIgUP1ukk" />
-  <ns0:author>
-   <ns0:name>樊登讀書</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCFhKqw9UUe2neKk04eo4RRQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T09:02:37+00:00</ns0:published>
-  <ns0:updated>2026-11-05T10:02:31+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>孩子被誇獎後反而退步？心理學「回歸均值」揭開表揚與責罵的誤會｜丹尼爾·康納曼《快思慢想》｜樊登讀書</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/gpuIgUP1ukk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/gpuIgUP1ukk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>📚 #樊登說書 雙11限時優惠買一年送一年！每天不到 3 元，商業財經、趨勢洞察等七大領域好書隨時聽！活動只到2026/11/12，立即搶購👉https://cmy.tw/00Czs8  
-
-你有沒有發現，有時候明明只是看到一個價格，就會不自覺拿它當作比較標準？或是孩子表現好，稱讚了幾句，下次成績卻退步，讓人忍不住懷疑：「是不是不能太常誇獎？」
-其實，這些日常經驗背後，都藏著我們容易忽略的思考偏誤！
-這集《快思慢想》藉由一系列心理學實驗，揭開大腦如何受到數字暗示、外界消息與錯誤的因果判斷影響
-
-00:00 被數字牽著走
-01:20 限購反而買更多
-01:59 談判誰先開價
-02:53 社會恐慌怎麼來
-04:56 罵比誇更有效？
-07:14 一誇就翹尾巴？
-
-▪️追蹤「樊登說書」台灣官方社群，讓我們陪你透過閱讀，成就更好的自己
-👉Threads：https://www.threads.com/@fandeng.tw
-👉FB：https://www.facebook.com/FanDeng.tw 
-👉IG：https://www.instagram.com/fandeng.tw
-
-#錨定效應 #回歸均值 #效用層疊 #認知偏誤 #行為經濟學 #因果關係 #親子教育 #職場管理 #消費心理 #理性思考 #自我成長  
-
-※貼心提醒：留言請保持禮貌運動、理性討論，違反社群規範或人身攻擊可能會遭檢舉</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="0" average="0.00" min="1" max="5" />
-    <ns2:statistics views="0" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:ijp2IpmGBdY</ns0:id>
-  <ns1:videoId>ijp2IpmGBdY</ns1:videoId>
-  <ns1:channelId>UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns1:channelId>
-  <ns0:title>[程序员老王]AI味到底是什么？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=ijp2IpmGBdY" />
-  <ns0:author>
-   <ns0:name>程序员老王</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCL7SP6Q4VLVPv_zvzuZ_mwQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T09:00:09+00:00</ns0:published>
-  <ns0:updated>2026-11-05T12:34:05+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>AI味到底是什么？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/ijp2IpmGBdY?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/ijp2IpmGBdY/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>老王的AI/Python训练营：https://t.zsxq.com/ubYr8
-
----
-00:00 引子
-00:38 边读边猜
-02:50 边读边记
-04:36 人类对比
-05:22 翻译
-06:31 毛病从哪来
-09:08 实验
-10:46 尾声</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="767" average="5.00" min="1" max="5" />
-    <ns2:statistics views="35165" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:Q1MYpd3s9A0</ns0:id>
-  <ns1:videoId>Q1MYpd3s9A0</ns1:videoId>
-  <ns1:channelId>UC1SoWqy3HPfvE1nt89iV10Q</ns1:channelId>
-  <ns0:title>[Zushi Ai COS]誰說拍出高級感一定要買貴鏡頭？這兩顆平價鏡頭直接拍出電影感🔥</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=Q1MYpd3s9A0" />
-  <ns0:author>
-   <ns0:name>Zushi Ai COS</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T09:00:09+00:00</ns0:published>
-  <ns0:updated>2026-11-05T09:00:09+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>誰說拍出高級感一定要買貴鏡頭？這兩顆平價鏡頭直接拍出電影感🔥</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/Q1MYpd3s9A0?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/Q1MYpd3s9A0/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>發現喜歡的好物不用到處找✨
-店內整理了不少精選商品，喜歡的朋友可以慢慢挑選～🤍
-🛍️ Shopee蝦皮賣場：shopee.tw/eric3452083
-
-有任何問題都歡迎留言詢問💬
-也可以加入 LINE 與我們聯繫👇
-https://lin.ee/VFYRknp
-
-成為這個頻道的會員並獲得福利：
-https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join
-
-帥小伙挑戰用超高性價比的鏡頭，拍出超有質感的街頭大片！📸
-
-這次直接帶著尼康 Z63，搭配兩顆高性價比定焦鏡頭，走上南京街頭實戰拍攝！
-
-📷 **本期街拍鏡頭**
-
-▪️ 銘匠 50mm F1.8 Neo
-
-從不同焦段的視角，到人像構圖、背景虛化與街頭氛圍，看看平價鏡頭究竟能拍出什麼樣的效果！
-
-有時候真正決定照片質感的，不只是器材價格，還有攝影師的觀察力與構圖技巧。
-
-🎬 **本期街拍設備**
-尼康 Z63、銘匠 50mm F1.8 Neo
-
-🎥 **錄製設備**
-DJI Pocket 4、DJI Action 5 Pro、尼康 ZR + 24-70mm F2.8 二代
-
-你覺得 50mm 和 85mm 哪顆更適合街拍人像？留言告訴我！👇
-
-#尼康 #銘匠光學 #攝影器材 #街頭攝影 #街拍人像 #人像攝影 #定焦鏡頭 #平價鏡頭 #高性價比鏡頭 #攝影技巧 #攝影教程 #南京街拍 #攝影分享</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="8" average="5.00" min="1" max="5" />
-    <ns2:statistics views="778" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:bk3wY6is9Oc</ns0:id>
-  <ns1:videoId>bk3wY6is9Oc</ns1:videoId>
-  <ns1:channelId>UCQH4V9PiY_eLo4Ihr1tWCwQ</ns1:channelId>
-  <ns0:title>[KarQ]Doctrine nerfed? Still good. RANKED SUPPORT.</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=bk3wY6is9Oc" />
-  <ns0:author>
-   <ns0:name>KarQ</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCQH4V9PiY_eLo4Ihr1tWCwQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T06:25:32+00:00</ns0:published>
-  <ns0:updated>2026-11-05T09:35:59+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Doctrine nerfed? Still good. RANKED SUPPORT.</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/bk3wY6is9Oc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/bk3wY6is9Oc/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>🔴 Twitch: https://twitch.tv/KarQ 
-🔔 KarQives (2nd Channel): https://youtube.com/@KarQives
-👄 KarQlips (Clips Channel): https://www.youtube.com/@KarQlips
-📽️ TikTok: https://www.tiktok.com/@karqgames
-📸 Instagram: http://instagram.com/KarQGames
-🐦 Twitter: https://www.twitter.com/KarQGames
-💬 Discord: https://discord.gg/karq
-👕Merch: https://karqgames.com
-💼 Business Inquiries: teamkarq@unitedtalent.com
-
-📸 Current Gear/Camera Setup
-CAN: https://www.amazon.ca/shop/karqgames
-USA: https://www.amazon.com/shop/karqgames
-UK: https://www.amazon.co.uk/shop/karqgames
-
-#overwatch</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="22" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6959" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:oW5o5fy2wxo</ns0:id>
-  <ns1:videoId>oW5o5fy2wxo</ns1:videoId>
-  <ns1:channelId>UCpPswAyGzdRwWmiW5oTNnvA</ns1:channelId>
-  <ns0:title>[BIGDONGDONG]【LIVE】2026/11/04 直播打游戏 影之刃零 2.5K 3W码率</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=oW5o5fy2wxo" />
-  <ns0:author>
-   <ns0:name>BIGDONGDONG</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCpPswAyGzdRwWmiW5oTNnvA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T05:45:17+00:00</ns0:published>
-  <ns0:updated>2026-11-05T11:23:38+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【LIVE】2026/11/04 直播打游戏 影之刃零 2.5K 3W码率</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/oW5o5fy2wxo?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/oW5o5fy2wxo/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>我的电报群：https://t.me/bddfans
-电报群是我主要活动的地方 大家可以在电报群找我
-我的淘宝：https://bigdongdong.taobao.com
-https://bddclub.taobao.com
-微博有是有的但国内的社交媒体我一般不用
-我的哔哩哔哩：https://space.bilibili.com/108142407/#/
-西瓜视频：BIGDONGDONG
-抖音(同步西瓜视频)：金林东
-------------------------------------------------------------------------------------------------------------
-我所使用的机场
-https://github.com/bigdongdongCLUB/hello-world
-------------------------------------------------------------------------------------------------------------
-如果你有兴趣或能力为我的视频添加字幕我将不胜感激！！！各国语言都可以，谢谢！
-http://www.youtube.com/timedtext_cs_panel?tab=2&amp;c=UCpPswAyGzdRwWmiW5oTNnvA
-------------------------------------------------------------------------------------------------------------
-科普小页
-https://github.com/bigdongdongCLUB/welcome
-------------------------------------------------------------------------------------------------------------
-科学上网相关播放列表：https://www.youtube.com/playlist?list=PLRprrEdZitQpWrVvQFPSYfrovDEqSZT4I
-亲测体验系列：https://www.youtube.com/playlist?list=PLRprrEdZitQpvtiM6jtkd-O2GK58gh_pQ
-------------------------------------------------------------------------------------------------------------
-联系邮箱：BOSS@bigdongdong.com</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="9" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2560" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:YsuVfKHCorM</ns0:id>
-  <ns1:videoId>YsuVfKHCorM</ns1:videoId>
-  <ns1:channelId>UCb3TZ4SD_Ys3j4z0-8o6auA</ns1:channelId>
-  <ns0:title>[BBC News 中文]黃之鋒給「前戰友」的信－ BBC News 中文</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/YsuVfKHCorM" />
-  <ns0:author>
-   <ns0:name>BBC News 中文</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCb3TZ4SD_Ys3j4z0-8o6auA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T05:26:47+00:00</ns0:published>
-  <ns0:updated>2026-11-05T12:22:35+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>黃之鋒給「前戰友」的信－ BBC News 中文</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/YsuVfKHCorM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/YsuVfKHCorM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>香港民主派活動人士黃之鋒被控告中國《香港國安法》下的「串謀勾結外國勢力危害國家安全」罪，周四（11月5日）於香港高等法院被判囚10年。警方國安處總警司李桂華表示歡迎法庭判決，顯示法庭確定黃之鋒罪行重大。
-
-自2020年底起，他因不同案件入獄至今超過六年。新增的10年刑期，令他到2036年方獲自由身，那時他已經40歲。
-
-這些年間，他的前「戰友」一直在等他。隔着牆的情誼由信件連繫維持，字內行間傳遞友人的思念，也反映黃之鋒的轉變。
-
-這是黃之鋒給三位前「戰友」的信。
-
-BBC News 中文: https://www.bbc.com/zhongwen
-訂閱BBC News 中文 YouTube：http://bit.ly/1wkHh5T
-BBC News 中文 Facebook - https://www.facebook.com/bbcchinese
-BBC News 中文 Twitter - https://twitter.com/bbcchinese
-BBC News 中文 Instagram - https://www.instagram.com/bbcchinese/</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="198" average="5.00" min="1" max="5" />
-    <ns2:statistics views="6963" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:H5CgvWq59ic</ns0:id>
-  <ns1:videoId>H5CgvWq59ic</ns1:videoId>
-  <ns1:channelId>UC1SoWqy3HPfvE1nt89iV10Q</ns1:channelId>
-  <ns0:title>[Zushi Ai COS]去了趟江蘇鹽城，才發現江浙滬還有這樣的地方，完全顛覆我的想像 #江蘇鹽城 #中國旅行 #城市探索 #旅行見聞 #人文風景</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=H5CgvWq59ic" />
-  <ns0:author>
-   <ns0:name>Zushi Ai COS</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T04:00:06+00:00</ns0:published>
-  <ns0:updated>2026-11-05T04:20:05+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>去了趟江蘇鹽城，才發現江浙滬還有這樣的地方，完全顛覆我的想像 #江蘇鹽城 #中國旅行 #城市探索 #旅行見聞 #人文風景</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/H5CgvWq59ic?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/H5CgvWq59ic/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>發現喜歡的好物不用到處找✨
-店內整理了不少精選商品，喜歡的朋友可以慢慢挑選～🤍
-🛍️ Shopee蝦皮賣場：shopee.tw/eric3452083
-
-有任何問題都歡迎留言詢問💬
-也可以加入 LINE 與我們聯繫👇
-https://lin.ee/VFYRknp
-
-成為這個頻道的會員並獲得福利：
-https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="26" average="5.00" min="1" max="5" />
-    <ns2:statistics views="969" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:CCTdyBtQ59Y</ns0:id>
-  <ns1:videoId>CCTdyBtQ59Y</ns1:videoId>
-  <ns1:channelId>UC_9AeV5Riy9AsIJZEsnsCDw</ns1:channelId>
-  <ns0:title>[箭厂ArrowFactory Doc]Trump Links Midterm Loss to Iran Conflict</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/CCTdyBtQ59Y" />
-  <ns0:author>
-   <ns0:name>箭厂ArrowFactory Doc</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC_9AeV5Riy9AsIJZEsnsCDw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T03:46:23+00:00</ns0:published>
-  <ns0:updated>2026-11-05T08:57:50+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Trump Links Midterm Loss to Iran Conflict</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/CCTdyBtQ59Y?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i4.ytimg.com/vi/CCTdyBtQ59Y/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Trump said the conflict with Iran largely drove the midterm defeat, speaking at the White House on November 4 in his first public appearance since the loss.
-
-He said he would make the same decision again, insisting Iran must never acquire nuclear weapons.
-
-#Trump #Midterms2026 #Us #Iran #WhiteHouse</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="22" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1800" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:zQ-AAlGNYTk</ns0:id>
-  <ns1:videoId>zQ-AAlGNYTk</ns1:videoId>
-  <ns1:channelId>UCi2GvcaxZCN-61a0co8Smnw</ns1:channelId>
-  <ns0:title>[館長惡名昭彰]【館長精華】遊戲開打、聊天室開聊！今天又是輕鬆哈啦的一天！</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=zQ-AAlGNYTk" />
-  <ns0:author>
-   <ns0:name>館長惡名昭彰</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCi2GvcaxZCN-61a0co8Smnw</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T03:45:58+00:00</ns0:published>
-  <ns0:updated>2026-11-05T21:12:13+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【館長精華】遊戲開打、聊天室開聊！今天又是輕鬆哈啦的一天！</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/zQ-AAlGNYTk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/zQ-AAlGNYTk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>完整版直播👉🏽https://www.youtube.com/watch?v=lGbw3WNMfwE
-🎉11/1-11/30惡之盛典｜現貨滿$1,111免運，滿$5,000送NRS喵喵吸管隨行杯！還可以去FB留言抽哀鳳18👉https://utm.to/9t6ymc
-🌶️他好辣~嘟嘟嘟｜麻辣臭豆腐優惠單包$89，在家追直播就要配這👉https://utm.to/9t6yma
-🐾毛孩專屬｜寵物魚油＋透明壓克力寵物餐桌，組合$1,111👉https://utm.to/9txbb9
-🛒雙11就等這一次｜現貨服飾單件折11%、兩件以上折22%！👉https://utm.to/9t6ymm
-🔥保健品優惠｜魚油、維生素C、指定保健，共14款組合任你挑，日常補給趁這波備好👉https://utm.to/9t6ymf
-👀上班看電腦，下班看直播？日常補給別漏掉！魚油＋葉黃素＋維生素C，三件組$1,599👉https://utm.to/9txbbv
-💼工作忙歸忙，營養補給別忘！魚油＋綜合B群＋維生素C，三件組$1,899，忙碌日常這樣配👉https://utm.to/9txbb8
-🛒健身人的雙11補給｜精胺酸粉＋鏈激力，組合只要$2,599👉https://utm.to/9txbba
-
-🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
-館長陳之漢 官方IG👉🏽  / power3067830678  
-館長陳之漢 飆捍FB👉🏽https://www.facebook.com/profile.php?...
-館長陳之漢 Podcast👉🏽https://open.firstory.me/user/power30678
-惡名昭彰 官方網站👉🏽https://www.notorious-2019.com/
-會員制度與規章👉🏽https://www.notorious-2019.com/size_c...
-惡名昭彰 官方Line👉🏽https://lin.ee/yKmjHZQ
-惡名昭彰 官方IG👉🏽  / notorious_taiwan  
-惡名昭彰 官方FB👉🏽  / notorious.taiwan  
-True飯  官方LINE👉🏽https://lin.ee/sPaW15Y
-True飯  官方IG👉🏽  / truefun_tw  
-True飯  官方FB👉🏽  / truefun2023  
-成吉思汗健身俱樂部 官方FB👉🏽  / mmagym.tw  
-🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
-💗加入頻道會員享有徽章/特殊貼圖符號💗
-🙋🏻‍♀️社群按讚搶先看獲取最新消息🙋🏻
-
-#館長 #館長直播 #完整直播
-♾️10/1-10/31無限∞發｜滿$2,000免運，滿$4,000送遠征者運動隨行包，滿$8,000再送連帽毯👉https://utm.to/9naf9m
-🎉品牌8週年｜10月官網消費紅利點數雙倍送，買越多回饋越多👉https://utm.to/9naf9x
-🌶️週年慶殺很大｜麻辣臭豆腐原價$169，現在單包只要$89👉https://utm.to/9naf9n
-🌙好物特選｜舒眠晚安膠囊原價$1,280，限量優惠只要$550👉https://utm.to/9naf9w
-🚿運動完洗香香｜男仕三合一沐浴露從頭洗到腳，任選3入以上8折👉https://utm.to/9naf9l
-🐟良辰吉食｜魚油＋任一保健自由配，組合$1,050起，適合什麼就補什麼👉https://utm.to/9naf9s
-👕8週年穿新衣｜全館服飾3件以上7折，風格不設限、機能直接拉滿👉https://utm.to/9naf9k
-🏋️訓練裝備｜搖搖杯、重訓護膝$399起，準備好裝備、陪你認真練👉https://utm.to/9naf9t
-🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
-館長陳之漢 官方IG👉🏽  / power3067830678  
-館長陳之漢 飆捍FB👉🏽https://www.facebook.com/profile.php?...
-館長陳之漢 Podcast👉🏽https://open.firstory.me/user/power30678
-惡名昭彰 官方網站👉🏽https://www.notorious-2019.com/
-會員制度與規章👉🏽https://www.notorious-2019.com/size_c...
-惡名昭彰 官方Line👉🏽https://lin.ee/yKmjHZQ
-惡名昭彰 官方IG👉🏽  / notorious_taiwan  
-惡名昭彰 官方FB👉🏽  / notorious.taiwan  
-True飯  官方LINE👉🏽https://lin.ee/sPaW15Y
-True飯  官方IG👉🏽  / truefun_tw  
-True飯  官方FB👉🏽  / truefun2023  
-成吉思汗健身俱樂部 官方FB👉🏽  / mmagym.tw  
-🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
-💗加入頻道會員享有徽章/特殊貼圖符號💗
-🙋🏻‍♀️社群按讚搶先看獲取最新消息🙋🏻
-
-#館長 #館長直播 #完整直播</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="352" average="5.00" min="1" max="5" />
-    <ns2:statistics views="16067" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:hTNbNp3NxSM</ns0:id>
-  <ns1:videoId>hTNbNp3NxSM</ns1:videoId>
-  <ns1:channelId>UCejVlAl2kUwBgSHtQeBoKhQ</ns1:channelId>
-  <ns0:title>[mL7]🔴 NEW !DROPS ON TWITCH MIDSEASON !PATCH LIVE 🔴 NEW !MERCH IN STORE 🔴 !COSPLAY 🔴</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=hTNbNp3NxSM" />
-  <ns0:author>
-   <ns0:name>mL7</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCejVlAl2kUwBgSHtQeBoKhQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T03:43:34+00:00</ns0:published>
-  <ns0:updated>2026-11-05T10:28:35+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>🔴 NEW !DROPS ON TWITCH MIDSEASON !PATCH LIVE 🔴 NEW !MERCH IN STORE 🔴 !COSPLAY 🔴</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/hTNbNp3NxSM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/hTNbNp3NxSM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>🔴 NEW !DROPS ON TWITCH MIDSEASON !PATCH LIVE 🔴 NEW !MERCH IN STORE 🔴 !COSPLAY 🔴
-🔔  Subscribe https://www.youtube.com/c/mL7support?sub_confirmation=1
-🔥  Watch live https://www.twitch.tv/mL7support
-
-✨ FOR MORE mL7 CONTENT:
-🔔  mL7 Two https://www.youtube.com/@mL7Two
-🔔  mL7 Clips https://www.youtube.com/@ml7three
-🔔  OW2 Skins https://www.youtube.com/@OW2Skins
-
-💂 Become a member https://www.youtube.com/channel/UCejVlAl2kUwBgSHtQeBoKhQ/join
-💰 Donate https://ko-fi.com/ml7support
-
-😍 GET CONNECTED: 
-📣 Discord: https://discord.gg/mL7
-🐦 Twitter: https://twitter.com/mL7support
-📷 Instagram: https://www.instagram.com/mL7support
-📱 TikTok: https://www.tiktok.com/@ml7supp
-📧 Business mail: ml7support@rightclick.gg
-
-music by Karl Casey @ White Bat Audio 
-or Monstercat / EpidemicSound
-
- #gaming #OVERWATCH</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="4" average="5.00" min="1" max="5" />
-    <ns2:statistics views="2614" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:MvrQ-uxVBS8</ns0:id>
-  <ns1:videoId>MvrQ-uxVBS8</ns1:videoId>
-  <ns1:channelId>UCr_F4Y9iboUKlg_ZPm4jkVQ</ns1:channelId>
-  <ns0:title>[老梁]老梁：昆仑奴摩勒</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=MvrQ-uxVBS8" />
-  <ns0:author>
-   <ns0:name>老梁</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCr_F4Y9iboUKlg_ZPm4jkVQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T02:33:21+00:00</ns0:published>
-  <ns0:updated>2026-11-05T11:05:45+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>老梁：昆仑奴摩勒</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/MvrQ-uxVBS8?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/MvrQ-uxVBS8/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>成为此频道的会员即可获享以下福利：https://www.youtube.com/channel/UCr_F4Y9iboUKlg_ZPm4jkVQ/join</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="187" average="5.00" min="1" max="5" />
-    <ns2:statistics views="29611" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:bJldMYfRvMQ</ns0:id>
-  <ns1:videoId>bJldMYfRvMQ</ns1:videoId>
-  <ns1:channelId>UCXZCJLdBC09xxGZ6gcdrc6A</ns1:channelId>
-  <ns0:title>[OpenAI]Introducing ChatGPT Images 2.6</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=bJldMYfRvMQ" />
-  <ns0:author>
-   <ns0:name>OpenAI</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T02:32:21+00:00</ns0:published>
-  <ns0:updated>2026-11-05T04:39:12+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Introducing ChatGPT Images 2.6</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/bJldMYfRvMQ?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/bJldMYfRvMQ/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Images, upgraded—introducing ChatGPT Images 2.6.
-
-Now with GIFs and reference images.
-
-Plus, two new models are coming to the API with 50% faster image generation.
-
-Images, upgraded—introducing ChatGPT Images 2.6.
-
-Now with GIFs and reference images.
-
-Plus, two new models are coming to the API with 50% faster image generation. https://openai.com/index/introducing-images-2-6/</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="2264" average="5.00" min="1" max="5" />
-    <ns2:statistics views="104563" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:vy6hrDqRbfM</ns0:id>
-  <ns1:videoId>vy6hrDqRbfM</ns1:videoId>
-  <ns1:channelId>UCAcum7VtjCjEUpWyt6tms0Q</ns1:channelId>
-  <ns0:title>[大狸子切切裡 Cherry OFFICIAL CHANNEL]Win11新版本宣稱能降低內存占用，真的假的？又騙我更新？#win11 #電腦 #電腦知識</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/vy6hrDqRbfM" />
-  <ns0:author>
-   <ns0:name>大狸子切切裡 Cherry OFFICIAL CHANNEL</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAcum7VtjCjEUpWyt6tms0Q</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T02:00:04+00:00</ns0:published>
-  <ns0:updated>2026-11-05T07:48:58+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>Win11新版本宣稱能降低內存占用，真的假的？又騙我更新？#win11 #電腦 #電腦知識</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/vy6hrDqRbfM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/vy6hrDqRbfM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>歡迎訂閱切狸~ 在這裡你會看到很多有趣的數碼資訊哦！ | Please don’t forget to subscribe 💋：https://bit.ly/3jQ3429
--------------------------------------------------- ----------------------------------
-
-F O L L O W M E
-Weibo: @大狸子切切里
-Bilibili: https://space.bilibili.com/471303350
-
-#win11 #電腦 #電腦知識</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="276" average="5.00" min="1" max="5" />
-    <ns2:statistics views="18142" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:f-eFf3jc1CE</ns0:id>
-  <ns1:videoId>f-eFf3jc1CE</ns1:videoId>
-  <ns1:channelId>UCD_gy8DWV_DhjJ-bQXF5dGQ</ns1:channelId>
-  <ns0:title>[磊哥聊政经]【直播精华】性压抑理论家峰哥拍马驹桥真的是在为底层发声吗？反贼的流量密码：名左实右</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=f-eFf3jc1CE" />
-  <ns0:author>
-   <ns0:name>磊哥聊政经</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCD_gy8DWV_DhjJ-bQXF5dGQ</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T01:49:52+00:00</ns0:published>
-  <ns0:updated>2026-11-05T09:13:56+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>【直播精华】性压抑理论家峰哥拍马驹桥真的是在为底层发声吗？反贼的流量密码：名左实右</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/f-eFf3jc1CE?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i3.ytimg.com/vi/f-eFf3jc1CE/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>欢迎大家点赞留言，记得打开小铃铛~~
-请大家关注我的抖音账号：正直的磊哥
-微博：正直的磊哥
-股市财经分析公众号：磊哥聊交易
-公众号：honor22
-感谢大家的支持~~~爱你们</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="1448" average="5.00" min="1" max="5" />
-    <ns2:statistics views="55620" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:YPCgnt_z-sc</ns0:id>
-  <ns1:videoId>YPCgnt_z-sc</ns1:videoId>
-  <ns1:channelId>UCNJTPOFN-13sb5JGrY1mNQg</ns1:channelId>
-  <ns0:title>[How to DAD]I build a fence thingy #day40</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=YPCgnt_z-sc" />
-  <ns0:author>
-   <ns0:name>How to DAD</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCNJTPOFN-13sb5JGrY1mNQg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T01:34:04+00:00</ns0:published>
-  <ns0:updated>2026-11-05T11:02:08+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>I build a fence thingy #day40</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/YPCgnt_z-sc?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/YPCgnt_z-sc/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>Day 40.... still working on the fence....
-
-{Made in New Zealand}</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="977" average="5.00" min="1" max="5" />
-    <ns2:statistics views="17983" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:u5f8IejhIAM</ns0:id>
-  <ns1:videoId>u5f8IejhIAM</ns1:videoId>
-  <ns1:channelId>UCAQmUESq4GxO1b_iBCrYlTA</ns1:channelId>
-  <ns0:title>[Dio Chan]NS2终于有限定机了！！塞尔达40周年纪念限定Switch 2开箱</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=u5f8IejhIAM" />
-  <ns0:author>
-   <ns0:name>Dio Chan</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCAQmUESq4GxO1b_iBCrYlTA</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T01:19:00+00:00</ns0:published>
-  <ns0:updated>2026-11-05T09:26:43+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>NS2终于有限定机了！！塞尔达40周年纪念限定Switch 2开箱</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/u5f8IejhIAM?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/u5f8IejhIAM/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>塞尔达限定机先到啦，一起来看看这版实物到底怎样吧~</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="180" average="5.00" min="1" max="5" />
-    <ns2:statistics views="29209" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:eGdDB-RxaPk</ns0:id>
-  <ns1:videoId>eGdDB-RxaPk</ns1:videoId>
-  <ns1:channelId>UCrXHVBS1cJg7MY9krqtCSAg</ns1:channelId>
-  <ns0:title>[电影最TOP唯一官方频道]细读经典：张学友离金像奖影帝最近的一次，《男人四十》到底好在哪？</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/watch?v=eGdDB-RxaPk" />
-  <ns0:author>
-   <ns0:name>电影最TOP唯一官方频道</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UCrXHVBS1cJg7MY9krqtCSAg</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T01:15:24+00:00</ns0:published>
-  <ns0:updated>2026-11-05T09:47:45+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>细读经典：张学友离金像奖影帝最近的一次，《男人四十》到底好在哪？</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/eGdDB-RxaPk?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i2.ytimg.com/vi/eGdDB-RxaPk/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>顺手给大家推荐一个目前全网价格最实惠的合租平台，奈飞，迪士尼，苹果tv，chagpt这种热门的软件全都有，而且还有一对一专属售后http://cn.goingbus.com?s=dianyingzuitop（优惠码：dyztop 仅限新客）</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="521" average="5.00" min="1" max="5" />
-    <ns2:statistics views="47937" />
-   </ns2:community>
-  </ns2:group>
- </ns0:entry><ns0:entry>
-  <ns0:id>yt:video:tAwyfYDJJ3Y</ns0:id>
-  <ns1:videoId>tAwyfYDJJ3Y</ns1:videoId>
-  <ns1:channelId>UC1SoWqy3HPfvE1nt89iV10Q</ns1:channelId>
-  <ns0:title>[Zushi Ai COS]當我打開尼康 Z50II 的閃光燈，搭配尼康雲創拍照，氛圍感直接拉滿！📸 #攝影技巧 #閃光燈拍照 #尼康Z50II #尼康雲創 #人像攝影</ns0:title>
-  <ns0:link rel="alternate" href="https://www.youtube.com/shorts/tAwyfYDJJ3Y" />
-  <ns0:author>
-   <ns0:name>Zushi Ai COS</ns0:name>
-   <ns0:uri>https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q</ns0:uri>
-  </ns0:author>
-  <ns0:published>2026-11-05T01:15:05+00:00</ns0:published>
-  <ns0:updated>2026-11-05T04:55:00+00:00</ns0:updated>
-  <ns2:group>
-   <ns2:title>當我打開尼康 Z50II 的閃光燈，搭配尼康雲創拍照，氛圍感直接拉滿！📸 #攝影技巧 #閃光燈拍照 #尼康Z50II #尼康雲創 #人像攝影</ns2:title>
-   <ns2:content url="https://www.youtube.com/v/tAwyfYDJJ3Y?version=3" type="application/x-shockwave-flash" width="640" height="390" />
-   <ns2:thumbnail url="https://i1.ytimg.com/vi/tAwyfYDJJ3Y/hqdefault.jpg" width="480" height="360" />
-   <ns2:description>發現喜歡的好物不用到處找✨
-店內整理了不少精選商品，喜歡的朋友可以慢慢挑選～🤍
-🛍️ Shopee蝦皮賣場：shopee.tw/eric3452083
-
-有任何問題都歡迎留言詢問💬
-也可以加入 LINE 與我們聯繫👇
-https://lin.ee/VFYRknp
-
-成為這個頻道的會員並獲得福利：
-https://www.youtube.com/channel/UC1SoWqy3HPfvE1nt89iV10Q/join</ns2:description>
-   <ns2:community>
-    <ns2:starRating count="14" average="5.00" min="1" max="5" />
-    <ns2:statistics views="1628" />
+    <ns2:statistics views="1037" />
    </ns2:community>
   </ns2:group>
  </ns0:entry></feed>
